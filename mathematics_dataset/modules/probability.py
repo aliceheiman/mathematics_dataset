@@ -24,6 +24,7 @@ import random
 import string
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from mathematics_dataset import example
 from mathematics_dataset.modules import train_test_split
 from mathematics_dataset.util import combinatorics
@@ -200,7 +201,7 @@ def _swr_space(is_train, sample_range):
 
   random_variable.description = (
       str(display.StringNumber(num_sampled))
-      + ' letters picked without replacement from '
+      + ' ' + lang.l.translate('letters picked without replacement from') + ' '
       + sample.bag_contents)
 
   return sample.letters_distinct, space, random_variable
@@ -235,10 +236,10 @@ def _sample_without_replacement_probability_question(
   context = composition.Context()
 
   template = random.choice([
-      '{random_variable_capitalize}. What is prob of {event}?',
-      '{random_variable_capitalize}. Give prob of {event}.',
-      'What is prob of {event} when {random_variable}?',
-      'Calculate prob of {event} when {random_variable}.',
+      lang.l.translate('{random_variable_capitalize}. What is prob of {event}?'),
+      lang.l.translate('{random_variable_capitalize}. Give prob of {event}.'),
+      lang.l.translate('What is prob of {event} when {random_variable}?'),
+      lang.l.translate('Calculate prob of {event} when {random_variable}.'),
   ])
   question = example.question(
       context,

@@ -18,6 +18,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+from mathematics_dataset.util import lang
 from mathematics_dataset.modules import algebra
 from mathematics_dataset.modules import arithmetic
 from mathematics_dataset.modules import calculus

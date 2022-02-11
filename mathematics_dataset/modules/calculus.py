@@ -23,6 +23,7 @@ import math
 import random
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from mathematics_dataset import example
 from mathematics_dataset.sample import polynomials
 from mathematics_dataset.util import composition
@@ -86,26 +87,26 @@ def _generate_polynomial(num_variables, entropy, derivative_order,
 def _template(module_count, derivative_order, num_variables):
   """Selects appropriate template."""
   templates = [
-      'Find the {nth} derivative of {eq} wrt {var}.',
-      'What is the {nth} derivative of {eq} wrt {var}?',
+      lang.l.translate('Find the {nth} derivative of {eq} wrt {var}.'),
+      lang.l.translate('What is the {nth} derivative of {eq} wrt {var}?'),
   ]
   if derivative_order == 1:
     templates += [
-        'Differentiate {eq} with respect to {var}.',
-        'Differentiate {eq} wrt {var}.',
-        'What is the derivative of {eq} wrt {var}?',
+        lang.l.translate('Differentiate {eq} with respect to {var}.'),
+        lang.l.translate('Differentiate {eq} wrt {var}.'),
+        lang.l.translate('What is the derivative of {eq} wrt {var}?'),
     ]
 
   derivative_variable_is_unambiguous = num_variables == 1 and module_count == 1
   if derivative_variable_is_unambiguous:
     templates += [
-        'Find the {nth} derivative of {eq}.',
-        'What is the {nth} derivative of {eq}?',
+        lang.l.translate('Find the {nth} derivative of {eq}.'),
+        lang.l.translate('What is the {nth} derivative of {eq}?'),
     ]
     if derivative_order == 1:
       templates += [
-          'Differentiate {eq}.',
-          'What is the derivative of {eq}?',
+          lang.l.translate('Differentiate {eq}.'),
+          lang.l.translate('What is the derivative of {eq}?'),
       ]
 
   return random.choice(templates)

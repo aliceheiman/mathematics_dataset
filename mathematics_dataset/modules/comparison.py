@@ -22,6 +22,7 @@ import functools
 import random
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from mathematics_dataset import example
 from mathematics_dataset.sample import number
 from mathematics_dataset.sample import ops
@@ -101,14 +102,14 @@ def _make_comparison_question(context, left, right):
       answer = (
           left.handle if sympy.Gt(left.value, right.value) else right.handle)
       template = random.choice([
-          'Which is bigger: {left} or {right}?',
-          'Which is greater: {left} or {right}?',
+          lang.l.translate('Which is bigger: {left} or {right}?'),
+          lang.l.translate('Which is greater: {left} or {right}?'),
       ])
     else:
       answer = (
           left.handle if sympy.Lt(left.value, right.value) else right.handle)
       template = random.choice([
-          'Which is smaller: {left} or {right}?',
+          lang.l.translate('Which is smaller: {left} or {right}?'),
       ])
     return example.Problem(
         question=example.question(context, template, left=left, right=right),
@@ -125,40 +126,40 @@ def _make_comparison_question(context, left, right):
 
   templates = {
       '<': [
-          'Is {left} ' + ops.LT_SYMBOL + ' {right}?',
-          'Is {left} less than {right}?',
-          'Is {left} smaller than {right}?',
+          lang.l.translate('Is {left} {ops.LT_SYMBOL} {right}?'),
+          lang.l.translate('Is {left} less than {right}?'),
+          lang.l.translate('Is {left} smaller than {right}?'),
       ],
       '<=': [
-          'Is {left} ' + ops.LE_SYMBOL + ' {right}?',
-          'Is {left} less than or equal to {right}?',
-          'Is {left} at most {right}?',
-          'Is {left} at most as big as {right}?',
+          lang.l.translate('Is {left} {ops.LE_SYMBOL} {right}?'),
+          lang.l.translate('Is {left} less than or equal to {right}?'),
+          lang.l.translate('Is {left} at most {right}?'),
+          lang.l.translate('Is {left} at most as big as {right}?'),
       ],
       '>': [
-          'Is {left} ' + ops.GT_SYMBOL + ' {right}?',
-          'Is {left} greater than {right}?',
-          'Is {left} bigger than {right}?',
+          lang.l.translate('Is {left} {ops.GT_SYMBOL} {right}?'),
+          lang.l.translate('Is {left} greater than {right}?'),
+          lang.l.translate('Is {left} bigger than {right}?'),
       ],
       '>=': [
-          'Is {left} ' + ops.GE_SYMBOL + ' {right}?',
-          'Is {left} greater than or equal to {right}?',
-          'Is {left} at least {right}?',
-          'Is {left} at least as big as {right}?',
+          lang.l.translate('Is {left} {ops.GE_SYMBOL} {right}?'),
+          lang.l.translate('Is {left} greater than or equal to {right}?'),
+          lang.l.translate('Is {left} at least {right}?'),
+          lang.l.translate('Is {left} at least as big as {right}?'),
       ],
       '=': [
-          'Does {left} ' + ops.EQ_SYMBOL + ' {right}?',
-          'Are {left} and {right} equal?',
-          'Is {left} equal to {right}?',
-          'Do {left} and {right} have the same value?',
+          lang.l.translate('Does {left} {ops.EQ_SYMBOL} {right}?'),
+          lang.l.translate('Are {left} and {right} equal?'),
+          lang.l.translate('Is {left} equal to {right}?'),
+          lang.l.translate('Do {left} and {right} have the same value?'),
       ],
       '!=': [
-          'Is {left} ' + ops.NE_SYMBOL + ' {right}?',
-          'Is {left} not equal to {right}?',
-          'Are {left} and {right} unequal?',
-          'Are {left} and {right} nonequal?',
-          'Are {left} and {right} non-equal?',
-          'Do {left} and {right} have different values?',
+          lang.l.translate('Is {left} {ops.NE_SYMBOL} {right}?'),
+          lang.l.translate('Is {left} not equal to {right}?'),
+          lang.l.translate('Are {left} and {right} unequal?'),
+          lang.l.translate('Are {left} and {right} nonequal?'),
+          lang.l.translate('Are {left} and {right} non-equal?'),
+          lang.l.translate('Do {left} and {right} have different values?'),
       ],
   }
 
@@ -260,7 +261,7 @@ def _kth_biggest_list_question(context, entities, adjective, answer):
   entity_dict, values_template = _entities_to_list(entities)
 
   question = example.question(
-      context, 'What is the {adjective} value in ' + values_template + '?',
+      context, lang.l.translate('What is the {adjective} value in {values_template}?'),
       adjective=adjective, **entity_dict)
   return example.Problem(question=question, answer=answer.handle)
 
@@ -270,7 +271,7 @@ def _kth_biggest_multichoice_question(context, entities, adjective, answer):
   entity_dict, choices_template, answer_choice = _entities_to_choices(
       entities, answer)
   question = example.question(
-      context, 'Which is the {adjective} value?' + choices_template,
+      context, lang.l.translate('Which is the {adjective} value?') + choices_template,
       adjective=adjective, **entity_dict)
   return example.Problem(question=question, answer=answer_choice)
 
@@ -324,11 +325,11 @@ def kth_biggest(sample_args, count=None):
   if random.choice([False, True]):
     # Do from biggest.
     answer = sorted_entities[-ordinal]
-    adjective = 'biggest'
+    adjective = lang.l.translate('biggest')
   else:
     # Do from smallest.
     answer = sorted_entities[ordinal - 1]
-    adjective = 'smallest'
+    adjective = lang.l.translate('smallest')
 
   if ordinal > 1:
     adjective = str(display.StringOrdinal(ordinal)) + ' ' + adjective
@@ -347,7 +348,7 @@ def _closest_in_list_question(context, entities, target, adjective, answer):
 
   question = example.question(
       context,
-      'What is the {adjective} to {target} in ' + values_template + '?',
+      lang.l.translate('What is the {adjective} to {target} in {values_template}?'),
       adjective=adjective, target=target, **entity_dict)
   return example.Problem(question=question, answer=answer.handle)
 
@@ -359,7 +360,7 @@ def _closest_multichoice_question(context, entities, target, adjective, answer):
 
   question = example.question(
       context,
-      'Which is the {adjective} to {target}?' + choices_template,
+      lang.l.translate('Which is the {adjective} to {target}?') + choices_template,
       adjective=adjective, target=target, **entity_dict)
   return example.Problem(question=question, answer=answer_choice)
 
@@ -400,7 +401,7 @@ def closest(sample_args, count=None):
   min_difference = min(differences)
   answer_index = differences.index(min_difference)
   answer = entities[answer_index]
-  adjective = random.choice(['closest', 'nearest'])
+  adjective = random.choice([lang.l.translate('closest'), lang.l.translate('nearest')])
 
   if display_multichoice:
     return _closest_multichoice_question(
@@ -428,14 +429,14 @@ def sort(sample_args, count=None):
 
   ascending = random.choice([False, True])
   templates = [
-      'Sort ' + unsorted_template + ' in {direction} order.',
-      'Put ' + unsorted_template + ' in {direction} order.',
+      lang.l.translate('Sort {unsorted_template} in {direction} order.'),
+      lang.l.translate('Put {unsorted_template} in {direction} order.'),
   ]
   if ascending:
-    templates.append('Sort ' + unsorted_template + '.')
-    direction = random.choice(['ascending', 'increasing'])
+    templates.append('Sort {unsorted_template}.')
+    direction = random.choice([lang.l.translate('ascending'), lang.l.translate('increasing')])
   else:
-    direction = random.choice(['descending', 'decreasing'])
+    direction = random.choice([lang.l.translate(lang.l.translate('descending'), lang.l.translate('decreasing')])
   template = random.choice(templates)
 
   sorted_entities = sorted(

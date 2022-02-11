@@ -23,6 +23,7 @@ import functools
 import random
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from mathematics_dataset import example
 from mathematics_dataset.modules import train_test_split
 from mathematics_dataset.sample import number
@@ -65,58 +66,57 @@ Unit = collections.namedtuple('Unit', ('name', 'symbol'))
 
 MICRO_SYMBOL = 'u'
 
-
 LENGTH = {
-    Unit('meter', 'm'): 1,
-    Unit('kilometer', 'km'): 1000,
-    Unit('centimeter', 'cm'): sympy.Rational(1, 100),
-    Unit('millimeter', 'mm'): sympy.Rational(1, 1000),
-    Unit('micrometer', 'um'): sympy.Rational(1, 1e6),
-    Unit('nanometer', 'nm'): sympy.Rational(1, 1e9),
+    Unit(lang.l.translate('meter'), 'm'): 1,
+    Unit(lang.l.translate('kilometer'), 'km'): 1000,
+    Unit(lang.l.translate('centimeter'), 'cm'): sympy.Rational(1, 100),
+    Unit(lang.l.translate('millimeter'), 'mm'): sympy.Rational(1, 1000),
+    Unit(lang.l.translate('micrometer'), 'um'): sympy.Rational(1, 1e6),
+    Unit(lang.l.translate('nanometer'), 'nm'): sympy.Rational(1, 1e9),
 }
 
 TIME = {
-    Unit('second', 's'): 1,
-    Unit('minute', None): 60,
-    Unit('hour', None): 60*60,
-    Unit('day', None): 24*60*60,
-    Unit('week', None): 7*24*60*60,
-    Unit('millisecond', 'ms'): sympy.Rational(1, 1e3),
-    Unit('microsecond', MICRO_SYMBOL + 's'): sympy.Rational(1, 1e6),
-    Unit('nanosecond', 'ns'): sympy.Rational(1, 1e9),
+    Unit(lang.l.translate('second'), 's'): 1,
+    Unit(lang.l.translate('minute'), None): 60,
+    Unit(lang.l.translate('hour'), None): 60*60,
+    Unit(lang.l.translate('day'), None): 24*60*60,
+    Unit(lang.l.translate('week'), None): 7*24*60*60,
+    Unit(lang.l.translate('millisecond'), 'ms'): sympy.Rational(1, 1e3),
+    Unit(lang.l.translate('microsecond'), MICRO_SYMBOL + 's'): sympy.Rational(1, 1e6),
+    Unit(lang.l.translate('nanosecond'), 'ns'): sympy.Rational(1, 1e9),
 }
 
 TIME_YEARLY = {
-    Unit('year', None): 1,
-    Unit('decade', None): 10,
-    Unit('century', None): 100,
-    Unit('millennium', None): 1000,
-    Unit('month', None): sympy.Rational(1, 12),
+    Unit(lang.l.translate('year'), None): 1,
+    Unit(lang.l.translate('decade'), None): 10,
+    Unit(lang.l.translate('century'), None): 100,
+    Unit(lang.l.translate('millennium'), None): 1000,
+    Unit(lang.l.translate('month'), None): sympy.Rational(1, 12),
 }
 
 MASS = {
-    Unit('kilogram', 'kg'): 1,  # Yes, the *kilo*gram is the SI base unit.
-    Unit('tonne', 't'): 1000,
-    Unit('gram', 'g'): sympy.Rational(1, 1e3),
-    Unit('milligram', 'mg'): sympy.Rational(1, 1e6),
-    Unit('microgram', MICRO_SYMBOL + 'g'): sympy.Rational(1, 1e9),
-    Unit('nanogram', 'ng'): sympy.Rational(1, 1e12),
+    Unit(lang.l.translate('kilogram'), 'kg'): 1,  # Yes, the *kilo*gram is the SI base unit.
+    Unit(lang.l.translate('tonne'), 't'): 1000,
+    Unit(lang.l.translate('gram'), 'g'): sympy.Rational(1, 1e3),
+    Unit(lang.l.translate('milligram'), 'mg'): sympy.Rational(1, 1e6),
+    Unit(lang.l.translate('microgram'), MICRO_SYMBOL + 'g'): sympy.Rational(1, 1e9),
+    Unit(lang.l.translate('nanogram'), 'ng'): sympy.Rational(1, 1e12),
 }
 
 VOLUME = {
-    Unit('litre', 'l'): 1,
-    Unit('millilitre', 'ml'): sympy.Rational(1, 1000),
+    Unit(lang.l.translate('litre'), 'l'): 1,
+    Unit(lang.l.translate('millilitre'), 'ml'): sympy.Rational(1, 1000),
 }
 
 
 DIMENSIONS = [LENGTH, TIME, TIME_YEARLY, MASS, VOLUME]
 
-
+# TODO: Pluralize for other languages
 def pluralize(name):
-  if name == 'century':
-    return 'centuries'
-  if name == 'millennium':
-    return 'millennia'
+  if name == lang.l.translate('century'):
+    return lang.l.translate('centuries')
+  if name == lang.l.translate('millennium'):
+    return lang.l.translate('millennia')
   return name + 's'
 
 
@@ -152,15 +152,15 @@ def _conversion_decimal(context, is_train, is_extrapolation):
       break
 
   templates = [
-      'How many {target_name} are there in {base_value} {base_name}?',
-      'What is {base_value} {base_name} in {target_name}?',
-      'Convert {base_value} {base_name} to {target_name}.',
+      lang.l.translate('How many {target_name} are there in {base_value} {base_name}?'),
+      lang.l.translate('What is {base_value} {base_name} in {target_name}?'),
+      lang.l.translate('Convert {base_value} {base_name} to {target_name}.'),
   ]
   if base_unit.symbol is not None:
     templates += [
-        'How many {target_name} are there in {base_value}{base_symbol}?',
-        'What is {base_value}{base_symbol} in {target_name}?',
-        'Convert {base_value}{base_symbol} to {target_name}.',
+        lang.l.translate('How many {target_name} are there in {base_value}{base_symbol}?'),
+        lang.l.translate('What is {base_value}{base_symbol} in {target_name}?'),
+        lang.l.translate('Convert {base_value}{base_symbol} to {target_name}.'),
     ]
   template = random.choice(templates)
 
@@ -199,8 +199,8 @@ def _conversion_fraction(context, is_train):
       break
 
   template = random.choice([
-      'How many {target_name} are there in {base_value} of a {base_name}?',
-      'What is {base_value} of a {base_name} in {target_name}?',
+      lang.l.translate('How many {target_name} are there in {base_value} of a {base_name}?'),
+      lang.l.translate('What is {base_value} of a {base_name} in {target_name}?'),
   ])
 
   if sympy.denom(base_value) > 20 or random.choice([False, True]):
@@ -252,7 +252,7 @@ def time(is_train):
   if which_question == 0:
     # Question: What is start = end - duration?
     template = random.choice([
-        'What is {duration} minutes before {end}?',
+        lang.l.translate('What is {duration} minutes before {end}?'),
     ])
     return example.Problem(
         question=example.question(
@@ -261,7 +261,7 @@ def time(is_train):
   elif which_question == 1:
     # Question: What is end = start + duration?
     template = random.choice([
-        'What is {duration} minutes after {start}?',
+        lang.l.translate('What is {duration} minutes after {start}?'),
     ])
     return example.Problem(
         question=example.question(
@@ -270,7 +270,7 @@ def time(is_train):
   else:
     # Question: What is duration = end - start?
     template = random.choice([
-        'How many minutes are there between {start} and {end}?',
+        lang.l.translate('How many minutes are there between {start} and {end}?'),
     ])
     return example.Problem(
         question=example.question(context, template, start=start, end=end),
