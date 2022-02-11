@@ -36,58 +36,120 @@ import sympy
 
 # For converting integers to words:
 _INTEGER_LOW = [
-    'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
-    'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteeen', 'fifteen',
-    'sixteen', 'seventeen', 'eighteen', 'nineteen'
+    lang.l.translate('zero'),
+    lang.l.translate('one'),
+    lang.l.translate('two'),
+    lang.l.translate('three'),
+    lang.l.translate('four'),
+    lang.l.translate('five'),
+    lang.l.translate('six'),
+    lang.l.translate('seven'),
+    lang.l.translate('eight'),
+    lang.l.translate('nine'),
+    lang.l.translate('ten'),
+    lang.l.translate('eleven'),
+    lang.l.translate('twelve'),
+    lang.l.translate('thirteen'),
+    lang.l.translate('fourteeen'),
+    lang.l.translate('fifteen'),
+    lang.l.translate('sixteen'),
+    lang.l.translate('seventeen'),
+    lang.l.translate('eighteen'),
+    lang.l.translate('nineteen'),
 ]
 _INTEGER_MID = [
-    '', '', 'twenty', 'thirty', 'fourty', 'fifty', 'sixty', 'seventy', 'eighty',
-    'ninety'
+    '',
+    '', 
+    lang.l.translate('twenty'),
+    lang.l.translate('thirty'),
+    lang.l.translate('fourty'),
+    lang.l.translate('fifty'),
+    lang.l.translate('sixty'),
+    lang.l.translate('seventy'),
+    lang.l.translate('eighty'),
+    lang.l.translate('ninety'),
 ]
 _INTEGER_HIGH = [
-    (int(1e12), 'trillion'), (int(1e9), 'billion'), (int(1e6), 'million'),
-    (int(1e3), 'thousand'), (100, 'hundred')
+    (int(1e12), lang.l.translate('trillion')),
+    (int(1e9), lang.l.translate('billion')),
+    (int(1e6), lang.l.translate('million')).
+    (int(1e3), lang.l.translate('thousand')),
+    (100, lang.l.translate('hundred')),
 ]
 
 
 # For converting rationals to words:
 _SINGULAR_DENOMINATORS = [
-    '', '', 'half', 'third', 'quarter', 'fifth', 'sixth', 'seventh', 'eighth',
-    'ninth', 'tenth', 'eleventh', 'twelth', 'thirteenth', 'fourteenth',
-    'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth',
-    'twentieth'
+    '',
+    '',
+    lang.l.translate('half'),
+    lang.l.translate('third'),
+    lang.l.translate('quarter'),
+    lang.l.translate('fifth'),
+    lang.l.translate('sixth'),
+    lang.l.translate('seventh'),
+    lang.l.translate('eighth'),
+    lang.l.translate('ninth'),
+    lang.l.translate('tenth'),
+    lang.l.translate('eleventh'),
+    lang.l.translate('twelth'),
+    lang.l.translate('thirteenth'),
+    lang.l.translate('fourteenth'),
+    lang.l.translate('fifteenth'),
+    lang.l.translate('sixteenth'),
+    lang.l.translate('seventeenth'),
+    lang.l.translate('eighteenth'),
+    lang.l.translate('nineteenth'),
+    lang.l.translate('twentieth'),
 ]
 _PLURAL_DENOMINATORS = [
-    '', '', 'halves', 'thirds', 'quarters', 'fifths', 'sixths', 'sevenths',
-    'eighths', 'ninths', 'tenths', 'elevenths', 'twelths', 'thirteenths',
-    'fourteenths', 'fifteenths', 'sixteenths', 'seventeenths', 'eighteenths',
-    'nineteenths', 'twentieths'
+    '',
+    '',
+    lang.l.translate('halves'),
+    lang.l.translate('thirds'),
+    lang.l.translate('quarters'),
+    lang.l.translate('fifths'),
+    lang.l.translate('sixths'),
+    lang.l.translate('sevenths'),
+    lang.l.translate('eighths'),
+    lang.l.translate('ninths'),
+    lang.l.translate('tenths'),
+    lang.l.translate('elevenths'),
+    lang.l.translate('twelths'),
+    lang.l.translate('thirteenths'),
+    lang.l.translate('fourteenths'),
+    lang.l.translate('fifteenths'),
+    lang.l.translate('sixteenths'),
+    lang.l.translate('seventeenths'),
+    lang.l.translate('eighteenths'),
+    lang.l.translate('nineteenths'),
+    lang.l.translate('twentieths'),
 ]
 
 
 # For converting ordinals to words:
 _ORDINALS = [
-    lang.l.translate('zeroth'), 
-    lang.l.translate('first'), 
-    lang.l.translate('second'), 
-    lang.l.translate('third'), 
-    lang.l.translate('fourth'), 
-    lang.l.translate('fifth'), 
-    lang.l.translate('sixth'), 
+    lang.l.translate('zeroth'),
+    lang.l.translate('first'),
+    lang.l.translate('second'),
+    lang.l.translate('third'),
+    lang.l.translate('fourth'),
+    lang.l.translate('fifth'),
+    lang.l.translate('sixth'),
     lang.l.translate('seventh'),
-    lang.l.translate('eighth'), 
-    lang.l.translate('ninth'), 
-    'tenth', 
-    'eleventh', 
-    'twelth', 
-    'thirteenth',
-    'fourteenth', 
-    'fifteenth', 
-    'sixteenth', 
-    'seventeenth', 
-    'eighteenth',
-    'nineteenth', 
-    'twentieth'
+    lang.l.translate('eighth'),
+    lang.l.translate('ninth'),
+    lang.l.translate('tenth'),
+    lang.l.translate('eleventh'),
+    lang.l.translate('twelth'),
+    lang.l.translate('thirteenth'),
+    lang.l.translate('fourteenth'),
+    lang.l.translate('fifteenth'),
+    lang.l.translate('sixteenth'),
+    lang.l.translate('seventeenth'),
+    lang.l.translate('eighteenth'),
+    lang.l.translate('nineteenth'),
+    lang.l.translate('twentieth'),
 ]
 
 
@@ -292,7 +354,7 @@ class StringNumber(object):
         words = self._integer_to_words(den) + [word]
         if rem > 0:
           if rem < 100:
-            words.append('and')
+            words.append(lang.l.translate('and'))
           words += self._integer_to_words(rem)
         return words
 
