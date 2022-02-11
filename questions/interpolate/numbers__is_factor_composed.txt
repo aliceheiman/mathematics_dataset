@@ -1,0 +1,20 @@
+Suppose -5*n - 64 = 11. Let t = n + 49. Is t a multiple of 5?
+False
+Let c(a) be the second derivative of -a**3/2 - 12*a**2 - 7*a. Let l be (21/5 + -3)*-15. Is c(l) a multiple of 13?
+False
+Suppose -6*t = -28873 - 1835. Is 15 a factor of t?
+False
+Let s(y) = 9*y**3 - 9*y**2 + 15*y - 58. Is s(7) a multiple of 19?
+False
+Suppose 5*z = m + 6 - 9, 0 = 4*z - 5*m - 6. Is z/5 + (-10387)/(-85) a multiple of 11?
+False
+Suppose 3 = -3*v - 96. Let q = -29 - v. Suppose 0*o - q*o = -416. Is 13 a factor of o?
+True
+Let v be (-6124)/(-6) + 2 - (-4)/(-6). Suppose 16*c = 9*c + v. Is c a multiple of 17?
+False
+Let w = -210 - -213. Suppose 557 = 4*l - 3*c + 222, l - 95 = w*c. Is l a multiple of 8?
+True
+Let a = 2736 - 1205. Does 3 divide a?
+False
+Let b(z) = 2*z**3 - z**2 - 2*z - 1. Let m be b(2). Let n(q) be the first derivative of 11*q**2/2 - 17*q - 5. Is 15 a factor of n(m)?
+True

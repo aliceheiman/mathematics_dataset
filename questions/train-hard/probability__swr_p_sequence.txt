@@ -1,0 +1,6 @@
+Two letters picked without replacement from {e: 1, c: 2, j: 1, l: 1, r: 2, a: 1}. Give prob of sequence jl.
+1/56
+What is prob of sequence vvv when three letters picked without replacement from {v: 10, m: 1, t: 3, r: 3, q: 3}?
+2/19
+Two letters picked without replacement from {b: 13, y: 6}. Give prob of sequence yy.
+5/57

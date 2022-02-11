@@ -1,0 +1,6 @@
+Solve 0 = y + 4*y - 20, -k + 5*y - 25 = 0 for k.
+-5
+Solve -5*o + 6*o + 5*w - 18 = 0, w - 4 = 0 for o.
+-2
+Solve 0 = 3*l - 2*d + 11, -3*d = 6 for l.
+-5

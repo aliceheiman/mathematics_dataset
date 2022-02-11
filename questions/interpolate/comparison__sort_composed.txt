@@ -1,0 +1,20 @@
+Let i(f) = f + 9. Let r be i(-5). Let p be 280/(-6) + 32/12 + -2. Let h = -43 - p. Sort -6, r, h in decreasing order.
+r, h, -6
+Let s be (-95 + 3 - 5) + -4. Let g = 103 + s. Suppose 62 = 5*o - 3*w, -4*o + 3*w = w - 48. Put o, -2, g, 5 in increasing order.
+-2, g, 5, o
+Let h = -5 - -10. Suppose 26*z - 8*z + 1404 = 0. Let i = z - -80. Put i, h, -4 in increasing order.
+-4, i, h
+Suppose -g - 98 = -5*l + 3*g, -3*l + g = -63. Let n be l/(-11) - 3/((-9)/10). Let o = 0 + -0.1. Sort 2, n, o in increasing order.
+o, n, 2
+Let o be (4/(-3))/((2/(-6))/((-13)/(-26))). Put 43, 1, o in increasing order.
+1, o, 43
+Let v = 6517/4 - 1630. Sort v, -2/13, 4, -1/2, 1 in increasing order.
+v, -1/2, -2/13, 1, 4
+Let q(c) = -c**2 - 18*c - 75. Let b be q(-8). Put b, -5, -67 in descending order.
+b, -5, -67
+Let g = 15.81 + -20.81. Sort 0.124, g, -5/2 in descending order.
+0.124, -5/2, g
+Let d be (-7)/(35/10)*-4. Suppose 5*p + d = 3. Sort p, 4, 10 in increasing order.
+p, 4, 10
+Let j = -5 - -6. Let s be (-2)/6 - 35/(-15). Let r be s/(-7) + (10 - 10). Sort r, j, -0.2 in decreasing order.
+j, -0.2, r

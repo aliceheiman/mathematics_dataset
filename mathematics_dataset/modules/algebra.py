@@ -22,6 +22,7 @@ import functools
 import random
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from mathematics_dataset import example
 from mathematics_dataset.sample import linear_system
 from mathematics_dataset.sample import number
@@ -187,17 +188,17 @@ def polynomial_roots(value, sample_args, context=None):
       variable = sympy.Symbol(context.pop())
       equality = ops.Eq(polynomial_entity.handle.apply(variable), 0)
     template = random.choice([
-        'Let {equality}. What is {variable}?',
-        'Let {equality}. Calculate {variable}.',
-        'Suppose {equality}. What is {variable}?',
-        'Suppose {equality}. Calculate {variable}.',
-        'What is {variable} in {equality}?',
-        'Solve {equality} for {variable}.',
-        'Find {variable} such that {equality}.',
-        'Find {variable}, given that {equality}.',
-        'Determine {variable} so that {equality}.',
-        'Determine {variable}, given that {equality}.',
-        'Solve {equality}.'
+        lang.l.translate('Let {equality}. What is {variable}?'),
+        lang.l.translate('Let {equality}. Calculate {variable}.'),
+        lang.l.translate('Suppose {equality}. What is {variable}?'),
+        lang.l.translate('Suppose {equality}. Calculate {variable}.'),
+        lang.l.translate('What is {variable} in {equality}?'),
+        lang.l.translate('Solve {equality} for {variable}.'),
+        lang.l.translate('Find {variable} such that {equality}.'),
+        lang.l.translate('Find {variable}, given that {equality}.'),
+        lang.l.translate('Determine {variable} so that {equality}.'),
+        lang.l.translate('Determine {variable}, given that {equality}.'),
+        lang.l.translate('Solve {equality}.')
     ])
     return example.Problem(
         question=example.question(

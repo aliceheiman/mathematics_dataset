@@ -1,0 +1,6 @@
+Suppose 67 + 116 = 3*l + 5*j, 0 = -4*l + 5*j + 279. What is the units digit of l?
+6
+Let r be (-2 + 5)*(7 + -4). Suppose -u - 2*q = -r, u - 2*q = 2*q - 3. Suppose s = u*s - 16. What is the units digit of s?
+4
+Let s(p) = 3*p - 3. Let l(k) = -k**2 - 5*k + 2. Let h be l(-5). Let c be s(h). Suppose 3*u - c = 0, 2*d + u = -u + 4. What is the units digit of d?
+1

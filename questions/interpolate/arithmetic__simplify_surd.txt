@@ -1,0 +1,20 @@
+Simplify -1 + (5*(sqrt(20)/sqrt(4) + 2 - (5 + sqrt(80))))**2 + sqrt(1125) + (sqrt(1125)*-1)**2 + -2.
+465*sqrt(5) + 2472
+Simplify (-2 + sqrt(20)/(sqrt(10)*1)*-3)**2*2*-5*4*-3.
+1440*sqrt(2) + 2640
+Simplify (-2 + sqrt(98))**2 + 3*(sqrt(8)/sqrt(4))**2 - (1 + sqrt(50) + (-2*sqrt(8))/sqrt(4)).
+107 - 31*sqrt(2)
+Simplify 5*(-4 + (6*(-5*-2*sqrt(76) - sqrt(76)))/((sqrt(324) + sqrt(324)*-1 + sqrt(324) + sqrt(324))*5)).
+-20 + 3*sqrt(19)
+Simplify -2 + ((sqrt(1800) - 2*sqrt(1800)) + sqrt(1800) - sqrt(1800) - ((sqrt(200)*1)/sqrt(4) - sqrt(50)))/(4*(sqrt(240)/sqrt(4))/sqrt(6)).
+-3*sqrt(5)/2 - 2
+Simplify ((sqrt(10) - (sqrt(10) + (sqrt(50)*2 - sqrt(50))/sqrt(5)))*4)/(sqrt(100)/sqrt(2) - sqrt(12)/(-2*sqrt(6) + sqrt(6) - sqrt(6))) + -3 + 1.
+-2 - 8*sqrt(5)/11
+Simplify (-3*-2*sqrt(2744))/(6*(sqrt(1152) + sqrt(1152)*-3)) + 5.
+5 - 7*sqrt(7)/24
+Simplify ((1 + sqrt(704) + 1 - -4*(sqrt(704) + -1)) + -3*(1 + sqrt(704) + 5) + 3)**2.
+3105 - 544*sqrt(11)
+Simplify (sqrt(156) + sqrt(156)*-1*2 + sqrt(156) + (sqrt(156)*-1*-1 - sqrt(156) - sqrt(156)))/(2*((sqrt(84) - (-6*sqrt(84)*2 + sqrt(84))) + sqrt(84))/sqrt(7)).
+-sqrt(13)/26
+Simplify (((-1*(sqrt(7) + 1))**2 - sqrt(21)/sqrt(3)*2) + -3 - (6*sqrt(7)*-1 + sqrt(7)*2*1)) + -2.
+3 + 4*sqrt(7)

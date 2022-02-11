@@ -1,0 +1,6 @@
+Let q(w) = 234*w + 15492. Calculate q(-69).
+-654
+Let i(n) = -28*n**2 - 1880*n - 11782. Calculate i(-7).
+6
+Let z(a) = 5*a**2 - 903*a + 12109. Calculate z(166).
+-9

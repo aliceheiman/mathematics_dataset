@@ -1,0 +1,6 @@
+Let g = 2 - -2. Suppose 1 = -g*p + 69. Let n(c) = c**2 - 3*c - 3. Let f be n(-8). Calculate the highest common factor of f and p.
+17
+Let g(a) = 3*a**2 - 2*a + 1. Let i be g(2). Let m(o) = 100*o**2 - o. Let t be m(1). Calculate the greatest common factor of t and i.
+9
+Suppose 4*t - 22 = 5*b + 183, -4*t - 2*b + 226 = 0. What is the highest common divisor of 11 and t?
+11

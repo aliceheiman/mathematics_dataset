@@ -1,0 +1,6 @@
+Calculate prob of sequence tmt when three letters picked without replacement from mttmtmmmmmmm.
+9/220
+Calculate prob of sequence nnnn when four letters picked without replacement from {c: 1, n: 14}.
+11/15
+Calculate prob of sequence msm when three letters picked without replacement from smsssssmssssmmmssmm.
+28/323

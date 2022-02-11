@@ -1,0 +1,20 @@
+Let r be (3/(-5))/((-3)/(-30)*-2). Suppose 2*m - r*z + 4*z = 4, 0 = 5*z + 20. Suppose -y = -b - 17, 0 = -0*y + m*y - b - 77. What is the tens digit of y?
+2
+Suppose v - 4 + 1 = 0. Suppose -v*i + 5*w = -1377, 2*w + 229 = -3*i + 1606. What is the hundreds digit of i?
+4
+Suppose 0 = 11*l - 8*l - 381. What is the hundreds digit of l + 9 + (0 - 6)?
+1
+Let y(s) = 51*s - 2. Let b be y(-2). Let w be b - 12/(-4)*1. Let j = w + 194. What is the tens digit of j?
+9
+Suppose 83*g = -79*g + 897480. What is the thousands digit of g?
+5
+Suppose 51*b = 59*b - 16. What is the hundreds digit of (-173)/(-4 - -6*b/4)?
+1
+Suppose -3*d - 38388 = 2*d - 12*d. What is the tens digit of d?
+8
+Let d(h) = 27*h + 25. Let u be d(-7). Let p = 94 + -193. Let k = p - u. What is the tens digit of k?
+6
+Let j = 491 + 853. Suppose s = -5*n + 425 + 35, j = 3*s - 3*n. What is the tens digit of s?
+5
+Let z(p) = p**3 + 34*p**2 + 44*p + 200. What is the hundreds digit of z(-18)?
+5

@@ -1,0 +1,6 @@
+Suppose 107 + 108 = 5*d. Suppose d = 4*j - 53. Calculate the remainder when j is divided by 7.
+3
+Suppose 0 = -4*g + 90 + 98. What is the remainder when g is divided by 10/2*24/10?
+11
+Suppose 0 = -3*u, y + y - 6 = -4*u. Let n be (y + 0)*4/3. What is the remainder when (2/n)/(3/282) is divided by 16?
+15

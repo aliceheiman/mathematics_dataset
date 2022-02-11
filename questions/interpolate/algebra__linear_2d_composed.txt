@@ -1,0 +1,20 @@
+Let w be -6 + (0 - (-33)/3). Suppose 0 = -w*z, 5*n + 6*z = z. Let u be (-2)/(-3) - 13/(-3). Solve n = 4*b + 20, a - 4*b + 1 = -u*b for a.
+4
+Suppose -3*j = -5 - 7, 0 = -2*b - 2*j + 204. Let x be ((-4)/7)/((-28)/b). Solve 0 = 2*p + 4*k + 12, -4*p + 4*k + x = -22 for p.
+2
+Suppose 24 = 3*l - 5*r + 8, 5*l = -r + 8. Solve 4*o = -7*p + l*p + 33, -2*o + 19 = 3*p for o.
+2
+Suppose -954 = -5*f - 4*f. Let l = -105 + f. Solve -2 = 2*v + 3*m, 4*v - m + 3 = -l for v.
+-1
+Suppose 83 = 45*c - 97 - 45. Solve -3*t = -2*z - 2, 0 = -c*t + 7*t - z for t.
+-2
+Let m = 37 - 27. Suppose -5 = -3*u + m. Suppose 0 = 3*w + 4*p + 8, -4*w = u*p + 5 + 4. Solve 0 = 4*q - 5*h - 4 + 2, w*q + h - 14 = 0 for q.
+3
+Let c(j) = j**3 - 14*j**2 - 30*j - 16. Let k be c(16). Solve 20 = -4*o + 3*u, -k*u + 20 = -4*o - 15*u for o.
+-5
+Let x be 7/224*16*0. Solve 9*g - 5*g + 20 = x, 4*n - g - 5 = 0 for n.
+0
+Let l(i) = -i**3 - 21*i**2 - 20*i + 3. Let n be l(-20). Solve 12*x - 14*x + n*s - 10 = 0, 2*s - 6 = 2*x for x.
+1
+Let o(y) be the first derivative of y**4/4 - 3*y**3 + 10*y**2 - 30*y + 35. Let b be o(7). Solve k = 4*v - 6, 2*v - b = -5*k + v for k.
+2

@@ -1,0 +1,20 @@
+Let n = -80 - -113. Suppose -m - l = -n, -l - 3*l - 138 = -5*m. Let t(u) = 3*u**2 + 9*u - 43. Calculate the remainder when m is divided by t(-6).
+8
+Let d = -830 - -1180. What is the remainder when d is divided by 27?
+26
+Let t(s) be the first derivative of 8 - 93*s**3 + 3*s**2 - s**2 + 95*s**3 - 11*s. Calculate the remainder when t(-5) is divided by 30.
+29
+Let n = 4207 + -4038. What is the remainder when n is divided by 91?
+78
+Suppose -9*v + 35 = -172. Calculate the remainder when (v/4)/((-2)/(-16)) is divided by 19.
+8
+Suppose -3 = d - 17. Suppose 19 = -4*m - 101. Calculate the remainder when d is divided by 0 - 21/(-4) - m/(-120).
+4
+Suppose 5*o = g + 34, 4*o = 3*g + 79 - 21. Let l = g - -20. Suppose -12 = -h + 2*n, -h + l*n = n - 24. Calculate the remainder when 12 is divided by h.
+0
+Suppose 2*j + 4*m + 128 = 350, 540 = 5*j + 5*m. Calculate the remainder when j is divided by 22.
+17
+Suppose 3*c = -11 + 41. Suppose -9*k = -7*k - c. Suppose 4*w - 5 = -a + 2*w, -3*a - k*w = -18. What is the remainder when a is divided by 6?
+5
+Let z = 23 + -20. Suppose 28 = 4*b - y, z*b + 2*b - 22 = -2*y. What is the remainder when 11 is divided by b?
+5

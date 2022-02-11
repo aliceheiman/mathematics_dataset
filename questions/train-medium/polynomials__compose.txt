@@ -1,0 +1,6 @@
+Let p(a) be the first derivative of a**5/20 - 5*a**3 + 22. Let r(t) be the third derivative of p(t). Let k(v) = -v**2. Give k(r(x)).
+-36*x**2
+Let k(g) = -13*g**2 - 11. Suppose 0 = 2*v + q - 3*q + 18, -4*q = v + 19. Let c(y) = -7*y**2 - 6. Let j(u) = v*c(u) + 6*k(u). Let t(l) = 31*l. Calculate t(j(b)).
+-31*b**2
+Let i(t) = 12 - 19*t. Let a(y) = 8 - 18*y. Let b(s) = 3*a(s) - 2*i(s). Let w(h) be the first derivative of -h**2/2 - 2. Give b(w(m)).
+16*m

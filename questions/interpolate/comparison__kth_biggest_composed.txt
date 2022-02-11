@@ -1,0 +1,20 @@
+Let i be (-2416)/(-24) - (-4)/(-6). Suppose -i = 5*q - 3*k, 2*k = -5*q - 3*k - 60. Let f = -0.889 - 0.111. What is the biggest value in 5, -3, f, q?
+5
+Let z = 6 + -8. Suppose -v - 43 = 87. Let m be ((-6)/20)/((-26)/v). Which is the third biggest value?  (a) z  (b) m  (c) 3
+a
+Let h = -5.844 + 2.844. Let l = 0.2 - -0.8. Let z = l + -3. Which is the third biggest value?  (a) z  (b) h  (c) -0.4  (d) -2/9
+a
+Let c = 2 - -5. Let q be (-159)/630 - (-2)/c. Let i(a) = -a**3 + 3*a**2 - 2*a + 6. Let l be i(3). What is the smallest value in l, q, -0.3?
+-0.3
+Let z = -41 - -17. Let o be (-4)/z*(1 + -3). Let w = 2035 + -2035.2. Which is the fourth smallest value?  (a) o  (b) -9  (c) w  (d) -4
+c
+Suppose 3 = -0*r - r. Suppose 0 = -10*t + 16*t. Let h be t/((1/(-3))/(8/(-24))). What is the third smallest value in -2, r, h?
+h
+Suppose -28*j - 198 = 86 + 164. What is the second biggest value in j, 2, -0.07?
+-0.07
+Let n(o) be the first derivative of -1 - 1 - 1 - 10 - 4*o + o**2. Let h be n(4). Which is the second biggest value?  (a) 3/7  (b) -0.2  (c) h  (d) 3
+d
+Let z = -25 + 22. Let n = -102.1 + 98. Let q = n + 0.1. Which is the second smallest value?  (a) 5  (b) q  (c) z
+c
+Let y = -3629 - -3628.965. Which is the third smallest value?  (a) -1/5  (b) y  (c) -1/8
+b

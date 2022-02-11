@@ -1,0 +1,20 @@
+Let j be (-143973 + 3)*1/((-15)/(-500) + 0). What is j rounded to the nearest 100000?
+-4800000
+Suppose 52*v - 45*v - 21 = 0. Suppose 0 = -z - v*i - 236, 12*z + 2*i = 17*z + 1231. What is z rounded to the nearest ten?
+-250
+Let j = 28.2 + -39.5. Let f = -10.6 - j. What is f rounded to the nearest 10?
+0
+Let g = -31 - -37. Let n(u) = 24 - 45*u. Let d be n(g). Round d to the nearest 10.
+-250
+Let d = 2522 - 2578.03. What is d rounded to the nearest 10?
+-60
+Let q be 2021390 + (-1 - 1) + 10 + -8. Let d = q - 3421390. What is d rounded to the nearest one hundred thousand?
+-1400000
+Let l = 1873576.9854 - 1873401. Let z = -30.3 - 145.7. Let r = z + l. Round r to three dps.
+-0.015
+Let f = -1.06292228 - -1.063. Round f to six dps.
+0.000078
+Let a = 5.6 + 39.4. Let w = -302680283 - -302680237.9999966. Let x = w + a. What is x rounded to six dps?
+-0.000003
+Let f = -6375505576.3013 + 6375890563. Let i = f + -385008. Let c = i - -0.0013. What is c rounded to the nearest integer?
+-21

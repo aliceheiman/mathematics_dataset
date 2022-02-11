@@ -1,0 +1,6 @@
+Calculate the remainder when 1710 is divided by 334.
+40
+What is the remainder when 8579 is divided by 1429?
+5
+Calculate the remainder when 70 is divided by 25.
+20

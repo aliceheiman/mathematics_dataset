@@ -1,0 +1,6 @@
+Suppose -39*n + 44*n = 15. Let j(c) = 141*c**3 - 3*c**2 + 8*c - 13. Is j(n) a prime number?
+False
+Is 4 + 20/((-28)/7) + 74141 + -9 prime?
+True
+Let q = 25478 - -21609. Is q composite?
+False

@@ -1,0 +1,6 @@
+Let d(p) = 2*p**2 + 55*p + 148. What is d(-24)?
+-20
+Let i(t) = 34*t + 625. Determine i(-13).
+183
+Let n(h) = -705*h - 20. Determine n(1).
+-725

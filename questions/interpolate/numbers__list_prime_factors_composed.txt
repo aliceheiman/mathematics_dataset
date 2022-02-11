@@ -1,0 +1,20 @@
+Let y(k) = k - 7. Let m be y(13). What are the prime factors of -2 - (-105)/(m - 5)?
+103
+Suppose 58*b - 61*b = -2*d + 4243, 3*d - 3*b - 6366 = 0. What are the prime factors of d?
+11, 193
+Let g(p) = 4*p**3 - 3*p + 2. Let a be g(1). Let t be ((-1)/5*7)/(a/(-15)). List the prime factors of 411/t + 22/77.
+59
+Let s(v) = -v**2 - 27*v + 40. Let l be s(-28). List the prime factors of 4380/48 - ((-9)/l + 0).
+2, 23
+Let g = 35 + -34. Let u be g/(-3) + (-4)/(-12). What are the prime factors of -17*3/(-1) - u?
+3, 17
+Let z(u) = 34*u**2 + 7*u - 144. What are the prime factors of z(-17)?
+73, 131
+Suppose o - 3*f = 3*o - 79, 3*o - 3*f - 126 = 0. Let z = 45 - o. Let c = 70 + z. List the prime factors of c.
+2, 37
+Let n = -196 + 196. Suppose n = 4*y - 3*v - 1579, -3*v = 5*y - 2*v - 1988. What are the prime factors of y?
+397
+Let o(l) = l**2 + 14*l + 13. Let j be o(-15). Suppose -33*y = -j*y - 235. List the prime factors of y.
+47
+Suppose 0 = -4*b - 8, 3*b - 26172 + 4558 = -5*s. What are the prime factors of s?
+2, 23, 47

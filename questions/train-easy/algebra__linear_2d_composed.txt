@@ -1,0 +1,6 @@
+Let n(m) = 3*m - 7. Let y = 3 + 4. Let p be n(y). Suppose 2*x + 4 - p = -5*t, 0 = t. Solve -a = a + o - 11, x*a + o - 26 = 0 for a.
+5
+Suppose -h = -2*p - 0 + 4, 2*h - 2*p + 4 = 0. Suppose -5*k + 23 + 2 = h, 20 = t + 3*k. Solve -t*s + 34 = -3*c, -s - 4*c + 4 - 11 = 0 for s.
+5
+Let t(m) = m**2 + 7*m - 6. Let c be t(-7). Let q be c*1/4*-2. Suppose -q*i = -9, -8*i + 30 = 5*r - 3*i. Solve -2*w - 4*f = -w + 11, r*f = w - 10 for w.
+1

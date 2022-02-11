@@ -1,0 +1,6 @@
+Differentiate -5*r - 3 + 2 - 4 + 3 with respect to r.
+-5
+Let p(i) = 9 - 11*i. Let v(a) = 14 - 17*a. Let g(z) = 8*p(z) - 5*v(z). Find the first derivative of g(y) wrt y.
+-3
+Let x(z) = 31*z**2 - 43*z - 11. Let v(n) = -16*n**2 + 21*n + 6. Let j(d) = -11*v(d) - 6*x(d). Find the second derivative of j(k) wrt k.
+-20

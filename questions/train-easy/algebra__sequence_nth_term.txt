@@ -1,0 +1,6 @@
+What is the x'th term of -168, -343, -522, -705, -892, -1083, -1278?
+-2*x**2 - 169*x + 3
+What is the z'th term of -505, -503, -499, -493, -485?
+z**2 - z - 505
+What is the i'th term of 538, 539, 540, 541?
+i + 537

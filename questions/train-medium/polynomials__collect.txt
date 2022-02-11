@@ -1,0 +1,6 @@
+Collect the terms in 27*t**2 + t**3 + 2*t + 4*t - 6*t - 316.
+t**3 + 27*t**2 - 316
+Collect the terms in -133*h - 136*h - 2 - 5*h - 405*h.
+-679*h - 2
+Collect the terms in 557079*a**3 + 557074*a**3 - 1114151*a**3.
+2*a**3

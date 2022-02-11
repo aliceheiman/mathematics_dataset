@@ -1,0 +1,6 @@
+What is the remainder when 381819 is divided by 12606?
+3639
+What is the remainder when 1155768 is divided by 18934?
+794
+Calculate the remainder when 2201024 is divided by 2023.
+0

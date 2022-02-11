@@ -1,0 +1,6 @@
+In base 16, what is 154 - -5?
+159
+In base 3, what is -120221101 - -11?
+-120221020
+In base 5, what is 1303 + -12?
+1241

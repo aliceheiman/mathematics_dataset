@@ -1,0 +1,6 @@
+Is 6 a factor of 28116?
+True
+Is 122 a factor of 2775500?
+True
+Does 232 divide 8531568?
+True

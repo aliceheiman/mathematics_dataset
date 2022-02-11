@@ -1,0 +1,6 @@
+Suppose 20 = b - 32. Let z = b + -17. What is the tens digit of z?
+3
+Suppose 2*i - 5*a + 4 + 1 = 0, 4*i - 5 = -5*a. Suppose i = 4*s + 5*u - 283, -3*s + 5*s + 2*u = 140. What is the units digit of s?
+7
+What is the tens digit of 8/(2*4/32)?
+3

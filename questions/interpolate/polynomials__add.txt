@@ -1,0 +1,20 @@
+Let j(p) = 1 - 4*p. Let c(m) = 541 - m - 269 - 271. Let w be c(4). Let y(o) = 5*o - 2. Give w*j(k) - 2*y(k).
+2*k + 1
+Let c be (-6 + -2)*-1 - (-55 - -67). Let b(a) be the second derivative of -5*a**3/6 + 3*a**2 - 2*a. Let y(f) = 5 - 5*f. Give c*y(l) + 3*b(l).
+5*l - 2
+Let f(o) = -4*o. Let t(k) = -1. Let z = 273 - 276. Calculate z*t(j) - f(j).
+4*j + 3
+Let m be 1*(-12 - 32/(-4)). Let p(x) = 1 - 7*x. Let i(h) = h. Give m*i(t) - p(t).
+3*t - 1
+Suppose o = -2*o + 6. Let b be 2 + o + (-4)/2. Let j(s) = -3*s + 0*s**2 + s**2 + b*s - s. Let g(k) = k**2 - 3*k. What is 3*g(x) - 5*j(x)?
+-2*x**2 + x
+Let v(z) = -17*z - 15. Let i(p) = -9*p - 8. Suppose -5 = -d + 1. Let n be 0 + 0 + 2376/(-216). Give d*v(r) + n*i(r).
+-3*r - 2
+Let p(f) = 1 - f. Let r(s) be the first derivative of 3*s**2 - 4*s - 26. Let v be ((-19)/76)/((-2)/(-8)). Determine v*r(b) - 2*p(b).
+2 - 4*b
+Let k(w) = -6*w**2 - 3*w. Let c(y) = 7*y**2 + 3*y. Let z be 2/(-16)*41 + (1005/120)/67. Give z*k(x) - 4*c(x).
+2*x**2 + 3*x
+Let c(t) = -9*t + 40*t - 17*t - 7*t - 8*t. Let r(f) = -20*f. What is -75*c(d) + 5*r(d)?
+-25*d
+Let d(u) = -7*u**2 - 40*u - 83. Let l(o) = -3*o**2 - 20*o - 35. Determine 2*d(b) - 5*l(b).
+b**2 + 20*b + 9

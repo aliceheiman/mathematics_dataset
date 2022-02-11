@@ -1,0 +1,6 @@
+Simplify (u**2/u)/u**12 assuming u is positive.
+u**(-11)
+Simplify (s/(s**16/s))/(s**(-3/2)*s) assuming s is positive.
+s**(-27/2)
+Simplify ((f*f/(f/(f/(f*f*f*f**7*f))))/f)/f*f/f**(-2)*((f/(f**0*f))/f)**(-34) assuming f is positive.
+f**26

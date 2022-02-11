@@ -1,0 +1,6 @@
+Calculate the remainder when 136442 is divided by 443.
+441
+What is the remainder when 2821 is divided by 1263?
+295
+What is the remainder when 12589 is divided by 158?
+107

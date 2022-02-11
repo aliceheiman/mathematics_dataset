@@ -1,0 +1,20 @@
+What is the nearest to 0.1 in 50, 5, 346, 0.2, 7, -5, -17?
+0.2
+Which is the nearest to 170?  (a) -0.5  (b) 3/4  (c) -586  (d) 10  (e) -0.1  (f) 2  (g) -8
+d
+What is the nearest to 0.05 in -0.5, 1, -3/4, -14, -10963, 2, -2, 0?
+0
+What is the nearest to -66 in -67, 0.1, 0.2, -2, -1530, 2/3, 1?
+-67
+What is the nearest to 0.1 in -0.5, 3/31907, 0, -2/19, 20, -3/8, -0.4, 10?
+3/31907
+Which is the nearest to -0.1?  (a) 0.4  (b) 1  (c) 3  (d) -208/27  (e) -5  (f) 2  (g) -972
+a
+Which is the closest to 0.155?  (a) -3  (b) -0.3  (c) 11249  (d) -0.4  (e) -0.2  (f) 0.4  (g) 2/11
+g
+Which is the nearest to 15176?  (a) -0.4  (b) -4  (c) 0  (d) -1/6  (e) 32/7  (f) -1  (g) 1003
+g
+Which is the closest to -0.07?  (a) 3/4  (b) 38.1697  (c) 7  (d) -1  (e) -2/3  (f) 0  (g) -3
+f
+Which is the closest to -2?  (a) -1  (b) 0.3  (c) 2  (d) 3/25  (e) 2003  (f) 28/115  (g) 0
+a

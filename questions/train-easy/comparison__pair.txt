@@ -1,0 +1,6 @@
+Which is smaller: -20 or 363?
+-20
+Which is bigger: -1/228 or 1?
+1
+Is 4 greater than 101?
+False

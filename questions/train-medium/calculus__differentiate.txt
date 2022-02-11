@@ -1,0 +1,6 @@
+Find the first derivative of 7084*y**3 - y**2 - y + 33426.
+21252*y**2 - 2*y - 1
+What is the second derivative of -53048*n**3 + 8*n**2 - 8*n - 16472 wrt n?
+16 - 318288*n
+What is the first derivative of -214*u**2*v + 1817910*u**2 - 986*v wrt v?
+-214*u**2 - 986

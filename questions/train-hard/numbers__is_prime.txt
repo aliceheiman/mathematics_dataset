@@ -1,0 +1,6 @@
+Is 717747671 composite?
+True
+Is 56041156817 a prime number?
+True
+Is 120995973629 composite?
+False

@@ -20,6 +20,8 @@ from __future__ import print_function
 
 import os
 import string
+from mathematics_dataset.util import lang
+
 
 MAX_QUESTION_LENGTH = 160
 MAX_ANSWER_LENGTH = 30
@@ -30,3 +32,6 @@ NUM_INDICES = len(QUESTION_CHARS)
 CHAR_TO_INDEX = {char: index for index, char in enumerate(QUESTION_CHARS)}
 INDEX_TO_CHAR = {index: char for index, char in enumerate(QUESTION_CHARS)}
 
+# LANGUAGE
+LANGUAGE = 'en'
+lang.init_translation(LANGUAGE)

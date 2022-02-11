@@ -1,0 +1,6 @@
+Let n = -1200 + 1200.3. Which is the closest to 2.3?  (a) -2/9  (b) -0.5  (c) 0  (d) n
+d
+Let s = 2 - 1.8. Let t = 72.3 - 79. Let x = t - -6.3. What is the nearest to s in 2/7, x, -0.2?
+2/7
+Let n = 189 - 224.9. Let p = 36 + n. Which is the nearest to p?  (a) -5  (b) -2/7  (c) 3/2
+b

@@ -1,0 +1,6 @@
+Is 10559 a composite number?
+False
+Is 58583 a composite number?
+True
+Is 10699 composite?
+True

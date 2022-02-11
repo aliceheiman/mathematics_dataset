@@ -1,0 +1,20 @@
+### MODULES
+
+# Algebra
+Let {equality}. What is {variable}?; Let {equality}. What is {variable}?
+Let {equality}. Calculate {variable}.; Let {equality}. Calculate {variable}.
+Suppose {equality}. What is {variable}?; Suppose {equality}. What is {variable}?
+Suppose {equality}. Calculate {variable}.; Suppose {equality}. Calculate {variable}.
+What is {variable} in {equality}?; What is {variable} in {equality}?
+Solve {equality} for {variable}.; Solve {equality} for {variable}.
+Find {variable} such that {equality}.; Find {variable} such that {equality}.
+Find {variable}, given that {equality}.; Find {variable}, given that {equality}.
+Determine {variable} so that {equality}.; Determine {variable} so that {equality}.
+Determine {variable}, given that {equality}.; Determine {variable}, given that {equality}.
+Solve {equality}.; Solve {equality}.
+
+What is next in {sequence}?; What is next in {sequence}?
+What comes next: {sequence}?; What comes next: {sequence}?
+What is the next term in {sequence}?; What is the next term in {sequence}?
+
+# Arithmetic

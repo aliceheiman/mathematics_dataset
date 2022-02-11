@@ -1,0 +1,6 @@
+Round -12934.1 to the nearest one thousand.
+-13000
+What is 0.08895 rounded to 2 decimal places?
+0.09
+What is -708 rounded to the nearest 1000?
+-1000

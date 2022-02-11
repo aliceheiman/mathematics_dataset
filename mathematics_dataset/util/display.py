@@ -27,12 +27,12 @@ displaying percentages (properly formatted).
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
+from mathematics_dataset.util import lang
 
 import decimal
 
 # Dependency imports
 import sympy
-
 
 # For converting integers to words:
 _INTEGER_LOW = [
@@ -67,10 +67,27 @@ _PLURAL_DENOMINATORS = [
 
 # For converting ordinals to words:
 _ORDINALS = [
-    'zeroth', 'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh',
-    'eighth', 'ninth', 'tenth', 'eleventh', 'twelth', 'thirteenth',
-    'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth',
-    'nineteenth', 'twentieth'
+    lang.l.translate('zeroth'), 
+    lang.l.translate('first'), 
+    lang.l.translate('second'), 
+    lang.l.translate('third'), 
+    lang.l.translate('fourth'), 
+    lang.l.translate('fifth'), 
+    lang.l.translate('sixth'), 
+    lang.l.translate('seventh'),
+    lang.l.translate('eighth'), 
+    lang.l.translate('ninth'), 
+    'tenth', 
+    'eleventh', 
+    'twelth', 
+    'thirteenth',
+    'fourteenth', 
+    'fifteenth', 
+    'sixteenth', 
+    'seventeenth', 
+    'eighteenth',
+    'nineteenth', 
+    'twentieth'
 ]
 
 

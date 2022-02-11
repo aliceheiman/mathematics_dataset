@@ -1,0 +1,6 @@
+Simplify -6*(1*(sqrt(7) + (sqrt(7) + -1)**2) - sqrt(63)/(2*sqrt(9)) - (4 + (-1 + sqrt(1008) + 3)**2)).
+297*sqrt(7) + 6048
+Simplify (1*(sqrt(153) + -1 + sqrt(153) + 1 + 1 + 3)*4*-5)**2 + 0.
+19200*sqrt(17) + 251200
+Simplify ((sqrt(75) - (sqrt(75) + -1 + -5 + sqrt(75))) + sqrt(75) - (-1*sqrt(75) + -1 + sqrt(75)))**2 - (sqrt(6) - sqrt(6)*-1*-4 - sqrt(6))/(sqrt(36)/sqrt(2)).
+4*sqrt(3)/3 + 49

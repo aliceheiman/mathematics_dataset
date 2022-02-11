@@ -1,0 +1,6 @@
+What is the second derivative of 11663*h**3 - 23*h + 169?
+69978*h
+Differentiate -3431*c*t**3 + 2*c*t - 3*c + 991 with respect to t.
+-10293*c*t**2 + 2*c
+Find the first derivative of -6*d**2*q**2 - d**2 + 15*d*q**2 - 87*q**2 + 6*q wrt d.
+-12*d*q**2 - 2*d + 15*q**2

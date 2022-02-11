@@ -1,0 +1,6 @@
+Is 5971 at least as big as 5122?
+True
+Is -1 > -2/1053007?
+False
+Which is smaller: 8/5 or -3/430?
+-3/430

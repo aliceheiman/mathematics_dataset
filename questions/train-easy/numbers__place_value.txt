@@ -1,0 +1,6 @@
+What is the hundreds digit of 4930?
+9
+What is the tens digit of 15553?
+5
+What is the units digit of 36181?
+1

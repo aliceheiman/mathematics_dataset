@@ -30,7 +30,6 @@ from mathematics_dataset.modules import modules
 import six
 from six.moves import range
 
-
 FLAGS = flags.FLAGS
 
 flags.DEFINE_string('filter', '', 'restrict to matching module names')

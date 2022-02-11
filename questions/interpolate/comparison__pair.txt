@@ -1,0 +1,20 @@
+Which is smaller: 26123/801 or 34?
+26123/801
+Which is smaller: -81 or 0.69202?
+-81
+Is 0.0798942 less than 1.5?
+True
+Is -1979856 bigger than -1979849?
+False
+Which is greater: 1 or 1456/29721?
+1
+Is -77 equal to -263836?
+False
+Is 0 <= -262/25491?
+False
+Does -1.5923 = 0.111?
+False
+Is -1 smaller than -3062/7503?
+True
+Which is smaller: 1 or 3/646640?
+3/646640

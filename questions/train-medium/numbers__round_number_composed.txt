@@ -1,0 +1,6 @@
+Let g(j) be the second derivative of -79*j**3/6 - 2*j**2 - 5*j. Let h be g(-6). Let v be (-3)/21 + h/7. Round v to the nearest 10.
+70
+Let b = 850 - 850.697. Round b to two dps.
+-0.7
+Let w = 0.052 - -25.948. Let o = -41873059.999961 - -41873034. Let b = o + w. Round b to 5 dps.
+0.00004

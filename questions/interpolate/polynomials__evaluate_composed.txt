@@ -1,0 +1,20 @@
+Let j(c) = c**3 + 3*c**2 - 1. Suppose 4 + 1 = -u, 40 = 3*p - 5*u. Suppose -4 + 3 = -5*l + 4*t, 7 = 2*l + p*t. Let h be l*(4 - 2)/(-1). What is j(h)?
+3
+Suppose 0 = i + 5*n + 1 - 8, -3*i = -n - 5. Suppose -56*j = -30*j - 156. Let y(k) = 0*k**3 + 7 - k**3 - j*k**i + 2*k**3 - 8*k - 5. Calculate y(7).
+-5
+Let m(n) = -n**3 + 5*n**2 - 5*n + 2. Let w be m(3). Let d(x) = 20*x**2 + 3*x**2 + 11 - 12 - 4*x - 22*x**2. Calculate d(w).
+4
+Let r(m) = -6*m - 28. Let t = 2072 - 2076. Determine r(t).
+-4
+Let r(t) be the first derivative of -t**4/4 - 11*t**3/3 - 7*t**2/2 + 19*t - 760. Give r(-10).
+-11
+Let h = 220 - 198. Suppose -19*m - 32 = -24*m - z, 4*z + h = 5*m. Let b(r) = r**2 - 9*r + 9. Calculate b(m).
+-9
+Let g(o) = 3*o**2 - 3*o - 3. Let z(d) = -7*d**2 + 6*d + 5. Let v be -2*(-2)/12*-6. Let k(t) = v*z(t) - 5*g(t). Calculate k(5).
+-5
+Let a be (-4)/8*(-3 + 3)*-1. Suppose -3*f - 11 - 1 = a. Let p(j) = -j - 1. Determine p(f).
+3
+Let h(q) = -2 - 3 + 4*q + 9*q. Let s(b) = 20*b - 8. Let u(n) = -7*h(n) + 5*s(n). Let y(p) = 2 - 4*p. Let a(g) = -3*u(g) - 7*y(g). Calculate a(-2).
+-1
+Let u(v) be the third derivative of -v**6/720 - v**5/60 + v**4/12 + 7*v**3/2 - 48*v**2. Let k(q) be the second derivative of u(q). What is k(10)?
+-12

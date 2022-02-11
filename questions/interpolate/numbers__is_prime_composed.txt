@@ -1,0 +1,20 @@
+Suppose -51*r + 53*r + 22*r = 41448. Is r prime?
+False
+Let i(u) = -46*u - 194. Let w be i(-4). Let h(o) = 15*o - 19. Let q(z) = 18 - 15*z. Let g(c) = 5*h(c) + 6*q(c). Is g(w) composite?
+False
+Suppose -732932 - 204992 = -68*w. Is w a prime number?
+False
+Suppose 1837 + 6775 = 4*n. Let c = n - 312. Is c a composite number?
+True
+Is ((-2111237)/268)/(1/(-4)) prime?
+True
+Suppose 11*o + 5607 = 14*o. Suppose o = 9*l + 267. Is l prime?
+False
+Let x(g) = 38*g**3 - 41*g**3 + g + 186*g**3 + 2*g**2. Let p be x(-2). Let m = 2467 + p. Is m a composite number?
+False
+Suppose 0 = -k - 3*k - 80. Let l be (6*-1)/((-15)/k). Let y(g) = -21*g - 34. Is y(l) composite?
+True
+Suppose -5*w = 2*w - 77. Suppose w + 13 = 4*o. Suppose -12*x = -o*x - 1074. Is x a prime number?
+True
+Let i = 11126 + 6313. Is i a composite number?
+True

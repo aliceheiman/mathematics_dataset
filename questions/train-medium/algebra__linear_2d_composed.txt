@@ -1,0 +1,6 @@
+Let h(b) = b**3 + 2*b**2 + 2. Let t be h(-2). Suppose -d - 7 = 1. Let i be (26 - 0)*(4/d)/(-1). Solve -3*k = 4*l, t*l - 2*k = i + 1 for l.
+3
+Suppose 1 - 45 = 4*z. Let i = z + 13. Solve -6 = 3*b - i*f + 7, 2*b + 4*f - 2 = 0 for b.
+-3
+Suppose -3*a = -3*i - 9, -2*a + 5 = 2*i - 5*i. Suppose a*n - 120 = -6*n. Solve 0 = 2*q - u + 2, n = -4*u + u for q.
+-3

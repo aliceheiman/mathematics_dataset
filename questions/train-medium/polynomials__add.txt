@@ -1,0 +1,6 @@
+Let q(w) = 5*w**3 - 8*w**2 + 7. Let g(u) = 5*u**3 - 7*u**2 + 6. Let n be (-69)/(-1311) + 268/(-38). Give n*g(l) + 6*q(l).
+-5*l**3 + l**2
+Let k(y) = 2*y + 3. Let p(t) = -6. Let u(q) = 5*q + 2. Let i(l) = -3*p(l) + 3*u(l). Determine 4*i(d) - 33*k(d).
+-6*d - 3
+Let j(z) = -6*z**2 + 9*z - 7. Let n(w) be the first derivative of -3*w**3 + 7*w**2 - 11*w - 86. Determine 8*j(v) - 5*n(v).
+-3*v**2 + 2*v - 1

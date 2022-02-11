@@ -1,0 +1,6 @@
+In base 7, what is -11 + 13646241?
+13646230
+In base 14, what is -2a9c - 133b?
+-3dd9
+In base 16, what is -4 - 89ead2?
+-89ead6

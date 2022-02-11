@@ -1,0 +1,7 @@
+zeroth,NOLLTE
+first,FÖRSTA
+second,ANDRA
+third,TREDJE
+fourth,FJÄRDE
+fifth,FEMTE
+sixth,SJÄTTE

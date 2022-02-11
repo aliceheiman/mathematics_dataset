@@ -1,0 +1,6 @@
+Calculate the smallest common multiple of 150 and 10.
+150
+What is the common denominator of -79/21 and 69/2?
+42
+Calculate the smallest common multiple of 454 and 5.
+2270

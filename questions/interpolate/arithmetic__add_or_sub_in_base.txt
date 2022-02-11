@@ -1,0 +1,20 @@
+In base 2, what is 1100000101001101110 + 11010?
+1100000101010001000
+In base 12, what is -b80869 - 1?
+-b8086a
+In base 16, what is -56cd - -4c?
+-5681
+In base 8, what is 1015 + -7113?
+-6076
+In base 9, what is 3 + -5235863?
+-5235860
+In base 14, what is -14 + -b4a94?
+-b4aa8
+In base 15, what is -1 - -4c4234?
+4c4233
+In base 4, what is -132321023120 + -2?
+-132321023122
+In base 16, what is 475 + -1933?
+-14be
+In base 7, what is 10036 - -4004?
+14043

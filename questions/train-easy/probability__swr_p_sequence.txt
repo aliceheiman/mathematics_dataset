@@ -1,0 +1,6 @@
+Three letters picked without replacement from ggggwggwggwwwggwggh. Give prob of sequence wgw.
+20/323
+Two letters picked without replacement from {u: 6, e: 1, t: 9, i: 2}. Give prob of sequence te.
+1/34
+Three letters picked without replacement from {r: 7, f: 5, b: 7}. Give prob of sequence rbr.
+49/969

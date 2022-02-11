@@ -1,0 +1,6 @@
+Collect the terms in 1467 + 478 + 482 + 146*v**3 - 2427.
+146*v**3
+Collect the terms in -1498 + 335 + 1163 - 14*f.
+-14*f
+Collect the terms in 47*n + 439*n - 290*n + 124*n + 65*n.
+385*n

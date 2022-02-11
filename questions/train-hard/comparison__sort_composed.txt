@@ -1,0 +1,6 @@
+Let n(d) = 9*d**2 - 3*d + 2. Let z be n(1). Suppose z*m - 23 = 1. Let y = -5.9 + 4.9. Put -0.4, m, y in descending order.
+m, -0.4, y
+Suppose 0 = 5*d - 165810 + 25845. Let q be (3/57)/(3/d). Let s = q + -491. Put 5, -0.2, s in descending order.
+5, s, -0.2
+Let h = 102 - 98. Let j = 107.21 + 1.79. Let c = -109 + j. Put c, -2/25, h in ascending order.
+-2/25, c, h

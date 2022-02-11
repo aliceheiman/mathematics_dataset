@@ -1,0 +1,80 @@
+### MODULES
+
+# Algebra
+Let {equality}. What is {variable}?
+Let {equality}. Calculate {variable}.
+Suppose {equality}. What is {variable}?
+Suppose {equality}. Calculate {variable}.
+What is {variable} in {equality}?
+Solve {equality} for {variable}.
+Find {variable} such that {equality}.
+Find {variable}, given that {equality}.
+Determine {variable} so that {equality}.
+Determine {variable}, given that {equality}.
+Solve {equality}.
+
+What is next in {sequence}?
+What comes next: {sequence}?
+What is the next term in {sequence}?
+
+# Arithmetic
+{p} + {q}
+{p}+{q}
+Work out {p} + {q}.
+Add {p} and {q}.
+Put together {p} and {q}.
+Sum {p} and {q}.
+Total of {p} and {q}.
+Add together {p} and {q}.
+What is {p} plus {q}?
+Calculate {p} + {q}.
+What is {p} + {q}?
+
+Let {self} = {p} + {q}.
+
+{p} - {q}
+Work out {p} - {q}.
+What is {p} minus {q}?
+What is {p} take away {q}?
+What is {q} less than {p}?
+Subtract {q} from {p}.
+Calculate {p} - {q}.
+What is {p} - {q}?
+
+distance
+difference
+{p} and {q}
+{q} and {p}
+What is the {} between {}?
+Let {self} = {p} - {q}.
+
+In base {base}, what is {p} + {q}?
+In base {base}, what is {p} - {q}?
+
+{p}{ops.MUL_SYMBOL}{q}
+{p} {ops.MUL_SYMBOL} {q}
+Calculate {p}{ops.MUL_SYMBOL}{q}.
+Work out {p} {ops.MUL_SYMBOL} {q}.
+Multiply {p} and {q}.
+Product of {p} and {q}.
+What is the product of {p} and {q}?
+{p} times {q}
+What is {p} times {q}?
+
+Divide {p} by {q}.
+{p} divided by {q}
+What is {p} divided by {q}?
+Calculate {p} divided by {q}.
+
+Let {self} be {p} divided by {q}.
+
+What is {value} to the power of 1/{one_over_exponent}, to the nearest integer?
+What is the {ordinal} root of {value} to the nearest integer?
+What is the square root of {value} to the nearest integer?
+What is the cube root of {value} to the nearest integer?
+
+{op}
+What is {op}?
+Evaluate {op}.
+Calculate {op}.
+What is the value of {op}?

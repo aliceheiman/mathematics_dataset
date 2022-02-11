@@ -1,0 +1,6 @@
+What is the greatest common divisor of 118680 and 1935?
+645
+What is the highest common divisor of 384438 and 765?
+51
+What is the highest common divisor of 11 and 210276?
+11

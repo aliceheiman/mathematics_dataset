@@ -1,0 +1,20 @@
+Round 2.037667956239 to 3 dps.
+2.038
+What is -0.000640424489058 rounded to seven dps?
+-0.0006404
+Round -1321.24796348 to the nearest one hundred.
+-1300
+Round 757006.3195 to the nearest 10.
+757010
+Round -0.000190085928506 to 6 dps.
+-0.00019
+Round -0.0703901029605 to six decimal places.
+-0.07039
+Round 196938236.5936 to the nearest ten thousand.
+196940000
+What is 0.1658908256377 rounded to 5 decimal places?
+0.16589
+Round 0.3411760548946 to 4 decimal places.
+0.3412
+Round -3246.7629166 to the nearest one hundred.
+-3200

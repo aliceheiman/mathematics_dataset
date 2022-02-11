@@ -1,0 +1,6 @@
+Suppose -5*h + 44 - 34 = 0. Find the third derivative of 80*i**2 - 83*i**2 + 176*i**3 + 210*i**h wrt i.
+1056
+What is the derivative of s + 11976 + 7*s**3 - s - 11773 + 8*s**2 + 12*s**2 wrt s?
+21*s**2 + 40*s
+Suppose -2*h + u + 9 = 0, -5*h + 0*u - 4*u + 29 = 0. Let q = 24 + -18. What is the second derivative of p**2 - p - h*p + q*p**2 - 2*p wrt p?
+14

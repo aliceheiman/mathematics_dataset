@@ -1,0 +1,6 @@
+Let d(k) = 9*k**2 - 4*k - 7. Let z(j) = 1 - j**2. Let a(v) = d(v) + 5*z(v). Let t(o) = 11*o - 11*o**2 - 4 + 11*o**2 - 11*o**2 + 9. Give 8*a(i) + 3*t(i).
+-i**2 + i - 1
+Let i(b) = 9 + 6*b - 12*b**3 + 4*b**3 - 4. Let m(f) = 7*f**3 - 5*f - 4. Determine 5*i(o) + 6*m(o).
+2*o**3 + 1
+Let j(z) = -6*z - 9. Let i(k) = 5*k**2 - 26*k + 4. Let b be i(5). Let r(l) = l + 1. Determine b*j(u) - 4*r(u).
+2*u + 5

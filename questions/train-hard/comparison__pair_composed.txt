@@ -1,0 +1,6 @@
+Let x(g) = 3*g + 1. Let a(u) = -u. Let i be a(1). Let z be x(i). Let p = -10479 + 10477. Are z and p nonequal?
+False
+Let i = -3311 - -3312. Which is bigger: i or 65/31?
+65/31
+Let c be (-195695)/(-20) - (-33)/132. Which is smaller: 9786 or c?
+c

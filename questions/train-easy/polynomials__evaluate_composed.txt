@@ -1,0 +1,6 @@
+Let z(y) = 4*y + 7. Let x(h) = 2*h + 3. Let t(o) = 13*x(o) - 6*z(o). Let a(c) = 7 - 5*c. Let r(j) = -3*a(j) - 7*t(j). Determine r(7).
+7
+Let h(w) be the first derivative of -w**3/3 - 3*w**2/2 + 2*w + 13. What is h(-3)?
+2
+Suppose 3*n = 3 + 6. Let w(c) = c**2 + 0*c - 6*c + 6*c - 3*c + 1. Determine w(n).
+1

@@ -1,0 +1,6 @@
+Let k be 3*(2 + (-30)/9). Let b be (k/8)/(2/(-12)). Suppose 5*o - b*o - 8 = 0. Solve -o*t = -t for t.
+0
+Let v(b) = -b**3 - 3*b**2 + 8*b + 10. Let s be v(-4). Let y be s/8*(2 + -6). Solve 3 = -0*m + y*m for m.
+1
+Let b be -8 - (-53 - (5 - 3)). Solve 11*g + b = -8 for g.
+-5

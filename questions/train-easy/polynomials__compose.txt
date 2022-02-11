@@ -1,0 +1,6 @@
+Let r(q) be the first derivative of -q**3/3 - 4. Let c(t) = t**2. What is c(r(v))?
+v**4
+Let s(z) = 10*z**2. Let o(b) = -b. Let p(g) = -3*g. Let h(v) = -5*o(v) + 2*p(v). Give h(s(k)).
+-10*k**2
+Let w(n) = n. Let f(d) be the first derivative of 3/2*d**2 + 1 + 0*d. What is w(f(j))?
+3*j

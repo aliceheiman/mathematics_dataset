@@ -1,0 +1,6 @@
+Four letters picked without replacement from mmmmhmhmmcmmmch. What is prob of picking 1 m and 3 h?
+2/273
+What is prob of picking 3 e when three letters picked without replacement from eeeeeerr?
+5/14
+Three letters picked without replacement from ttohtrhvttvtrv. What is prob of picking 2 v and 1 o?
+3/364

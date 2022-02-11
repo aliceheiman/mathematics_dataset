@@ -1,0 +1,6 @@
+What is prob of picking 1 b and 1 e when two letters picked without replacement from wxexwxbgwbbwbtwbb?
+3/68
+Two letters picked without replacement from {n: 6, h: 4}. What is prob of picking 2 n?
+1/3
+Two letters picked without replacement from {u: 2, a: 2, b: 3, v: 2}. Give prob of picking 1 b and 1 v.
+1/6
