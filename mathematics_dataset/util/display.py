@@ -72,7 +72,7 @@ _INTEGER_MID = [
 _INTEGER_HIGH = [
     (int(1e12), lang.l.translate('trillion')),
     (int(1e9), lang.l.translate('billion')),
-    (int(1e6), lang.l.translate('million')).
+    (int(1e6), lang.l.translate('million')),
     (int(1e3), lang.l.translate('thousand')),
     (100, lang.l.translate('hundred')),
 ]

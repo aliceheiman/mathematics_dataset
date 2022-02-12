@@ -1,0 +1,405 @@
+### MODULES
+
+# Algebra
+Let {equality}. What is {variable}? ### 
+Let {equality}. Calculate {variable}. ### 
+Suppose {equality}. What is {variable}? ### 
+Suppose {equality}. Calculate {variable}. ### 
+What is {variable} in {equality}? ### 
+Solve {equality} for {variable}. ### 
+Find {variable} such that {equality}. ### 
+Find {variable}, given that {equality}. ### 
+Determine {variable} so that {equality}. ### 
+Determine {variable}, given that {equality}. ### 
+Solve {equality}. ### 
+
+What is next in {sequence}? ### 
+What comes next: {sequence}? ### 
+What is the next term in {sequence}? ### 
+
+# Arithmetic
+{p} + {q} ### 
+{p}+{q} ### 
+Work out {p} + {q}. ### 
+Add {p} and {q}. ### 
+Put together {p} and {q}. ### 
+Sum {p} and {q}. ### 
+Total of {p} and {q}. ### 
+Add together {p} and {q}. ### 
+What is {p} plus {q}? ### 
+Calculate {p} + {q}. ### 
+What is {p} + {q}? ### 
+
+Let {self} = {p} + {q}. ### 
+
+{p} - {q} ### 
+Work out {p} - {q}. ### 
+What is {p} minus {q}? ### 
+What is {p} take away {q}? ### 
+What is {q} less than {p}? ### 
+Subtract {q} from {p}. ### 
+Calculate {p} - {q}. ### 
+What is {p} - {q}? ### 
+
+distance ### 
+difference ### 
+{p} and {q} ### 
+{q} and {p} ### 
+What is the {} between {}? ### 
+Let {self} = {p} - {q}. ### 
+
+In base {base}, what is {p} + {q}? ### 
+In base {base}, what is {p} - {q}? ### 
+
+{p}{ops.MUL_SYMBOL}{q} ### 
+{p} {ops.MUL_SYMBOL} {q} ### 
+Calculate {p}{ops.MUL_SYMBOL}{q}. ### 
+Work out {p} {ops.MUL_SYMBOL} {q}. ### 
+Multiply {p} and {q}. ### 
+Product of {p} and {q}. ### 
+What is the product of {p} and {q}? ### 
+{p} times {q} ### 
+What is {p} times {q}? ### 
+
+Divide {p} by {q}. ### 
+{p} divided by {q} ### 
+What is {p} divided by {q}? ### 
+Calculate {p} divided by {q}. ### 
+
+Let {self} be {p} divided by {q}. ### 
+
+What is {value} to the power of 1/{one_over_exponent}, to the nearest integer? ### 
+What is the {ordinal} root of {value} to the nearest integer? ### 
+What is the square root of {value} to the nearest integer? ### 
+What is the cube root of {value} to the nearest integer? ### 
+
+{op} ### 
+What is {op}? ### 
+Evaluate {op}. ### 
+Calculate {op}. ### 
+What is the value of {op}? ### 
+
+Simplify {exp}. ### 
+
+# Calculus
+Find the {nth} derivative of {eq} wrt {var}. ### 
+What is the {nth} derivative of {eq} wrt {var}? ### 
+Differentiate {eq} with respect to {var}. ### 
+Differentiate {eq} wrt {var}. ### 
+What is the derivative of {eq} wrt {var}? ### 
+Find the {nth} derivative of {eq}. ### 
+What is the {nth} derivative of {eq}? ### 
+Differentiate {eq}. ### 
+What is the derivative of {eq}? ### 
+
+# Comparisons
+Which is bigger: {left} or {right}?' ### 
+Which is greater: {left} or {right}?' ### 
+Which is smaller: {left} or {right}?' ### 
+
+Is {left} {ops.LT_SYMBOL} {right}? ### 
+Is {left} less than {right}? ### 
+Is {left} smaller than {right}? ### 
+
+Is {left} {ops.LE_SYMBOL} {right}? ### 
+Is {left} less than or equal to {right}? ### 
+Is {left} at most {right}? ### 
+Is {left} at most as big as {right}? ### 
+
+Is {left} {ops.GT_SYMBOL} {right}? ### 
+Is {left} greater than {right}? ### 
+Is {left} bigger than {right}? ### 
+
+Is {left} {ops.GE_SYMBOL} {right}? ### 
+Is {left} greater than or equal to {right}? ### 
+Is {left} at least {right}? ### 
+Is {left} at least as big as {right}? ### 
+
+Does {left} {ops.EQ_SYMBOL} {right}? ### 
+Are {left} and {right} equal? ### 
+Is {left} equal to {right}? ### 
+Do {left} and {right} have the same value? ### 
+
+Is {left} {ops.NE_SYMBOL} {right}? ### 
+Is {left} not equal to {right}? ### 
+Are {left} and {right} unequal? ### 
+Are {left} and {right} nonequal? ### 
+Are {left} and {right} non-equal? ### 
+Do {left} and {right} have different values? ### 
+
+What is the {adjective} value in {values_template}? ### 
+Which is the {adjective} value? ### 
+
+biggest ### 
+smallest ### 
+
+What is the {adjective} to {target} in {values_template}? ### 
+Which is the {adjective} to {target}? ### 
+
+closest ### 
+nearest ### 
+
+Sort {unsorted_template} in {direction} order. ### 
+Put {unsorted_template} in {direction} order. ### 
+Sort {unsorted_template}. ### 
+
+ascending ### 
+increasing ### 
+descending ### 
+decreasing ### 
+
+# Measurement
+meter ### 
+kilometer ### 
+centimeter ### 
+millimeter ### 
+micrometer ### 
+nanometer ### 
+
+second ### 
+minute ### 
+hour ### 
+day ### 
+week ### 
+millisecond ### 
+microsecond ### 
+nanosecond ### 
+
+year ### 
+decade ### 
+century ### 
+centuries ### 
+millennium ### 
+millennia ### 
+month ### 
+
+kilogram ### 
+tonne ### 
+gram ### 
+milligram ### 
+microgram ### 
+nanogram ### 
+
+litre ### 
+millilitre ### 
+
+How many {target_name} are there in {base_value} {base_name}? ### 
+What is {base_value} {base_name} in {target_name}? ### 
+Convert {base_value} {base_name} to {target_name}. ### 
+
+How many {target_name} are there in {base_value}{base_symbol}? ### 
+What is {base_value}{base_symbol} in {target_name}? ### 
+Convert {base_value}{base_symbol} to {target_name}. ### 
+
+How many {target_name} are there in {base_value} of a {base_name}? ### 
+What is {base_value} of a {base_name} in {target_name}? ### 
+
+What is {duration} minutes before {end}? ### 
+What is {duration} minutes after {start}? ### 
+How many minutes are there between {start} and {end}? ### 
+
+# Numbers
+ten  ### 
+hundred  ### 
+thousands ### 
+millions ### 
+billions ### 
+trillions ### 
+quadrillions ### 
+quintillions ### 
+sextillions ### 
+septillions ### 
+octillions ### 
+nonillions ### 
+decillions ### 
+
+units ### 
+tens ### 
+hundreds ### 
+
+What is the {place_name} digit of {integer}? ### 
+
+the nearest {round_to} ### 
+the nearest integer ### 
+{dps} decimal place ### 
+{dps} dp ### 
+
+Round {input} to {description}. ### 
+What is {input} rounded to {description}? ### 
+
+composite ### 
+a composite number ### 
+prime ### 
+a prime number ### 
+
+Is {integer} {attribute}? ### 
+
+Is {maybe_factor} a factor of {value}? ### 
+Is {value} a multiple of {maybe_factor}? ### 
+Does {maybe_factor} divide {value}? ### 
+
+Is {value} even? ### 
+
+What are the prime factors of {integer}? ### 
+List the prime factors of {integer}. ### 
+
+least ### 
+lowest ### 
+smallest ### 
+
+Calculate the {adjective} common multiple of {p} and {q}. ### 
+What is the {adjective} common multiple of {p} and {q}? ### 
+
+What is the common denominator of {p} and {q}? ### 
+Find the common denominator of {p} and {q}. ### 
+Calculate the common denominator of {p} and {q}. ### 
+
+greatest ### 
+highest ### 
+common ### 
+divisor ### 
+factor ### 
+
+Calculate the {adjective} of {p} and {q}. ### 
+What is the {adjective} of {p} and {q}? ### 
+Let {self} be the {adjective} of {p} and {q}. ### 
+
+Calculate the remainder when {p} is divided by {q}. ### 
+What is the remainder when {p} is divided by {q}? ### 
+Let {self} be the remainder when {p} is divided by {q}. ### 
+
+{from_str} (base {from_base}) to base {to_base} ### 
+Convert {from_str} (base {from_base}) to base {to_base}. ### 
+What is {from_str} (base {from_base}) in base {to_base}? ### 
+
+# Polynomials
+Express {expression} as {canonical} and give {target}. ### 
+Rearrange {expression} to {canonical} and give {target}. ### 
+Express {expression} in the form {canonical} and give {target}. ### 
+Rearrange {expression} to the form {canonical} and give {target}. ### 
+
+What is {composed}? ### 
+Calculate {composed}. ### 
+Give {composed}. ### 
+Determine {composed}. ### 
+
+Let {self} be {composed}. ### 
+Let {intermediate} = {composed}. ### 
+
+Expand {expression}. ### 
+
+Collect the terms in {unsimplified} ### 
+Let {function} = {unsimplified}. ### 
+
+Simplify {unsimplified} assuming {variable} is positive. ### 
+
+# Probability
+letters picked without replacement from ### 
+
+{random_variable_capitalize}. What is prob of {event}? ### 
+{random_variable_capitalize}. Give prob of {event}. ### 
+What is prob of {event} when {random_variable}? ### 
+Calculate prob of {event} when {random_variable}. ### 
+
+### UTIL
+
+# Display
+zero ### 
+one ### 
+two ### 
+three ### 
+four ### 
+five ### 
+six ### 
+seven ### 
+eight ### 
+nine ### 
+ten ### 
+eleven ### 
+twelve ### 
+thirteen ### 
+fourteeen ### 
+fifteen ### 
+sixteen ### 
+seventeen ### 
+eighteen ### 
+nineteen ### 
+
+twenty ### 
+thirty ### 
+fourty ### 
+fifty ### 
+sixty ### 
+seventy ### 
+eighty ### 
+ninety ### 
+
+trillion ### 
+billion ### 
+million ### 
+thousand ### 
+hundred ### 
+
+half ### 
+third ### 
+quarter ### 
+fifth ### 
+sixth ### 
+seventh ### 
+eighth ### 
+ninth ### 
+tenth ### 
+eleventh ### 
+twelth ### 
+thirteenth ### 
+fourteenth ### 
+fifteenth ### 
+sixteenth ### 
+seventeenth ### 
+eighteenth ### 
+nineteenth ### 
+twentieth ### 
+
+halves ### 
+thirds ### 
+quarters ### 
+fifths ### 
+sixths ### 
+sevenths ### 
+eighths ### 
+ninths ### 
+tenths ### 
+elevenths ### 
+twelths ### 
+thirteenths ### 
+fourteenths ### 
+fifteenths ### 
+sixteenths ### 
+seventeenths ### 
+eighteenths ### 
+nineteenths ### 
+twentieths ### 
+
+zeroth ### 
+first ### 
+second ### 
+third ### 
+fourth ### 
+fifth ### 
+sixth ### 
+seventh ### 
+eighth ### 
+ninth ### 
+tenth ### 
+eleventh ### 
+twelth ### 
+thirteenth ### 
+fourteenth ### 
+fifteenth ### 
+sixteenth ### 
+seventeenth ### 
+eighteenth ### 
+nineteenth ### 
+twentieth ### 
+
+and ### 

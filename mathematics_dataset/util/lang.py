@@ -38,7 +38,7 @@ class Lang:
                 continue
             
             try:
-                original, translation = line.split(';')[:2]
+                original, translation = line.split(' ### ')[:2]
                 original = original.strip()
                 translation = translation.strip()
 

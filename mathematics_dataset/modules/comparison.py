@@ -436,7 +436,7 @@ def sort(sample_args, count=None):
     templates.append('Sort {unsorted_template}.')
     direction = random.choice([lang.l.translate('ascending'), lang.l.translate('increasing')])
   else:
-    direction = random.choice([lang.l.translate(lang.l.translate('descending'), lang.l.translate('decreasing')])
+    direction = random.choice([lang.l.translate('descending'), lang.l.translate('decreasing')])
   template = random.choice(templates)
 
   sorted_entities = sorted(

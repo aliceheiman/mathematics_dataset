@@ -33,5 +33,5 @@ CHAR_TO_INDEX = {char: index for index, char in enumerate(QUESTION_CHARS)}
 INDEX_TO_CHAR = {index: char for index, char in enumerate(QUESTION_CHARS)}
 
 # LANGUAGE
-LANGUAGE = 'en'
+LANGUAGE = 'sv'
 lang.init_translation(LANGUAGE)
