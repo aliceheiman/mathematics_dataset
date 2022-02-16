@@ -1,6 +1,0 @@
-List the prime factors of 2016.
-2, 3, 7
-What are the prime factors of 7491?
-3, 11, 227
-What are the prime factors of 110485?
-5, 19, 1163

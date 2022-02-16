@@ -1,6 +1,0 @@
-Is 6935979 prime?
-False
-Is 7333541 composite?
-False
-Is 70900939 a composite number?
-False

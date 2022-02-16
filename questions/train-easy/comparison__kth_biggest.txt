@@ -1,6 +1,0 @@
-What is the third smallest value in 1, 0.8, -112/9, -1/4?
-0.8
-What is the biggest value in -1/4, -0.4, 16?
-16
-Which is the third biggest value?  (a) 4  (b) 3  (c) 237  (d) -1/4
-b

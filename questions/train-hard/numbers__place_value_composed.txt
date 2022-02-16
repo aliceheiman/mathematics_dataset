@@ -1,6 +1,0 @@
-Let a(r) = 222*r + 2558. What is the tens digit of a(-6)?
-2
-Suppose 3*h + 9*v - 14*v = 19, 4*v = -4*h + 4. Suppose -3*k + 578 = 2*p - k, k - 857 = -h*p. What is the tens digit of p?
-8
-Let w = 97 + -94. Suppose -a + 2*f = 3*f - 519, w*a - 1567 = -5*f. What is the units digit of a?
-4

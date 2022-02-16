@@ -1,6 +1,0 @@
-List the prime factors of (-15)/45 + (3 - (-50204)/6).
-2, 3, 5, 31
-Let b(l) = 7 - 3*l. Let h(f) = f**3 + 12*f**2 + 3*f + 8. Let k be h(-12). What are the prime factors of b(k)?
-7, 13
-Suppose 8470 = 10*f - 32680. What are the prime factors of f?
-5, 823

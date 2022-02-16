@@ -1,6 +1,0 @@
-Let y be ((16/(-4))/(-2))/1. Suppose y*m - 5*m = -6. Suppose 17 = m*x - 95. List the prime factors of x.
-2, 7
-Suppose -3*f = -4*f + 114. Let j be f/12*2*2. Suppose 5*d - j = 27. What are the prime factors of d?
-13
-What are the prime factors of 1161/(-12)*(50 + -62)?
-3, 43

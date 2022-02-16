@@ -1,6 +1,0 @@
-Sort 0, -4, -1, 2.
--4, -1, 0, 2
-Sort 4, -6, 1, 5 in increasing order.
--6, 1, 4, 5
-Sort -0.2, 5, -4, -2, 4 in decreasing order.
-5, 4, -0.2, -2, -4

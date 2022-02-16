@@ -1,6 +1,0 @@
-Let s(f) = 35*f**5 + 110*f**4 + 245*f**3 + 90*f**2 - 270*f - 185. Let r(a) = -a**5 - a**4 - a**3 + 2. Let u(q) = 25*r(q) + s(q). What is j in u(j) = 0?
--3, -1/2, 1
-Let k(n) be the second derivative of -n**4/6 + 7*n**3 + 22*n**2 + 154*n. Find r such that k(r) = 0.
--1, 22
-Let b(j) be the third derivative of -j**8/1680 + j**7/630 + j**6/90 + 3*j**4/4 + j**2. Let o(v) be the second derivative of b(v). Solve o(w) = 0 for w.
--1, 0, 2

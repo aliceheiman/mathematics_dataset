@@ -1,6 +1,0 @@
-Find the common denominator of ((-1222)/(-715))/((-28)/10 + 2) and 23/8 - (-2)/(-2).
-88
-Let r(q) = 2*q**2 + 4*q - 4. Let h be r(-3). Find the common denominator of (-94)/64*(2 + 0) and h*4/(-288)*-190.
-144
-Let w be (2/(-2))/((-3)/117909). Suppose 5*g - 23574 = 3*q, -2*g = -5*q + 2*g - w. Let a = 62805/8 + q. Calculate the common denominator of 29/10 and a.
-40

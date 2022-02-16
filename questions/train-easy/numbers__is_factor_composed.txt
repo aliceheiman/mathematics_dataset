@@ -1,6 +1,0 @@
-Suppose -6 + 16 = -5*p - 2*x, 2*p + 20 = -4*x. Let c = 17 + p. Does 8 divide c?
-False
-Suppose 25 = 2*c - 17. Suppose -2*w + 8 = 2. Let s = w + c. Is s a multiple of 8?
-True
-Let w be 159*(4/(-3) + 2). Let z = -66 + w. Is 11 a factor of z?
-False

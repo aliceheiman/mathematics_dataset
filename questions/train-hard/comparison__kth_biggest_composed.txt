@@ -1,6 +1,0 @@
-Let k = 416.133 - 416.1. Which is the third smallest value?  (a) k  (b) 1/4  (c) 4  (d) -2/9
-b
-Let l(x) = x**2. Let t be l(-1). Let j = 1901 - 9506/5. Which is the smallest value?  (a) 3  (b) t  (c) j  (d) -4
-d
-Let m = -4202 + 4201.94. What is the biggest value in -4, m, 9?
-9

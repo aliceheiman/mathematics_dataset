@@ -1,6 +1,0 @@
-What is the second derivative of 1616*q**4 + 2690*q**2 - 865743*q - 2?
-19392*q**2 + 5380
-What is the first derivative of -5227769*l - 5756101 wrt l?
--5227769
-What is the first derivative of 37960485*g**2 - 34764781?
-75920970*g

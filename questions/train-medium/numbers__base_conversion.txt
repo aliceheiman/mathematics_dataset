@@ -1,6 +1,0 @@
-What is -31113 (base 5) in base 4?
--133301
--300 (base 8) to base 4
--3000
-What is 311233 (base 7) in base 2?
-1101000000100111

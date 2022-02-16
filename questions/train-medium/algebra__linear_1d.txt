@@ -1,6 +1,0 @@
-Solve 39*w = 208*w - 1183 for w.
-7
-Solve 39*s = s - 53*s + 1638 for s.
-18
-Solve -523*g = -3846 - 5045 for g.
-17

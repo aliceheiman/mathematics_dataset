@@ -1,6 +1,0 @@
-Suppose -4*o = 4528 + 11600. Let x = 2802 + o. What is x rounded to the nearest 100?
--1200
-Let i = 970.85250005 + -971.0525. Let n = -2.2 - -2. Let m = i - n. Round m to 7 dps.
-0.0000001
-Let s = -16.1 + 13. Let o = -0.01 - 2.99. Let m = o - s. Round m to one decimal place.
-0.1

@@ -1,6 +1,6 @@
-In base 16, what is 154 - -5?
-159
-In base 3, what is -120221101 - -11?
--120221020
-In base 5, what is 1303 + -12?
-1241
+I bas 8, vad är 11351 + -2?
+11347
+I bas 6, vad är 115221 + -5?
+115212
+I bas 8, vad är -2 + -650?
+-652

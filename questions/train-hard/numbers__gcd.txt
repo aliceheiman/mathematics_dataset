@@ -1,6 +1,0 @@
-What is the highest common factor of 297 and 437409?
-9
-What is the highest common divisor of 2626 and 14470674?
-202
-What is the greatest common divisor of 308 and 3461073?
-77

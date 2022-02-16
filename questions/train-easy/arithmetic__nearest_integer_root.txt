@@ -1,6 +1,0 @@
-What is the third root of 86831 to the nearest integer?
-44
-What is the cube root of 7389 to the nearest integer?
-19
-What is 6273 to the power of 1/2, to the nearest integer?
-79

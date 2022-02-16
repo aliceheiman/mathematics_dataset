@@ -1,6 +1,0 @@
-Let w(c) = -c**3 - 10*c**2 - 12*c - 8. Let p(s) = s**2 - 60*s - 69. Let n be p(61). Calculate w(n).
--40
-Let j(f) = 12*f - 5. Suppose 0 = -u + 4*u + 15. Let v = u - -6. Let c(x) = x - 1. Let n(r) = v*j(r) - 5*c(r). Calculate n(1).
-7
-Let t(j) = 7*j**3 + 5*j**2 - 15*j - 3. Let n(q) = 13*q**3 + 9*q**2 - 28*q - 6. Let p(r) = -6*n(r) + 11*t(r). Calculate p(3).
--6

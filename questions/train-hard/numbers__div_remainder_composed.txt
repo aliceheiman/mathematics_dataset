@@ -1,6 +1,0 @@
-Let p(x) = 2*x**2 + x + 14. Let y = -111 - -147. Calculate the remainder when p(5) is divided by y.
-33
-Let t(o) = 3*o - 97. Let f be t(32). Calculate the remainder when f + -2 + 1512/18 is divided by 17.
-13
-Let n(z) be the second derivative of -z**5/20 + 5*z**4/12 + 13*z**2/2 - 39*z - 1. Let h = 16 - -7. What is the remainder when h is divided by n(5)?
-10

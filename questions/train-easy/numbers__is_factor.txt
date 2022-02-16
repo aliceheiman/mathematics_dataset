@@ -1,6 +1,0 @@
-Is 39668 a multiple of 47?
-True
-Is 6 a factor of 7032?
-True
-Is 946 a multiple of 84?
-False

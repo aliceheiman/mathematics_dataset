@@ -1,3 +1,7 @@
+## TODO
+# PLURALS
+# Tiondel and tionde (add some kind of context?)
+
 ### MODULES
 
 # Algebra

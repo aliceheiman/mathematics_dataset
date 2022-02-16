@@ -1,6 +1,0 @@
-Let k(l) = 2*l**3 + 6*l**2 - 3*l - l**3 + 0*l**3 - 6. Let a be k(-6). Suppose a*j - 10*j = 48. Calculate the remainder when j is divided by 13.
-11
-What is the remainder when 88 - (5 - (-1 + -1)) is divided by 29?
-23
-Suppose -2*h + 4 = -4. Suppose -u + 55 + 103 = h*g, 4*u + 8 = 0. What is the remainder when g is divided by 14?
-12

@@ -1,6 +1,0 @@
-List the prime factors of 279846.
-2, 3, 7, 2221
-What are the prime factors of 233621?
-233621
-List the prime factors of 52907.
-191, 277

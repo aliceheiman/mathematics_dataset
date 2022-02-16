@@ -1,6 +1,0 @@
-Express 462*x**3 - 4 - 457*x**3 + x + 4 - x**4 in the form m + z*x**3 + j*x**2 + r*x**4 + d*x and give d.
-1
-Express 61*l + 1964 - 1964 in the form r + j*l and give j.
-61
-Rearrange -4*k + 2*k + 2*k - 5 - k to the form a + d*k and give d.
--1

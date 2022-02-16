@@ -1,6 +1,0 @@
-Let l = 45 - 32. Suppose 2*i + 3*w + l = 34, -2*i = -3*w + 9. Let r(g) = -g**i - g - 5*g**2 + 13 - 9 - 2*g. Calculate r(-3).
--5
-Let l(m) = 1 - 31*m. Let j be -10 - (2*1 - (-924)/(-84)). Calculate l(j).
-32
-Let a(w) = 4 - w. Let h(r) = 4 - r. Let k(x) = 4*a(x) - 5*h(x). Suppose 0 = 2*j - 15 - 11. Suppose -31*l + j*l - 72 = 0. Determine k(l).
--8

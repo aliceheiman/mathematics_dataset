@@ -1,6 +1,0 @@
-Express -275 - 53 - 126721*n + 126737*n as m*n + f and give f.
--328
-Express (-3 - 1 + 3)*(-133*h + 274*h + 3682*h**2 - 143*h) as w*h**2 + p + n*h and give w.
--3682
-Rearrange (-17*c**3 + 3*c**3 - 10*c**3)*(-1 - 1 - 4) + (2*c - c + 0*c)*(6*c**2 - 4*c - 6*c**2 + c**2) to the form t*c + m*c**3 + o + r*c**2 and give m.
-145

@@ -1,6 +1,0 @@
-Round 139.9517388 to two dps.
-139.95
-Round 13399739.923 to the nearest ten thousand.
-13400000
-Round -2188.92906 to 1 dp.
--2188.9

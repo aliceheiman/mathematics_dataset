@@ -1,6 +1,0 @@
-What is 121 (base 7) in base 15?
-44
-21 (base 4) to base 13
-9
-Convert 20 (base 3) to base 14.
-6

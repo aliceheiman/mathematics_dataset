@@ -1,6 +1,0 @@
-Let p = 4 + -7. Let s = -4.88 + -0.12. Which is the nearest to -1?  (a) p  (b) s  (c) -2/5
-c
-Let q = -0.1 - 0.9. Let w = 5 - 10. Let n = -0.01 - 2.99. Which is the closest to 2/5?  (a) w  (b) n  (c) q
-c
-Let j = 1.4 - 1.7. Which is the nearest to j?  (a) 5/6  (b) 0.2  (c) -3
-b

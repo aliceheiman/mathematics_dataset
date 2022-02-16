@@ -1,6 +1,0 @@
-Let p(x) = 5*x - 3. Let i be p(1). Find the third derivative of 4 - 4 - 8*k**6 - 5*k**6 + 21*k**i wrt k.
--1560*k**3
-Suppose 0 = -z + 2*k, -2*k + 2 + 0 = 0. Suppose 2*o = 4*q - z*o - 28, 4*q + o = 8. Find the second derivative of 7*x**q + 6*x**3 + 2*x**3 - 2*x - 12*x wrt x.
-90*x
-Find the third derivative of -15*b - 18*b**2 + 17*b**2 + 10*b**5 + 0*b + 113*b**5 wrt b.
-7380*b**2

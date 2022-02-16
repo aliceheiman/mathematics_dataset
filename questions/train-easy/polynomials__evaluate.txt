@@ -1,6 +1,0 @@
-Let f(w) = -w**2 - 15*w - 36. Give f(-12).
-0
-Let c(l) = -2*l**2 - 29*l + 23. Calculate c(-14).
-37
-Let i(s) = s**3 - 11*s**2 - 11*s - 10. What is i(12)?
-2

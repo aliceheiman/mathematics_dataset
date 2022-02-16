@@ -1,6 +1,0 @@
-Is (0 - -1)*(-11)/(22/(-590)) composite?
-True
-Suppose 0 = 4*j - 3 - 9. Let y = 5 - j. Suppose 92 = y*a + 2*a. Is a a prime number?
-True
-Let t(k) = k**2 - 4*k. Let a be t(-6). Let i = a - 27. Is i prime?
-False

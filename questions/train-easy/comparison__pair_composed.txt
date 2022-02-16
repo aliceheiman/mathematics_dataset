@@ -1,6 +1,0 @@
-Let d = -3 + 2. Let k = -2 + 1. Let a be 2/(-4) - k/2. Which is bigger: d or a?
-a
-Let t be 1 - -3 - 3/1. Which is greater: 8 or t?
-8
-Suppose -14 = 9*m - 4*m - d, 0 = 5*m + 3*d + 18. Let g be (-2)/2 + m/(-4). Suppose -3*t - 2*t + 5 = 0. Is g > t?
-False

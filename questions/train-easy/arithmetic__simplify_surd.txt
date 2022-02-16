@@ -1,6 +1,0 @@
-Simplify (2 + sqrt(432)*1)**2.
-48*sqrt(3) + 436
-Simplify (sqrt(500) - (sqrt(500) - (4*(2 + sqrt(500)))**2))*1.
-640*sqrt(5) + 8064
-Simplify -1*sqrt(396)*-2*-2.
--24*sqrt(11)

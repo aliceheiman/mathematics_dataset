@@ -1,6 +1,0 @@
-Let r = 4 + -5. Let k be r/(3/2)*-3. Suppose -w - 4*t = 7, 2*w = -k*t + 3*t + 31. What are the prime factors of w?
-13
-Let c = -66 + 101. What are the prime factors of c?
-5, 7
-Suppose 2*u - 79 + 23 = 0. Suppose u = 2*h + 2*h - 4*k, 2*h = k + 10. What are the prime factors of h?
-3

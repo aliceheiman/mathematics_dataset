@@ -1,6 +1,0 @@
-Which is the closest to 1?  (a) -3  (b) 3/8  (c) 0.5
-c
-Which is the nearest to -0.26?  (a) 2  (b) -0.5  (c) -5  (d) -1
-b
-What is the nearest to -59 in 0.4, -2/11, -3, 4?
--3

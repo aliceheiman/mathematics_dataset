@@ -1,6 +1,0 @@
-Let i(b) = b**2 - 11*b + 15. Let p(s) = 3*s**2 - 31*s + 44. Let q(o) = 11*i(o) - 4*p(o). Let a be q(-6). Is -65 < a?
-False
-Let y be (-1)/48*-2*7. Let p = -1261/8 - -157. Let r = p + y. Which is smaller: 1 or r?
-r
-Let f = 29/24 + -229/192. Suppose -2 = -4*p - 9*r + 8*r, 3*p - 4*r + 8 = 0. Is p at least as big as f?
-False

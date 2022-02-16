@@ -1,6 +1,0 @@
-Are 1452028 and 1451940 equal?
-False
-Which is bigger: 211058174/5 or 42211636?
-42211636
-Is -63320/7567 smaller than -9?
-False

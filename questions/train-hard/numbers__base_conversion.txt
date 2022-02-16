@@ -1,6 +1,0 @@
-What is -1982dc (base 16) in base 11?
--a4213a
-22163a (base 13) to base 7
-6553005
-38c1c9 (base 13) to base 9
-2516003

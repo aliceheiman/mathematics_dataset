@@ -1,6 +1,0 @@
-Let w be (-3)/5 - (-82)/120. Let i = -1/4 + w. What is the second biggest value in 5, 4, i?
-4
-Let v = -15 - -14. Let x = -6 + 6. Let y = x - -0.4. What is the biggest value in v, y, 1?
-1
-Let h = 96 - 93.1. What is the second smallest value in h, -2/5, 1/3?
-1/3

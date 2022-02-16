@@ -1,6 +1,6 @@
-Solve 0 = y + 4*y - 20, -k + 5*y - 25 = 0 for k.
--5
-Solve -5*o + 6*o + 5*w - 18 = 0, w - 4 = 0 for o.
--2
-Solve 0 = 3*l - 2*d + 11, -3*d = 6 for l.
--5
+Solve -n + 3*v = 12, -2*n + 4*v - 9 - 7 = 0 for n.
+0
+Solve 55*m + 16 = 2*z + 59*m, 3*z = 4*m + 4 for z.
+4
+Solve -5 = -g + 6*g, -2*t + 4 = -2*g for t.
+1

@@ -1,6 +1,0 @@
-What is the third smallest value in -2/11, -0.19, -6/11, -4?
--0.19
-What is the third biggest value in 3/5, -138/11, -27, 18?
--138/11
-Which is the fifth smallest value?  (a) 0.04  (b) -1/9590  (c) 0.5  (d) -0.4  (e) -2/9
-c

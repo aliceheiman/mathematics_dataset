@@ -1,6 +1,0 @@
-Let q(a) = 21*a + 8. Let v(y) = 21*y - 28. Let u(w) = 8*w - 10. Let o(g) = -8*u(g) + 3*v(g). Let m(s) = -2*o(s) - q(s). Let j(f) = -2*f**2. What is j(m(x))?
--722*x**2
-Let d(i) = 19*i**2. Let o(n) = 591117*n. Calculate o(d(s)).
-11231223*s**2
-Let i(c) = -3*c - 1060. Let w(u) = -19852*u. Determine w(i(a)).
-59556*a + 21043120

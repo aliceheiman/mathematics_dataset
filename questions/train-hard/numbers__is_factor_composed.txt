@@ -1,6 +1,0 @@
-Suppose 491 = -5*d + 3281. Suppose k = -4*s + 744, -3*s + 10*k + d = 6*k. Is s a multiple of 4?
-False
-Let c(s) = -s**2 + 3*s - 14. Let g be c(0). Let z = -24 - -69. Let f = z + g. Does 5 divide f?
-False
-Suppose 98 = 2*o + 5*i + 28, 0 = -o + i + 28. Does 8 divide 7*o - (15 + -13)?
-True

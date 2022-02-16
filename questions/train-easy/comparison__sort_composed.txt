@@ -1,6 +1,0 @@
-Let m = 0.135 - 2.135. Put m, 1, -10, -0.4 in increasing order.
--10, m, -0.4, 1
-Let r be 1/(-2)*(4 - 4). Suppose -4*k - 4*z - 25 + 5 = r, -2*z = -5*k - 4. Put -3, k, 4 in increasing order.
--3, k, 4
-Let n = -0.5 - 2.5. Let j = n - 1. Let i = 6 - 4. Sort j, i, 3 in descending order.
-3, i, j

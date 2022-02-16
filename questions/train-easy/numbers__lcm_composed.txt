@@ -1,6 +1,0 @@
-Let s = -88/93 - 613/62. Calculate the common denominator of s and -11/56.
-168
-Let l(r) = 2 - 2*r. Suppose i + 1 - 3 = 0. Suppose -i*u + 10 = -10. Calculate the lowest common multiple of u and l(-2).
-30
-Suppose w - 2 - 1 = -x, -4*x + 4 = 3*w. Let t(n) = n**2 + 5*n + 6. Let g be t(-4). What is the common denominator of 46 and w/10 + g/(-1)?
-5

@@ -1,6 +1,0 @@
-List the prime factors of 308880904.
-2, 2341, 16493
-List the prime factors of 56769446.
-2, 59, 481097
-List the prime factors of 43884707.
-587, 74761

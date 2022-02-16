@@ -1,6 +1,0 @@
-Let w(z) be the second derivative of -z**4/12 + z**3/6 - z**2/2 - 3*z. Let b be w(3). Let a(c) = c**3 + 6*c**2 - 10*c - 17. Is a(b) a multiple of 2?
-True
-Let p(r) = -1. Let t(w) = -17*w**2 + 2*w + 1. Let j(h) = -2*p(h) - t(h). Let f be j(2). Let n = 102 - f. Is 15 a factor of n?
-False
-Let q(g) = -3*g**3 + g**2 + 4. Let n be q(-2). Let t be (40/(-32))/((-1)/n). Suppose 8*o + t = 13*o. Does 8 divide o?
-True

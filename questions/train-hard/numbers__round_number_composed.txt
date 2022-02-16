@@ -1,6 +1,0 @@
-Let n = 4204.3 - 3334. Round n to the nearest 10.
-870
-Suppose 9*c - 3 = 6. Let w(o) = 75990*o + 10. Let l be w(c). Round l to the nearest one hundred thousand.
-100000
-Let y = 0.2907 + -37.5507. Let n = -31.9 - y. What is n rounded to the nearest integer?
-5

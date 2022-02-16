@@ -1,6 +1,0 @@
-Let p be 10/(-1) + 136 + -9 + 3. Solve 105*y = 75*y - p for y.
--4
-Let q be 36/21*(-1960)/(-60). Suppose -q*l + 453 = -1059. Solve l*n - 25 = 32*n for n.
--5
-Suppose -52 - 140 - 55 = -13*i. Solve 7 = 3*l + i for l.
--4

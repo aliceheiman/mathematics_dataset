@@ -1,6 +1,0 @@
-Let n(l) = l**3 - 2*l**2 + 3*l - 3. Let u be n(2). Suppose 0 = -u*d + 4*d - 10. Let h be (-1 - d)*(-3 + -18). Calculate the greatest common divisor of h and 21.
-21
-Let s(o) be the third derivative of -o**5/60 + 11*o**4/12 - 13*o**3/3 + 9*o**2. Let i = -26 + 37. Let n be s(i). What is the highest common divisor of 38 and n?
-19
-Suppose 3*l = -285 + 744. Suppose 4*m - l = -41. Calculate the greatest common factor of m and 28.
-28

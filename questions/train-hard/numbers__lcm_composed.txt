@@ -1,6 +1,0 @@
-Calculate the common denominator of (15/((-45)/98))/(0 + 20) and 44/1971.
-19710
-Let w = 2012 - 16131/8. Let m be 2997/(-15576) + (-28)/(-154). Let f = 4519/3304 + m. Find the common denominator of w and f.
-56
-Let w = 82/22661 + 1900225/32223942. What is the common denominator of w and -83/1422?
-1422

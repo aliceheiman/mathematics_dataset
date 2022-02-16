@@ -1,6 +1,0 @@
-Two letters picked without replacement from {q: 10}. What is prob of picking 2 q?
-1
-Two letters picked without replacement from qkk. What is prob of picking 2 k?
-1/3
-What is prob of picking 1 w and 2 v when three letters picked without replacement from {v: 13, w: 5}?
-65/136

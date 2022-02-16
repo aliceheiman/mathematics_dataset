@@ -1,6 +1,0 @@
-Let t(i) = i**3 + 16*i**2 - 3*i. Let y(d) = 48*d**3 + 27*d**2 + 3*d. Let o(g) = -2*t(g) + y(g). Let f(q) = 23*q**3 - 2*q**2 + 4*q. Calculate -5*f(v) + 2*o(v).
--23*v**3 - 2*v
-Let u(h) = h**2 - h + 1. Let x(b) be the first derivative of -10*b**3/3 + 5*b**2/2 - 2*b + 8838. What is -4*u(g) - x(g)?
-6*g**2 - g - 2
-Let n(u) = 3 + u - 5*u - 5*u**3 - 4*u. Let k = 589 - 1223. Let h = -626 - k. Let f(w) = -2*w**3 - 3*w + 1. Give h*f(r) - 3*n(r).
--r**3 - 1

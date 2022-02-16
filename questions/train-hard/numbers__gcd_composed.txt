@@ -1,6 +1,0 @@
-Let p(u) = 2*u + 19. Let o be p(-8). Suppose -1 - 17 = -o*v. Suppose -28 = v*y - 7*y. What is the highest common factor of y and 14?
-14
-Suppose 4*w = 5*a - 2680, -26*w = 3*a - 27*w - 1601. What is the greatest common divisor of a and 140?
-28
-Let b be 55034 + 8/((-216)/(-243)). Calculate the greatest common factor of 19 and b.
-19

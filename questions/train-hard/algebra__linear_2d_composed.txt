@@ -1,6 +1,0 @@
-Suppose 0 = 7*r - 2*r - 10. Suppose -3*o + 1 = -r*c + 6, 8 = 5*c - 3*o. Solve -5*y + 10 = 2*z, 4*z + 5*y = c + 9 for z.
-0
-Suppose 0 = m - 5, 0 = w - 4*w - 5*m + 7. Let b = 2 - w. Let v = -4 + b. Solve 0 = -v*c, -2*c - 2 = i - 4*c for i.
--2
-Suppose 0 = 5*j - 3*t - 73, -4*j - 13 = t - 85. Solve 0 = 4*n + 8, 3*n = 5*s - j + 11 for s.
-0

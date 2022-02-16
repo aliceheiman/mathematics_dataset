@@ -1,6 +1,0 @@
-What is the highest common divisor of 4 and 4?
-4
-What is the highest common divisor of 37 and 481?
-37
-Calculate the highest common divisor of 42058 and 17.
-17

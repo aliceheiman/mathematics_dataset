@@ -1,6 +1,0 @@
-Let v(k) = 11*k - 255. Let o be v(23). Sort o, 3, 7, 1 in descending order.
-7, 3, 1, o
-Let t = -4 + 4.4. Let q be 5 + (-6 - 5/(0 + -1)). Sort -2/5, t, 4/7, q in decreasing order.
-q, 4/7, t, -2/5
-Let w = 2 - 1. Let g be -2*w*(-1)/(-1). Let m = -18515 - -18512. Sort m, g, 3.
-m, g, 3
