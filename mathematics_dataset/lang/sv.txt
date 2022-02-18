@@ -316,7 +316,7 @@ divisor ### delaren
 factor ### faktorn
 
 Calculate the {adjective} of {p} and {q}. ### Beräkna den {adjective} till {p} och {q}.
-What is the {adjective} of {p} and {q}? ### Vad är den {adjective} till {p} och {q}?
+What is the {adjective} of {p} and {q}? ### Vilken är den {adjective} till {p} och {q}?
 Let {self} be the {adjective} of {p} and {q}. ### Låt {self} vara den {adjective} till {p} och {q}.
 
 Calculate the remainder when {p} is divided by {q}. ### Beräkna resten då {p} delas med {q}.
@@ -343,7 +343,7 @@ Let {intermediate} = {composed}. ### Låt {intermediate} = {composed}.
 
 Expand {expression}. ### Utveckla {expression}.
 
-Collect the terms in {unsimplified} ### Samla termerna i {unsimplified}
+Collect the terms in {unsimplified}. ### Samla termerna i {unsimplified}
 Let {function} = {unsimplified}. ### Låt {function} = {unsimplified}.
 
 Simplify {unsimplified} assuming {variable} is positive. ### Förenkla {unsimplified} förutsatt att {variable} är positiv.
