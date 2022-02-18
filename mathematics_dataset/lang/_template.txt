@@ -1,405 +1,468 @@
 ### MODULES
 
 # Algebra
-Let {equality}. What is {variable}? ### 
-Let {equality}. Calculate {variable}. ### 
-Suppose {equality}. What is {variable}? ### 
-Suppose {equality}. Calculate {variable}. ### 
-What is {variable} in {equality}? ### 
-Solve {equality} for {variable}. ### 
-Find {variable} such that {equality}. ### 
-Find {variable}, given that {equality}. ### 
-Determine {variable} so that {equality}. ### 
-Determine {variable}, given that {equality}. ### 
-Solve {equality}. ### 
+Let {equality}. What is {variable}? ### _ {equality}. _ {variable}?
+Let {equality}. Calculate {variable}. ### _ {equality}. _ {variable}.
+Suppose {equality}. What is {variable}? ### _ {equality}. _ {variable}?
+Suppose {equality}. Calculate {variable}. ### _ {equality}. _ {variable}.
+What is {variable} in {equality}? ### _ {variable} _ {equality}?
+Solve {equality} for {variable}. ### _ {equality} _ {variable}.
+Find {variable} such that {equality}. ### _ {variable} _ {equality}.
+Find {variable}, given that {equality}. ### _ {variable}, _ {equality}.
+Determine {variable} so that {equality}. ### _ {variable} _ {equality}.
+Determine {variable}, given that {equality}. ### _ {variable}, _ {equality}.
+Solve {equality}. ### _ {equality}.
+Factor {expression}. ### _ {expression}.
+Solve {equations} for {variable}. ### _ {equations} _ {variable}.
+Suppose {equations}. ### _ {equations}.
 
-What is next in {sequence}? ### 
-What comes next: {sequence}? ### 
-What is the next term in {sequence}? ### 
+What is next in {sequence}? ### _ {sequence}?
+What comes next: {sequence}? ### _ {sequence}?
+What is the next term in {sequence}? ### _ {sequence}?
+What is the {variable}'th term of {sequence}? ### _ {variable}'th _ {sequence}?
 
 # Arithmetic
-{p} + {q} ### 
-{p}+{q} ### 
-Work out {p} + {q}. ### 
-Add {p} and {q}. ### 
-Put together {p} and {q}. ### 
-Sum {p} and {q}. ### 
-Total of {p} and {q}. ### 
-Add together {p} and {q}. ### 
-What is {p} plus {q}? ### 
-Calculate {p} + {q}. ### 
-What is {p} + {q}? ### 
+{p} + {q} ### {p} _ {q}
+{p}+{q} ### {p}+{q}
+Work out {p} + {q}. ### _ {p} _ {q}.
+Add {p} and {q}. ### _ {p} _ {q}.
+Put together {p} and {q}. ### _ {p} _ {q}.
+Sum {p} and {q}. ### _ {p} _ {q}.
+Total of {p} and {q}. ### _ {p} _ {q}.
+Add together {p} and {q}. ### _ {p} _ {q}.
+What is {p} plus {q}? ### _ {p} _ {q}?
+Calculate {p} + {q}. ### _ {p} _ {q}.
+What is {p} + {q}? ### _ {p} _ {q}?
+Let {self} = {p} * {q}. ### _ {self} _ {p} _ {q}.
 
-Let {self} = {p} + {q}. ### 
+Let {self} = {p} + {q}. ### _ {self} _ {p} _ {q}.
 
-{p} - {q} ### 
-Work out {p} - {q}. ### 
-What is {p} minus {q}? ### 
-What is {p} take away {q}? ### 
-What is {q} less than {p}? ### 
-Subtract {q} from {p}. ### 
-Calculate {p} - {q}. ### 
-What is {p} - {q}? ### 
+{p} - {q} ### {p} _ {q}
+Work out {p} - {q}. ### _ {p} _ {q}.
+What is {p} minus {q}? ### _ {p} _ {q}?
+What is {p} take away {q}? ### _ {p} _ {q}?
+What is {q} less than {p}? ### _ {q} _ {p}?
+Subtract {q} from {p}. ### _ {q} _ {p}.
+Calculate {p} - {q}. ### _ {p} _ {q}.
+What is {p} - {q}? ### _ {p} _ {q}?
 
-distance ### 
-difference ### 
-{p} and {q} ### 
-{q} and {p} ### 
-What is the {} between {}? ### 
-Let {self} = {p} - {q}. ### 
+distance ### _
+difference ### _
+{p} and {q} ### {p} _ {q}
+{q} and {p} ### {q} _ {p}
+What is the {} between {}? ### _ {} _ {}?
+Let {self} = {p} - {q}. ### _ {self} _ {p} _ {q}.
 
-In base {base}, what is {p} + {q}? ### 
-In base {base}, what is {p} - {q}? ### 
+In base {base}, what is {p} + {q}? ### _ {base}, _ {p} _ {q}?
+In base {base}, what is {p} - {q}? ### _ {base}, _ {p} _ {q}?
 
-{p}{ops.MUL_SYMBOL}{q} ### 
-{p} {ops.MUL_SYMBOL} {q} ### 
-Calculate {p}{ops.MUL_SYMBOL}{q}. ### 
-Work out {p} {ops.MUL_SYMBOL} {q}. ### 
-Multiply {p} and {q}. ### 
-Product of {p} and {q}. ### 
-What is the product of {p} and {q}? ### 
-{p} times {q} ### 
-What is {p} times {q}? ### 
+{p}{ops.MUL_SYMBOL}{q} ### {p}{ops.MUL_SYMBOL}{q}
+{p} {ops.MUL_SYMBOL} {q} ### {p} {ops.MUL_SYMBOL} {q}
+Calculate {p}{ops.MUL_SYMBOL}{q}. ### _ {p}{ops.MUL_SYMBOL}{q}.
+Work out {p} {ops.MUL_SYMBOL} {q}. ### _ {p} {ops.MUL_SYMBOL} {q}.
+Multiply {p} and {q}. ### _ {p} _ {q}.
+Product of {p} and {q}. ### _ {p} _ {q}.
+What is the product of {p} and {q}? ### _ {p} _ {q}?
+{p} times {q} ### {p} _ {q}
+What is {p} times {q}? ### _ {p} _ {q}?
 
-Divide {p} by {q}. ### 
-{p} divided by {q} ### 
-What is {p} divided by {q}? ### 
-Calculate {p} divided by {q}. ### 
+Divide {p} by {q}. ### _ {p} _ {q}.
+{p} divided by {q} ### {p} _ {q}
+What is {p} divided by {q}? ### _ {p} _ {q}?
+Calculate {p} divided by {q}. ### _ {p} _ {q}.
 
-Let {self} be {p} divided by {q}. ### 
+Let {self} be {p} divided by {q}. ### _ {self} _ {p} _ {q}.
 
-What is {value} to the power of 1/{one_over_exponent}, to the nearest integer? ### 
-What is the {ordinal} root of {value} to the nearest integer? ### 
-What is the square root of {value} to the nearest integer? ### 
-What is the cube root of {value} to the nearest integer? ### 
+What is {value} to the power of 1/{one_over_exponent}, to the nearest integer? ### _ {value} _
+What is the {ordinal} root of {value} to the nearest integer? ### _ {ordinal} _ {value} _
+What is the square root of {value} to the nearest integer? ### _ {value} _
+What is the cube root of {value} to the nearest integer? ### _ {value} _
 
-{op} ### 
-What is {op}? ### 
-Evaluate {op}. ### 
-Calculate {op}. ### 
-What is the value of {op}? ### 
+{op} ### {op}
+What is {op}? ### _ {op}?
+Evaluate {op}. ### _ {op}.
+Calculate {op}. ### _ {op}.
+What is the value of {op}? ### _ {op}?
+Let {self} be {op}. ### _ {self} _ {op}.
 
-Simplify {exp}. ### 
+Simplify {exp}. ### _ {exp}.
 
 # Calculus
-Find the {nth} derivative of {eq} wrt {var}. ### 
-What is the {nth} derivative of {eq} wrt {var}? ### 
-Differentiate {eq} with respect to {var}. ### 
-Differentiate {eq} wrt {var}. ### 
-What is the derivative of {eq} wrt {var}? ### 
-Find the {nth} derivative of {eq}. ### 
-What is the {nth} derivative of {eq}? ### 
-Differentiate {eq}. ### 
-What is the derivative of {eq}? ### 
+Find the {nth} derivative of {eq} wrt {var}. ### _ {nth} _ {eq} _ {var}.
+What is the {nth} derivative of {eq} wrt {var}? ### _ {nth} _ {eq} _ {var}?
+Differentiate {eq} with respect to {var}. ### _ {eq} _ {var}.
+Differentiate {eq} wrt {var}. ### _ {eq} _ {var}.
+What is the derivative of {eq} wrt {var}? ### _ {eq} _ {var}?
+Find the {nth} derivative of {eq}. ### _ {nth} _ {eq}.
+What is the {nth} derivative of {eq}? ### _ {nth} _ {eq}?
+Differentiate {eq}. ### _ {eq}.
+What is the derivative of {eq}? ### _ {eq}?
+Let {fn}({variables}) be the {nth} derivative of {eq}. ### _ {fn}({variables}) _ {nth} _ {eq}.
 
 # Comparisons
-Which is bigger: {left} or {right}?' ### 
-Which is greater: {left} or {right}?' ### 
-Which is smaller: {left} or {right}?' ### 
+Which is bigger: {left} or {right}?' ### _ {left} _ {right}?'
+Which is greater: {left} or {right}?' ### _ {left} _ {right}?'
+Which is smaller: {left} or {right}?' ### _ {left} _ {right}?'
 
-Is {left} {ops.LT_SYMBOL} {right}? ### 
-Is {left} less than {right}? ### 
-Is {left} smaller than {right}? ### 
+Is {left} {ops.LT_SYMBOL} {right}? ### _ {left} {ops.LT_SYMBOL} {right}?
+Is {left} less than {right}? ### _ {left} _ {right}?
+Is {left} smaller than {right}? ### _ {left} _ {right}?
 
-Is {left} {ops.LE_SYMBOL} {right}? ### 
-Is {left} less than or equal to {right}? ### 
-Is {left} at most {right}? ### 
-Is {left} at most as big as {right}? ### 
+Is {left} {ops.LE_SYMBOL} {right}? ### _ {left} {ops.LE_SYMBOL} {right}?
+Is {left} less than or equal to {right}? ### _ {left} _ {right}?
+Is {left} at most {right}? ### _ {left} _ {right}?
+Is {left} at most as big as {right}? ### _ {left} _ {right}?
 
-Is {left} {ops.GT_SYMBOL} {right}? ### 
-Is {left} greater than {right}? ### 
-Is {left} bigger than {right}? ### 
+Is {left} {ops.GT_SYMBOL} {right}? ### _ {left} {ops.GT_SYMBOL} {right}?
+Is {left} greater than {right}? ### _ {left} _ {right}?
+Is {left} bigger than {right}? ### _ {left} _ {right}?
 
-Is {left} {ops.GE_SYMBOL} {right}? ### 
-Is {left} greater than or equal to {right}? ### 
-Is {left} at least {right}? ### 
-Is {left} at least as big as {right}? ### 
+Is {left} {ops.GE_SYMBOL} {right}? ### _ {left} {ops.GE_SYMBOL} {right}?
+Is {left} greater than or equal to {right}? ### _ {left} _ {right}?
+Is {left} at least {right}? ### _ {left} _ {right}?
+Is {left} at least as big as {right}? ### _ {left} _ {right}?
 
-Does {left} {ops.EQ_SYMBOL} {right}? ### 
-Are {left} and {right} equal? ### 
-Is {left} equal to {right}? ### 
-Do {left} and {right} have the same value? ### 
+Does {left} {ops.EQ_SYMBOL} {right}? ### _ {left} {ops.EQ_SYMBOL} {right}?
+Are {left} and {right} equal? ### _ {left} _ {right} _
+Is {left} equal to {right}? ### _ {left} _ {right}?
+Do {left} and {right} have the same value? ### _ {left} _ {right} _
 
-Is {left} {ops.NE_SYMBOL} {right}? ### 
-Is {left} not equal to {right}? ### 
-Are {left} and {right} unequal? ### 
-Are {left} and {right} nonequal? ### 
-Are {left} and {right} non-equal? ### 
-Do {left} and {right} have different values? ### 
+Is {left} {ops.NE_SYMBOL} {right}? ### _ {left} {ops.NE_SYMBOL} {right}?
+Is {left} not equal to {right}? ### _ {left} _ {right}?
+Are {left} and {right} unequal? ### _ {left} _ {right} _
+Are {left} and {right} nonequal? ### _ {left} _ {right} _
+Are {left} and {right} non-equal? ### _ {left} _ {right} _
+Do {left} and {right} have different values? ### _ {left} _ {right} _
 
-What is the {adjective} value in {values_template}? ### 
-Which is the {adjective} value? ### 
+What is the {adjective} value in {values_template}? ### _ {adjective} _ {values_template}?
+Which is the {adjective} value? ### _ {adjective} _
 
-biggest ### 
-smallest ### 
+biggest ### _
+smallest ### _
 
-What is the {adjective} to {target} in {values_template}? ### 
-Which is the {adjective} to {target}? ### 
+What is the {adjective} to {target} in {values_template}? ### _ {adjective} _ {target} _ {values_template}?
+Which is the {adjective} to {target}? ### _ {adjective} _ {target}?
 
-closest ### 
-nearest ### 
+closest ### _
+nearest ### _
 
-Sort {unsorted_template} in {direction} order. ### 
-Put {unsorted_template} in {direction} order. ### 
-Sort {unsorted_template}. ### 
+Sort {unsorted_template} in {direction} order. ### _ {unsorted_template} _ {direction} _
+Put {unsorted_template} in {direction} order. ### _ {unsorted_template} _ {direction} _
+Sort {unsorted_template}. ### _ {unsorted_template}.
 
-ascending ### 
-increasing ### 
-descending ### 
-decreasing ### 
+ascending ### _
+increasing ### _
+descending ### _
+decreasing ### _
 
 # Measurement
-meter ### 
-kilometer ### 
-centimeter ### 
-millimeter ### 
-micrometer ### 
-nanometer ### 
+meter ### _
+kilometer ### _
+centimeter ### _
+millimeter ### _
+micrometer ### _
+nanometer ### _
 
-second ### 
-minute ### 
-hour ### 
-day ### 
-week ### 
-millisecond ### 
-microsecond ### 
-nanosecond ### 
+meters ### _
+kilometers ### _
+centimeters ### _
+millimeters ### _
+micrometers ### _
+nanometers ### _
 
-year ### 
-decade ### 
-century ### 
-centuries ### 
-millennium ### 
-millennia ### 
-month ### 
+second ### _
+minute ### _
+hour ### _
+day ### _
+week ### _
+millisecond ### _
+microsecond ### _
+nanosecond ### _
 
-kilogram ### 
-tonne ### 
-gram ### 
-milligram ### 
-microgram ### 
-nanogram ### 
+seconds ### _
+minutes ### _
+hours ### _
+days ### _
+weeks ### _
+milliseconds ### _
+microseconds ### _
+nanoseconds ### _
 
-litre ### 
-millilitre ### 
+year ### _
+decade ### _
+century ### _
+millennium ### _
+month ### _
 
-How many {target_name} are there in {base_value} {base_name}? ### 
-What is {base_value} {base_name} in {target_name}? ### 
-Convert {base_value} {base_name} to {target_name}. ### 
+years ### _
+decades ### _
+centuries ### _
+millennia ### _
+months ### _
 
-How many {target_name} are there in {base_value}{base_symbol}? ### 
-What is {base_value}{base_symbol} in {target_name}? ### 
-Convert {base_value}{base_symbol} to {target_name}. ### 
+kilogram ### _
+tonne ### _
+gram ### _
+milligram ### _
+microgram ### _
+nanogram ### _
 
-How many {target_name} are there in {base_value} of a {base_name}? ### 
-What is {base_value} of a {base_name} in {target_name}? ### 
+kilograms ### _
+tonnes ### _
+grams ### _
+milligrams ### _
+micrograms ### _
+nanograms ### _
 
-What is {duration} minutes before {end}? ### 
-What is {duration} minutes after {start}? ### 
-How many minutes are there between {start} and {end}? ### 
+litre ### _
+millilitre ### _
+
+litres ### _
+millilitres ### _
+
+How many {target_name} are there in {base_value} {base_name}? ### _ {target_name} _ {base_value} {base_name}?
+What is {base_value} {base_name} in {target_name}? ### _ {base_value} {base_name} _ {target_name}?
+Convert {base_value} {base_name} to {target_name}. ### _ {base_value} {base_name} _ {target_name}.
+
+How many {target_name} are there in {base_value}{base_symbol}? ### _ {target_name} _ {base_value}{base_symbol}?
+What is {base_value}{base_symbol} in {target_name}? ### _ {base_value}{base_symbol} _ {target_name}?
+Convert {base_value}{base_symbol} to {target_name}. ### _ {base_value}{base_symbol} _ {target_name}.
+
+How many {target_name} are there in {base_value} of a {base_name}? ### _ {target_name} _ {base_value} _ {base_name}?
+What is {base_value} of a {base_name} in {target_name}? ### _ {base_value} _ {base_name} _ {target_name}?
+
+AM ### _
+PM ### _
+
+What is {duration} minutes before {end}? ### _ {duration} _ {end}?
+What is {duration} minutes after {start}? ### _ {duration} _ {start}?
+How many minutes are there between {start} and {end}? ### _ {start} _ {end}?
 
 # Numbers
-ten  ### 
-hundred  ### 
-thousands ### 
-millions ### 
-billions ### 
-trillions ### 
-quadrillions ### 
-quintillions ### 
-sextillions ### 
-septillions ### 
-octillions ### 
-nonillions ### 
-decillions ### 
 
-units ### 
-tens ### 
-hundreds ### 
+True ### _
+False ### _
 
-What is the {place_name} digit of {integer}? ### 
+ten  ### _
+hundred  ### _
+thousands ### _
+millions ### _
+billions ### _
+trillions ### _
+quadrillions ### _
+quintillions ### _
+sextillions ### _
+septillions ### _
+octillions ### _
+nonillions ### _
+decillions ### _
 
-the nearest {round_to} ### 
-the nearest integer ### 
-{dps} decimal place ### 
-{dps} dp ### 
+10 ### _
+100 ### _
+1000 ### _
+10000 ### _
+100000 ### _
+1000000 ### _
+10000000 ### _
+100000000 ### _
 
-Round {input} to {description}. ### 
-What is {input} rounded to {description}? ### 
+units ### _
+tens ### _
+hundreds ### _
 
-composite ### 
-a composite number ### 
-prime ### 
-a prime number ### 
+What is the {place_name} digit of {integer}? ### _ {place_name} _ {integer}?
 
-Is {integer} {attribute}? ### 
+the nearest {round_to} ### _ {round_to}
+the nearest integer ### _
+{dps} decimal place ### {dps} _
+{dps} dp ### {dps} _
+{dps} decimal places ### {dps} _
+{dps} dps ### {dps} _
 
-Is {maybe_factor} a factor of {value}? ### 
-Is {value} a multiple of {maybe_factor}? ### 
-Does {maybe_factor} divide {value}? ### 
+Round {input} to {description}. ### _ {input} _ {description}.
+What is {input} rounded to {description}? ### _ {input} _ {description}?
 
-Is {value} even? ### 
+composite ### _
+a composite number ### _
+prime ### _
+a prime number ### _
 
-What are the prime factors of {integer}? ### 
-List the prime factors of {integer}. ### 
+Is {integer} {attribute}? ### _ {integer} {attribute}?
 
-least ### 
-lowest ### 
-smallest ### 
+Is {maybe_factor} a factor of {value}? ### _ {maybe_factor} _ {value}?
+Is {value} a multiple of {maybe_factor}? ### _ {value} _ {maybe_factor}?
+Does {maybe_factor} divide {value}? ### _ {maybe_factor} _ {value}?
 
-Calculate the {adjective} common multiple of {p} and {q}. ### 
-What is the {adjective} common multiple of {p} and {q}? ### 
+Is {value} even? ### _ {value} _
 
-What is the common denominator of {p} and {q}? ### 
-Find the common denominator of {p} and {q}. ### 
-Calculate the common denominator of {p} and {q}. ### 
+What are the prime factors of {integer}? ### _ {integer}?
+List the prime factors of {integer}. ### _ {integer}.
 
-greatest ### 
-highest ### 
-common ### 
-divisor ### 
-factor ### 
+least ### _
+lowest ### _
+smallest ### _
 
-Calculate the {adjective} of {p} and {q}. ### 
-What is the {adjective} of {p} and {q}? ### 
-Let {self} be the {adjective} of {p} and {q}. ### 
+Calculate the {adjective} common multiple of {p} and {q}. ### _ {adjective} _ {p} _ {q}.
+What is the {adjective} common multiple of {p} and {q}? ### _ {adjective} _ {p} _ {q}?
 
-Calculate the remainder when {p} is divided by {q}. ### 
-What is the remainder when {p} is divided by {q}? ### 
-Let {self} be the remainder when {p} is divided by {q}. ### 
+What is the common denominator of {p} and {q}? ### _ {p} _ {q}?
+Find the common denominator of {p} and {q}. ### _ {p} _ {q}.
+Calculate the common denominator of {p} and {q}. ### _ {p} _ {q}.
 
-{from_str} (base {from_base}) to base {to_base} ### 
-Convert {from_str} (base {from_base}) to base {to_base}. ### 
-What is {from_str} (base {from_base}) in base {to_base}? ### 
+greatest ### _
+highest ### _
+common ### _
+divisor ### _
+factor ### _
+
+Calculate the {adjective} of {p} and {q}. ### _ {adjective} _ {p} _ {q}.
+What is the {adjective} of {p} and {q}? ### _ {adjective} _ {p} _ {q}?
+Let {self} be the {adjective} of {p} and {q}. ### _ {self} _ {adjective} _ {p} _ {q}.
+
+Calculate the remainder when {p} is divided by {q}. ### _ {p} _ {q}.
+What is the remainder when {p} is divided by {q}? ### _ {p} _ {q}?
+Let {self} be the remainder when {p} is divided by {q}. ### _ {self} _ {p} _ {q}.
+
+{from_str} (base {from_base}) to base {to_base} ### {from_str} _ {from_base}) _ {to_base}
+Convert {from_str} (base {from_base}) to base {to_base}. ### _ {from_str} _ {from_base}) _ {to_base}.
+What is {from_str} (base {from_base}) in base {to_base}? ### _ {from_str} _ {from_base}) _ {to_base}?
 
 # Polynomials
-Express {expression} as {canonical} and give {target}. ### 
-Rearrange {expression} to {canonical} and give {target}. ### 
-Express {expression} in the form {canonical} and give {target}. ### 
-Rearrange {expression} to the form {canonical} and give {target}. ### 
+Express {expression} as {canonical} and give {target}. ### _ {expression} _ {canonical} _ {target}.
+Rearrange {expression} to {canonical} and give {target}. ### _ {expression} _ {canonical} _ {target}.
+Express {expression} in the form {canonical} and give {target}. ### _ {expression} _ {canonical} _ {target}.
+Rearrange {expression} to the form {canonical} and give {target}. ### _ {expression} _ {canonical} _ {target}.
 
-What is {composed}? ### 
-Calculate {composed}. ### 
-Give {composed}. ### 
-Determine {composed}. ### 
+What is {composed}? ### _ {composed}?
+Calculate {composed}. ### _ {composed}.
+Give {composed}. ### _ {composed}.
+Determine {composed}. ### _ {composed}.
 
-Let {self} be {composed}. ### 
-Let {intermediate} = {composed}. ### 
+Let {self} be {composed}. ### _ {self} _ {composed}.
+Let {intermediate} = {composed}. ### _ {intermediate} _ {composed}.
 
-Expand {expression}. ### 
+Expand {expression}. ### _ {expression}.
 
-Collect the terms in {unsimplified} ### 
-Let {function} = {unsimplified}. ### 
+Collect the terms in {unsimplified}. ### _ {unsimplified}.
+Let {function} = {unsimplified}. ### _ {function} _ {unsimplified}.
 
-Simplify {unsimplified} assuming {variable} is positive. ### 
+Simplify {unsimplified} assuming {variable} is positive. ### _ {unsimplified} _ {variable} _
 
 # Probability
-letters picked without replacement from ### 
+pick ### _
+picking ### _
 
-{random_variable_capitalize}. What is prob of {event}? ### 
-{random_variable_capitalize}. Give prob of {event}. ### 
-What is prob of {event} when {random_variable}? ### 
-Calculate prob of {event} when {random_variable}. ### 
+the sequence is {sequence} ### _ {sequence}
+
+letters picked without replacement from ### _
+
+{random_variable_capitalize}. What is prob of {event}? ### {random_variable_capitalize}. _ {event}?
+{random_variable_capitalize}. Give prob of {event}. ### {random_variable_capitalize}. _ {event}.
+What is prob of {event} when {random_variable}? ### _ {event} _ {random_variable}?
+Calculate prob of {event} when {random_variable}. ### _ {event} _ {random_variable}.
 
 ### UTIL
 
+# Composition
+Let {function} = {polynomial}. ### _ {function} _ {polynomial}.
+
 # Display
-zero ### 
-one ### 
-two ### 
-three ### 
-four ### 
-five ### 
-six ### 
-seven ### 
-eight ### 
-nine ### 
-ten ### 
-eleven ### 
-twelve ### 
-thirteen ### 
-fourteeen ### 
-fifteen ### 
-sixteen ### 
-seventeen ### 
-eighteen ### 
-nineteen ### 
+zero ### _
+one ### _
+two ### _
+three ### _
+four ### _
+five ### _
+six ### _
+seven ### _
+eight ### _
+nine ### _
+ten ### _
+eleven ### _
+twelve ### _
+thirteen ### _
+fourteeen ### _
+fifteen ### _
+sixteen ### _
+seventeen ### _
+eighteen ### _
+nineteen ### _
 
-twenty ### 
-thirty ### 
-fourty ### 
-fifty ### 
-sixty ### 
-seventy ### 
-eighty ### 
-ninety ### 
+twenty ### _
+thirty ### _
+fourty ### _
+fifty ### _
+sixty ### _
+seventy ### _
+eighty ### _
+ninety ### _
 
-trillion ### 
-billion ### 
-million ### 
-thousand ### 
-hundred ### 
+trillion ### _
+billion ### _
+million ### _
+thousand ### _
+hundred ### _
 
-half ### 
-third ### 
-quarter ### 
-fifth ### 
-sixth ### 
-seventh ### 
-eighth ### 
-ninth ### 
-tenth ### 
-eleventh ### 
-twelth ### 
-thirteenth ### 
-fourteenth ### 
-fifteenth ### 
-sixteenth ### 
-seventeenth ### 
-eighteenth ### 
-nineteenth ### 
-twentieth ### 
+half ### _
+third ### _
+quarter ### _
+fifth ### _
+sixth ### _
+seventh ### _
+eighth ### _
+ninth ### _
+tenth ### _
+eleventh ### _
+twelth ### _
+thirteenth ### _
+fourteenth ### _
+fifteenth ### _
+sixteenth ### _
+seventeenth ### _
+eighteenth ### _
+nineteenth ### _
+twentieth ### _
 
-halves ### 
-thirds ### 
-quarters ### 
-fifths ### 
-sixths ### 
-sevenths ### 
-eighths ### 
-ninths ### 
-tenths ### 
-elevenths ### 
-twelths ### 
-thirteenths ### 
-fourteenths ### 
-fifteenths ### 
-sixteenths ### 
-seventeenths ### 
-eighteenths ### 
-nineteenths ### 
-twentieths ### 
+halves ### _
+thirds ### _
+quarters ### _
+fifths ### _
+sixths ### _
+sevenths ### _
+eighths ### _
+ninths ### _
+tenths ### _
+elevenths ### _
+twelths ### _
+thirteenths ### _
+fourteenths ### _
+fifteenths ### _
+sixteenths ### _
+seventeenths ### _
+eighteenths ### _
+nineteenths ### _
+twentieths ### _
 
-zeroth ### 
-first ### 
-second ### 
-third ### 
-fourth ### 
-fifth ### 
-sixth ### 
-seventh ### 
-eighth ### 
-ninth ### 
-tenth ### 
-eleventh ### 
-twelth ### 
-thirteenth ### 
-fourteenth ### 
-fifteenth ### 
-sixteenth ### 
-seventeenth ### 
-eighteenth ### 
-nineteenth ### 
-twentieth ### 
+!ORDINALS! zeroth ### _
+!ORDINALS! first ### _
+!ORDINALS! second ### _
+!ORDINALS! third ### _
+!ORDINALS! fourth ### _
+!ORDINALS! fifth ### _
+!ORDINALS! sixth ### _
+!ORDINALS! seventh ### _
+!ORDINALS! eighth ### _
+!ORDINALS! ninth ### _
+!ORDINALS! tenth ### _
+!ORDINALS! eleventh ### _
+!ORDINALS! twelth ### _
+!ORDINALS! thirteenth ### _
+!ORDINALS! fourteenth ### _
+!ORDINALS! fifteenth ### _
+!ORDINALS! sixteenth ### _
+!ORDINALS! seventeenth ### _
+!ORDINALS! eighteenth ### _
+!ORDINALS! nineteenth ### _
+!ORDINALS! twentieth ### _
 
-and ### 
+and ### _

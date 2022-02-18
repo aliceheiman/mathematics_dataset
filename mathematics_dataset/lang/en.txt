@@ -13,7 +13,7 @@ Determine {variable} so that {equality}. ### Determine {variable} so that {equal
 Determine {variable}, given that {equality}. ### Determine {variable}, given that {equality}.
 Solve {equality}. ### Solve {equality}.
 Factor {expression}. ### Factor {expression}.
-Solve {equations} for {variable}.' ### Solve {equations} for {variable}.'
+Solve {equations} for {variable}. ### Solve {equations} for {variable}.
 Suppose {equations}. ### Suppose {equations}.
 
 What is next in {sequence}? ### What is next in {sequence}?
@@ -33,6 +33,7 @@ Add together {p} and {q}. ### Add together {p} and {q}.
 What is {p} plus {q}? ### What is {p} plus {q}?
 Calculate {p} + {q}. ### Calculate {p} + {q}.
 What is {p} + {q}? ### What is {p} + {q}?
+Let {self} = {p} * {q}. ### Let {self} = {p} * {q}.
 
 Let {self} = {p} + {q}. ### Let {self} = {p} + {q}.
 
@@ -64,7 +65,6 @@ Product of {p} and {q}. ### Product of {p} and {q}.
 What is the product of {p} and {q}? ### What is the product of {p} and {q}?
 {p} times {q} ### {p} times {q}
 What is {p} times {q}? ### What is {p} times {q}?
-Let {self} = {p} * {q}. ### Let {self} = {p} * {q}.
 
 Divide {p} by {q}. ### Divide {p} by {q}.
 {p} divided by {q} ### {p} divided by {q}
@@ -163,6 +163,13 @@ millimeter ### millimeter
 micrometer ### micrometer
 nanometer ### nanometer
 
+meters ### meters
+kilometers ### kilometers
+centimeters ### centimeters
+millimeters ### millimeters
+micrometers ### micrometers
+nanometers ### nanometers
+
 second ### second
 minute ### minute
 hour ### hour
@@ -172,13 +179,26 @@ millisecond ### millisecond
 microsecond ### microsecond
 nanosecond ### nanosecond
 
+seconds ### seconds
+minutes ### minutes
+hours ### hours
+days ### days
+weeks ### weeks
+milliseconds ### milliseconds
+microseconds ### microseconds
+nanoseconds ### nanoseconds
+
 year ### year
 decade ### decade
 century ### century
-centuries ### centuries
 millennium ### millennium
-millennia ### millennia
 month ### month
+
+years ### years
+decades ### decades
+centuries ### centuries
+millennia ### millennia
+months ### months
 
 kilogram ### kilogram
 tonne ### tonne
@@ -187,8 +207,18 @@ milligram ### milligram
 microgram ### microgram
 nanogram ### nanogram
 
+kilograms ### kilograms
+tonnes ### tonnes
+grams ### grams
+milligrams ### milligrams
+micrograms ### micrograms
+nanograms ### nanograms
+
 litre ### litre
 millilitre ### millilitre
+
+litres ### litres
+millilitres ### millilitres
 
 How many {target_name} are there in {base_value} {base_name}? ### How many {target_name} are there in {base_value} {base_name}?
 What is {base_value} {base_name} in {target_name}? ### What is {base_value} {base_name} in {target_name}?
@@ -201,11 +231,18 @@ Convert {base_value}{base_symbol} to {target_name}. ### Convert {base_value}{bas
 How many {target_name} are there in {base_value} of a {base_name}? ### How many {target_name} are there in {base_value} of a {base_name}?
 What is {base_value} of a {base_name} in {target_name}? ### What is {base_value} of a {base_name} in {target_name}?
 
+AM ### AM
+PM ### PM
+
 What is {duration} minutes before {end}? ### What is {duration} minutes before {end}?
 What is {duration} minutes after {start}? ### What is {duration} minutes after {start}?
 How many minutes are there between {start} and {end}? ### How many minutes are there between {start} and {end}?
 
 # Numbers
+
+True ### True
+False ### False
+
 ten  ### ten 
 hundred  ### hundred 
 thousands ### thousands
@@ -220,14 +257,14 @@ octillions ### octillions
 nonillions ### nonillions
 decillions ### decillions
 
-10 ### tenth
-100 ### hundred
-1000 ### thousand
-10000 ### ten thousand
-100000 ### hundred thousand
-1000000 ### million
-10000000 ### ten million
-100000000 ### hundred million
+10 ### 10
+100 ### 100
+1000 ### 1000
+10000 ### 10000
+100000 ### 100000
+1000000 ### 1000000
+10000000 ### 10000000
+100000000 ### 100000000
 
 units ### units
 tens ### tens
@@ -306,12 +343,17 @@ Let {intermediate} = {composed}. ### Let {intermediate} = {composed}.
 
 Expand {expression}. ### Expand {expression}.
 
-Collect the terms in {unsimplified} ### Collect the terms in {unsimplified}
+Collect the terms in {unsimplified}. ### Collect the terms in {unsimplified}.
 Let {function} = {unsimplified}. ### Let {function} = {unsimplified}.
 
 Simplify {unsimplified} assuming {variable} is positive. ### Simplify {unsimplified} assuming {variable} is positive.
 
 # Probability
+pick ### pick
+picking ### picking
+
+the sequence is {sequence} ### the sequence is {sequence}
+
 letters picked without replacement from ### letters picked without replacement from
 
 {random_variable_capitalize}. What is prob of {event}? ### {random_variable_capitalize}. What is prob of {event}?
@@ -401,26 +443,26 @@ eighteenths ### eighteenths
 nineteenths ### nineteenths
 twentieths ### twentieths
 
-!ORDINALS! zeroth ### zeroth
-!ORDINALS! first ### first
-!ORDINALS! second ### second
-!ORDINALS! third ### third
-!ORDINALS! fourth ### fourth
-!ORDINALS! fifth ### fifth
-!ORDINALS! sixth ### sixth
-!ORDINALS! seventh ### seventh
-!ORDINALS! eighth ### eighth
-!ORDINALS! ninth ### ninth
-!ORDINALS! tenth ### tenth
-!ORDINALS! eleventh ### eleventh
-!ORDINALS! twelth ### twelth
-!ORDINALS! thirteenth ### thirteenth
-!ORDINALS! fourteenth ### fourteenth
-!ORDINALS! fifteenth ### fifteenth
-!ORDINALS! sixteenth ### sixteenth
-!ORDINALS! seventeenth ### seventeenth
-!ORDINALS! eighteenth ### eighteenth
-!ORDINALS! nineteenth ### nineteenth
-!ORDINALS! twentieth ### twentieth
+!ORDINALS! zeroth ### !ORDINALS! zeroth
+!ORDINALS! first ### !ORDINALS! first
+!ORDINALS! second ### !ORDINALS! second
+!ORDINALS! third ### !ORDINALS! third
+!ORDINALS! fourth ### !ORDINALS! fourth
+!ORDINALS! fifth ### !ORDINALS! fifth
+!ORDINALS! sixth ### !ORDINALS! sixth
+!ORDINALS! seventh ### !ORDINALS! seventh
+!ORDINALS! eighth ### !ORDINALS! eighth
+!ORDINALS! ninth ### !ORDINALS! ninth
+!ORDINALS! tenth ### !ORDINALS! tenth
+!ORDINALS! eleventh ### !ORDINALS! eleventh
+!ORDINALS! twelth ### !ORDINALS! twelth
+!ORDINALS! thirteenth ### !ORDINALS! thirteenth
+!ORDINALS! fourteenth ### !ORDINALS! fourteenth
+!ORDINALS! fifteenth ### !ORDINALS! fifteenth
+!ORDINALS! sixteenth ### !ORDINALS! sixteenth
+!ORDINALS! seventeenth ### !ORDINALS! seventeenth
+!ORDINALS! eighteenth ### !ORDINALS! eighteenth
+!ORDINALS! nineteenth ### !ORDINALS! nineteenth
+!ORDINALS! twentieth ### !ORDINALS! twentieth
 
 and ### and
