@@ -3,8 +3,8 @@
 # Algebra
 Let {equality}. What is {variable}? ### Låt {equality}. Vad är {variable}?
 Let {equality}. Calculate {variable}. ### Låt {equality}. Beräkna {variable}.
-Suppose {equality}. What is {variable}? ### Anta att {equality}. Vad är {variable}?
-Suppose {equality}. Calculate {variable}. ### Anta att {equality}. Vad är {variable}.
+Suppose {equality}. What is {variable}? ### Antag att {equality}. Vad är {variable}?
+Suppose {equality}. Calculate {variable}. ### Antag att {equality}. Vad är {variable}.
 What is {variable} in {equality}? ### Vad är {variable} i {equality}?
 Solve {equality} for {variable}. ### Lös {equality} för {variable}.
 Find {variable} such that {equality}. ### Hitta {variable} så att {equality}.
@@ -14,12 +14,12 @@ Determine {variable}, given that {equality}. ### Bestäm {variable}, givet att {
 Solve {equality}. ### Lös {equality}.
 Factor {expression}. ### Faktorisera {expression}.
 Solve {equations} for {variable}. ### Lös {equations} för {variable}.
-Suppose {equations}. ### Anta att {equations}.
+Suppose {equations}. ### Antag att {equations}.
 
 What is next in {sequence}? ### Vad kommer näst i {sequence}?
 What comes next: {sequence}? ### Vad kommer näst: {sequence}?
 What is the next term in {sequence}? ### Vad är nästa term i {sequence}?
-What is the {variable}'th term of {sequence}? ### Vad är den {variable} termen i {sequence}?
+What is the {variable}'th term of {sequence}? ### Vad är den {variable}:te termen i {sequence}?
 
 # Arithmetic
 {p} + {q} ### {p} + {q}
@@ -88,13 +88,13 @@ Let {self} be {op}. ### Låt {self} vara {op}.
 Simplify {exp}. ### Förenkla {exp}.
 
 # Calculus
-Find the {nth} derivative of {eq} wrt {var}. ### Hitta den {nth} derivatan av {eq} med avseende på {var}.
-What is the {nth} derivative of {eq} wrt {var}? ### Vad är den {nth} derivatan av {eq} med avseende på {var}?
+Find the {nth} derivative of {eq} wrt {var}. ### Hitta {nth}derivatan av {eq} med avseende på {var}.
+What is the {nth} derivative of {eq} wrt {var}? ### Vad är {nth}derivatan av {eq} med avseende på {var}?
 Differentiate {eq} with respect to {var}. ### Derivera {eq} med avseende på {var}.
 Differentiate {eq} wrt {var}. ### Derivera {eq} med avseende på {var}.
 What is the derivative of {eq} wrt {var}? ### Vad är derivatan av {eq} med avseende på {var}?
-Find the {nth} derivative of {eq}. ### Hitta den {nth} derivatan av {eq}.
-What is the {nth} derivative of {eq}? ### Vad är den {nth} derivatan av {eq}?
+Find the {nth} derivative of {eq}. ### Hitta {nth}derivatan av {eq}.
+What is the {nth} derivative of {eq}? ### Vad är {nth}derivatan av {eq}?
 Differentiate {eq}. ### Derivera {eq}.
 What is the derivative of {eq}? ### Vad är derivatan av {eq}?
 Let {fn}({variables}) be the {nth} derivative of {eq}. ### Låt {fn}({variables}) vara den {nth} derivatan av {eq}.
@@ -206,30 +206,44 @@ What is {duration} minutes after {start}? ### Vad är {duration} minuter efter {
 How many minutes are there between {start} and {end}? ### Hur många minuter är det mellan {start} och {end}?
 
 # Numbers
-ten  ### tio 
-hundred  ### hundra 
-thousands ### tusentals
-millions ### millioner
-billions ### miljarder
-trillions ### biljoner
-quadrillions ### kvadrillioner
-quintillions ### kvintiljoner
-sextillions ### sextillioner
-septillions ### septiljoner
-octillions ### oktillioner
-nonillions ### noniljoner
-decillions ### deciljoner
+True ### Sant
+False ### Falskt
 
-units ### enheter
+ten  ### tio 
+hundred  ### hundra
+thousands ### tusentals
+millions ### miljontals
+billions ### miljardtals
+trillions ### biljontals
+quadrillions ### kvadriljontals
+quintillions ### kvintiljontals
+sextillions ### sextiljontals
+septillions ### septiljontals
+octillions ### oktiljontals
+nonillions ### noniljontals
+decillions ### deciljontals
+
+10 ### tiotalet
+100 ### hundratalet
+1000 ### tusentalet
+10000 ### tiotusentalet
+100000 ### hundratusentalet
+1000000 ### miljontalet
+10000000 ### tiomiljontalet
+100000000 ### hundramiljontalet
+
+units ### entals
 tens ### tiotals
 hundreds ### hundratals
 
-What is the {place_name} digit of {integer}? ### Vad är den {place_name} siffran i {integer}?
+What is the {place_name} digit of {integer}? ### Vad är {place_name}siffran i {integer}?
 
 the nearest {round_to} ### det närmsta {round_to}
 the nearest integer ### det närmsta heltalet
-{dps} decimal place ### {dps} decimaler
-{dps} dp ### {dps} decimaler
+{dps} decimal place ### {dps} decimal
+{dps} dp ### {dps} decimal
+{dps} decimal places ### {dps} decimaler
+{dps} dps ### {dps} decimaler
 
 Round {input} to {description}. ### Avrunda {input} till {description}.
 What is {input} rounded to {description}? ### Vad är {input} avrundat till {description}?
@@ -237,7 +251,7 @@ What is {input} rounded to {description}? ### Vad är {input} avrundat till {des
 composite ### sammansatt
 a composite number ### ett sammansatt tal
 prime ### primtal
-a prime number ### ett primptal
+a prime number ### ett primtal
 
 Is {integer} {attribute}? ### Är {integer} {attribute}?
 
@@ -251,28 +265,28 @@ What are the prime factors of {integer}? ### Vilka är primtalsfaktorerna till {
 List the prime factors of {integer}. ### Lista primtalsfaktorerna till {integer}.
 
 least ### minsta
-lowest ### lägsta
+lowest ### minsta
 smallest ### minsta
 
 Calculate the {adjective} common multiple of {p} and {q}. ### Beräkna den {adjective} gemensamma faktorn till {p} och {q}.
-What is the {adjective} common multiple of {p} and {q}? ### Vad är den {adjective} gemensamma faktorn till {p} och {q}?
+What is the {adjective} common multiple of {p} and {q}? ### Vilken är den {adjective} gemensamma faktorn till {p} och {q}?
 
-What is the common denominator of {p} and {q}? ### Vilken är den gemesamma nämnaren till {p} och {q}?
-Find the common denominator of {p} and {q}. ### Hitta den gemesamma nämnaren till {p} och {q}.
-Calculate the common denominator of {p} and {q}. ### Beräkna den gemesamma nämnaren till {p} och {q}.
+What is the common denominator of {p} and {q}? ### Vilken är den gemensamma nämnaren till {p} och {q}?
+Find the common denominator of {p} and {q}. ### Hitta den gemensamma nämnaren till {p} och {q}.
+Calculate the common denominator of {p} and {q}. ### Beräkna den gemensamma nämnaren till {p} och {q}.
 
 greatest ### största
-highest ### högsta
+highest ### största
 common ### gemensamma
-divisor ### delare
-factor ### faktor
+divisor ### delaren
+factor ### faktorn
 
 Calculate the {adjective} of {p} and {q}. ### Beräkna den {adjective} till {p} och {q}.
 What is the {adjective} of {p} and {q}? ### Vad är den {adjective} till {p} och {q}?
 Let {self} be the {adjective} of {p} and {q}. ### Låt {self} vara den {adjective} till {p} och {q}.
 
-Calculate the remainder when {p} is divided by {q}. ### Beräkna resten när {p} delas med {q}.
-What is the remainder when {p} is divided by {q}? ### Vad är resten när {p} delas med {q}?
+Calculate the remainder when {p} is divided by {q}. ### Beräkna resten då {p} delas med {q}.
+What is the remainder when {p} is divided by {q}? ### Vad är resten då {p} delas med {q}?
 Let {self} be the remainder when {p} is divided by {q}. ### Låt {self} vara resttermen då {p} delas med {q}.
 
 {from_str} (base {from_base}) to base {to_base} ### {from_str} (bas {from_base}) till bas {to_base}
@@ -317,7 +331,7 @@ Let {function} = {polynomial}. ### Låt {function} = {polynomial}.
 zero ### noll
 one ### ett
 two ### två
-three ### tree
+three ### tre
 four ### fyra
 five ### fem
 six ### sex

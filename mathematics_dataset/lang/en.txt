@@ -220,6 +220,15 @@ octillions ### octillions
 nonillions ### nonillions
 decillions ### decillions
 
+10 ### tenth
+100 ### hundred
+1000 ### thousand
+10000 ### ten thousand
+100000 ### hundred thousand
+1000000 ### million
+10000000 ### ten million
+100000000 ### hundred million
+
 units ### units
 tens ### tens
 hundreds ### hundreds
@@ -230,6 +239,8 @@ the nearest {round_to} ### the nearest {round_to}
 the nearest integer ### the nearest integer
 {dps} decimal place ### {dps} decimal place
 {dps} dp ### {dps} dp
+{dps} decimal places ### {dps} decimal places
+{dps} dps ### {dps} dps
 
 Round {input} to {description}. ### Round {input} to {description}.
 What is {input} rounded to {description}? ### What is {input} rounded to {description}?

@@ -48,8 +48,8 @@ class Lang:
 
             try:
                 original, translation = line.split(" ### ")[:2]
-                original = original.strip()
-                translation = translation.strip()
+                original = original.lstrip()
+                translation = translation.rstrip()
 
                 self.lookup[original + context] = translation
             except:
