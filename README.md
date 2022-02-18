@@ -1,8 +1,8 @@
-# Mathematics Dataset
+# Multilingual Mathematics Dataset
 
-This dataset code generates mathematical question and answer pairs, from a range
+This dataset code generates mathematical question and answer pairs in different languages, from a range
 of question types at roughly school-level difficulty. This is designed to test
-the mathematical learning and algebraic reasoning skills of learning models.
+the mathematical learning and algebraic reasoning skills of learning models in various languages.
 
 Original paper: [Analysing Mathematical
 Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
@@ -33,6 +33,10 @@ Answer: 1/110
 ## Pre-generated data
 
 [Pre-generated files](https://console.cloud.google.com/storage/browser/mathematics-dataset)
+
+### Version 1.1
+
+This is the updated multilingual version. New languages are added in the **lang** folder. The *lang* object translates all strings in the code specified by the language in the *generate_settings.py* file.
 
 ### Version 1.0
 
@@ -89,6 +93,10 @@ one variable.
 We've also included `generate_to_file.py` as an example of how to write the
 generated examples to text files. You can use this directly, or adapt it for
 your generation and training needs.
+
+## Adding More Languages
+
+Copy the *template.txt* file in the **lang** folder and rename it to **lang.txt** with the two-character abbreviation for your language. To change the output langue, change the **lang=** in the *generate_settings.py** file.
 
 ## Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
