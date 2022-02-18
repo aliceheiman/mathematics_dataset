@@ -1,6 +1,0 @@
-What is the g'th term of 93, 95, 97?
-2*g + 91
-What is the h'th term of -360, -752, -1162, -1596, -2060, -2560?
--h**3 - 3*h**2 - 376*h + 20
-What is the p'th term of 38, 43, 48?
-5*p + 33

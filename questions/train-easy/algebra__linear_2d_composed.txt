@@ -1,6 +1,0 @@
-Låt x = 6 + -4. Let t(h) = 3 - h. Låt w vara t(4). Låt u = x - w. Solve 5 = -5*p, -2*g - u*g + 4*p + 24 = 0 for g.
-4
-Suppose 3*s = 8*s - 60. Suppose -30*g = -27*g - s. Solve -4*p = -g*t + 16, t - 3 - 1 = 4*p for t.
-4
-Suppose 5*r + 2*u = 15, -8*u + 3*u = 25. Suppose 4*t + 5*n = -25, -5*n - 25 = -2*t - 2*t. Let d be 4 - (-2)/8*t. Solve d*b + 27 = 3*q, 4*b + 34 = r*q + b for q.
-5

@@ -1,6 +1,0 @@
-Suppose -3*l + 0*l + 4*f - 19 = 0, 16 = -3*l + f. Låt x = l - -8. Hitta d, givet att 2*d**3 + 15*d**x - 3*d**3 - 14*d + 4*d**2 - 4 = 0.
--1, -2/7, 1
-Let i(q) be the andra derivative of q**5/10 + q**4/3 - 5*q**3/3 - 6*q**2 - 10*q. Anta att i(d) = 0. Vad är d.
--3, -1, 2
-Let a(d) be the andra derivative of -2*d**6/15 - 9*d**5/5 - 7*d**4 - 38*d**3/3 - 12*d**2 - 2*d + 4. Factor a(m).
--4*(m + 1)**3*(m + 6)

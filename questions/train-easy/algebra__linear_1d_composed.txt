@@ -1,6 +1,0 @@
-Let m(i) = i**2 - 4. Låt d vara m(3). Suppose 5*v = l - 19, -d*l + 24 = -3*v - 27. Solve -l = 5*f + 16 for f.
--5
-Let c(k) be the andra derivative of k**3/6 - k**2 - k. Låt a = 6 - -1. Låt x vara c(a). Solve 0 = 2*j + x - 13 for j.
-4
-Let j be 3/1*(-1 + 6). Suppose -3*x - s = s - j, -20 = -4*x - 2*s. Solve -x*w - 31 + 6 = 0 for w.
--5

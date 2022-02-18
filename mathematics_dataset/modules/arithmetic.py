@@ -267,10 +267,10 @@ def mul(value, sample_args, context=None):
             lang.l.translate("What is {p} times {q}?"),
         ]
         template = random.choice(templates)
-        return example.Problem(question=example.question(context, template, p=p, q=q), answer=answer)
+        return example.Problem(question=example.question(context, template, p=p, q=q, ops=ops), answer=answer)
     else:
         return composition.Entity(
-            context=context, value=answer, description=lang.l.translate("Let {self} = {p} * {q}."), p=p, q=q
+            context=context, value=answer, description=lang.l.translate("Let {self} = {p} * {q}."), p=p, q=q, ops=ops
         )
 
 

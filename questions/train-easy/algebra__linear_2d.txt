@@ -1,6 +1,0 @@
-Solve -n + 3*v = 12, -2*n + 4*v - 9 - 7 = 0 for n.
-0
-Solve 55*m + 16 = 2*z + 59*m, 3*z = 4*m + 4 for z.
-4
-Solve -5 = -g + 6*g, -2*t + 4 = -2*g for t.
-1
