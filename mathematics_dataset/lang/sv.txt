@@ -12,10 +12,14 @@ Find {variable}, given that {equality}. ### Hitta {variable}, givet att {equalit
 Determine {variable} so that {equality}. ### Bestäm {variable} så att {equality}.
 Determine {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
 Solve {equality}. ### Lös {equality}.
+Factor {expression}. ### Faktorisera {expression}.
+Solve {equations} for {variable}. ### Lös {equations} för {variable}.
+Suppose {equations}. ### Anta att {equations}.
 
 What is next in {sequence}? ### Vad kommer näst i {sequence}?
 What comes next: {sequence}? ### Vad kommer näst: {sequence}?
 What is the next term in {sequence}? ### Vad är nästa term i {sequence}?
+What is the {variable}'th term of {sequence}? ### Vad är den {variable} termen i {sequence}?
 
 # Arithmetic
 {p} + {q} ### {p} + {q}
@@ -29,6 +33,7 @@ Add together {p} and {q}. ### Addera ihop {p} och {q}.
 What is {p} plus {q}? ### Vad är {p} plus {q}?
 Calculate {p} + {q}. ### Beräkna {p} + {q}.
 What is {p} + {q}? ### Vad är {p} + {q}?
+Let {self} = {p} * {q}. ### Låt {self} = {p} * {q}.
 
 Let {self} = {p} + {q}. ### Låt {self} = {p} + {q}.
 
@@ -78,6 +83,7 @@ What is {op}? ### Vad är {op}?
 Evaluate {op}. ### Räkna ut {op}.
 Calculate {op}. ### Beräkna {op}.
 What is the value of {op}? ### Vad är värdet av {op}?
+Let {self} be {op}. ### Låt {self} vara {op}.
 
 Simplify {exp}. ### Förenkla {exp}.
 
@@ -91,6 +97,7 @@ Find the {nth} derivative of {eq}. ### Hitta den {nth} derivatan av {eq}.
 What is the {nth} derivative of {eq}? ### Vad är den {nth} derivatan av {eq}?
 Differentiate {eq}. ### Derivera {eq}.
 What is the derivative of {eq}? ### Vad är derivatan av {eq}?
+Let {fn}({variables}) be the {nth} derivative of {eq}. ### Låt {fn}({variables}) vara den {nth} derivatan av {eq}.
 
 # Comparisons
 Which is bigger: {left} or {right}?' ### Vilken är större: {left} eller {right}?'
@@ -303,6 +310,9 @@ Calculate prob of {event} when {random_variable}. ### Beräkna sannolikheten att
 
 ### UTIL
 
+# Composition
+Let {function} = {polynomial}. ### Låt {function} = {polynomial}.
+
 # Display
 zero ### noll
 one ### ett
@@ -380,26 +390,26 @@ eighteenths ### eighteenths
 nineteenths ### nineteenths
 twentieths ### twentieths
 
-zeroth ### nollte
-first ### första
-second ### andra
-third ### tredje
-fourth ### fjärde
-fifth ### femte
-sixth ### sjätte
-seventh ### sjunde
-eighth ### åttonde
-ninth ### nionde
-tenth ### tionde
-eleventh ### elfte
-twelth ### tolfte
-thirteenth ### trettonde
-fourteenth ### fjortonde
-fifteenth ### femtonde
-sixteenth ### sextonde
-seventeenth ### sjuttonde
-eighteenth ### artonde
-nineteenth ### nittonde
-twentieth ### tjugonde
+!ORDINALS! zeroth ### nollte
+!ORDINALS! first ### första
+!ORDINALS! second ### andra
+!ORDINALS! third ### tredje
+!ORDINALS! fourth ### fjärde
+!ORDINALS! fifth ### femte
+!ORDINALS! sixth ### sjätte
+!ORDINALS! seventh ### sjunde
+!ORDINALS! eighth ### åttonde
+!ORDINALS! ninth ### nionde
+!ORDINALS! tenth ### tionde
+!ORDINALS! eleventh ### elfte
+!ORDINALS! twelth ### tolfte
+!ORDINALS! thirteenth ### trettonde
+!ORDINALS! fourteenth ### fjortonde
+!ORDINALS! fifteenth ### femtonde
+!ORDINALS! sixteenth ### sextonde
+!ORDINALS! seventeenth ### sjuttonde
+!ORDINALS! eighteenth ### artonde
+!ORDINALS! nineteenth ### nittonde
+!ORDINALS! twentieth ### tjugonde
 
 and ### och

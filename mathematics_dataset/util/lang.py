@@ -15,6 +15,7 @@
 import os
 import sys
 
+
 class Lang:
     def __init__(self, language):
         self.lang = language
@@ -23,40 +24,52 @@ class Lang:
 
     def load_lookup(self):
         # Get translation file
-        filename = os.path.join('mathematics_dataset', 'lang', f'{self.lang}.txt')
+        filename = os.path.join("mathematics_dataset", "lang", f"{self.lang}.txt")
 
         # Check if translation file exists
         if not os.path.isfile(filename):
-            exit(f'No translation file found for lang={self.lang}. Please add {self.lang}.txt in the /lang folder.')
+            exit(f"No translation file found for lang={self.lang}. Please add {self.lang}.txt in the /lang folder.")
 
         # Load contents into default dict
-        with open(filename, 'r') as f:
+        with open(filename, "r") as f:
             contents = f.read()
 
-        for line in contents.split('\n'):
-            if line == '' or line.startswith('#'):
+        for line in contents.split("\n"):
+            if line == "" or line.startswith("#"):
                 continue
-            
+
+            # Get context
+            context = ""
+
+            if line.startswith("!"):
+                components = line.split("!")
+                context = components[1]
+                line = components[2][1:]
+
             try:
-                original, translation = line.split(' ### ')[:2]
+                original, translation = line.split(" ### ")[:2]
                 original = original.strip()
                 translation = translation.strip()
 
-                self.lookup[original] = translation
+                self.lookup[original + context] = translation
             except:
                 continue
 
-    def translate(self, text):
+    def translate(self, text, context=False):
         """Translates original text into specified language."""
+
+        if context != False:
+            text = text + context
 
         # Default to text if not found in translation
         if text not in self.lookup:
-            print(f'!! {text} not in translation file!')
+            print(f"!! {text} not in translation file!")
             return text
         else:
             return self.lookup[text]
 
-def init_translation(language='en'):
+
+def init_translation(language="en"):
     # Create Lang object
     global l
     l = Lang(language=language)

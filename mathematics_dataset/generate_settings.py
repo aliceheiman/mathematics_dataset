@@ -25,13 +25,12 @@ from mathematics_dataset.util import lang
 
 MAX_QUESTION_LENGTH = 160
 MAX_ANSWER_LENGTH = 30
-QUESTION_CHARS = (
-    ['', ' '] + list(string.ascii_letters + string.digits + string.punctuation))
-EMPTY_INDEX = QUESTION_CHARS.index('')
+QUESTION_CHARS = ["", " "] + list(string.ascii_letters + string.digits + string.punctuation)
+EMPTY_INDEX = QUESTION_CHARS.index("")
 NUM_INDICES = len(QUESTION_CHARS)
 CHAR_TO_INDEX = {char: index for index, char in enumerate(QUESTION_CHARS)}
 INDEX_TO_CHAR = {index: char for index, char in enumerate(QUESTION_CHARS)}
 
 # LANGUAGE
-LANGUAGE = 'sv'
+LANGUAGE = "sv"
 lang.init_translation(LANGUAGE)

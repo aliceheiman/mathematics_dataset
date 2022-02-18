@@ -12,10 +12,14 @@ Find {variable}, given that {equality}. ### Find {variable}, given that {equalit
 Determine {variable} so that {equality}. ### Determine {variable} so that {equality}.
 Determine {variable}, given that {equality}. ### Determine {variable}, given that {equality}.
 Solve {equality}. ### Solve {equality}.
+Factor {expression}. ### Factor {expression}.
+Solve {equations} for {variable}.' ### Solve {equations} for {variable}.'
+Suppose {equations}. ### Suppose {equations}.
 
 What is next in {sequence}? ### What is next in {sequence}?
 What comes next: {sequence}? ### What comes next: {sequence}?
 What is the next term in {sequence}? ### What is the next term in {sequence}?
+What is the {variable}'th term of {sequence}? ### What is the {variable}'th term of {sequence}?
 
 # Arithmetic
 {p} + {q} ### {p} + {q}
@@ -60,6 +64,7 @@ Product of {p} and {q}. ### Product of {p} and {q}.
 What is the product of {p} and {q}? ### What is the product of {p} and {q}?
 {p} times {q} ### {p} times {q}
 What is {p} times {q}? ### What is {p} times {q}?
+Let {self} = {p} * {q}. ### Let {self} = {p} * {q}.
 
 Divide {p} by {q}. ### Divide {p} by {q}.
 {p} divided by {q} ### {p} divided by {q}
@@ -78,6 +83,7 @@ What is {op}? ### What is {op}?
 Evaluate {op}. ### Evaluate {op}.
 Calculate {op}. ### Calculate {op}.
 What is the value of {op}? ### What is the value of {op}?
+Let {self} be {op}. ### Let {self} be {op}.
 
 Simplify {exp}. ### Simplify {exp}.
 
@@ -91,6 +97,7 @@ Find the {nth} derivative of {eq}. ### Find the {nth} derivative of {eq}.
 What is the {nth} derivative of {eq}? ### What is the {nth} derivative of {eq}?
 Differentiate {eq}. ### Differentiate {eq}.
 What is the derivative of {eq}? ### What is the derivative of {eq}?
+Let {fn}({variables}) be the {nth} derivative of {eq}. ### Let {fn}({variables}) be the {nth} derivative of {eq}.
 
 # Comparisons
 Which is bigger: {left} or {right}?' ### Which is bigger: {left} or {right}?'
@@ -303,6 +310,9 @@ Calculate prob of {event} when {random_variable}. ### Calculate prob of {event} 
 
 ### UTIL
 
+# Composition
+Let {function} = {polynomial}. ### Let {function} = {polynomial}.
+
 # Display
 zero ### zero
 one ### one
@@ -380,26 +390,26 @@ eighteenths ### eighteenths
 nineteenths ### nineteenths
 twentieths ### twentieths
 
-zeroth ### zeroth
-first ### first
-second ### second
-third ### third
-fourth ### fourth
-fifth ### fifth
-sixth ### sixth
-seventh ### seventh
-eighth ### eighth
-ninth ### ninth
-tenth ### tenth
-eleventh ### eleventh
-twelth ### twelth
-thirteenth ### thirteenth
-fourteenth ### fourteenth
-fifteenth ### fifteenth
-sixteenth ### sixteenth
-seventeenth ### seventeenth
-eighteenth ### eighteenth
-nineteenth ### nineteenth
-twentieth ### twentieth
+!ORDINALS! zeroth ### zeroth
+!ORDINALS! first ### first
+!ORDINALS! second ### second
+!ORDINALS! third ### third
+!ORDINALS! fourth ### fourth
+!ORDINALS! fifth ### fifth
+!ORDINALS! sixth ### sixth
+!ORDINALS! seventh ### seventh
+!ORDINALS! eighth ### eighth
+!ORDINALS! ninth ### ninth
+!ORDINALS! tenth ### tenth
+!ORDINALS! eleventh ### eleventh
+!ORDINALS! twelth ### twelth
+!ORDINALS! thirteenth ### thirteenth
+!ORDINALS! fourteenth ### fourteenth
+!ORDINALS! fifteenth ### fifteenth
+!ORDINALS! sixteenth ### sixteenth
+!ORDINALS! seventeenth ### seventeenth
+!ORDINALS! eighteenth ### eighteenth
+!ORDINALS! nineteenth ### nineteenth
+!ORDINALS! twentieth ### twentieth
 
 and ### and
