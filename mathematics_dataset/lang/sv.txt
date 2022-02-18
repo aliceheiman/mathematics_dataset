@@ -349,7 +349,12 @@ Let {function} = {unsimplified}. ### Låt {function} = {unsimplified}.
 Simplify {unsimplified} assuming {variable} is positive. ### Förenkla {unsimplified} förutsatt att {variable} är positiv.
 
 # Probability
-letters picked without replacement from ### bokstäver valda utan återsättning
+pick ### välja
+picking ### välja
+
+the sequence is {sequence} ### sekvensen är {sequence}
+
+letters picked without replacement from ### bokstäver väljs utan återsättning från
 
 {random_variable_capitalize}. What is prob of {event}? ### {random_variable_capitalize}. Vad är sannolikheten att {event}?
 {random_variable_capitalize}. Give prob of {event}. ### {random_variable_capitalize}. Ange sannolikheten att {event}.
