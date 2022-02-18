@@ -163,6 +163,13 @@ millimeter ### millimeter
 micrometer ### mikrometer
 nanometer ### nanometer
 
+meters ### meter
+kilometers ### kilometer
+centimeters ### centimeter
+millimeters ### millimeter
+micrometers ### mikrometer
+nanometers ### nanometer
+
 second ### sekund
 minute ### minut
 hour ### timme
@@ -172,13 +179,26 @@ millisecond ### millisekund
 microsecond ### mikrosekund
 nanosecond ### nanosekund
 
+seconds ### sekunder
+minutes ### minuter
+hours ### timmar
+days ### dagar
+weeks ### veckor
+milliseconds ### millisekunder
+microseconds ### mikrosekunder
+nanoseconds ### nanosekunder
+
 year ### år
 decade ### årtionde
 century ### århundrade
-centuries ### århundraden
 millennium ### årtusende
+month ### månad
+
+years ### år
+decades ### årtionden
+centuries ### århundraden
 millennia ### årtusenden
-month ### måndag
+months ### månader
 
 kilogram ### kilogram
 tonne ### ton
@@ -187,8 +207,18 @@ milligram ### milligram
 microgram ### mikrogram
 nanogram ### nanogram
 
+kilograms ### kilogram
+tonnes ### ton
+grams ### gram
+milligrams ### milligram
+micrograms ### mikrogram
+nanograms ### nanogram
+
 litre ### liter
 millilitre ### milliliter
+
+litres ### liter
+millilitres ### milliliter
 
 How many {target_name} are there in {base_value} {base_name}? ### Hur många {target_name} finns det i {base_value} {base_name}?
 What is {base_value} {base_name} in {target_name}? ### Vad är {base_value} {base_name} i {target_name}?
@@ -198,14 +228,18 @@ How many {target_name} are there in {base_value}{base_symbol}? ### Hur många {t
 What is {base_value}{base_symbol} in {target_name}? ### Vad är {base_value}{base_symbol} i {target_name}?
 Convert {base_value}{base_symbol} to {target_name}. ### Konvertera {base_value}{base_symbol} till {target_name}.
 
-How many {target_name} are there in {base_value} of a {base_name}? ### Hur många {target_name} finns det i {base_value} av en {base_name}?
-What is {base_value} of a {base_name} in {target_name}? ### Vad är {base_value} av en {base_name} i {target_name}?
+How many {target_name} are there in {base_value} of a {base_name}? ### Hur många {target_name} finns det i {base_value} {base_name}?
+What is {base_value} of a {base_name} in {target_name}? ### Vad är {base_value} av 1 {base_name} i {target_name}?
+
+AM ### AM
+PM ### PM
 
 What is {duration} minutes before {end}? ### Vad är {duration} minuter före {end}?
 What is {duration} minutes after {start}? ### Vad är {duration} minuter efter {start}?
 How many minutes are there between {start} and {end}? ### Hur många minuter är det mellan {start} och {end}?
 
 # Numbers
+
 True ### Sant
 False ### Falskt
 
@@ -388,21 +422,21 @@ halves ### halvor
 thirds ### tredjedelar
 quarters ### fjärdedelar
 fifths ### femtedelar
-sixths ### sixths
-sevenths ### sevenths
-eighths ### eighths
-ninths ### ninths
-tenths ### tenths
-elevenths ### elevenths
-twelths ### twelths
-thirteenths ### thirteenths
-fourteenths ### fourteenths
-fifteenths ### fifteenths
-sixteenths ### sixteenths
-seventeenths ### seventeenths
-eighteenths ### eighteenths
-nineteenths ### nineteenths
-twentieths ### twentieths
+sixths ### sjättedelar
+sevenths ### sjundedelar
+eighths ### åttondelar
+ninths ### niondelar
+tenths ### tiondelar
+elevenths ### elftedelar
+twelths ### tolftedelar
+thirteenths ### trettondelar
+fourteenths ### fjortondelar
+fifteenths ### femtondelar
+sixteenths ### sextondelar
+seventeenths ### sjuttondelar
+eighteenths ### artondelar
+nineteenths ### nittondelar
+twentieths ### tjugondelar
 
 !ORDINALS! zeroth ### nollte
 !ORDINALS! first ### första
