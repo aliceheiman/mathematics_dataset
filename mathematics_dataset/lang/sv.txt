@@ -7,8 +7,8 @@ Suppose {equality}. What is {variable}? ### Antag att {equality}. Vad är {varia
 Suppose {equality}. Calculate {variable}. ### Antag att {equality}. Vad är {variable}.
 What is {variable} in {equality}? ### Vad är {variable} i {equality}?
 Solve {equality} for {variable}. ### Lös {equality} för {variable}.
-Find {variable} such that {equality}. ### Hitta {variable} så att {equality}.
-Find {variable}, given that {equality}. ### Hitta {variable}, givet att {equality}.
+Find {variable} such that {equality}. ### Bestäm {variable} så att {equality}.
+Find {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
 Determine {variable} so that {equality}. ### Bestäm {variable} så att {equality}.
 Determine {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
 Solve {equality}. ### Lös {equality}.
@@ -19,7 +19,7 @@ Suppose {equations}. ### Antag att {equations}.
 What is next in {sequence}? ### Vad kommer näst i {sequence}?
 What comes next: {sequence}? ### Vad kommer näst: {sequence}?
 What is the next term in {sequence}? ### Vad är nästa term i {sequence}?
-What is the {variable}'th term of {sequence}? ### Vad är den {variable}:te termen i {sequence}?
+What is the {variable}'th term of {sequence}? ### Vilken är den {variable}:te termen i {sequence}?
 
 # Arithmetic
 {p} + {q} ### {p} + {q}
@@ -88,16 +88,16 @@ Let {self} be {op}. ### Låt {self} vara {op}.
 Simplify {exp}. ### Förenkla {exp}.
 
 # Calculus
-Find the {nth} derivative of {eq} wrt {var}. ### Hitta {nth}derivatan av {eq} med avseende på {var}.
+Find the {nth} derivative of {eq} wrt {var}. ### Bestäm {nth}derivatan av {eq} med avseende på {var}.
 What is the {nth} derivative of {eq} wrt {var}? ### Vad är {nth}derivatan av {eq} med avseende på {var}?
 Differentiate {eq} with respect to {var}. ### Derivera {eq} med avseende på {var}.
 Differentiate {eq} wrt {var}. ### Derivera {eq} med avseende på {var}.
 What is the derivative of {eq} wrt {var}? ### Vad är derivatan av {eq} med avseende på {var}?
-Find the {nth} derivative of {eq}. ### Hitta {nth}derivatan av {eq}.
+Find the {nth} derivative of {eq}. ### Bestäm {nth}derivatan av {eq}.
 What is the {nth} derivative of {eq}? ### Vad är {nth}derivatan av {eq}?
 Differentiate {eq}. ### Derivera {eq}.
 What is the derivative of {eq}? ### Vad är derivatan av {eq}?
-Let {fn}({variables}) be the {nth} derivative of {eq}. ### Låt {fn}({variables}) vara den {nth} derivatan av {eq}.
+Let {fn}({variables}) be the {nth} derivative of {eq}. ### Låt {fn}({variables}) vara {nth}derivatan av {eq}.
 
 # Comparisons
 Which is bigger: {left} or {right}?' ### Vilken är större: {left} eller {right}?'
@@ -272,7 +272,7 @@ Calculate the {adjective} common multiple of {p} and {q}. ### Beräkna den {adje
 What is the {adjective} common multiple of {p} and {q}? ### Vilken är den {adjective} gemensamma faktorn till {p} och {q}?
 
 What is the common denominator of {p} and {q}? ### Vilken är den gemensamma nämnaren till {p} och {q}?
-Find the common denominator of {p} and {q}. ### Hitta den gemensamma nämnaren till {p} och {q}.
+Find the common denominator of {p} and {q}. ### Bestäm den gemensamma nämnaren till {p} och {q}.
 Calculate the common denominator of {p} and {q}. ### Beräkna den gemensamma nämnaren till {p} och {q}.
 
 greatest ### största
