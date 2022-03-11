@@ -1,0 +1,6 @@
+Låt r(c) = c**2 - 6*c + 7. Låt l vara r(5). Låt v vara l/(-10) + (-11)/(-5). Låt m vara ((-1)/(-3))/(v/18). Lös 4*q - m*q = -5 för q.
+-5
+Låt z vara 0 - 1 - (-8)/(-2). Låt q vara (-141)/(-15) + 2/z. Låt d = -5 + q. Lös 5*n = -d + 29 för n.
+5
+Låt k vara 5*(24/15)/4. Låt n(u) = u**3 + 5*u**2 - 4*u + 7. Låt o vara n(-6). Låt w vara (-25)/o - (2 + 1). Lös h = -k - w för h.
+-4

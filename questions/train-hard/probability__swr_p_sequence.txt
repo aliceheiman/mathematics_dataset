@@ -1,0 +1,6 @@
+Beräkna sannolikheten att sekvensen är efcu då fyra bokstäver väljs utan återsättning från {u: 1, e: 1, q: 2, f: 2, c: 1}.
+1/420
+Två bokstäver väljs utan återsättning från usllllllluuwi. Ange sannolikheten att sekvensen är sw.
+1/156
+Tre bokstäver väljs utan återsättning från {n: 4, p: 9, i: 3}. Vad är sannolikheten att sekvensen är ini?
+1/140

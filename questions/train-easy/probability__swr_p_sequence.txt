@@ -1,0 +1,6 @@
+Fyra bokstäver väljs utan återsättning från {u: 3, q: 4, v: 4}. Ange sannolikheten att sekvensen är vqvu.
+1/55
+Beräkna sannolikheten att sekvensen är zdd då tre bokstäver väljs utan återsättning från {d: 3, z: 15}.
+5/272
+Beräkna sannolikheten att sekvensen är riw då tre bokstäver väljs utan återsättning från iriirewwiirwzr.
+5/182

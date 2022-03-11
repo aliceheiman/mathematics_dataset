@@ -1,0 +1,6 @@
+-131 (bas 5) till bas 14
+-2d
+3 (bas 5) till bas 7
+3
+Vad är 103 (bas 6) i bas 12?
+33

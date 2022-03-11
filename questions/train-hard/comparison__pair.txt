@@ -1,0 +1,6 @@
+Which is greater: 3 or 4195706?
+4195706
+Är 2470518 < 2470530?
+True
+Är 5 inte lika med 56442.18?
+True

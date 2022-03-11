@@ -1,0 +1,20 @@
+Låt d vara (-27060)/(585630/(-1365000) - 6/(-14)). Vad är d avrundat till det närmsta miljontalet?
+59000000
+Låt y = 78 + -76. Låt m vara -724*5*(-1)/(y/20). Avrunda m till det närmsta tiotusentalet.
+40000
+Låt r = 37.64 + -37.2556. Avrunda r till ett decimal.
+0.4
+Låt k(j) = -j**3 - 2*j**2 - 12*j + 5. Låt u = -57 - -12. Låt d = -34 - u. Låt g vara k(d). Vad är g avrundat till det närmsta 1000?
+-2000
+Låt i = -458.99559 - -459. Vad är i avrundat till fyra decimaler?
+0.0044
+Låt a = -1012 - -566.6. Avrunda a till det närmsta 10.
+-450
+Låt o = 18.199998007 + -18.2. Avrunda o till 7 decimaler.
+-0.000002
+Låt k(c) vara förstaderivatan av c**4/4 + 10*c**3/3 + 4*c**2 - c + 13. Låt r vara k(-9). Låt o vara 1614/r - ((-9)/4 - -2). Avrunda o till det närmsta tiotalet.
+200
+Låt k = 9.7 + -4.7. Låt b = 5 + k. Låt c = b - 9.999983. Vad är c avrundat till sex decimaler?
+0.000017
+Låt i = 26 + -20. Låt w = 70.5 - 70. Låt o = i - w. Avrunda o till det närmsta heltalet.
+6

@@ -1,0 +1,6 @@
+Bestäm förstaderivatan av 19384487*f**2 - 2*f - 53833126 med avseende på f.
+38768974*f - 2
+Bestäm tredjederivatan av -6282070*k**6 + 270325*k**2 + 5*k + 2 med avseende på k.
+-753848400*k**3
+Vad är förstaderivatan av 435*n*r + 22274192*n - 1219*r med avseende på r?
+435*n - 1219

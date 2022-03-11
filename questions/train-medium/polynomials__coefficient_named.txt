@@ -1,0 +1,6 @@
+Omordna (5*i + 2*i**2 - 5*i)*(3*i - i - i) + (0*i**2 + i**2 + i**2)*(-i + 5 + 4 - 8) + i**3 - 3*i**2 + 3*i**2 till formen b*i**3 + z*i + k + v*i**2 och ange v.
+2
+Uttryck 7*z**3 - z**2 + z**3 + 42 + 43 - 10*z**3 + 4*z**3 som s*z**3 + b*z**2 + m + x*z och ange b.
+-1
+Omordna 4 + 946*u**4 - 479*u**4 - 2*u + 3*u**3 - 2 - 4*u**3 - 447*u**4 till formen q*u**3 + n*u**2 + m + w*u**4 + b*u och ange w.
+20

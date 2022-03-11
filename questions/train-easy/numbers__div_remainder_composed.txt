@@ -1,0 +1,6 @@
+Låt v(w) = w**3 + 8*w**2 - 25*w - 24. Beräkna resten då 46 delas med v(-10).
+20
+Antag att 4*s = -2*m + 6, 0*m + 2*m = s - 4. Antag att -6*u + 60 = -s*u. Beräkna resten då u delas med 4.
+3
+Låt f(h) = 4*h**2 - h - 2. Låt d vara f(-4). Antag att -5*n - 34 - d = 0. Låt c = n - -35. Beräkna resten då 28 delas med c.
+13

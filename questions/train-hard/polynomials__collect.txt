@@ -1,0 +1,6 @@
+Samla termerna i -2907 - 2904 + 7124*p + 5811
+7124*p
+Samla termerna i -6172*u**2 - 6173*u**2 - 6193*u**2 + 24683*u**2 - 6204*u**2
+-59*u**2
+Samla termerna i -15 + 4*q - 58 - 5*q + 2*q - 17 - 24 + 115
+q + 1

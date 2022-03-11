@@ -1,0 +1,20 @@
+Låt c = -1069 + 1119. Lös -5*f = -30 + c för f.
+-4
+Antag att 5*n - 34 = -3*r, -5*r + 8 = 18. Antag att -2*i - 3*l + n*l = 22, 3*i + 8 = -5*l. Låt o vara 1/3 + (14/i - -2). Lös 2*b + 6 = -o*b för b.
+-3
+Låt c(w) = w - 10. Låt m vara 9 + 0 + -1 - (-32 + 30). Låt z vara c(m). Lös -4*x - x - 15 = z för x.
+-3
+Låt h vara (0 - -8)/(-6 + 1 - -6). Låt p vara h + (-4)/(-12)*3. Lös -2*z - z + p = 0 för z.
+3
+Antag att 38*k - 90 = -4*y + 33*k, 3*y + 3*k - 69 = 0. Lös -5*x - 30 = y*x för x.
+-1
+Antag att 34*c = -58*c + 2668. Lös -c = -t - 34 för t.
+-5
+Låt x vara (-8)/(128/(-12))*32/6. Antag att 12 = c + k, -c - 40 = -x*c - 4*k. Lös 5*v = -7 - c för v.
+-3
+Låt n(r) vara tredjederivatan av r**5/20 + r**4/24 - 4*r**3/3 - 19*r**2. Låt h vara n(2). Lös -2*f + 0*f = h för f.
+-3
+Låt i = -73 + 79. Låt b(p) = -p**3 + 7*p**2 - 7*p + 5. Låt u vara b(6). Låt s = -1 - u. Lös s = -i*d + 3*d - 9 för d.
+-3
+Låt z(t) vara förstaderivatan av 15 - 2*t + 1/2*t**2 + 1/3*t**3. Låt d vara z(2). Lös -f = -5*f - d för f.
+-1

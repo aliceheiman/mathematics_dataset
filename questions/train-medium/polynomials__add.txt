@@ -1,0 +1,6 @@
+Låt d(m) = 9*m**2 + 2*m - 15. Låt s(n) = 2*n**2 + n - 3. Bestäm -2*d(l) + 11*s(l).
+4*l**2 + 7*l - 3
+Låt a = 613 + -630. Låt s(p) = -p - 5. Låt r(j) = -3*j - 15. Ange a*s(z) + 6*r(z).
+-z - 5
+Låt b(q) = 4*q - 6. Låt h vara b(2). Låt u(a) = -11*a**2 + a + 9. Låt v(m) = 1 - m**2. Beräkna h*u(d) - 18*v(d).
+-4*d**2 + 2*d

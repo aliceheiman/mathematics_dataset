@@ -1,0 +1,20 @@
+Låt j vara (261/174)/((-511)/(-2)). Which is greater: j or 1?
+1
+Antag att -192 = 15*k - 13*k - 2*c, 369 = -4*k + c. Är k != 0.01?
+True
+Låt g = 2630 - 2750. Which is bigger: g or -2?
+-2
+Antag att -18*s + 485 - 1439 = 0. Är -53 som minst s?
+True
+Låt h = -6 - -2. Antag att i - 2*s - 13 = 25, -2*s = -4*i + 122. Låt c vara (-105)/i + (0 - (-1)/(-4)). Är h som minst c?
+True
+Låt p = 1 + -4. Låt y = -16013159891/2004 + 7990601. Låt q = 1/501 - y. Är p och q lika?
+False
+Låt n vara 4/((-56)/(-1294)) + 1. Är 93 != n?
+True
+Låt u(n) vara andraderivatan av n**4/6 - 3*n**3/2 - 13*n**2 - 8*n + 6. Låt y vara u(12). Är y som mest 154?
+True
+Låt f(z) = z + 1. Låt k(p) = -13*p - 22. Låt n(o) = 3*f(o) + k(o). Låt m vara n(-9). Låt q vara 3*1 - (-6 + m/8). Which is bigger: q or -1?
+q
+Låt g(a) = 3*a**2 + 15*a - 22. Låt q vara g(-8). Låt c vara ((-292)/q*-5)/(1/(-5)). Är -146 och c olika?
+False

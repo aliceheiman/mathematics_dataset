@@ -1,0 +1,20 @@
+Är 47713451 primtal?
+False
+Är 330548521 ett primtal?
+False
+Är 1772109523 ett sammansatt tal?
+False
+Är 685436069 ett sammansatt tal?
+False
+Är 1177979807 ett sammansatt tal?
+False
+Är 411999967 sammansatt?
+True
+Är 898630043 ett primtal?
+False
+Är 648668591 sammansatt?
+False
+Är 1478568341 sammansatt?
+True
+Är 360185503 ett primtal?
+False

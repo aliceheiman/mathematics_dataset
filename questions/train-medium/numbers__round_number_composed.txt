@@ -1,0 +1,6 @@
+Låt a = -10 - -10.45. Låt z = a + -0.35. Avrunda z till 2 decimaler.
+0.1
+Låt p = -185.081 + 185. Låt u = 0.081000004 + p. Vad är u avrundat till sju decimaler?
+0
+Låt u = 1562 + -1561.99997999. Vad är u avrundat till 6 decimaler?
+0.00002

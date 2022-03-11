@@ -1,0 +1,6 @@
+Derivera -2*g**4 - 6 + 2 + 3 + 13*g**4 med avseende på g.
+44*g**3
+Antag att 4*d + 44 = -0*d. Låt x = d - -16. Vad är tredjederivatan av -2*g**5 - 4*g**5 - g**2 + x*g**5 med avseende på g?
+-60*g**2
+Bestäm tredjederivatan av -24*t**3 - 19*t**2 - 27*t**3 + 11*t**3 - 7*t**3 med avseende på t.
+-282

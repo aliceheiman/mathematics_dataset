@@ -1,0 +1,6 @@
+Antag att -9073 - 29455 = -16*i. Antag att 3*f = 3*o - 5566 - 1703, -4*o = f + i. Vad är f avrundat till det närmsta 100?
+-2400
+Låt g = -33610 + 33610.000028429. Vad är g avrundat till sju decimaler?
+0.0000284
+Låt l = -3.1 - -3.4. Låt n = l - -0.15. Låt j = -0.45000104 + n. Avrunda j till 7 decimaler.
+-0.000001

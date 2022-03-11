@@ -1,0 +1,20 @@
+Vilket är det sjätte största värdet?  (a) 1  (b) 16  (c) -0.5  (d) 3/8  (e) 18/31  (f) 4  (g) -0.2
+g
+Vilket är det andra största värdet?  (a) 7  (b) 16  (c) 4/7  (d) -5  (e) 65/4
+b
+Vad är det andra största värdet i -1, -0.793669, 5?
+-0.793669
+Vilket är det fjärde minsta värdet?  (a) -5  (b) 3  (c) -315.56  (d) 2/5  (e) 31
+b
+Vilket är det tredje minsta värdet?  (a) -35.196  (b) 1  (c) 46
+c
+Vad är det tredje minsta värdet i -2, 4, 1230, -11, 5, 5/4?
+5/4
+Vad är det största värdet i 0.2, -32, -34274?
+0.2
+Vilket är det största värdet?  (a) -3/4  (b) -2/13  (c) 6  (d) -1  (e) 4/7  (f) -3030
+c
+Vad är det tredje minsta värdet i -0.3, 5, 0, -0.13, -1, -7/237, 1?
+-0.13
+Vad är det sjätte minsta värdet i -5, 0.06, 8, 0.08, -0.3, -7.3?
+8

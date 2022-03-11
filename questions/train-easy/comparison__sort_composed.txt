@@ -1,0 +1,6 @@
+Låt q vara (1/2)/((-3)/((-90)/3)). Sätt -4/5, -7, q, 2/9 i minskande ordning.
+q, 2/9, -4/5, -7
+Låt p = -3.36 - -4.9. Låt r = p - 1.9. Låt z = r + -0.04. Sätt z, -1, -3 i minskande ordning.
+z, -1, -3
+Låt b = -1.4 + 2. Låt x = b - 0. Låt v = 0.2 - x. Sortera -0.3, 1, v.
+v, -0.3, 1

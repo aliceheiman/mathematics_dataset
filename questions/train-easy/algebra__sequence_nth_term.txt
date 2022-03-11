@@ -1,0 +1,6 @@
+Vilken är den b:te termen i -88, -80, -60, -22, 40, 132, 260?
+b**3 + b - 90
+Vilken är den z:te termen i 1399, 1402, 1405, 1408, 1411?
+3*z + 1396
+Vilken är den o:te termen i -803, -1620, -2437, -3254, -4071?
+14 - 817*o

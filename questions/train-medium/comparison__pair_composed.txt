@@ -1,0 +1,6 @@
+Låt q(o) = -84*o**3. Låt x vara -3 + 1 - (-4 - -1). Låt k vara q(x). Låt s vara -1 + k/(-45) + -1. Which is bigger: 1 or s?
+1
+Låt f(c) = 117*c**3 - 2*c**2 + 1. Låt w vara f(1). Antag att -1310 = -23*n + 1358. Är w mindre än eller lika med n?
+True
+Låt h = -0.1 - -0.3. Låt v = -1.47 + 0.34. Låt j = 3.87 - v. Which is smaller: j or h?
+h

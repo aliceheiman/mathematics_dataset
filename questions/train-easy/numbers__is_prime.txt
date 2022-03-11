@@ -1,0 +1,6 @@
+Är 16015 primtal?
+False
+Är 135631 primtal?
+False
+Är 52837 ett sammansatt tal?
+False

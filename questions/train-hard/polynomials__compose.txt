@@ -1,0 +1,6 @@
+Låt z(y) = -5*y. Låt b(m) = 11*m - 20. Låt f(o) = 48*o - 86. Låt k(t) = -26*b(t) + 6*f(t). Bestäm k(z(w)).
+4 - 10*w
+Låt f(w) = 13*w - 3. Låt o(q) = 2 - 13*q. Låt j(s) = 4*f(s) + 6*o(s). Låt n(z) = z - 3. Låt b(l) = 18 - 7*l. Låt d(k) = b(k) + 6*n(k). Beräkna d(j(i)).
+26*i
+Låt k(u) = 336*u**2 + u. Låt w(q) = 5*q**2 - 4*q + 96. Låt p(r) = -9*r**2 + 7*r - 168. Låt s(j) = 4*p(j) + 7*w(j). Beräkna k(s(l)).
+336*l**4 - l**2

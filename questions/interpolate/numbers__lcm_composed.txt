@@ -1,0 +1,20 @@
+Antag att -22486 - 13291 = -7*z. Beräkna den minsta gemensamma faktorn till z och 5.
+25555
+Antag att 2*o + 2*l = 158, 2*o - 4*l - 13 = 139. Beräkna den minsta gemensamma faktorn till 38 och o.
+1482
+Bestäm den gemensamma nämnaren till 91/174 och 10590/(-1890) + 6/(-21).
+522
+Låt p = 42 - 24. Låt x = 83 + -93. Beräkna den minsta gemensamma faktorn till (-8)/x - 64/(-20) och p.
+36
+Låt r = 634 + -41891/66. Vilken är den gemensamma nämnaren till r och -12/121?
+726
+Låt f = 24003850/319 - 75247. Vilken är den gemensamma nämnaren till f och 37/232?
+2552
+Låt k(c) = c**3 + 5*c**2 + 7*c + 7. Låt j vara k(-4). Antag att -4*u + 0 = -88. Vilken är den minsta gemensamma faktorn till j/(-2)*(-5)/(75/(-96)) och u?
+176
+Låt n = 1946 - 1932. Låt q = -41 - -61. Beräkna den minsta gemensamma faktorn till n och q.
+140
+Låt l = -337359659/824 + 409417. Beräkna den gemensamma nämnaren till -143/36 och l.
+7416
+Låt b = 255433/18 + -14196. Låt l vara ((-10)/(-111))/(104/(-36)). Låt s = l - -26725/8658. Beräkna den gemensamma nämnaren till s och b.
+18

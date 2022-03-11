@@ -1,0 +1,20 @@
+Antag att 5*t - 5*w = 25 - 0, -5*w = 10. Vad är andraderivatan av 19*f + f**3 - 3*f**t + f + 15*f**3 med avseende på f?
+78*f
+Antag att -3*o + 9 = 0, -53 = -p - 5*o + 35. Antag att v = 133 + p. Vad är förstaderivatan av 11 + 2*f**4 - v*f**3 + 206*f**3 med avseende på f?
+8*f**3
+Låt j(w) vara tredjederivatan av -149*w**5/20 - w**4/24 - 100*w**3/3 + 222*w**2 + w. Vad är andraderivatan av j(a) med avseende på a?
+-894
+Låt g(s) vara tredjederivatan av -5*s**6/8 + s**4/12 - 164*s**3/3 - 2*s**2 - 176*s. Bestäm andraderivatan av g(i) med avseende på i.
+-450*i
+Vad är andraderivatan av 17*a**2 - 7*a**3 + 725 - 15*a**2 + 81*a - 7*a**2 - 80*a med avseende på a?
+-42*a - 10
+Låt i(z) = 103*z**2 - 3*z + 1363. Låt o(m) = 202*m**2 - 7*m + 2728. Låt y(u) = 5*i(u) - 2*o(u). Vad är derivatan av y(d) med avseende på d?
+222*d - 1
+Antag att -18 = 35*h - 44*h. Vad är tredjederivatan av -37*o**3 - 30*o**3 + 15*o**3 + 15*o**h + 1 med avseende på o?
+-312
+Vad är andraderivatan av 1 - 11179*l**2 + 5335*l**2 + 5123*l**2 + 92*l med avseende på l?
+-1442
+Antag att 4*f = -5*v + 28, -v + 2*f - 6*f + 12 = 0. Vad är derivatan av -33 + 260*s**3 - 7*s**v - 260*s**3 - 9*s**4 med avseende på s?
+-64*s**3
+Låt s(a) = 118*a**3 + a**2 - 2*a + 8. Låt t(d) = -d**2 + 2*d - 1. Låt r(i) = -2*s(i) - 2*t(i). Vad är förstaderivatan av r(c) med avseende på c?
+-708*c**2

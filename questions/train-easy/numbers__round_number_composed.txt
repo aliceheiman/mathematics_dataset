@@ -1,0 +1,6 @@
+Låt i = 21.081 - 21. Avrunda i till 2 decimaler.
+0.08
+Låt h = -27879820 + 27884497.16072. Låt q = -4677 + h. Låt t = 0.16 - q. Avrunda t till 4 decimaler.
+-0.0007
+Låt y(v) = -v**3 - 5*v**2 - 2*v - 7. Låt z vara y(-5). Antag att -4505 = 5*b + 5*r, -2025 = 4*b - z*r + 1572. Vad är b avrundat till det närmsta 100?
+-900

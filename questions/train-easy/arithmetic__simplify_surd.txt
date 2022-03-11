@@ -1,0 +1,6 @@
+Förenkla ((-1*sqrt(2548))/(sqrt(36)*6))**2.
+637/324
+Förenkla -2 + sqrt(28)/sqrt(4) + -1*sqrt(35)/sqrt(5).
+-2
+Förenkla -4*(4 + sqrt(76) + -2)*-5.
+40 + 40*sqrt(19)

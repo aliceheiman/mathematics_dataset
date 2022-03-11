@@ -1,0 +1,6 @@
+Låt q vara ((-53)/(-3 + 3/(-24)))/(-2). Låt l = 8/25 - q. Låt t = -3117/10 - -305. Vilken är den gemensamma nämnaren till t och l?
+10
+Vilken är den gemensamma nämnaren till 145/78 och (486/(-20))/((1152/(-20))/(-6))?
+1248
+Låt o(r) = 2*r**3 + 18*r**2 - 22*r - 14. Vilken är den minsta gemensamma faktorn till o(-10) och 6?
+6

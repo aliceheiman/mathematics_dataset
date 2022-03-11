@@ -1,0 +1,20 @@
+Avrunda 169988920 till det närmsta miljontalet.
+170000000
+Avrunda -2.2071651 till 1 decimal.
+-2.2
+Avrunda 0.000011210062 till 6 decimaler.
+0.000011
+Avrunda 0.0034811033 till 6 decimaler.
+0.003481
+Vad är -96.411915 avrundat till 2 decimaler?
+-96.41
+Avrunda 0.42436058 till 3 decimaler.
+0.424
+Vad är -144.79483 avrundat till det närmsta 10?
+-140
+Vad är 0.25234039 avrundat till 4 decimaler?
+0.2523
+Vad är -0.181533856 avrundat till 5 decimaler?
+-0.18153
+Avrunda 0.00000073465534 till sju decimaler.
+0.0000007

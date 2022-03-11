@@ -1,0 +1,6 @@
+Vad är sannolikheten att sekvensen är gggq då fyra bokstäver väljs utan återsättning från {q: 2, g: 7, b: 1}?
+1/12
+Två bokstäver väljs utan återsättning från eieegei. Ange sannolikheten att sekvensen är ge.
+2/21
+Två bokstäver väljs utan återsättning från gcgcccgkkgckcgg. Ange sannolikheten att sekvensen är ck.
+3/35

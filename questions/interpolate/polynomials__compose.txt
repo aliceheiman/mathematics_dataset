@@ -1,0 +1,20 @@
+Låt n(u) = 1362 - 1217*u. Låt t(x) = -x**2. Beräkna n(t(s)).
+1217*s**2 + 1362
+Låt u(v) = 7 - 62*v. Låt r(t) = 19*t - 2. Låt k(f) = 9*r(f) + 2*u(f). Låt q(o) = -3*o**2. Ange q(k(d)).
+-6627*d**2 + 1128*d - 48
+Låt m(b) = -158*b - 12. Låt i(v) = 69*v**2 + 7*v. Vad är m(i(g))?
+-10902*g**2 - 1106*g - 12
+Låt u(p) = -3*p**2 + 13 - 10 - 10. Låt o(d) vara tredjederivatan av -d**5/30 - 2*d**3/3 - d**2. Låt t(x) = -7*o(x) + 4*u(x). Låt w(v) = 13*v**2. Vad är t(w(j))?
+338*j**4
+Antag att 151*h = 157*h - 12. Låt s(y) = -12315*y + 12315*y + 8*y**h. Låt n(j) = -j. Beräkna n(s(o)).
+-8*o**2
+Låt s(m) = -m**2 - 71*m. Låt k(q) vara tredjederivatan av -q**5/60 - 33*q**2 + 6. Ange s(k(g)).
+-g**4 + 71*g**2
+Låt z(k) = 2*k - 7*k**2 - 4*k**2 + 5*k + 7*k**2. Låt y(m) = 9*m**2 - 2*m + 1. Låt w(n) = 37*n**2 - 8*n + 4. Låt j(i) = -w(i) + 4*y(i). Ange z(j(q)).
+-4*q**4 - 7*q**2
+Låt s(w) vara tredjederivatan av w**4/8 - 3*w**2 - 361*w - 2. Låt a(h) vara förstaderivatan av 2 - 3*h**2. Ange a(s(l)).
+-18*l
+Låt o(c) = c + 3. Låt n(y) = 32576 - 2*y. Ange n(o(k)).
+32570 - 2*k
+Låt p(z) vara andraderivatan av -29*z**4/4 + 2*z + 114. Låt g(i) = 7*i. Beräkna p(g(k)).
+-4263*k**2

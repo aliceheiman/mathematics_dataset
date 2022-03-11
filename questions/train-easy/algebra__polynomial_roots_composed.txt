@@ -1,0 +1,6 @@
+Låt z(b) = b**3 - b**2 - b - 1. Låt u(s) = 2*s**4 + 16*s**3 - 4*s**2 - 8*s - 10. Låt t(r) = -u(r) + 10*z(r). Lös t(y) = 0 för y.
+-1, 0
+Låt d(h) vara andraderivatan av 1/6*h**3 + 0 - 1/2*h**2 + h - 1/120*h**5 - 1/48*h**4. Låt r(v) vara förstaderivatan av d(v). Låt r(l) = 0. Beräkna l.
+-2, 1
+Antag att -8*c = 4*c. Låt a(g) vara andraderivatan av 0*g**4 - 2*g + 1/30*g**6 + 0 - 1/40*g**5 + c*g**3 - 1/84*g**7 + 0*g**2. Lös a(r) = 0.
+0, 1

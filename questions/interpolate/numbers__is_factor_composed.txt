@@ -1,0 +1,20 @@
+Låt x(o) = 50 - o**2. Låt n vara x(-11). Är 5/(-4)*-4 - n en multipel av 31?
+Falskt
+Låt z vara (-84)/126*1/((-2)/123). Antag att 4*h - z = 3*h. Är 3 en delare till h?
+Falskt
+Låt n = -29 - -33. Antag att 0 = n*a - 351 - 333. Är 19 en delare till a?
+Sant
+Antag att -136*s + 4*s + 276271 = 37087. Är 6 en faktor i s?
+Sant
+Låt j = 1500 + 318. Är 6 en faktor i j?
+Sant
+Antag att 2*q - 4*a - 12 = 0, 4*q - 3*a + 6*a = 13. Antag att 0 = 5*y - q*n + 116, 28 = -2*y + y + 2*n. Låt x = y + 67. Är 5 en faktor i x?
+Falskt
+Antag att -3*i + 3*m = 2*i - 4, 0 = 5*i - 5*m. Låt q(x) = 7 - 7 - 2*x**i - 94*x**3 + 1. Är q(-1) en multipel av 14?
+Falskt
+Antag att 2*a = -2*w - 0*a - 998, 3*a - 1018 = 2*w. Låt d = w - -888. Är 23 en delare till d?
+Falskt
+Låt p(g) = -6*g**3 - 92*g**2 - 40*g + 56. Låt k(q) = -4*q**3 - 61*q**2 - 27*q + 37. Låt x(j) = 7*k(j) - 5*p(j). Är 21 en delare till x(-15)?
+Falskt
+Är 29 en delare till 792/48*44/2?
+Falskt

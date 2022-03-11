@@ -1,0 +1,6 @@
+Låt h = 6.66 + -3.5. Låt f = -3 + h. Låt b = 0.1 - f. Sätt 2/5, b, 1/2 i minskande ordning.
+1/2, 2/5, b
+Låt n vara 5 - (-38)/(-8) - 2/8. Låt s vara -1*2 - (-3)/(-3). Sortera 8, s, n i växande ordning.
+s, n, 8
+Antag att -46 = 4*r - q, r - 2*r - 4*q - 3 = 0. Låt b = 18 + -20. Sortera b, 3, r i minskande ordning.
+3, b, r

@@ -1,0 +1,20 @@
+Låt r vara 212/106*6/4. Sätt r, -195, -1 i minskande ordning.
+r, -1, -195
+Låt z = 32.7 + -11.6. Låt r = z - 21.3. Sätt -1/3, -2, r, 2/15 i avtagande ordning.
+2/15, r, -1/3, -2
+Låt n = -71/5 + 188/15. Låt x = -93 - -98. Antag att -5*u - 5 = -2*a, -x*a - 22 = u + 6. Sätt n, u, 0.06 i minskande ordning.
+0.06, n, u
+Låt o vara (-1)/((-16)/(-12))*(-20)/15*3. Sätt o, 177, -2 i avtagande ordning.
+177, o, -2
+Låt h vara (4*-1 - -2) + 1. Låt t(y) = -y**2 - 17*y - 13. Låt x vara t(-16). Antag att 4 = 3*w - 5*v, 3*w - x*v + 0*v = 0. Sortera h, 1, w i växande ordning.
+w, h, 1
+Antag att 2*o + 3*a = 8, -2*o - 4*a = -4*o - 6. Låt u = 0.07783 - 0.07883. Sortera 2, u, o.
+u, o, 2
+Antag att 15 = -2*m + 17. Låt z(k) = -k**2 - 10*k + 11. Låt b vara z(-11). Antag att 4*p = 3*n + p - 3, b = 2*n + 2*p + 14. Sortera n, m, -1.
+n, -1, m
+Låt j = 7 - 11. Antag att b - 5*c - 24 = 0, -1929*b + 4 = -1927*b + c. Sätt 5, -3, b, j i växande ordning.
+j, -3, b, 5
+Låt r = -138.344 + 0.344. Låt p = r - -140. Sätt -0.5, p, -2/11, -2/15 i avtagande ordning.
+p, -2/15, -2/11, -0.5
+Låt k vara (3 + 2)*(-9)/(-15). Låt i = -202 + 196. Sätt i, k, 1 i minskande ordning.
+k, 1, i

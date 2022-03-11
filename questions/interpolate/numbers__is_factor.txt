@@ -1,0 +1,20 @@
+Är 42049161 en multipel av 693?
+Sant
+Är 13125741 en multipel av 4?
+Falskt
+Är 189 en delare till 34356150?
+Falskt
+Är 139 en faktor i 9620173?
+Falskt
+Är 21 en faktor i 12233361?
+Sant
+Är 21 en faktor i 12154023?
+Sant
+Är 65991770 en multipel av 66?
+Falskt
+Är 4401187 en multipel av 170?
+Falskt
+Är 8 en delare till 148468?
+Falskt
+Är 20 en delare till 35725549?
+Falskt

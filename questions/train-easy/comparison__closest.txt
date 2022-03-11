@@ -1,0 +1,6 @@
+Vad är det närmaste till 2 i 4, -3, 107/6?
+4
+Vad är det närmaste till 0 i -34, 0.2, -3, 5?
+0.2
+Vilket är det närmaste till -3/4?  (a) 0.4  (b) 5  (c) -0.5  (d) 0.5
+c

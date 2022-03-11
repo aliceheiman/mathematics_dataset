@@ -1,0 +1,20 @@
+101101111001110111 (bas 2) till bas 10
+188023
+Konvertera 201767 (bas 9) till bas 14.
+31767
+Vad är -65680 (bas 9) i bas 14?
+-11c41
+Konvertera -13357 (bas 8) till bas 6.
+-43103
+Vad är -1c06a (bas 13) i bas 8?
+-153345
+Konvertera -9054 (bas 11) till bas 3.
+-121111212
+-600162 (bas 7) till bas 5
+-11212220
+Konvertera 20a08 (bas 13) till bas 14.
+17616
+Vad är -163ba (bas 14) i bas 11?
+-38885
+Vad är 26b26 (bas 16) i bas 13?
+571b6

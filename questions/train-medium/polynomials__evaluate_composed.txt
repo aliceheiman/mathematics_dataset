@@ -1,0 +1,6 @@
+Låt r(t) = t - 4*t + 7 + 4*t. Låt x = 96 - 102. Vad är r(x)?
+1
+Antag att 7 = -5*p + 32. Antag att 5*j - 10 = -a, 10 = p*j + 3*a - 0. Låt o(x) = -x**3 + 1 + 1 + 2 + 4*x**2 + j*x + 2. Vad är o(5)?
+-9
+Antag att -b + 4*d + 13 = 0, d = -2 - 1. Låt c(g) = -17*g**2 + 3*g + 2. Låt t = 42 + -47. Låt n(a) = 35*a**2 - 7*a - 5. Låt f(z) = t*c(z) - 2*n(z). Ange f(b).
+14

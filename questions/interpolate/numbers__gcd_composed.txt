@@ -1,0 +1,20 @@
+Antag att 100*o - 30 = 94*o. Antag att -o*y + 3*l = 26 - 1193, y - 227 = -l. Vilken är den största gemensamma faktorn till 21 och y?
+21
+Antag att -81 = 15*s + 99. Låt w = s - -24. Beräkna den största gemensamma faktorn till w och 108.
+12
+Låt x(z) = -z**2 + 11*z - 5. Låt n vara x(10). Antag att -185 = n*p - 10. Låt y = -26 - p. Beräkna den största gemensamma faktorn till 81 och y.
+9
+Antag att 3*z = -6*z + 90. Antag att 7*u + 42 = z*u. Vilken är den största gemensamma faktorn till u och 70?
+14
+Antag att 9*l - 15*l = 1926. Låt f = l + 541. Vilken är den största gemensamma faktorn till 55 och f?
+55
+Låt z vara 5 + (-1 - 3) + 3. Antag att 6*d - z*d + 4*k = 64, -3*d - 5*k = -97. Vilken är den största gemensamma faktorn till 34 och d?
+34
+Låt z = 16 + -12. Antag att 5*p = -1 - 4, 114 = 2*x + z*p. Antag att 2*f = -5*w + 11 + 74, -f + x = -3*w. Beräkna den största gemensamma faktorn till f och 20.
+10
+Låt w vara 3/1 - 18/6. Låt x vara -20*((-2)/(-4) - (w - -1)). Vilken är den största gemensamma delaren till x och 160?
+10
+Antag att 7*u - 108 = -2*u. Antag att -21 = u*s - 489. Vilken är den största gemensamma faktorn till s och 39?
+39
+Antag att -36 = -p + 24. Antag att -4*h = h - p. Låt m(w) = -w**2 - 22*w + 111. Låt b vara m(-25). Vilken är den största gemensamma delaren till b och h?
+12

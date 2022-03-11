@@ -1,0 +1,6 @@
+Låt g(w) = -12*w - 3. Antag att 2*r + 3*p + 3 + 8 = 0, -4*p = 4. Låt v vara g(r). Är (144/v)/(4/10) en multipel av 6?
+Falskt
+Antag att 20 = -h + 4*p - 0, -2*p + 16 = -2*h. Låt m vara (-4)/(-10) + h/10. Antag att m = -3*q + 2*a + 27, 0 = -q + 6*a - a + 9. Är 9 en delare till q?
+Sant
+Är 19 en delare till 39 + -2 + 0 + 0?
+Falskt

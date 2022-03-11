@@ -1,0 +1,6 @@
+Låt i(k) vara förstaderivatan av -k**2/2 - 3*k - 122. Låt s vara i(1). Vilket är det andra minsta värdet?  (a) -3  (b) 1/3  (c) -0.4  (d) s
+a
+Låt d vara ((-978)/(-15))/(((-252)/30)/(-7)). Låt w = -54 + d. Vad är det andra största värdet i w, 3/7, 0.3?
+w
+Låt y = 734 + -668.7. Låt j = 4170 + -4105. Låt g = y - j. Vilket är det andra största värdet?  (a) g  (b) 0.13  (c) -0.5
+b

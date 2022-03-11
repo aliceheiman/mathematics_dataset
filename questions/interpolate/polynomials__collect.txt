@@ -1,0 +1,20 @@
+Samla termerna i a + 12*a**2 - 218*a**2 - 18*a - 129*a**2 - 50*a**2
+-385*a**2 - 17*a
+Samla termerna i 11 - 386*q**2 + 1 - 12 - 1182*q**2
+-1568*q**2
+Samla termerna i -2 + 81*s - 524*s + 155*s + 94*s
+-194*s - 2
+Samla termerna i -5*d**2 - 1 + 2*d**2 - 7*d**2 + 249*d**3 + 0*d**2
+249*d**3 - 10*d**2 - 1
+Samla termerna i -4 + 2*m**3 - 11*m**3 + 20*m**3 - 12*m**3 + 0*m**3 + 4
+-m**3
+Samla termerna i -96*y**2 + 2*y**3 + 213*y**2 - 8*y**3 + 2*y**3 - 117*y**2
+-4*y**3
+Samla termerna i -38*z + 213*z + 183 + 27*z - 51*z - 180
+151*z + 3
+Samla termerna i -93479*s + 18698*s + 18703*s + 18694*s + 18697*s + 18717*s
+30*s
+Samla termerna i -1084*t**2 + 45*t**3 - 6*t**3 + 573*t**2 + 578*t**2
+39*t**3 + 67*t**2
+Samla termerna i 1700*z + 838*z - 1311*z + 4586*z
+5813*z

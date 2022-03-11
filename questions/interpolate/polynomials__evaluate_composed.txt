@@ -1,0 +1,20 @@
+Låt v(c) = 6*c**2 + 13*c + 2. Låt w vara 2/(-3) + (87/9 - 4). Låt x(r) = r**2 + r - 1. Låt l(s) = w*x(s) - v(s). Ange l(-7).
+0
+Antag att h + 18 = -3*x + 2*h, -19 = 2*x - 3*h. Låt f(z) = -z. Låt g(v) = v - 2. Låt p vara g(1). Låt b(n) = 4*n + 2. Låt l(o) = p*b(o) - 2*f(o). Bestäm l(x).
+8
+Låt r(m) = -m**2 - 22*m + 11. Låt k(d) = 3*d**2 + 65*d - 35. Låt n(f) = -3*k(f) - 8*r(f). Vad är n(-20)?
+-3
+Låt s vara (-38)/209 - ((-210)/(-33))/(-2). Låt g(i) vara tredjederivatan av -i**5/60 + i**4/24 - 3*i**2. Ange g(s).
+-6
+Låt h(v) = -17 - 10*v + 18 + 63 - 23*v + 36*v. Ange h(-19).
+7
+Låt f(q) = q + 4. Låt p vara f(-3). Antag att -4*w - 17 = -5*w. Antag att -w = -2*r + 3*t, -3*r - t - 1 = p. Låt s(c) = 7*c**2 + 2*c - 1. Ange s(r).
+8
+Låt b vara -3 - (-6 + 6 - 4). Låt o(u) = -2*u - 3. Låt a(j) = -2*j - 5. Låt h(f) = -2*a(f) + 3*o(f). Bestäm h(b).
+-1
+Låt n(s) = 1898 - 2*s**2 + 4*s**2 - 1914 + 39*s. Vad är n(-20)?
+4
+Låt u(t) vara förstaderivatan av -t**4/4 - 8*t**3/3 - 11*t**2/2 + t - 38. Bestäm u(-6).
+-5
+Låt b(x) vara andraderivatan av 7*x**4/12 - 5*x**3/3 - 5*x**2/2 - 31*x - 6. Låt z(n) = -n**2 + 2*n - 3*n + 2*n**2. Låt u(l) = -b(l) + 6*z(l). Beräkna u(5).
+0

@@ -1,0 +1,6 @@
+Är 20 en faktor i 597?
+Falskt
+Är 10 en faktor i 8223?
+Falskt
+Är 4 en faktor i 479?
+Falskt

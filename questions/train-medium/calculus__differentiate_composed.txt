@@ -1,0 +1,6 @@
+Antag att 0 = 5*r + 97 - 102. Bestäm andraderivatan av -7*i + 5*i**5 - 1 - 4*i**3 - 5 + 4 - r med avseende på i.
+100*i**3 - 24*i
+Bestäm förstaderivatan av 204*v**3 + 52 + 5*v**4 - 201*v**3 - 5 med avseende på v.
+20*v**3 + 9*v**2
+Vad är andraderivatan av -5*f**2 - 11*f**2 + 256*f**3 - 10*f**2 - 7*f + 2 + 26*f**2 med avseende på f?
+1536*f

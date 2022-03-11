@@ -1,0 +1,6 @@
+Avrunda 0.0120791553 till 6 decimaler.
+0.012079
+Vad är -1189338.25 avrundat till det närmsta 100000?
+-1200000
+Avrunda -0.01680139872 till 6 decimaler.
+-0.016801

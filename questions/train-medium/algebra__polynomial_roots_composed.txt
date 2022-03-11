@@ -1,0 +1,6 @@
+Låt h(c) vara förstaderivatan av -5*c**4/16 - 25*c**3/12 - 5*c**2/4 + 10*c + 70. Bestäm q så att h(q) = 0.
+-4, -2, 1
+Låt x(l) vara tredjederivatan av 7*l**5/90 + 25*l**4/36 - 4*l**3/3 + 15*l**2 - 8*l. Faktorisera x(w).
+2*(w + 4)*(7*w - 3)/3
+Bestäm p så att 14*p**3 - 21*p**5 + 22*p**2 + 73*p**3 + 44 - 69*p**4 + 71*p**2 - 68 - 66*p = 0.
+-4, -1, -2/7, 1

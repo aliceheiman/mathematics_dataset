@@ -1,0 +1,6 @@
+Antag att 0 = -16*c + 18*c - 5*o - 1866, 4644 = 5*c - 2*o. Vilken är den största gemensamma faktorn till 348 och c?
+116
+Antag att -2*m + 6238 - 2076 = 4*a, -4*a + 4113 = -5*m. Vilken är den största gemensamma delaren till a och 183?
+61
+Antag att -p - 20*i - 5 = -22*i, 0 = 4*p - 2*i - 10. Låt h vara (-1 + p)*(-7)/28*-46. Beräkna den största gemensamma delaren till h och 506.
+46

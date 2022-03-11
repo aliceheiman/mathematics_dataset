@@ -1,0 +1,6 @@
+Lista primtalsfaktorerna till 1643338.
+2, 571, 1439
+Vilka är primtalsfaktorerna till 7598680?
+2, 5, 189967
+Vilka är primtalsfaktorerna till 17232797?
+823, 20939

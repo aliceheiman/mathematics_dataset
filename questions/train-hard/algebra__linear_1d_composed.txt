@@ -1,0 +1,6 @@
+Låt i(a) = 6*a**3 + a**2 + 2*a - 2. Antag att y = 3*d - 6, 0 = 5*d - y - 2*y - 14. Låt c vara i(d). Antag att 201 + 103 = 76*o. Lös o*w - 27 = -c för w.
+5
+Låt f = 91 + -86. Antag att 5*p + a = 11, 2*p = p + a + 1. Antag att -4*g - 10 = f*q, p*g = -2*q - 3*q. Lös -q*j = -j för j.
+0
+Antag att -19*q + q + 2*q = 0. Antag att -30 = -4*s - i + 9, -4*s + 4*i + 44 = q. Lös -4*u - s = -30 för u.
+5

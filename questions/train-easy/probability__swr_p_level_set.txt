@@ -1,0 +1,6 @@
+Beräkna sannolikheten att välja 1 a and 1 s då två bokstäver väljs utan återsättning från cvaacvsrsacvcraacc.
+10/153
+Vad är sannolikheten att välja 1 i and 3 k då fyra bokstäver väljs utan återsättning från {i: 9, k: 9}?
+21/85
+Fyra bokstäver väljs utan återsättning från {s: 9, x: 5, k: 2, m: 3}. Vad är sannolikheten att välja 1 x, 1 s and 2 m?
+45/1292

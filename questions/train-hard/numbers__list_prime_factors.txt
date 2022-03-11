@@ -1,0 +1,6 @@
+Vilka är primtalsfaktorerna till 142206545?
+5, 13, 19, 113, 1019
+Lista primtalsfaktorerna till 190758488.
+2, 23844811
+Vilka är primtalsfaktorerna till 773612629?
+773612629

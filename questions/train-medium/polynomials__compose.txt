@@ -1,0 +1,6 @@
+Låt k(r) = 2*r**2. Låt p(c) = 180*c**2 - 64*c**2 + 18*c**2 + 80*c**2. Ange p(k(q)).
+856*q**4
+Låt u(o) = o**2. Låt g(p) vara förstaderivatan av 2*p**2 + 54. Vad är u(g(y))?
+16*y**2
+Låt u(q) = -3*q**2. Låt b(n) = -80*n - 101. Vad är b(u(w))?
+240*w**2 - 101

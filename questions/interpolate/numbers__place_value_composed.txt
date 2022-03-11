@@ -1,0 +1,20 @@
+Antag att 2*h = 4*a + 18080, -h - 26*a + 27*a = -9040. Vad är tusentalssiffran i h?
+9
+Låt m vara (-174)/(-12)*(-1 + 5). Låt g = -34 + m. Antag att -26*l + g*l = -96. Vad är tiotalssiffran i l?
+4
+Antag att l = 6*l - 40. Vad är entalssiffran i 10*(0 - 87)*(-4)/l?
+5
+Låt s(c) = 6*c**3 - 80*c**2 + 17*c - 18. Vad är tusentalssiffran i s(16)?
+4
+Låt o vara 0/(5 + -4 - 0). Låt p(d) = d**2 + 5*d + 266. Vad är hundratalssiffran i p(o)?
+2
+Antag att 6 = g + 2*l, 0 = -3*g + 2*l - 0*l + 10. Antag att -q = b - 171, 3 + 1 = g*b. Vad är entalssiffran i q?
+0
+Låt d vara (0 + -1)/((-2 - -11)/(-4671)). Låt j = -275 + d. Vad är hundratalssiffran i j?
+2
+Låt m = 17 - 18. Låt y vara (1/m)/((-5)/15). Antag att y*i - 4*r = 60, -4*i + 0*i + 76 = -4*r. Vad är tiotalssiffran i i?
+1
+Låt k vara 752/6 + 2/(-6). Antag att 5*w - 158*l + 226 = -155*l, -4*w - 4*l - 200 = 0. Låt y = k + w. Vad är tiotalssiffran i y?
+7
+Antag att -2*i - m = -2*m - 5, -5*i + 26 = 2*m. Låt w = i + 12. Antag att -s = w - 90. Vad är tiotalssiffran i s?
+7

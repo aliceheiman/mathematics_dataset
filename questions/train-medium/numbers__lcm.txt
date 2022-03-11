@@ -1,0 +1,6 @@
+Vilken är den minsta gemensamma faktorn till 25184 och 15740?
+125920
+Beräkna den minsta gemensamma faktorn till 513494 och 4.
+1026988
+Vilken är den gemensamma nämnaren till 139/486 och 169/30?
+2430

@@ -1,0 +1,6 @@
+Antag att 1116129 = -51*m + 8057382. Är m sammansatt?
+True
+Låt k(a) = 693*a + 2. Låt p vara k(2). Antag att y - p = 1667. Antag att -2*c - y = -7*c. Är c ett primtal?
+False
+Låt b = 525438 - 314749. Är b primtal?
+False

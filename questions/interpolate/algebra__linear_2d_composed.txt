@@ -1,0 +1,20 @@
+Låt z(n) = 108*n - 1077. Låt b vara z(10). Lös -d - b*r = 12, -2*r + 51 = -5*d + 59 för d.
+0
+Låt o(q) = 13*q**2 + 4 - 2*q**3 + 1 - 9 + 1 + 8*q. Låt i vara o(7). Lös -f = 0, -i*p - 3*f - f + 8 = 0 för p.
+2
+Låt z(a) = -26*a + 72*a - 28*a - 42 - a**2. Låt o vara z(15). Lös 11 = -5*l - o*j, -3*l + 6*l - j = -15 för l.
+-4
+Låt q(m) = m + 11. Låt f vara q(-16). Låt c = f + 15. Lös -c = 3*a + g - 0, 0 = a + 3*g - 10 för a.
+-5
+Antag att -s = 1 - 2. Antag att -22*r - 10 = -17*r. Låt o vara (54/(-12) - -3)/(r/4). Lös -3*g - g = -v - s, -o*g = 4*v - 15 för g.
+1
+Låt u(v) = -3*v**2 - 7*v + 4*v**2 + v + 7 + 2. Låt n(k) = k - 8. Låt t vara n(13). Låt y vara u(t). Lös 4*i + z = 7*i - y, 3*z = 3*i för i.
+2
+Låt g vara (5 - 11) + 11 - 3. Lös -4*p - 3*r - 17 = -8, g*r + 4 = -2*p för p.
+-3
+Låt s = -55 - -61. Låt y vara 0/(1/6*s). Lös t - z - 4 = y, 2*t + 5*z - z = 14 för t.
+5
+Antag att 0 = -4*t, -4*h - 2*t + 10 + 10 = 0. Antag att -3*l + 32 = -h*p, 0 = -2*l - 3*p + 7 + 8. Lös -4*k = -k + 4*i - 7, 2*i = k - l för k.
+5
+Antag att 2*q = 1 + 7. Antag att -37*y - 78*y + 575 = 0. Lös -q = -4*g + y*t, 0*t - t - 4 = 0 för g.
+-4

@@ -1,0 +1,20 @@
+Beräkna sannolikheten att välja 5 o då fem bokstäver väljs utan återsättning från foeoooo.
+1/21
+Beräkna sannolikheten att välja 4 b and 1 d då fem bokstäver väljs utan återsättning från {b: 9, w: 8, d: 1}.
+1/68
+Fem bokstäver väljs utan återsättning från wkwwwknwkwnne. Ange sannolikheten att välja 2 n and 3 k.
+1/429
+Fem bokstäver väljs utan återsättning från hhcwhhtcqhqcqqhcthhc. Vad är sannolikheten att välja 2 t, 1 q and 2 h?
+7/969
+Fem bokstäver väljs utan återsättning från yyyiiiyicci. Ange sannolikheten att välja 1 y and 4 i.
+10/231
+Fem bokstäver väljs utan återsättning från {w: 1, i: 4, o: 2, n: 2, p: 1}. Vad är sannolikheten att välja 3 i, 1 n and 1 o?
+4/63
+Fem bokstäver väljs utan återsättning från xoeqqxnekqnq. Vad är sannolikheten att välja 1 k, 2 n, 1 e and 1 x?
+1/198
+Fem bokstäver väljs utan återsättning från gnfggffqqufqgruf. Vad är sannolikheten att välja 1 q and 4 g?
+1/1456
+Beräkna sannolikheten att välja 3 q and 2 r då fem bokstäver väljs utan återsättning från {q: 5, r: 5}.
+25/63
+Vad är sannolikheten att välja 3 j and 2 n då fem bokstäver väljs utan återsättning från {j: 3, y: 4, n: 2}?
+1/126

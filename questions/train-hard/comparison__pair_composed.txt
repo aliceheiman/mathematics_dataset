@@ -1,0 +1,6 @@
+Låt s vara -1 + -1 + 1 + 2. Låt u = 19 - 47. Låt j vara u/(-8)*2/5. Är j lika med s?
+False
+Antag att 3207*t + 13260 = 3194*t. Which is greater: -1019 or t?
+-1019
+Låt i = 2784 - 2718. Är i != 60?
+True

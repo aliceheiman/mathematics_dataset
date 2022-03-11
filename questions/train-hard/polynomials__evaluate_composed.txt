@@ -1,0 +1,6 @@
+Låt u(d) vara tredjederivatan av -d**5/60 + 9*d**4/8 + 32*d**3/3 - 4246*d**2 + 2*d. Ange u(29).
+6
+Låt d(f) vara tredjederivatan av f**5/30 + 23*f**4/8 + 17*f**3/3 - 932*f**2. Beräkna d(-34).
+0
+Låt h(f) = -25 + 7*f - 6346*f**3 + 6345*f**3 - 7*f**2 - 3*f. Bestäm h(-8).
+7

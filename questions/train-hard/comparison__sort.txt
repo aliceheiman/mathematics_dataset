@@ -1,0 +1,6 @@
+Sätt 3, 4702, -66254 i minskande ordning.
+4702, 3, -66254
+Sätt -6, 4/5, -286, 3, -2, 80 i minskande ordning.
+80, 3, 4/5, -2, -6, -286
+Sätt 0, 2, -5, 23, 4, -95, -208 i stigande ordning.
+-208, -95, -5, 0, 2, 4, 23

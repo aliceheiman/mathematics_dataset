@@ -1,0 +1,20 @@
+Lista primtalsfaktorerna till 67347308.
+2, 7, 2405261
+Lista primtalsfaktorerna till 87109337.
+7, 1381, 9011
+Vilka är primtalsfaktorerna till 95198923?
+31, 47, 223, 293
+Vilka är primtalsfaktorerna till 22415237?
+13, 53, 32533
+Lista primtalsfaktorerna till 50092669.
+11, 173, 2393
+Lista primtalsfaktorerna till 43865979.
+3, 37, 395189
+Vilka är primtalsfaktorerna till 46557192?
+2, 3, 11, 176353
+Vilka är primtalsfaktorerna till 46469367?
+3, 7, 229, 3221
+Lista primtalsfaktorerna till 18215331.
+3, 6071777
+Vilka är primtalsfaktorerna till 61882875?
+3, 5, 67, 821

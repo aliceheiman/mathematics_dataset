@@ -1,0 +1,6 @@
+Är -13878/215 och -65 icke lika?
+True
+Är -1 högst lika mycket som -23/1790?
+True
+Är 1 >= 2/146883?
+True

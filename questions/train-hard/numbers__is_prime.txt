@@ -1,0 +1,6 @@
+Är 986498783 ett primtal?
+True
+Är 4006935238 sammansatt?
+True
+Är 8785150645 primtal?
+False

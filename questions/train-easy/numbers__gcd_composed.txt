@@ -1,0 +1,6 @@
+Antag att -2*z - 5*y = -146, 5*z + 5*y = 397 - 62. Vilken är den största gemensamma faktorn till 7 och z?
+7
+Låt m vara 2/9 - 3484/(-117). Vilken är den största gemensamma delaren till 30 och m?
+30
+Låt y(g) = g**3 + 4*g**2 + 5*g + 2. Låt w vara y(-3). Låt f vara (3/w)/((-1)/(-12)). Låt s = f + 13. Beräkna den största gemensamma faktorn till s och 1.
+1

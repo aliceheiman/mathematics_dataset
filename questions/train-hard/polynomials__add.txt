@@ -1,0 +1,6 @@
+Låt v(c) = 82*c + 1382. Låt f(j) = -150*j - 2762. Ange -6*f(i) - 11*v(i).
+1370 - 2*i
+Låt d(p) = p**3 + 2*p**2 - p - 1. Låt i(c) = -2*c**3 - 22*c**2 + 4*c + 121. Ange -3*d(g) - i(g).
+-g**3 + 16*g**2 - g - 118
+Låt j(i) = 5 - 9*i. Låt d(v) vara andraderivatan av 3*v**3/2 - 3*v**2 + 15*v. Låt r vara (1250/(-500))/(2/4). Ange r*d(n) - 6*j(n).
+9*n

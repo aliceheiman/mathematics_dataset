@@ -1,0 +1,6 @@
+Avrunda -22251 till det närmsta 10000.
+-20000
+Vad är 10679500 avrundat till det närmsta hundratusentalet?
+10700000
+Avrunda 0.007742 till fyra decimaler.
+0.0077

@@ -1,0 +1,6 @@
+Antag att 2*q + 5*t - 10 = q, q = t + 4. Antag att 1 + 14 = q*n. Antag att -c + n = -4*c. Vad är det största värdet i c, -3, -3/4?
+-3/4
+Låt q(p) = -7*p - 61. Låt t vara q(-9). Vilket är det andra minsta värdet?  (a) 3/4  (b) -2  (c) -3  (d) t
+b
+Antag att -i - 9*i + 30 = 0. Vilket är det tredje minsta värdet?  (a) i  (b) 11  (c) 5
+b

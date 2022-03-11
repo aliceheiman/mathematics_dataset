@@ -1,0 +1,6 @@
+Uttryck 58841*d - 46692*d - 40818*d som a + n*d och ange n.
+-28669
+Omordna (1 + 0 + 2)*(-15 + v + 15)*(721*v + 51 - 715*v + 78) till formen c*v**2 + k*v + n och ange k.
+387
+Omordna -2*i - 1 - 530*i**3 - 125180*i**4 + 38*i**3 + 125181*i**4 till formen y + q*i + f*i**4 + d*i**3 + a*i**2 och ange y.
+-1

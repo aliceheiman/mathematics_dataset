@@ -1,0 +1,6 @@
+Antag att 9 = -4*f + 57. Antag att 0 = 2*z - 6*z + f. Antag att -z*w = -62 - 7. Är w en multipel av 7?
+Falskt
+Låt a(v) = v**3 + 10*v**2 + 7*v + 14. Är 16 en faktor i a(-9)?
+Sant
+Antag att -2*c + 14 = 10, -c + 9658 = 4*l. Är l en multipel av 71?
+Sant

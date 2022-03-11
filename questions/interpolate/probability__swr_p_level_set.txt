@@ -1,0 +1,20 @@
+Två bokstäver väljs utan återsättning från {f: 6, q: 4, m: 2, t: 3, j: 2, e: 3}. Ange sannolikheten att välja 1 m and 1 t.
+3/95
+Fyra bokstäver väljs utan återsättning från vvvvvvvvvyvyvvvvqv. Vad är sannolikheten att välja 2 v, 1 q and 1 y?
+7/102
+Vad är sannolikheten att välja 2 f då två bokstäver väljs utan återsättning från cccfcccccfffffccfccf?
+14/95
+Beräkna sannolikheten att välja 1 j, 2 a and 1 w då fyra bokstäver väljs utan återsättning från {h: 2, w: 2, s: 1, j: 2, a: 3}.
+2/35
+Två bokstäver väljs utan återsättning från {m: 1, v: 3, b: 3, g: 4, p: 6}. Ange sannolikheten att välja 2 p.
+15/136
+Fyra bokstäver väljs utan återsättning från {f: 5, d: 2, l: 1, i: 3, x: 2}. Vad är sannolikheten att välja 2 d, 1 i and 1 x?
+6/715
+Tre bokstäver väljs utan återsättning från mrlvlgvlgrl. Ange sannolikheten att välja 2 v and 1 m.
+1/165
+Vad är sannolikheten att välja 4 l då fyra bokstäver väljs utan återsättning från {g: 3, l: 6, n: 3, m: 2}?
+15/1001
+Vad är sannolikheten att välja 2 b and 1 i då tre bokstäver väljs utan återsättning från ihbbbkhkqkiiiihk?
+3/112
+Beräkna sannolikheten att välja 2 h and 1 k då tre bokstäver väljs utan återsättning från {h: 3, s: 5, k: 3, z: 5}.
+9/560

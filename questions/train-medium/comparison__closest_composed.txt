@@ -1,0 +1,6 @@
+Låt v = 31 + 16. Låt h = v + -46.9. Vilket är det närmaste till -2/3?  (a) h  (b) 4  (c) -6
+a
+Låt f = -3.332 - -0.332. Vilket är det närmaste till 1/3?  (a) f  (b) 0.5  (c) 2/19  (d) -0.2
+b
+Låt n = 0.1 - 0. Låt l vara -1 + 0 + (-25)/(-9) + -2. Låt a = 34 - 32. Vad är det närmaste till a i 2/9, n, l?
+2/9

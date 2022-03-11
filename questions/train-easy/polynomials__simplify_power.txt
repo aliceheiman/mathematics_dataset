@@ -1,0 +1,6 @@
+Förenkla (w**(2/7)*w/(w/w**(-11)*w))**(2/135) förutsatt att w är positiv.
+w**(-164/945)
+Förenkla v**(2/7)*v*v/(v*v**(-5/2))*v**(-3/5)*v/v**(2/5) förutsatt att v är positiv.
+v**(53/14)
+Förenkla (u**14*u)**(-19/4) förutsatt att u är positiv.
+u**(-285/4)

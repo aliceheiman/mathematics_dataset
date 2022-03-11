@@ -1,0 +1,6 @@
+Låt j(u) vara andraderivatan av -u + 13/12*u**4 + 0*u**3 - 2*u**2 + 0. Låt k(b) = 1 - 4*b**2. Beräkna -2*j(l) - 7*k(l).
+2*l**2 + 1
+Låt i(z) = 3*z + 6. Låt r(m) = 4*m + 7. Låt j(y) = -y**3 + 4*y**2 - 5*y + 2. Antag att 20 = 4*a, 0 = 2*d - 2*a + 4. Låt h vara j(d). Bestäm h*r(w) + 5*i(w).
+2 - w
+Antag att 4*v + 0*l = -2*l - 20, 3*v + 18 = -3*l. Låt j(g) = g**2 + g - 1. Låt a(k) = -k**3 + 4*k**2 + 5*k - 2. Vad är v*j(z) + a(z)?
+-z**3 + z + 2

@@ -1,0 +1,6 @@
+Beräkna sannolikheten att välja 1 j and 2 l då tre bokstäver väljs utan återsättning från ljjjjllljjjlj.
+40/143
+Två bokstäver väljs utan återsättning från xncat. Vad är sannolikheten att välja 1 a and 1 t?
+1/10
+Vad är sannolikheten att välja 2 i and 1 k då tre bokstäver väljs utan återsättning från {k: 7, i: 2}?
+1/12

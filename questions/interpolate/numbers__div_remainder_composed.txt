@@ -1,0 +1,20 @@
+Låt d(t) = 44*t**2 + 22*t + 10. Beräkna resten då d(2) delas med 19.
+2
+Låt g = 14 - 14. Antag att -t + 4*t + 147 = 5*d, g = d - t - 31. Antag att 4*i + 43 = 579. Beräkna resten då i delas med d.
+26
+Antag att 0 = q - 5*f - 46, 4*q - q = f + 68. Beräkna resten då 1084 delas med q.
+13
+Låt u(m) vara andraderivatan av 13*m**6/120 + m**5/120 - 8*m**3/3 + 5*m. Låt j(h) vara andraderivatan av u(h). Beräkna resten då j(1) delas med 21.
+19
+Låt s vara 293 + (8/(-1))/2. Antag att m - 41 = -v, 2*v = 5*m - s + 84. Beräkna resten då 162 delas med m.
+39
+Låt s = -41 - -13. Låt q vara ((-80)/s)/(6/21). Antag att -5*r + 20 = -q. Beräkna resten då 9 delas med r.
+3
+Antag att -86*f + 4*v + 116 = -84*f, 4*v - 34 = -f. Vad är resten då 633 delas med f?
+33
+Antag att 6*n - 7 = 137. Antag att n = 21*k - 417. Beräkna resten då 52 delas med k.
+10
+Antag att -23*r + 1245 + 572 = 0. Vad är resten då 1339 delas med r?
+75
+Låt w(n) = -6*n - 1. Låt a vara 1/4 - 88/(-32). Antag att 0 = -5*q - 16*f + 18*f + 196, a*q - 5*f = 129. Beräkna resten då q delas med w(-2).
+5

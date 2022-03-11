@@ -1,0 +1,6 @@
+Låt j vara 1 + (-4)/5 - (-45)/25. Antag att 0 = 3*v + j*v + 3*a - 822, -4*a = -2*v + 308. Vilken är den största gemensamma faktorn till v och 18?
+18
+Antag att 0 = -4*m - 48 + 1200. Vilken är den största gemensamma delaren till m och 160?
+32
+Antag att 0 = -59*i - 20*i + 711. Låt s = -1 - -10. Vilken är den största gemensamma faktorn till i och s?
+9

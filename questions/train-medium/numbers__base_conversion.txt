@@ -1,0 +1,6 @@
+Vad är -123 (bas 13) i bas 8?
+-306
+Vad är 5042 (bas 7) i bas 14?
+8c9
+Konvertera -50 (bas 13) till bas 9.
+-72

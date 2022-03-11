@@ -1,0 +1,20 @@
+Vad är andraderivatan av 10794815*c**3*h**2 - 6*c**3*h + 218209*c**3 + c**2*h - h med avseende på h?
+21589630*c**3
+Vad är andraderivatan av 28*l**2*o**2 - 86994*l**2 + 2*l*o**2 + 54*l - 7*o + 13 med avseende på l?
+56*o**2 - 173988
+Derivera -4765765*d*r**3*t - r**3 - 8*r**2*t - 17*r*t - 2688*r med avseende på d.
+-4765765*r**3*t
+Vad är tredjederivatan av 2431400*a**5 + 9*a**2 - 64*a - 2497 med avseende på a?
+145884000*a**2
+Bestäm tredjederivatan av -14162279*w**3 - 6*w**2 - 11*w - 5933.
+-84973674
+Bestäm andraderivatan av a**3*g + 1598886*a**2*g - 3*a*g - 2*g - 286285 med avseende på a.
+6*a*g + 3197772*g
+Vad är förstaderivatan av 169*d*g + 12922167*d - 7324*g med avseende på g?
+169*d - 7324
+Vad är derivatan av 231*f*g**2 - 41*f*g - f + 160137*g**2 - 28 med avseende på f?
+231*g**2 - 41*g - 1
+Bestäm tredjederivatan av -26196*i**6*m + 55*i**3*m**3 - 25*i**2*m - 7*i*m**3 - 1579*m**3 med avseende på i.
+-3143520*i**3*m + 330*m**3
+Vad är förstaderivatan av -11488098*l**4 - 7222978?
+-45952392*l**3

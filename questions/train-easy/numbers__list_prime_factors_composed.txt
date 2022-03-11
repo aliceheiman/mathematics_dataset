@@ -1,0 +1,6 @@
+Antag att -u - 3*u - x = -44, -20 = 5*x. Vilka är primtalsfaktorerna till u?
+2, 3
+Låt b = 2 - 2. Antag att b = -3*y - 4*v + 37, v = -3*y - v + 29. Lista primtalsfaktorerna till y.
+7
+Låt a = 10 + 8. Antag att -4*t + 7*t - a = 0. Lista primtalsfaktorerna till t.
+2, 3

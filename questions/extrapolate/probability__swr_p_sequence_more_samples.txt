@@ -1,0 +1,20 @@
+Fem bokstäver väljs utan återsättning från {b: 2, z: 3, x: 6, w: 2}. Vad är sannolikheten att sekvensen är wbxzw?
+1/2145
+Beräkna sannolikheten att sekvensen är smmpm då fem bokstäver väljs utan återsättning från {m: 6, p: 2, s: 10}.
+5/2142
+Vad är sannolikheten att sekvensen är mmmmj då fem bokstäver väljs utan återsättning från mjmmmmjjmjmjjjj?
+8/429
+Fem bokstäver väljs utan återsättning från {x: 10}. Ange sannolikheten att sekvensen är xxxxx.
+1
+Fem bokstäver väljs utan återsättning från {i: 1, n: 9}. Vad är sannolikheten att sekvensen är nnnin?
+1/10
+Fem bokstäver väljs utan återsättning från {d: 1, k: 4}. Ange sannolikheten att sekvensen är dkkkk.
+1/5
+Vad är sannolikheten att sekvensen är sszzs då fem bokstäver väljs utan återsättning från zssssszzszssss?
+36/1001
+Beräkna sannolikheten att sekvensen är ggomo då fem bokstäver väljs utan återsättning från {m: 4, o: 10, g: 2}.
+1/728
+Beräkna sannolikheten att sekvensen är jjjje då fem bokstäver väljs utan återsättning från ejjjoojjjjjojoo.
+6/715
+Fem bokstäver väljs utan återsättning från {m: 4, e: 3, v: 8}. Vad är sannolikheten att sekvensen är ememm?
+2/5005

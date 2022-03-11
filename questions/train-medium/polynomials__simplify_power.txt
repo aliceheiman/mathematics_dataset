@@ -1,0 +1,6 @@
+Förenkla (f*f/f**(-38)*f*f*f**(-37)/f)/(f**(-31))**37 förutsatt att f är positiv.
+f**1151
+Förenkla b**(-4/15)*(b/(b*b*b/b**(1/8))*b)/b*(b**(3/20)*b*b)/b**(-1/6) förutsatt att b är positiv.
+b**(7/40)
+Förenkla ((((z*z**4)/z)**(-6/13))**(-19))**15 förutsatt att z är positiv.
+z**(6840/13)

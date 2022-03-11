@@ -1,0 +1,6 @@
+Antag att -3*x = 2*s - x + 50, -5*x + 15 = 0. Låt m vara 63/s*8/3. Låt y(r) = r - 6. Beräkna y(m).
+-12
+Låt r(c) = c. Låt w(h) = 1 + 4 - 1 + 2*h. Låt k vara w(-3). Bestäm r(k).
+-2
+Låt t(a) = a**3 + 7*a**2 + 6*a. Låt l vara (1/(-2))/((-1)/(-10)). Vad är t(l)?
+20

@@ -1,0 +1,6 @@
+Vilket är det närmaste till -1?  (a) -4617  (b) -4  (c) 0
+c
+Vilket är det närmaste till -0.1?  (a) -3  (b) 6875  (c) 2/11
+c
+Vilket är det närmaste till -2?  (a) -44.7  (b) 191/3  (c) -0.5
+c

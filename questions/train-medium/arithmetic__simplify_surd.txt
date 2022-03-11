@@ -1,0 +1,6 @@
+Förenkla -3 + (-2*sqrt(171)*5 - (5 + 1 + sqrt(171))).
+-33*sqrt(19) - 9
+Förenkla 1*(-5 + 4*((sqrt(1500)*-2)/sqrt(5) + 0)).
+-80*sqrt(3) - 5
+Förenkla sqrt(78)/(sqrt(600)*3) - 5*-3*sqrt(832).
+3601*sqrt(13)/30

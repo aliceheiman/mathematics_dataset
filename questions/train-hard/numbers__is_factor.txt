@@ -1,0 +1,6 @@
+Är 267 en faktor i 15063072?
+Sant
+Är 148 en faktor i 22661316?
+Sant
+Är 1367476953 en multipel av 15?
+Falskt

@@ -1,0 +1,6 @@
+Beräkna den största gemensamma faktorn till 575 och 7705.
+115
+Vilken är den största gemensamma faktorn till 324 och 36300?
+12
+Beräkna den största gemensamma delaren till 6 och 1329.
+3

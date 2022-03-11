@@ -1,0 +1,6 @@
+Låt k = -6 + 9. Antag att 2*a = -l + 3*a + 15, -2*l + k*a = -35. Beräkna den minsta gemensamma faktorn till 8 och l.
+40
+Beräkna den gemensamma nämnaren till 2/(-9) + 1678/(-144) och -55/4.
+8
+Antag att -u - 4*j - 1 = 1, j = -4*u + 7. Vilken är den minsta gemensamma faktorn till u och 12?
+12

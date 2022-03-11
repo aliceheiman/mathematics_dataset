@@ -1,0 +1,6 @@
+Låt y = -466 + 1333. Låt o = 1285 - y. Är 3 en delare till o?
+Falskt
+Antag att -167*o + 869055 = -1327997. Är o en multipel av 92?
+Sant
+Låt k(l) = -11. Låt n(x) = x - 32. Låt t(i) = -14*k(i) + 4*n(i). Antag att 118 = 5*m + f, 10*f = 14*f - 12. Är t(m) en multipel av 17?
+Falskt

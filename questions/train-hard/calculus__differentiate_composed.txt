@@ -1,0 +1,6 @@
+Låt g(s) vara tredjederivatan av -s**8/168 - s**7/70 + 363*s**4/8 - 1376*s**2. Vad är andraderivatan av g(p) med avseende på p?
+-40*p**3 - 36*p**2
+Låt q(a) = -a**3 + 9*a**2 - 10*a + 18. Låt r vara q(8). Vad är andraderivatan av -10 - 15*k - 5*k**3 - 10*k**r + 9*k**2 + 13*k med avseende på k?
+-30*k - 2
+Antag att 2*s - 4 = -k, 3*k - 7*k + 4 = -4*s. Låt y vara (7/21)/(k/18). Vad är andraderivatan av 20*f**3 + 9*f**3 - y*f**3 + 3*f + 11*f med avseende på f?
+156*f

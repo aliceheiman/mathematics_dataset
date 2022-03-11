@@ -1,0 +1,20 @@
+Vad är sannolikheten att sekvensen är pmr då tre bokstäver väljs utan återsättning från {m: 1, r: 4, d: 4, p: 7}?
+1/120
+Beräkna sannolikheten att sekvensen är dr då två bokstäver väljs utan återsättning från sdrbmmsese.
+1/90
+Tre bokstäver väljs utan återsättning från bowoyowodu. Vad är sannolikheten att sekvensen är wyu?
+1/360
+Två bokstäver väljs utan återsättning från {g: 1, i: 1}. Vad är sannolikheten att sekvensen är ig?
+1/2
+Beräkna sannolikheten att sekvensen är kd då två bokstäver väljs utan återsättning från yxzffxffdk.
+1/90
+Beräkna sannolikheten att sekvensen är eq då två bokstäver väljs utan återsättning från {e: 3, z: 5, q: 1, l: 5}.
+3/182
+Fyra bokstäver väljs utan återsättning från {m: 3, q: 2, j: 1, n: 2, l: 3, c: 8}. Ange sannolikheten att sekvensen är mqjc.
+1/1938
+Beräkna sannolikheten att sekvensen är tbr då tre bokstäver väljs utan återsättning från gctbrg.
+1/120
+Vad är sannolikheten att sekvensen är guu då tre bokstäver väljs utan återsättning från {q: 7, t: 1, u: 2, g: 6}?
+1/280
+Tre bokstäver väljs utan återsättning från {t: 3, z: 2, g: 1, w: 3, v: 3}. Vad är sannolikheten att sekvensen är tvt?
+3/220

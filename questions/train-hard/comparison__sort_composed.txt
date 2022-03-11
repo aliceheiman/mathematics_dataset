@@ -1,0 +1,6 @@
+Låt p = 39.7 + -39.7. Låt d = 7542/41 - 184. Låt q = 19/451 - d. Sortera q, -5, p i minskande ordning.
+q, p, -5
+Låt m = -206.091 + 206. Låt o = -78.909 + m. Låt z = o + 76. Sortera -2/9, -4, z, 7 i minskande ordning.
+7, -2/9, z, -4
+Låt z(t) = -t**3 + 11*t**2 + 19*t - 211. Låt w vara z(11). Låt x(y) = -24*y - 138. Låt q vara x(-6). Antag att -4*g - 4 = -0*g. Sortera g, w, q.
+w, g, q

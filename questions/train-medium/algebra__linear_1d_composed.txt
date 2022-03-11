@@ -1,0 +1,6 @@
+Låt a(q) = -3*q - 40. Låt y vara a(-14). Lös y*k + 15 = -k för k.
+-5
+Låt d vara (-75)/50*(-8)/(-6). Låt i vara (2*d)/(0/2 - 2). Antag att -1 + 5 = 2*t. Lös -i*k - 6 + t = 0 för k.
+-2
+Antag att 0 = j - 5*n, 4*n = 4*j - j - 11. Antag att -2*f - 2 - 2 = j*d, -3*f - 6 = 0. Lös 0 = 2*x - d*x för x.
+0

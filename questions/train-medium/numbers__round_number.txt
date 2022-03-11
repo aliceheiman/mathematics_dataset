@@ -1,0 +1,6 @@
+Vad är 0.001967234 avrundat till 6 decimaler?
+0.001967
+Vad är 379668970 avrundat till det närmsta 100000?
+379700000
+Avrunda -0.0000094945619 till sex decimaler.
+-0.000009

@@ -1,0 +1,6 @@
+Låt j = -8 - -3. Låt w = j + 11. Antag att -7*v + 55 = -w*v. Är v ett primtal?
+False
+Antag att 320414 + 506825 = 59*h. Är h ett sammansatt tal?
+True
+Antag att 333 = u + u + 3*p, -u + 147 = -5*p. Antag att 164 + u = t. Är t ett sammansatt tal?
+True

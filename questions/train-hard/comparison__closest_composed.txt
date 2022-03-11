@@ -1,0 +1,6 @@
+Låt r(s) = 17*s + 52. Låt p vara r(-4). Låt m vara (-4)/(-50)*((-92)/p + -7). Vilket är det närmaste till 4?  (a) -7  (b) m  (c) 4
+c
+Låt d = 14.31 + -12.31. Vad är det närmaste till d i -0.3, 0.4, 80/13?
+0.4
+Låt h = -13/20 + 3/20. Låt z vara 12/285*170/68. Vilket är det närmaste till z?  (a) 1/2  (b) h  (c) -2
+a

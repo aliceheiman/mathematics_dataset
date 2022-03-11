@@ -1,0 +1,20 @@
+Antag att -585 = 48*h - 49*h. Antag att 13*z - 585 - h = 0. Lista primtalsfaktorerna till z.
+2, 3, 5
+Antag att 3*f + 164 = 4*y + 598, 0 = -4*f + y + 570. Antag att -f = a - 511. Lista primtalsfaktorerna till a.
+3, 41
+Låt d = 13416 + -6600. Lista primtalsfaktorerna till d.
+2, 3, 71
+Låt h vara ((-7)/21)/(1/3) + -24. Låt u = h + 70. Antag att -41*x - 404 = -u*x. Vilka är primtalsfaktorerna till x?
+101
+Antag att 0 = 8*w + 2*w - 60. Vilka är primtalsfaktorerna till 1/(3236/(-540) + w)?
+3, 5
+Låt r(t) = 391 - 2033*t. Lista primtalsfaktorerna till r(-3).
+2, 5, 11, 59
+Låt h vara 1*4/(-4)*-3 + 2. Antag att h*m + 4*i = 5*i + 163, -i = -2*m + 64. Antag att m = -y + 72. Vilka är primtalsfaktorerna till y?
+3, 13
+Antag att -n + 9*n = 2648. Låt c = n + -188. Vilka är primtalsfaktorerna till c?
+11, 13
+Låt j(x) = -12*x - 20. Låt a vara j(-5). Antag att 0 = 32*r - a*r + 920. Vilka är primtalsfaktorerna till r?
+5, 23
+Antag att 30*j - 8195 = 27*j + 772. Lista primtalsfaktorerna till j.
+7, 61

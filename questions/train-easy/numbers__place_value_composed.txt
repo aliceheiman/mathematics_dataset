@@ -1,0 +1,6 @@
+Låt j vara ((-15)/10)/((-2)/4). Antag att -5*n + j*t = -n - 32, -4*t - 26 = -2*n. Vad är entalssiffran i n?
+5
+Låt a(x) = 5 - 3*x. Låt g vara a(5). Låt q(c) = 0*c**3 - 11*c**2 + 15 - 4 - c**3 - 10*c. Vad är entalssiffran i q(g)?
+1
+Låt f(o) = -o**3 + 11*o**2 - 5*o - 12. Vad är tiotalssiffran i f(10)?
+3

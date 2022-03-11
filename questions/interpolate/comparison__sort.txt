@@ -1,0 +1,20 @@
+Sortera -5571142, 1, 3 i avtagande ordning.
+3, 1, -5571142
+Sätt 5, -4, -1, 6, 4, -173443 i avtagande ordning.
+6, 5, 4, -1, -4, -173443
+Sätt 5/3, 400, 2/9, 2/913 i växande ordning.
+2/913, 2/9, 5/3, 400
+Sätt -2, 1/6, 9.934, 10/9 i minskande ordning.
+9.934, 10/9, 1/6, -2
+Sortera 36324, 0, -4, -39 i växande ordning.
+-39, -4, 0, 36324
+Sätt 1/17, -0.5, 2/9, 12336/5, 4 i minskande ordning.
+12336/5, 4, 2/9, 1/17, -0.5
+Sortera 463, 3, 1, -46 i stigande ordning.
+-46, 1, 3, 463
+Sortera 1/6, 3, 1, 0, -11/2, -25, 0.12 i avtagande ordning.
+3, 1, 1/6, 0.12, 0, -11/2, -25
+Sätt 8, 0.4, 3, -1384, 16 i växande ordning.
+-1384, 0.4, 3, 8, 16
+Sätt -4, 18, 5, 3, 397 i växande ordning.
+-4, 3, 5, 18, 397

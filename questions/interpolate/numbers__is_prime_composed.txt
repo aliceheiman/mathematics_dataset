@@ -1,0 +1,20 @@
+Antag att 5*b - 4*a - 265859 = 0, 4*a + 1870 = 2*b - 104476. Är b primtal?
+True
+Antag att 15990 = 3*c - 2*c - 29345. Är c ett primtal?
+False
+Låt f(v) = 56*v**2 + 59*v - 539. Är f(46) primtal?
+True
+Låt q vara 14 + -17 + (-10)/(-2). Låt f(y) vara tredjederivatan av 79*y**4/6 + y**3/2 + 3*y**2. Är f(q) ett sammansatt tal?
+True
+Låt u(c) = 1164*c**2 + 3*c - 4. Låt o vara u(2). Antag att -15*m = -17*m + o. Är m ett sammansatt tal?
+True
+Låt g(q) = 4*q - 1179*q**3 + 0 + 1100*q**3 + 2*q**2 + 3. Är g(-2) ett primtal?
+False
+Antag att 760984 = 4*x - 4*d, -2*x + 11*d - 7*d + 380498 = 0. Är x primtal?
+True
+Antag att -3*o + 3291329 = 29*o - 4580511. Är o primtal?
+False
+Är (12/9 - (-919126)/(-12))/(1/(-2)) primtal?
+False
+Antag att -4*t + 4*a + 574612 = 0, 1077*a = -4*t + 1074*a + 574598. Är t primtal?
+True

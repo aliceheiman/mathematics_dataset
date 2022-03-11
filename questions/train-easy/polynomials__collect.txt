@@ -1,0 +1,6 @@
+Samla termerna i -n - 14*n**3 + n - 6*n**3
+-20*n**3
+Samla termerna i -6*q**3 - 16*q**2 + 5*q**2 + 11*q**2
+-6*q**3
+Samla termerna i -45 + q + 45 - 4*q
+-3*q

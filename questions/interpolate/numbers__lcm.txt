@@ -1,0 +1,20 @@
+Beräkna den minsta gemensamma faktorn till 584640 och 215.
+25139520
+Beräkna den minsta gemensamma faktorn till 88980 och 1470.
+4360020
+Beräkna den minsta gemensamma faktorn till 4 och 284968.
+284968
+Beräkna den gemensamma nämnaren till -137/12354 och -109/22968.
+1630728
+Bestäm den gemensamma nämnaren till -65/56 och -157/773472.
+773472
+Beräkna den minsta gemensamma faktorn till 233966 och 444.
+51940452
+Beräkna den minsta gemensamma faktorn till 11226110 och 7.
+11226110
+Beräkna den minsta gemensamma faktorn till 1369272 och 912848.
+2738544
+Vilken är den gemensamma nämnaren till 5/45322 och -49/417384?
+17947512
+Beräkna den gemensamma nämnaren till 65/5656 och 47/1456.
+147056

@@ -1,0 +1,6 @@
+Sortera -2, -5, -242 i minskande ordning.
+-2, -5, -242
+Sortera 0, -3/77, 2 i stigande ordning.
+-3/77, 0, 2
+Sortera -342, 0.5, -0.2, -4 i växande ordning.
+-342, -4, -0.2, 0.5

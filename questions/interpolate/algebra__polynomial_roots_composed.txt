@@ -1,0 +1,20 @@
+Faktorisera 2/9*z**2 + 74/9*z + 0.
+2*z*(z + 37)/9
+Låt v(c) vara andraderivatan av c**4/72 + 11*c**3/18 + 121*c**2/12 - c + 63. Faktorisera v(t).
+(t + 11)**2/6
+Låt y(v) vara andraderivatan av -20*v + 0*v**2 - 1/10*v**5 + 1/42*v**7 + 0*v**3 + 1 + 1/30*v**6 + 0*v**4. Lös y(j) = 0 för j.
+-2, 0, 1
+Antag att -2*r = -5*o - 24, 42 - 46 = o. Låt c(h) vara förstaderivatan av 0*h + 1/9*h**4 + 3 + 8/27*h**3 + 2/9*h**r. Faktorisera c(n).
+4*n*(n + 1)**2/9
+Vad är v i 32/5*v - 24/5*v**2 - 28/5*v**3 + 24/5*v**4 + 0 - 4/5*v**5 = 0?
+-1, 0, 1, 2, 4
+Låt j(q) = 9*q**2 - 4*q. Låt m(v) = 0 + 0 + v**2. Låt z = 1609 - 1604. Låt y(s) = z*m(s) - j(s). Faktorisera y(d).
+-4*d*(d - 1)
+Låt 3*t**3 - 4*t**2 + 8*t**2 - 26*t**2 + 61*t**2 - 144*t = 0. Beräkna t.
+-16, 0, 3
+Bestäm o, givet att -21*o**5 - 18*o**2 - 1343*o**4 + 1253*o**4 - 75*o**3 - 23*o**3 + 11*o**3 = 0.
+-3, -1, -2/7, 0
+Låt x(t) vara andraderivatan av 2*t**7/21 - 4*t**6/5 + t**5 + 3*t + 156. Faktorisera x(i).
+4*i**3*(i - 5)*(i - 1)
+Låt g(m) = 10*m**4 - 39*m**3 + 39*m**2 + 6*m + 2. Låt z(n) = -52*n**4 + 194*n**3 - 200*n**2 - 30*n - 11. Låt y(c) = -22*g(c) - 4*z(c). Låt y(v) = 0. Beräkna v.
+-1/6, 0, 1, 6

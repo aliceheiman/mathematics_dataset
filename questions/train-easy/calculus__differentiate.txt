@@ -1,0 +1,6 @@
+Bestäm förstaderivatan av -26*s**2 - 68*s + 2363.
+-52*s - 68
+Bestäm förstaderivatan av 3*c**2*j**2 + 226*c**2 - 7*c*j**2 med avseende på j.
+6*c**2*j - 14*c*j
+Vad är tredjederivatan av k**6 + 2*k**5 - 226*k**3 - 18*k**2 + 72*k - 1?
+120*k**3 + 120*k**2 - 1356

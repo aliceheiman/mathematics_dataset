@@ -1,0 +1,6 @@
+Vad är det närmaste till -3/7 i 30277, 0.2, 0.8?
+0.2
+Vad är det närmaste till -4 i -3, -0.4, -388, 5, -243/7?
+-3
+Vilket är det närmaste till -4/3?  (a) -2/5  (b) -8/53  (c) -19  (d) -10/29  (e) -5
+a

@@ -1,0 +1,6 @@
+Är 1 och 8/7 lika?
+False
+Which is smaller: 12/311 or -3?
+-3
+Which is smaller: -19/1166 or -1?
+-1

@@ -1,0 +1,6 @@
+Låt o(h) = -2*h**2 + 0*h**2 + 41 - 2*h + h**2. Låt p = -4 - -26. Vad är resten då o(0) delas med p?
+19
+Låt s = 5178 - 5070. Beräkna resten då 3344 delas med s.
+104
+Antag att t - 421 = 3*f, -324*t = -323*t + 3*f - 433. Vad är resten då t delas med 3?
+1

@@ -1,0 +1,6 @@
+Beräkna sannolikheten att välja 1 q and 1 u då två bokstäver väljs utan återsättning från quq.
+2/3
+Fyra bokstäver väljs utan återsättning från jjoooo. Vad är sannolikheten att välja 3 o and 1 j?
+8/15
+Två bokstäver väljs utan återsättning från kckcxcicvxxxkccxx. Vad är sannolikheten att välja 1 c and 1 v?
+3/68

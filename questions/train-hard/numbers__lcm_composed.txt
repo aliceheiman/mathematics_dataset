@@ -1,0 +1,6 @@
+Beräkna den gemensamma nämnaren till ((87/1050)/((-450)/105))/(-1) och 3/80.
+6000
+Låt b = -7994 + 6195352/775. Låt n = b - 6357/775. Beräkna den gemensamma nämnaren till -95/54 och n.
+270
+Låt f = 0 + 5. Antag att 0 = f*i + 4*g - 18, 4*i = -4*g + 6 + 6. Beräkna den minsta gemensamma faktorn till i och 684/(-399) + (-915)/(-105).
+42

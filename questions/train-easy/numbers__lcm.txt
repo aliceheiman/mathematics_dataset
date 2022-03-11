@@ -1,0 +1,6 @@
+Bestäm den gemensamma nämnaren till 22/765 och 19/3.
+765
+Beräkna den minsta gemensamma faktorn till 623 och 979.
+6853
+Bestäm den gemensamma nämnaren till -127/1584 och -41/2112.
+6336

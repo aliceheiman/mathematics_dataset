@@ -1,0 +1,6 @@
+Är 24800513 primtal?
+False
+Är 20993549 sammansatt?
+True
+Är 18177283 sammansatt?
+True

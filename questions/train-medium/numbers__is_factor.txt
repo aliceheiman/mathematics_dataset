@@ -1,0 +1,6 @@
+Är 6 en delare till 80934?
+Sant
+Är 129 en delare till 235653?
+Falskt
+Är 1548 en faktor i 24105456?
+Sant

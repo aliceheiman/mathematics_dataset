@@ -1,0 +1,6 @@
+Vilka är primtalsfaktorerna till 9/(72/(-40)) - (-3 - 7668)?
+2, 3833
+Antag att 523*a = 536*a - 9035. Lista primtalsfaktorerna till a.
+5, 139
+Låt v(w) = 442 - 1123*w. Vilka är primtalsfaktorerna till v(-22)?
+2, 6287

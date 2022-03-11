@@ -1,0 +1,6 @@
+Beräkna den största gemensamma faktorn till 1970 och 10310.
+10
+Vilken är den största gemensamma delaren till 2166 och 18741315?
+1083
+Vilken är den största gemensamma delaren till 114 och 1605697581?
+57

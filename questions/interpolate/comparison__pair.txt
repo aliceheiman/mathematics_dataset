@@ -1,0 +1,20 @@
+Which is smaller: 3 or 2331490/13?
+3
+Which is smaller: -587/682 or -1?
+-1
+Which is greater: 1 or -103/27980?
+1
+Är 2/8935583 mindre än 0?
+False
+Är 13026769 < 13026767?
+False
+Which is greater: -1872/45065 or 0?
+0
+Är 129266 <= 129260?
+False
+Är -18948341/5 >= -3789668?
+False
+Which is smaller: 1657 or 1305?
+1305
+Which is bigger: 1 or -4914/13687?
+1

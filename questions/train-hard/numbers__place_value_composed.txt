@@ -1,0 +1,6 @@
+Låt k(x) = -2*x - 55. Låt o vara k(-26). Vad är hundratalssiffran i 406 - 2/(-6)*o?
+4
+Låt p(k) = 10*k + 27. Låt c vara p(-6). Låt z = 37 + c. Antag att 0 = -2*v - 2*r + 216, 2*v - z*r + 7 - 205 = 0. Vad är hundratalssiffran i v?
+1
+Antag att 1552216 = 76*z + 50*z - 483818. Vad är tiotusentalssiffran i z?
+1

@@ -1,0 +1,6 @@
+Låt t = -6.7 + 7. Låt w = t + -0.3. Låt x = 2.1 + -0.1. Vad är det närmaste till -1/4 i 3, w, x?
+w
+Låt f = 80 + -77. Vilket är det närmaste till 3/2?  (a) 1  (b) -2  (c) f
+a
+Låt c = -32.02 - -32. Låt z = c + -0.08. Låt x = -0.43 + 0.03. Vad är det närmaste till z i -3/7, x, -1?
+x

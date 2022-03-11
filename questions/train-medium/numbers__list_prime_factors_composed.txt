@@ -1,0 +1,6 @@
+Antag att 10 = 5*z - 5*x, 3*x = -z - 2*z + 18. Antag att -6*d + 28 = -2*d + 5*h, 0 = -h + z. Låt f(y) = 11*y - 3. Vilka är primtalsfaktorerna till f(d)?
+19
+Vilka är primtalsfaktorerna till (24/(-27))/4 - (-614042)/117?
+2, 41
+Låt r = 308 + -180. Lista primtalsfaktorerna till r.
+2

@@ -1,0 +1,20 @@
+Vad är 203742916.3227 avrundat till det närmsta miljontalet?
+204000000
+Vad är -22.61356211028 avrundat till det närmsta heltalet?
+-23
+Avrunda 8431738.37804 till det närmsta tusentalet.
+8432000
+Avrunda -565.9673445 till det närmsta 10000.
+0
+Vad är 23.0843477802 avrundat till 4 decimaler?
+23.0843
+Avrunda 0.00000595258571684 till 6 decimaler.
+0.000006
+Avrunda 7.1537942285 till 3 decimaler.
+7.154
+Vad är -422.1145194719 avrundat till 2 decimaler?
+-422.11
+Avrunda 271280.613471 till det närmsta hundratalet.
+271300
+Avrunda 0.001795618014828 till 6 decimaler.
+0.001796

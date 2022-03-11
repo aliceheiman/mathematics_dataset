@@ -1,0 +1,6 @@
+Vilka är primtalsfaktorerna till 1909?
+23, 83
+Vilka är primtalsfaktorerna till 6326?
+2, 3163
+Vilka är primtalsfaktorerna till 4635?
+3, 5, 103

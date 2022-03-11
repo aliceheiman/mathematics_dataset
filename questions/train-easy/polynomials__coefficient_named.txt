@@ -1,0 +1,6 @@
+Omordna (-k + 3*k - k)*(2 - 2 - 2*k) - 12*k + 3*k**2 - 12*k + 23*k till b*k**2 + z*k + i och ange b.
+1
+Omordna (-7 + 0 + 3)*(-4 + 2 - i + 7) till formen g + w*i och ange w.
+4
+Uttryck (2*n**3 - 2*n**3 + n**3)*(-4*n + n + 4*n)*(3 + 7 - 1) som q*n + y*n**2 + f + m*n**4 + b*n**3 och ange m.
+9
