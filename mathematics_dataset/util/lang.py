@@ -69,16 +69,68 @@ class Lang:
         else:
             return self.lookup[text]
 
+    def parse_synonyms(self, template):
+        """Parses and returns a list of string templates.
+
+        Args:
+            template (string): a template strings. Converts "[Synonym1, Synonym2] ..." into separate list items.
+
+        """
+
+        def combine(current_selection, synonym_list):
+            """_summary_
+
+            Args:
+                current_selection (array): array of picked synonyms.
+                synonym_list (array): synonyms to be picked
+
+            Returns:
+                _type_: _description_
+            """
+
+            # Base cases
+            if len(synonym_list) == 0:
+                return current_selection
+
+            # If choices left, pop of the first choice list
+            choices = synonym_list[0]
+            synonym_list = synonym_list[1:]
+
+            # Go through every synonym in the choices list and keep on combining
+            for choice in choices:
+                current_selection.append(choice)
+                combine(current_selection, synonym_list)
+
+        templates = []
+
+        if "[" in template and "]" in template:
+
+            # Get all synonyms enclosed in [] and convert into lists
+            matches = re.findall("\[.*?\]", template)
+            synonyms = [m[1:-1].split(", ") for m in matches]
+
+            # Create every possible combination from the words
+            combinations = combine([], synonyms)
+
+        else:
+            templates.append(template)
+
+        return templates
+
     def parse(self, templates):
         """Parses and returns a list of string templates.
 
         Args:
             templates (array): a list of template strings. Converts "[Synonym1, Synonym2] ..." into separate list items.
+
+            Example template: Compute 5 times 5. ### Beräkna 5 gånger 5.
         """
 
         all_templates = []
 
         for template in templates:
+
+            # Template
             if "[" in template and "]" in template:
                 # Get synonyms enclosed in brackets from english and translation
                 eng_synonyms, lang_synonyms = re.findall("\[.*?\]", template)
@@ -88,7 +140,7 @@ class Lang:
                 lang_block = lang_synonyms[1:-1].split(", ")
 
                 for eng_syn, lang_syn in zip(eng_block, lang_block):
-                    new_template = template.replace(eng_blo)
+                    new_template = template.replace(eng_block)
 
 
 def init_translation(language="en"):
