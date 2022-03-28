@@ -178,19 +178,21 @@ def polynomial_roots(value, sample_args, context=None):
             variable = sympy.Symbol(context.pop())
             equality = ops.Eq(polynomial_entity.handle.apply(variable), 0)
         template = random.choice(
-            [
-                lang.l.translate("Let {equality}. What is {variable}?"),
-                lang.l.translate("Let {equality}. Calculate {variable}."),
-                lang.l.translate("Suppose {equality}. What is {variable}?"),
-                lang.l.translate("Suppose {equality}. Calculate {variable}."),
-                lang.l.translate("What is {variable} in {equality}?"),
-                lang.l.translate("Solve {equality} for {variable}."),
-                lang.l.translate("Find {variable} such that {equality}."),
-                lang.l.translate("Find {variable}, given that {equality}."),
-                lang.l.translate("Determine {variable} so that {equality}."),
-                lang.l.translate("Determine {variable}, given that {equality}."),
-                lang.l.translate("Solve {equality}."),
-            ]
+            lang.l.parse(
+                [
+                    "Let {equality}. What is {variable}?",
+                    "Let {equality}. Calculate {variable}.",
+                    "Suppose {equality}. What is {variable}?",
+                    "Suppose {equality}. Calculate {variable}.",
+                    "What is {variable} in {equality}?",
+                    "Solve {equality} for {variable}.",
+                    "Find {variable} such that {equality}.",
+                    "Find {variable}, given that {equality}.",
+                    "Determine {variable} so that {equality}.",
+                    "Determine {variable}, given that {equality}.",
+                    "Solve {equality}.",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, equality=equality, variable=variable), answer=answer
@@ -204,15 +206,17 @@ def polynomial_roots(value, sample_args, context=None):
             expression = polynomial_entity.handle.apply(variable)
         factored = sympy.factor(polynomials.coefficients_to_polynomial(coeffs, variable))
         template = random.choice(
-            [
-                lang.l.translate("Factor {expression}."),
-                lang.l.translate("Factor {expression} as fully as possible."),
-                lang.l.translate("Factor the following polynomial {expression}."),
-                lang.l.translate("Take the expression {expression} and factor it."),
-                lang.l.translate("Write {expression} as a product of factors."),
-                lang.l.translate("Convert {expression} into a product of factors."),
-                lang.l.translate("Rewrite {expression} as a product of factors."),
-            ]
+            lang.l.parse(
+                [
+                    "Factor {expression}.",
+                    "Factor {expression} as fully as possible.",
+                    "Factor the following polynomial {expression}.",
+                    "Take the expression {expression} and factor it.",
+                    "Write {expression} as a product of factors.",
+                    "Convert {expression} into a product of factors.",
+                    "Rewrite {expression} as a product of factors.",
+                ]
+            )
         )
         return example.Problem(question=example.question(context, template, expression=expression), answer=factored)
 
@@ -261,16 +265,18 @@ def _solve_linear_system(degree, value, sample_args, context=None):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("Solve {equations} for {variable}."),
-                lang.l.translate("Solve {equations}."),
-                lang.l.translate("Find the value of {variable} in {equations}."),
-                lang.l.translate("What is {variable} in {equations}?"),
-                lang.l.translate("Solve {equations} and find the value of {variable}."),
-                lang.l.translate("Let {equations} and find what {variable} equals to."),
-                lang.l.translate("What is the value of {variable} for {equations} to hold true?"),
-                lang.l.translate("Solve for {variable} so that {equations} to hold true."),
-            ]
+            lang.l.parse(
+                [
+                    "Solve {equations} for {variable}.",
+                    "Solve {equations}.",
+                    "Find the value of {variable} in {equations}.",
+                    "What is {variable} in {equations}?",
+                    "Solve {equations} and find the value of {variable}.",
+                    "Let {equations} and find what {variable} equals to.",
+                    "What is the value of {variable} for {equations} to hold true?",
+                    "Solve for {variable} so that {equations} to hold true.",
+                ]
+            )
         )
         return example.Problem(example.question(context, template, equations=equations, variable=variable), answer)
     else:
@@ -345,16 +351,18 @@ def sequence_next_term(min_entropy, max_entropy):
     sequence_sample = display.NumberList(sequence_sample)
 
     template = random.choice(
-        [
-            lang.l.translate("What is next in {sequence}?"),
-            lang.l.translate("What comes next: {sequence}?"),
-            lang.l.translate("What is the next term in {sequence}?"),
-            lang.l.translate("What is the next item in {sequence}?"),
-            lang.l.translate("Following the pattern in {sequence}, what comes next?"),
-            lang.l.translate("Continue {sequence} and give the next term."),
-            lang.l.translate("Take the sequence {sequence}. What comes next?"),
-            lang.l.translate("Take the sequence {sequence}. What is the next term?"),
-        ]
+        lang.l.parse(
+            [
+                "What is next in {sequence}?",
+                "What comes next: {sequence}?",
+                "What is the next term in {sequence}?",
+                "What is the next item in {sequence}?",
+                "Following the pattern in {sequence}, what comes next?",
+                "Continue {sequence} and give the next term.",
+                "Take the sequence {sequence}. What comes next?",
+                "Take the sequence {sequence}. What is the next term?",
+            ]
+        )
     )
     answer = sequence.term(num_terms + 1)
 
@@ -374,16 +382,18 @@ def sequence_nth_term(min_entropy, max_entropy):
     sequence_sample = display.NumberList(sequence_sample)
 
     template = random.choice(
-        [
-            lang.l.translate("What is the {variable}'th term of {sequence}?"),
-            lang.l.translate("Take the sequence {sequence}. What is the {variable}'th term?"),
-            lang.l.translate("What term is at position {variable} in the sequence {sequence}?"),
-            lang.l.translate("Give the value for the item at position {variable} in the sequence {sequence}."),
-            lang.l.translate("Find an expression for the {variable}'th term of {sequence}."),
-            lang.l.translate("Find the closed expression for the term at position {variable} in {sequence}."),
-            lang.l.translate("Following the pattern in {sequence}, what is {variable}'th term?"),
-            lang.l.translate("Given the sequence {sequence}, what is the {variable}'th term?"),
-        ]
+        lang.l.parse(
+            [
+                "What is the {variable}'th term of {sequence}?",
+                "Take the sequence {sequence}. What is the {variable}'th term?",
+                "What term is at position {variable} in the sequence {sequence}?",
+                "Give the value for the item at position {variable} in the sequence {sequence}.",
+                "Find an expression for the {variable}'th term of {sequence}.",
+                "Find the closed expression for the term at position {variable} in {sequence}.",
+                "Following the pattern in {sequence}, what is {variable}'th term?",
+                "Given the sequence {sequence}, what is the {variable}'th term?",
+            ]
+        )
     )
     answer = sequence.sympy
 

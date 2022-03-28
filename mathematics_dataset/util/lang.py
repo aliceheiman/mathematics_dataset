@@ -132,7 +132,7 @@ class Lang:
             translations = self.parse_synonyms(translation)
 
             # Add to all templates
-            all_templates.append(translations)
+            all_templates += translations
 
         # Return
         return all_templates
