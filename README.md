@@ -90,13 +90,59 @@ python -m mathematics_dataset.generate --filter=linear_1d
 will generate example (question, answer) pairs for solving linear equations in
 one variable.
 
+Below is a list of available filters:
+* linear_1d_composed
+* linear_1d
+* linear_2d_composed
+* linear_2d
+* polynomial_roots_composed
+* polynomial_roots
+* sequence_next_term
+* sequence_nth_term
+* add_or_sub_in_base
+* add_or_sub
+* add_sub_multiple
+* div
+* mixed
+* mul_div_multiple
+* mul
+* nearest_integer_root
+* simplify_surd
+* differentiate_composed
+* differentiate
+* closest_composed
+* closest
+* kth_biggest_composed
+* kth_biggest
+* pair_composed
+* pair
+* sort_composed
+* sort
+* conversion
+* time
+* base_conversion
+* div_remainder_composed
+* div_remainder
+* gcd_composed
+* gcd
+* is_factor_composed
+* is_factor
+* is_prime_composed
+* is_prime
+
 We've also included `generate_to_file.py` as an example of how to write the
 generated examples to text files. You can use this directly, or adapt it for
-your generation and training needs.
+your generation and training needs. To generate a range of questions into a directory, use:
+
+```shell
+python -m mathematics_dataset.generate_to_file --output_dir=directory_name
+```
+
+Note, make sure the directory does not already exist before qenerating questions to file.
 
 ## Adding More Languages
 
-Copy the *template.txt* file in the **lang** folder and rename it to **lang.txt** with the two-character abbreviation for your language. To change the output langue, change the **lang=** in the *generate_settings.py** file.
+Copy the *template.txt* file in the **lang** folder and rename it to **lang.txt** with the two-character abbreviation for your language. To change the output language, change the **lang=** in the *generate_settings.py* file to the language abbreviation.
 
 ## Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
