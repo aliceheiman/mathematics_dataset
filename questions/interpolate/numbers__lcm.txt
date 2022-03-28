@@ -1,20 +1,300 @@
-Beräkna den minsta gemensamma faktorn till 584640 och 215.
-25139520
-Beräkna den minsta gemensamma faktorn till 88980 och 1470.
-4360020
-Beräkna den minsta gemensamma faktorn till 4 och 284968.
-284968
-Beräkna den gemensamma nämnaren till -137/12354 och -109/22968.
-1630728
-Bestäm den gemensamma nämnaren till -65/56 och -157/773472.
-773472
-Beräkna den minsta gemensamma faktorn till 233966 och 444.
-51940452
-Beräkna den minsta gemensamma faktorn till 11226110 och 7.
-11226110
-Beräkna den minsta gemensamma faktorn till 1369272 och 912848.
-2738544
-Vilken är den gemensamma nämnaren till 5/45322 och -49/417384?
-17947512
-Beräkna den gemensamma nämnaren till 65/5656 och 47/1456.
-147056
+Beräkna den minsta gemensamma faktorn till 2 och 20995108.
+Svaret är: 20995108
+
+Bestäm den gemensamma nämnaren till -137/38250 och -49/2907000.
+Svaret är: 2907000
+
+Beräkna den minsta gemensamma faktorn till 59822 och 102552.
+Svaret är: 717864
+
+Vilken är den minsta gemensamma faktorn till 4361202 och 594?
+Svar: 47973222
+
+Vilken är den minsta gemensamma faktorn till 16765 och 4382?
+Svaret är: 10494890
+
+Vilken är den minsta gemensamma faktorn till 237025 och 217065?
+Svar: 20621175
+
+Beräkna den minsta gemensamma faktorn till 6816 och 12896.
+Svar: 2746848
+
+Vilken är den gemensamma nämnaren till -47/6740 och 47/1794525?
+Svaret är: 7178100
+
+Bestäm den gemensamma nämnaren till -31/8946 och 137/420462.
+Svaret är: 420462
+
+Bestäm den gemensamma nämnaren till 97/60 och -79/1848924.
+Svaret är: 9244620
+
+Vilken är den minsta gemensamma faktorn till 1567425 och 146293?
+Svaret är: 10971975
+
+Beräkna den minsta gemensamma faktorn till 1854237 och 77.
+Svar: 1854237
+
+Beräkna den minsta gemensamma faktorn till 756792 och 18216.
+Svaret är: 8324712
+
+Vilken är den gemensamma nämnaren till 31/325 och 47/44861?
+Svar: 14579825
+
+Beräkna den minsta gemensamma faktorn till 862880 och 755020.
+Svaret är: 6040160
+
+Beräkna den minsta gemensamma faktorn till 305221 och 77.
+Svaret är: 3357431
+
+Bestäm den gemensamma nämnaren till -46/16321 och 37/11837.
+Svar: 10167983
+
+Beräkna den minsta gemensamma faktorn till 553460 och 32.
+Svaret är: 4427680
+
+Vilken är den minsta gemensamma faktorn till 932 och 81856?
+Svar: 19072448
+
+Vilken är den minsta gemensamma faktorn till 2109 och 114?
+Svar: 4218
+
+Beräkna den minsta gemensamma faktorn till 44248 och 544.
+Svar: 3008864
+
+Bestäm den gemensamma nämnaren till 3/16775 och 36/61549.
+Svar: 16925975
+
+Vilken är den minsta gemensamma faktorn till 27 och 5632857?
+Svaret är: 16898571
+
+Vilken är den minsta gemensamma faktorn till 798676 och 112?
+Svaret är: 22362928
+
+Beräkna den gemensamma nämnaren till 44/13177 och -1/1774.
+Svar: 23375998
+
+Beräkna den gemensamma nämnaren till -17/8367509 och 101/6.
+Svaret är: 50205054
+
+Beräkna den minsta gemensamma faktorn till 6282 och 10215.
+Svaret är: 7130070
+
+Beräkna den minsta gemensamma faktorn till 70780 och 712.
+Svaret är: 12598840
+
+Vilken är den gemensamma nämnaren till -83/1727700 och 59/54?
+Svar: 15549300
+
+Beräkna den minsta gemensamma faktorn till 436608 och 1895.
+Svar: 2183040
+
+Vilken är den gemensamma nämnaren till -43/129320 och 131/11346?
+Svar: 12026760
+
+Vilken är den minsta gemensamma faktorn till 160 och 67312?
+Svaret är: 673120
+
+Beräkna den minsta gemensamma faktorn till 1066 och 3526.
+Svar: 45838
+
+Vilken är den minsta gemensamma faktorn till 428077 och 1490?
+Svaret är: 4280770
+
+Vilken är den minsta gemensamma faktorn till 516 och 44824?
+Svar: 5782296
+
+Beräkna den minsta gemensamma faktorn till 1070076 och 1605114.
+Svar: 3210228
+
+Vilken är den gemensamma nämnaren till -89/1384186 och -93/28?
+Svar: 19378604
+
+Beräkna den minsta gemensamma faktorn till 28 och 5750080.
+Svaret är: 5750080
+
+Vilken är den gemensamma nämnaren till -137/7272636 och -73/63?
+Svaret är: 21817908
+
+Vilken är den gemensamma nämnaren till 77/3751740 och 131/98730?
+Svar: 3751740
+
+Bestäm den gemensamma nämnaren till 113/877170 och 97/20.
+Svar: 1754340
+
+Bestäm den gemensamma nämnaren till 61/700 och 41/84750.
+Svar: 1186500
+
+Beräkna den minsta gemensamma faktorn till 1098 och 14284.
+Svaret är: 7841916
+
+Vilken är den minsta gemensamma faktorn till 1036152 och 234?
+Svar: 1036152
+
+Bestäm den gemensamma nämnaren till -167/521514 och -29/96.
+Svaret är: 8344224
+
+Beräkna den minsta gemensamma faktorn till 224040 och 84015.
+Svaret är: 672120
+
+Vilken är den gemensamma nämnaren till 23/393888 och 49/99?
+Svaret är: 1181664
+
+Beräkna den minsta gemensamma faktorn till 47 och 3721.
+Svar: 174887
+
+Bestäm den gemensamma nämnaren till -59/70644 och -53/1065547.
+Svar: 12786564
+
+Beräkna den minsta gemensamma faktorn till 12024 och 11304.
+Svaret är: 1887768
+
+Beräkna den gemensamma nämnaren till 85/8 och 27/5526778.
+Svaret är: 22107112
+
+Vilken är den minsta gemensamma faktorn till 7395356 och 39903?
+Svaret är: 22186068
+
+Bestäm den gemensamma nämnaren till 97/339880 och -125/14064.
+Svar: 2039280
+
+Beräkna den minsta gemensamma faktorn till 350 och 69748.
+Svar: 1743700
+
+Vilken är den minsta gemensamma faktorn till 176228 och 26?
+Svaret är: 176228
+
+Vilken är den minsta gemensamma faktorn till 51205 och 5640?
+Svaret är: 57759240
+
+Beräkna den minsta gemensamma faktorn till 1851642 och 624.
+Svar: 14813136
+
+Beräkna den minsta gemensamma faktorn till 1576 och 600062.
+Svaret är: 2400248
+
+Beräkna den minsta gemensamma faktorn till 679427 och 4991.
+Svaret är: 15626821
+
+Beräkna den minsta gemensamma faktorn till 7722 och 91806.
+Svar: 826254
+
+Beräkna den minsta gemensamma faktorn till 41044 och 28768.
+Svaret är: 9522208
+
+Bestäm den gemensamma nämnaren till 20/117 och -103/7459036.
+Svar: 67131324
+
+Vilken är den minsta gemensamma faktorn till 622512 och 264?
+Svaret är: 622512
+
+Beräkna den minsta gemensamma faktorn till 2479125 och 1375.
+Svaret är: 2479125
+
+Beräkna den gemensamma nämnaren till 43/1827 och -23/13326.
+Svaret är: 8115534
+
+Bestäm den gemensamma nämnaren till -67/1099239 och 11/79655.
+Svar: 5496195
+
+Beräkna den gemensamma nämnaren till 7/1782 och -47/1135134.
+Svaret är: 1135134
+
+Vilken är den minsta gemensamma faktorn till 456152 och 342114?
+Svar: 1368456
+
+Beräkna den minsta gemensamma faktorn till 161148 och 13520.
+Svar: 41898480
+
+Vilken är den minsta gemensamma faktorn till 59800 och 1472575?
+Svar: 11780600
+
+Bestäm den gemensamma nämnaren till -39/451 och 49/5550908.
+Svaret är: 5550908
+
+Beräkna den minsta gemensamma faktorn till 679614 och 450.
+Svar: 50971050
+
+Beräkna den gemensamma nämnaren till 55/879416 och -125/1319124.
+Svar: 2638248
+
+Vilken är den minsta gemensamma faktorn till 127392 och 2592?
+Svaret är: 3439584
+
+Beräkna den minsta gemensamma faktorn till 10460 och 5431355.
+Svaret är: 21725420
+
+Bestäm den gemensamma nämnaren till -77/27120 och -145/90174.
+Svaret är: 3606960
+
+Vilken är den gemensamma nämnaren till -83/3583560 och -47/20?
+Svar: 3583560
+
+Beräkna den minsta gemensamma faktorn till 55536 och 7451080.
+Svaret är: 44706480
+
+Bestäm den gemensamma nämnaren till -48/151639 och -47/395580.
+Svar: 9098340
+
+Bestäm den gemensamma nämnaren till -23/3179 och -79/46580.
+Svar: 8710460
+
+Bestäm den gemensamma nämnaren till -51/3285224 och 47/28.
+Svar: 22996568
+
+Bestäm den gemensamma nämnaren till 36/4175633 och 18/6561709.
+Svaret är: 45931963
+
+Vilken är den minsta gemensamma faktorn till 100 och 10759530?
+Svaret är: 107595300
+
+Vilken är den minsta gemensamma faktorn till 98 och 2797886?
+Svar: 19585202
+
+Vilken är den minsta gemensamma faktorn till 419964 och 139988?
+Svaret är: 419964
+
+Beräkna den minsta gemensamma faktorn till 5676947 och 781.
+Svar: 62446417
+
+Beräkna den minsta gemensamma faktorn till 30 och 6635350.
+Svar: 19906050
+
+Beräkna den minsta gemensamma faktorn till 11708 och 7890.
+Svar: 46188060
+
+Vilken är den minsta gemensamma faktorn till 24755 och 175?
+Svaret är: 866425
+
+Vilken är den gemensamma nämnaren till -73/128 och -81/33112?
+Svaret är: 529792
+
+Beräkna den gemensamma nämnaren till -45/31216 och -19/6056.
+Svaret är: 23630512
+
+Beräkna den minsta gemensamma faktorn till 10263 och 45496.
+Svar: 42447768
+
+Beräkna den minsta gemensamma faktorn till 578 och 34510.
+Svar: 586670
+
+Beräkna den gemensamma nämnaren till -7/2620725 och -55/27.
+Svaret är: 23586525
+
+Beräkna den gemensamma nämnaren till -29/36512 och 23/5326188.
+Svaret är: 42609504
+
+Bestäm den gemensamma nämnaren till -5/118764 och -32/2998791.
+Svaret är: 11995164
+
+Vilken är den gemensamma nämnaren till -101/4638 och 17/2441907?
+Svar: 4883814
+
+Beräkna den minsta gemensamma faktorn till 1598836 och 168.
+Svar: 67151112
+
+Beräkna den gemensamma nämnaren till 59/164124 och -37/486.
+Svar: 4431348
+
+Vilken är den gemensamma nämnaren till -13/499 och -50/97?
+Svar: 48403
+

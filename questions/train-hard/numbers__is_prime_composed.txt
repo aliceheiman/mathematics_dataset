@@ -1,6 +1,90 @@
-Antag att 1116129 = -51*m + 8057382. Är m sammansatt?
-True
-Låt k(a) = 693*a + 2. Låt p vara k(2). Antag att y - p = 1667. Antag att -2*c - y = -7*c. Är c ett primtal?
-False
-Låt b = 525438 - 314749. Är b primtal?
-False
+Är -9 + (-2577398)/(-7) - (-34)/119 sammansatt?
+Svar: True
+
+Antag att 0 = -4*w + 4*j + 163408, -6*j = 4*w - 2*j - 163448. Antag att -20426 = -g + 5*z, 2*g + 2*z - 7*z - w = 0. Är g primtal?
+Svaret är: True
+
+Låt r = 3887 - 1684. Är r primtal?
+Svaret är: True
+
+Låt m = 49 - 43. Antag att 0 = -m*a - 6*a + 62724. Är a ett primtal?
+Svar: True
+
+Antag att 0 = 2*g, -57*g + 60*g - 300 = -z. Antag att 0 = -z*o + 301*o - 1843. Är o ett primtal?
+Svaret är: False
+
+Låt d(m) = 36 - 7*m. Låt a vara d(-13). Låt w = a + -568. Låt r = w - -734. Är r ett sammansatt tal?
+Svar: False
+
+Antag att 5*s + 25 = 0, k - 9562 = -2*s + 10091. Antag att -14*h = k - 65541. Är h ett primtal?
+Svaret är: False
+
+Antag att -5*z + 5*d - 5 = 5, -4*d + 26 = 2*z. Antag att -v + z*f = -220, 3*v - 2*f = -v + 930. Är v primtal?
+Svar: False
+
+Låt r(h) = 325 - 781*h. Är r(-4) ett primtal?
+Svaret är: True
+
+Låt b(m) vara tredjederivatan av 2*m**5/15 + m**4/12 + m**3/6 - 3*m**2 - 80. Antag att 0 = 3*s - 2*o - 3, 0 = 3*s - 0*o + 5*o - 24. Är b(s) primtal?
+Svar: True
+
+Antag att -198125 = -2*i - 2*q - 51943, -i + 73087 = 3*q. Är i ett primtal?
+Svaret är: False
+
+Låt j = -67 + 76. Antag att 3*n + j = 57. Antag att 12*p - n*p = -4812. Är p ett primtal?
+Svar: False
+
+Låt y = -486 - -532. Är 35922/y - 16/(-184) primtal?
+Svaret är: False
+
+Låt j(y) = 3478*y**3 - 4*y**2 - 9*y + 31. Är j(2) primtal?
+Svar: False
+
+Antag att 4*o - 6*u = 1370414, -u - 944655 = -4*o + 425724. Är o sammansatt?
+Svaret är: False
+
+Låt d = -122 - -129. Antag att 0 = 3*u + 4*r - d*r + 3555, 0 = -5*u - r - 5907. Låt p = -541 - u. Är p primtal?
+Svaret är: True
+
+Låt f = -475945 - -718478. Är f ett sammansatt tal?
+Svaret är: False
+
+Låt n vara 16*(-2)/((-48)/150). Är 3*(166340/n + 2/(-5)) primtal?
+Svaret är: False
+
+Antag att 0 = 5*i + 4*m + 51, 2*i - m = 5*i + 32. Låt z vara ((-32)/(-6))/(i/3333). Låt s = 3597 + z. Är s ett primtal?
+Svar: False
+
+Låt r vara 610 - (1 - -2) - 4. Låt c(g) = -44*g**3 + 2*g - 425*g**2 - r*g**3 + 427*g**2. Är c(-1) primtal?
+Svar: True
+
+Antag att -664703 = -7*g + 181491 + 6483. Är g ett sammansatt tal?
+Svaret är: True
+
+Antag att -1617 = -d + 5*n, 5*d - 5354 - 2601 = -n. Antag att a - 3*l + 796 = -2*l, -3*l = 2*a + d. Låt i = a + 1593. Är i ett primtal?
+Svaret är: True
+
+Låt d = 145806 - -151517. Är d ett primtal?
+Svar: False
+
+Låt w = 30 - 28. Låt y vara (-1 - 1/w)/((-9)/24). Antag att 59 - 919 = -y*c. Är c primtal?
+Svaret är: False
+
+Antag att -n + 21 = 2*n - 3*t, 29 = 5*n - 2*t. Låt j vara ((-50)/40)/(20/(-13712)). Antag att 2467 = 5*d - n*c + j, 1293 = 4*d - 5*c. Är d primtal?
+Svaret är: True
+
+Antag att -a = 8 - 9. Är 14/(a/((-1255)/20*-2)) ett sammansatt tal?
+Svaret är: True
+
+Låt x vara 0/(-5 + 28/7). Antag att 5*o - 4469 - 716 = x. Är o primtal?
+Svaret är: False
+
+Låt h vara (2 - -1)/(-3*(-3)/36). Låt s vara (-3)/h*0/(-4). Antag att s = z - 364 + 117. Är z ett sammansatt tal?
+Svaret är: True
+
+Antag att 0 = 2*q - 5*y - 824924, -403*q + 1649822 = -399*q + 3*y. Är q ett primtal?
+Svaret är: True
+
+Låt d = 2635 - 956. Låt t = -1114 + d. Är t sammansatt?
+Svar: True
+

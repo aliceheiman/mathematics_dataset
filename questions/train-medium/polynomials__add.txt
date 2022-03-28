@@ -1,6 +1,90 @@
-Låt d(m) = 9*m**2 + 2*m - 15. Låt s(n) = 2*n**2 + n - 3. Bestäm -2*d(l) + 11*s(l).
-4*l**2 + 7*l - 3
-Låt a = 613 + -630. Låt s(p) = -p - 5. Låt r(j) = -3*j - 15. Ange a*s(z) + 6*r(z).
--z - 5
-Låt b(q) = 4*q - 6. Låt h vara b(2). Låt u(a) = -11*a**2 + a + 9. Låt v(m) = 1 - m**2. Beräkna h*u(d) - 18*v(d).
--4*d**2 + 2*d
+Låt z(h) vara andraderivatan av -h**4/3 - h**3/3 - h**2/2 - 98*h. Låt x(b) = -5*b**2 - 3*b - 2. Beräkna 2*x(t) - 3*z(t).
+Svar: 2*t**2 - 1
+
+Låt x(u) = -148674*u**2 + 5235*u. Låt a(m) = -341*m**2 + 12*m. Bestäm 1745*a(o) - 4*x(o).
+Svar: -349*o**2
+
+Låt o(g) = 35*g - 18. Låt q(l) = 6 - 13*l. Beräkna -3*o(s) - 8*q(s).
+Svaret är: 6 - s
+
+Låt m vara 4 - (-2 - -3)*2. Låt l(t) = -9*t + 4*t - 1 + 0*t + m*t. Låt a(p) = -4*p + 3*p + 0*p. Ange -4*a(n) + l(n).
+Svaret är: n - 1
+
+Låt n(m) = -28*m + 20*m + 16*m. Låt c(p) = -2*p + 6*p + 3*p. Vad är -5*c(l) + 4*n(l)?
+Svar: -3*l
+
+Låt u(h) = -h**2 - 1. Låt o(d) = -3*d**2 + 47*d - 4. Beräkna o(l) - 2*u(l).
+Svar: -l**2 + 47*l - 2
+
+Antag att -8 = -2*p + t + 2, -p - 9 = 3*t. Låt h(k) = -5*k - 1. Låt z(d) = 2 + 6*d - 9 + 8. Låt m = 6 + -2. Bestäm m*h(u) + p*z(u).
+Svaret är: -2*u - 1
+
+Låt n(v) = 12*v. Låt m(d) = 3. Beräkna -3*m(r) + n(r).
+Svaret är: 12*r - 9
+
+Låt u(g) = 5*g**3 + 12*g**2 + 8*g - 5. Låt t(p) = -5*p**3 - 10*p**2 - 6*p + 3. Bestäm 6*t(s) + 5*u(s).
+Svar: -5*s**3 + 4*s - 7
+
+Låt q(s) = -6*s - 5. Låt o(w) = -13*w - 11. Låt d vara (20/(-6))/((2 + -1)/3). Låt h vara d/(-15) + ((-84)/(-9) - 1). Beräkna h*q(a) - 4*o(a).
+Svaret är: -2*a - 1
+
+Låt a(i) = 5. Låt x(z) = z**3 + 6*z**2 - 8*z - 11. Låt j vara x(-7). Låt r(d) = 1 - 2 + d - 5. Ange j*r(w) - 5*a(w).
+Svar: -4*w - 1
+
+Låt g(t) = 7*t - 6. Låt c(j) vara andraderivatan av -10*j**3/3 + 17*j**2/2 - 9*j + 3. Beräkna -4*c(i) - 11*g(i).
+Svaret är: 3*i - 2
+
+Låt m(s) vara tredjederivatan av s**5/60 - s**4/24 - s**3/6 - 99*s**2. Låt t(u) = u**2 - 3*u - 4. Vad är -3*m(w) + t(w)?
+Svaret är: -2*w**2 - 1
+
+Låt m(x) = 1. Låt y(q) = -8*q**2 + 5*q - 2. Bestäm -4*m(g) - y(g).
+Svar: 8*g**2 - 5*g - 2
+
+Låt i(y) = -3*y**2 - 70*y - 4. Låt q(j) = 7*j**2 + 139*j + 9. Ange -5*i(f) - 2*q(f).
+Svar: f**2 + 72*f + 2
+
+Låt y(g) = 1 - 166*g. Låt d(r) = 2 - 250*r. Vad är 5*d(b) - 7*y(b)?
+Svaret är: 3 - 88*b
+
+Låt w(f) = 9 - 15*f. Låt m(d) = 13 - 22*d. Låt g(h) = -5*m(h) + 7*w(h). Låt b(s) = s - 1. Antag att 0 = j + 5*z - 11, j - 2*z + 5 = -5. Vad är j*b(a) + g(a)?
+Svar: a + 2
+
+Låt f(m) = 1. Låt o(i) = 23 - 25 - i + 2*i. Ange 2*f(d) + 3*o(d).
+Svar: 3*d - 4
+
+Låt x(v) = 5*v + 5. Låt m(g) = 5*g + 7. Låt o(a) = -a - 2. Låt k(d) = -2*m(d) - 4*o(d). Beräkna -4*k(i) - 5*x(i).
+Svaret är: -i - 1
+
+Låt c(v) = -v. Låt x(u) = 3 - 4*u. Låt z(k) = k. Låt i(a) = x(a) + 3*z(a). Låt d vara i(2). Låt p(j) = 4*j**2 + j - 1. Bestäm d*c(n) + p(n).
+Svar: 4*n**2 - 1
+
+Låt g(s) = -s. Låt d(f) = -f**3 + f - 1. Låt x vara d(0). Låt k(i) = 3*i**2 + 5*i + 2. Ange x*k(q) - 5*g(q).
+Svar: -3*q**2 - 2
+
+Låt q(g) = -g. Låt s(d) = -8*d. Antag att -4*b + 109 = 3*i, -2*i + i + 83 = 3*b. Vad är b*q(u) - 3*s(u)?
+Svar: -4*u
+
+Låt s(k) = -k. Låt t = -7 - -6. Låt n(x) = -x + 14*x**2 - 12*x**2 - 2*x. Låt c = -8 + 11. Bestäm c*s(j) + t*n(j).
+Svar: -2*j**2
+
+Låt u(s) = -s**3 + s**2 - 14*s + 2. Låt w(p) = -3*p**3 + 3*p**2 - 43*p + 7. Beräkna -7*u(m) + 2*w(m).
+Svar: m**3 - m**2 + 12*m
+
+Låt s(o) = -17*o**3 + 13*o**3 - 2*o**3 + 15*o**3 + 13*o**3. Låt h(k) = 11*k**3. Ange -7*h(q) + 3*s(q).
+Svaret är: -11*q**3
+
+Låt a(h) = -h**2 + h - 1. Låt l(f) = -6*f**2 + 6*f - 6. Låt j(q) = -7*q - 202. Låt c vara j(-29). Ange c*l(n) - 4*a(n).
+Svaret är: -2*n**2 + 2*n - 2
+
+Låt g(t) = 15 - 30*t. Låt k(q) = 5 - 10*q. Bestäm 3*g(x) - 8*k(x).
+Svar: 5 - 10*x
+
+Låt z(i) = 13*i - 129. Låt s(o) = 10*o - 130. Bestäm 5*s(t) - 4*z(t).
+Svaret är: -2*t - 134
+
+Låt r vara (-34)/8 - 33/44. Låt i(n) = -3*n**2 - 6. Låt k(s) = 13*s**2 + 15. Låt j(m) = -9*m**2 - 10. Låt l(a) = 7*j(a) + 5*k(a). Beräkna r*i(d) - 6*l(d).
+Svaret är: 3*d**2
+
+Låt t(c) = 3*c**2 - 5*c. Antag att 12*k - 40 = 7*k - 3*a, 4*k - 2*a - 32 = 0. Antag att -8 - 1 = 3*o. Låt r(f) = 9*f**2 - 14*f. Vad är k*t(l) + o*r(l)?
+Svaret är: -3*l**2 + 2*l
+

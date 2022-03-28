@@ -1,6 +1,90 @@
-Låt g(s) vara tredjederivatan av -s**8/168 - s**7/70 + 363*s**4/8 - 1376*s**2. Vad är andraderivatan av g(p) med avseende på p?
--40*p**3 - 36*p**2
-Låt q(a) = -a**3 + 9*a**2 - 10*a + 18. Låt r vara q(8). Vad är andraderivatan av -10 - 15*k - 5*k**3 - 10*k**r + 9*k**2 + 13*k med avseende på k?
--30*k - 2
-Antag att 2*s - 4 = -k, 3*k - 7*k + 4 = -4*s. Låt y vara (7/21)/(k/18). Vad är andraderivatan av 20*f**3 + 9*f**3 - y*f**3 + 3*f + 11*f med avseende på f?
-156*f
+Låt h(v) = -9*v - 29. Låt r vara h(-4). Bestäm tredjederivatan av -425 + r*p**2 - 147*p**3 - 3*p**2 + 2*p**3 + 422 med avseende på p.
+Svaret är: -870
+
+Antag att h + 7 = -3*o, 4 - 9 = -4*h - o. Vad är tredjederivatan av -55*y**2 + 33*y**2 - y + 21*y**3 + 28*y**h med avseende på y?
+Svaret är: 126
+
+Antag att 0 = -3*u + 52 + 14. Låt s = u + -3. Vad är tredjederivatan av -z**2 + 24*z + s*z**4 - 24*z med avseende på z?
+Svar: 456*z
+
+Vad är tredjederivatan av 2*h**2 + 2 + 72*h + 362*h - 29*h + 7861*h**3 + 144*h + 54*h med avseende på h?
+Svar: 47166
+
+Låt n = -797 + 976. Vad är förstaderivatan av 123022*w + n - 20*w**4 - 123022*w med avseende på w?
+Svar: -80*w**3
+
+Låt c(k) vara förstaderivatan av -3236*k**7/7 + k**3/3 - 33*k**2 - 2337. Bestäm tredjederivatan av c(j) med avseende på j.
+Svaret är: -388320*j**3
+
+Låt l(f) vara andraderivatan av 0*f**2 + 47/42*f**7 + 0*f**6 - 127/6*f**3 + 0*f**4 + 0*f**5 - 42*f + 0. Vad är andraderivatan av l(z) med avseende på z?
+Svaret är: 940*z**3
+
+Låt w(o) = 20*o - 379. Antag att 21 = -3*k + z, -12*z = -10*z. Låt r(h) = 7*h - 126. Låt x(v) = k*r(v) + 2*w(v). Vad är derivatan av x(p) med avseende på p?
+Svaret är: -9
+
+Låt l = 9 - -9. Antag att 26 = l*b - 16*b. Bestäm tredjederivatan av 28*a**2 + 11*a**2 - 10*a**4 - 11*a**4 - b*a**4 med avseende på a.
+Svar: -816*a
+
+Bestäm andraderivatan av 519 - 2*f + 1417 + 545 + 31*f**4 - 63*f**2 med avseende på f.
+Svaret är: 372*f**2 - 126
+
+Låt w(c) vara förstaderivatan av c**6/6 + 58*c**5/5 + 99*c**3 + c**2/2 - 2*c - 5225. Bestäm tredjederivatan av w(g) med avseende på g.
+Svar: 60*g**2 + 1392*g
+
+Låt s vara (4/(-14))/(-1*1/21). Antag att -3*l + 0*c + 24 = 5*c, -4*l + 32 = -4*c. Vad är andraderivatan av -l*h**5 + 9*h - s*h + 8*h med avseende på h?
+Svar: -160*h**3
+
+Bestäm andraderivatan av -4498*h - 1191*h**2 - 1019*h**2 - 914*h - 12*h - 2*h**3 med avseende på h.
+Svaret är: -12*h - 4420
+
+Låt v = 144 + -129. Derivera 28 - 12 + v + 12*x + 3 med avseende på x.
+Svaret är: 12
+
+Bestäm tredjederivatan av -70*j**2 - 3 + 2542*j**3 + 4071*j**3 - 54*j**2 - 8*j + 202*j**2 - 71*j**2 med avseende på j.
+Svaret är: 39678
+
+Bestäm andraderivatan av 14*f**3 + 329*f - 396*f - f**4 - 14*f**2 + 5 + 12*f**2 med avseende på f.
+Svar: -12*f**2 + 84*f - 4
+
+Låt p(f) vara andraderivatan av 39*f**7/2 - 35*f**4/12 - f**3/3 - 313*f. Bestäm tredjederivatan av p(h) med avseende på h.
+Svaret är: 49140*h**2
+
+Låt x vara 1/((-4)/(-6))*(-32)/(-6). Vad är andraderivatan av x*c**2 + 21*c**2 - 178*c - 47 + 47 med avseende på c?
+Svaret är: 58
+
+Låt p(k) vara förstaderivatan av 0*k**4 + 0*k**6 + 0*k**5 + 12*k**7 + 0*k**2 - 28/3*k**3 + 76 - k. Vad är tredjederivatan av p(g) med avseende på g?
+Svaret är: 10080*g**3
+
+Vad är tredjederivatan av -1738*g**2 + 479*g**3 - 686*g**3 - 275*g**3 med avseende på g?
+Svaret är: -2892
+
+Vad är andraderivatan av -5*f**3 - 682*f**4 + 11*f**3 - 5 + 664*f**4 + 7*f**2 - 1367*f - 9*f**3 med avseende på f?
+Svaret är: -216*f**2 - 18*f + 14
+
+Låt o(k) = -2646*k**2 + 2068*k + 12. Låt m(d) = 5293*d**2 - 4136*d - 28. Låt w(p) = 3*m(p) + 7*o(p). Vad är andraderivatan av w(l) med avseende på l?
+Svaret är: -5286
+
+Derivera -216*x**3 - 20*x**4 - 164*x**3 + 792*x**3 - 2*x - 180*x**3 + 13455 - 156*x**3 med avseende på x.
+Svaret är: -80*x**3 + 228*x**2 - 2
+
+Låt c(y) = 118*y**4 + 7*y. Låt v = 157 + -163. Låt o(t) = -118*t**4 - 8*t. Låt q(u) = v*o(u) - 5*c(u). Vad är andraderivatan av q(p) med avseende på p?
+Svar: 1416*p**2
+
+Låt k vara 4/5 + 8554/70. Låt u = 128 - k. Bestäm andraderivatan av -34*g + 12*g + 19*g**5 + 8*g**u - 11*g**5 med avseende på g.
+Svaret är: 320*g**3
+
+Låt s(v) vara andraderivatan av 377*v**4/12 - 1064*v**2 - 9*v + 115. Vad är förstaderivatan av s(l) med avseende på l?
+Svar: 754*l
+
+Låt y(o) vara andraderivatan av o**7/7 + o**5/10 + 25*o**4/12 - 1889*o**3/6 - 18*o + 7. Bestäm andraderivatan av y(d) med avseende på d.
+Svar: 120*d**3 + 12*d + 50
+
+Låt o vara (-4)/(-14) - 2624/(-28). Vad är andraderivatan av 105*m**3 + m**4 + 112*m - 192*m**3 + o*m**3 med avseende på m?
+Svaret är: 12*m**2 + 42*m
+
+Antag att 5*t - 10*t = -10. Låt a vara ((-22)/(-4))/((-12)/(-720)*3). Vad är förstaderivatan av 0 - 85*w**2 + 3 + a*w**t med avseende på w?
+Svar: 50*w
+
+Vad är andraderivatan av 2*w + 2*w**4 - 490*w**2 + 74*w**5 + 503*w**2 + 34 - 2*w**4 med avseende på w?
+Svaret är: 1480*w**3 + 26
+

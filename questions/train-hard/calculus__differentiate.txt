@@ -1,6 +1,90 @@
-Bestäm förstaderivatan av 19384487*f**2 - 2*f - 53833126 med avseende på f.
-38768974*f - 2
-Bestäm tredjederivatan av -6282070*k**6 + 270325*k**2 + 5*k + 2 med avseende på k.
--753848400*k**3
-Vad är förstaderivatan av 435*n*r + 22274192*n - 1219*r med avseende på r?
-435*n - 1219
+Bestäm tredjederivatan av 13434926*b**6 + 11970788*b**2 med avseende på b.
+Svaret är: 1612191120*b**3
+
+Vad är förstaderivatan av 19*a**2*k - 2349*a**2 - 2*a + 4414260*k med avseende på a?
+Svaret är: 38*a*k - 4698*a - 2
+
+Vad är tredjederivatan av 289562937*u**3 - 21060*u**2 - u + 1474 med avseende på u?
+Svaret är: 1737377622
+
+Vad är tredjederivatan av -13*m**4*y + 80*m**4 + 2*m**3*y + 139*m**3 + 691*m**2 - 1786*m*y med avseende på m?
+Svar: -312*m*y + 1920*m + 12*y + 834
+
+Bestäm tredjederivatan av -45869711*m**5 + m**2 - 714*m + 3574.
+Svar: -2752182660*m**2
+
+Vad är andraderivatan av 8*m*w**2 + 1430*m*w - 38*m - 1270639*w**3 - 7 med avseende på w?
+Svar: 16*m - 7623834*w
+
+Vad är tredjederivatan av 13607887*r**4 + 6*r**2 - 27556*r + 2?
+Svar: 326589288*r
+
+Vad är förstaderivatan av -1352398998*y**3 - 701027829?
+Svar: -4057196994*y**2
+
+Vad är derivatan av -544885*n**2*y - 18534*n**2 + 66*n*y - 56*n - 2*y - 1 med avseende på y?
+Svar: -544885*n**2 + 66*n - 2
+
+Bestäm tredjederivatan av 340695808*a**3 - 2*a**2 - 2314*a - 4613 med avseende på a.
+Svar: 2044174848
+
+Vad är derivatan av 316837297 - 435923210*a**3?
+Svar: -1307769630*a**2
+
+Vad är tredjederivatan av -215*x**5 - 8619*x**4 + x**2 + 238327*x + 20 med avseende på x?
+Svar: -12900*x**2 - 206856*x
+
+Vad är tredjederivatan av 210103015*g**6 - 387*g**2 - 441*g + 24 med avseende på g?
+Svaret är: 25212361800*g**3
+
+Bestäm tredjederivatan av -522482*m**4 + 6*m**3 + 2*m**2 - 2544464 med avseende på m.
+Svaret är: 36 - 12539568*m
+
+Vad är tredjederivatan av 372244*j**2*y**3 + 2*j**2*y**2 + 411*j**2 - 2*j*y**3 - 4*j*y - 2*y**3 - 701*y**2 med avseende på y?
+Svaret är: 2233464*j**2 - 12*j - 12
+
+Vad är derivatan av 1206474*v**3 + 20171303 med avseende på v?
+Svar: 3619422*v**2
+
+Vad är andraderivatan av 47865694*a**2*o**2 + 6*a**2*o + 18970*a**2 + 9*a*o med avseende på o?
+Svar: 95731388*a**2
+
+Derivera -j*s + 88875*j + 131589*s**2 + 1002 med avseende på s.
+Svaret är: -j + 263178*s
+
+Bestäm andraderivatan av f*j**3*k**2 + 285*f*j*k + 548199*f*k**2 + 4*j**3*k - 9*j*k + k**2 med avseende på k.
+Svaret är: 2*f*j**3 + 1096398*f + 2
+
+Bestäm tredjederivatan av -12787863*c**3*g**3 + 11*c**2*g**2 - g**3 - 7612*g - 2 med avseende på c.
+Svar: -76727178*g**3
+
+Vad är tredjederivatan av 9*l**4 - 1163964*l**3 - 635768715*l**2?
+Svaret är: 216*l - 6983784
+
+Bestäm förstaderivatan av -201328*q**3 + 6*q + 24533199.
+Svar: 6 - 603984*q**2
+
+Vad är andraderivatan av -3186513*k**4 - 156500*k + 3 med avseende på k?
+Svaret är: -38238156*k**2
+
+Bestäm tredjederivatan av -q**3*w**2 + 972*q**3*w + 139*q**3 + 4878*q**2*w**2 - 531*q**2 med avseende på q.
+Svaret är: -6*w**2 + 5832*w + 834
+
+Bestäm tredjederivatan av 1271*k*m**4 + 2*k*m**3 - 57*k*m**2 - 1824*k - 11*m**4 - 145*m**3 - 24*m med avseende på m.
+Svaret är: 30504*k*m + 12*k - 264*m - 870
+
+Bestäm tredjederivatan av -2*d**6 + 6205147*d**3 - 16147518*d**2 med avseende på d.
+Svar: 37230882 - 240*d**3
+
+Vad är andraderivatan av -322984949*d**4 - 892385077*d?
+Svar: -3875819388*d**2
+
+Bestäm tredjederivatan av 307526*c**3*l + 49*c**3 + 10*c**2*l + 3*c**2 - c*l - 156*c + 28*l - 1 med avseende på c.
+Svar: 1845156*l + 294
+
+Derivera 2*b*d**2 + 97274*b*d - 26544888*b - d med avseende på d.
+Svar: 4*b*d + 97274*b - 1
+
+Bestäm andraderivatan av -1102469*d**2 + 4779269*d med avseende på d.
+Svaret är: -2204938
+

@@ -1,6 +1,90 @@
-I bas 11, vad är 1 - 1001?
--1000
-I bas 2, vad är -10010101 + -101?
--10011010
-I bas 5, vad är -1 - 1024?
--1030
+I bas 9, vad är -1 + -562?
+Svar: -563
+
+I bas 4, vad är 2202 + 3?
+Svaret är: 2211
+
+I bas 6, vad är 1200 + -5?
+Svaret är: 1151
+
+I bas 13, vad är 194 - -11?
+Svar: 1a5
+
+I bas 6, vad är -354 - 5?
+Svar: -403
+
+I bas 8, vad är 0 - 1001?
+Svaret är: -1001
+
+I bas 9, vad är -2 + 17?
+Svaret är: 15
+
+I bas 5, vad är -124 + -243?
+Svar: -422
+
+I bas 5, vad är -1 + -1434?
+Svar: -1440
+
+I bas 11, vad är -5 + -1a1?
+Svaret är: -1a6
+
+I bas 16, vad är 5 - -d?
+Svar: 12
+
+I bas 15, vad är 1c + -9e?
+Svaret är: -82
+
+I bas 12, vad är -5 - 66?
+Svar: -6b
+
+I bas 4, vad är -201 + -32?
+Svaret är: -233
+
+I bas 7, vad är -102 - 56?
+Svaret är: -161
+
+I bas 2, vad är 101 + -10010010111?
+Svar: -10010010010
+
+I bas 3, vad är -12212 - -10?
+Svaret är: -12202
+
+I bas 15, vad är -1b + -b?
+Svaret är: -27
+
+I bas 11, vad är 105 - 17?
+Svar: 99
+
+I bas 12, vad är 5 - 28?
+Svaret är: -23
+
+I bas 11, vad är -1 - -66?
+Svar: 65
+
+I bas 4, vad är 231 - 2?
+Svar: 223
+
+I bas 7, vad är 3 - -50?
+Svar: 53
+
+I bas 11, vad är 0 + a65?
+Svaret är: a65
+
+I bas 5, vad är -213 - -3?
+Svar: -210
+
+I bas 14, vad är 5 + 2a?
+Svar: 31
+
+I bas 12, vad är -46 - 16?
+Svaret är: -60
+
+I bas 4, vad är 30 + 22203?
+Svaret är: 22233
+
+I bas 15, vad är 0 + e?
+Svaret är: e
+
+I bas 11, vad är -15a - -1?
+Svaret är: -159
+

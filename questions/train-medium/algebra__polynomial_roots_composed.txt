@@ -1,6 +1,90 @@
-Låt h(c) vara förstaderivatan av -5*c**4/16 - 25*c**3/12 - 5*c**2/4 + 10*c + 70. Bestäm q så att h(q) = 0.
--4, -2, 1
-Låt x(l) vara tredjederivatan av 7*l**5/90 + 25*l**4/36 - 4*l**3/3 + 15*l**2 - 8*l. Faktorisera x(w).
-2*(w + 4)*(7*w - 3)/3
-Bestäm p så att 14*p**3 - 21*p**5 + 22*p**2 + 73*p**3 + 44 - 69*p**4 + 71*p**2 - 68 - 66*p = 0.
--4, -1, -2/7, 1
+Antag att -2*v + 3*v = -15*v. Låt u(r) vara andraderivatan av -2*r + 0 + 1/9*r**4 + v*r**3 - 1/30*r**5 + 0*r**2. Faktorisera u(w).
+Svar: -2*w**2*(w - 2)/3
+
+Låt w = 47 + -45. Faktorisera -98*g**3 - 3*g**2 - 7*g**2 - 8 - 32*g**w + 48*g.
+Svar: -2*(g + 1)*(7*g - 2)**2
+
+Låt c = 7771/15 + -518. Låt i(x) vara tredjederivatan av 0 + 6*x**3 + 0*x + x**4 + c*x**5 + 8*x**2. Faktorisera i(l).
+Svar: 4*(l + 3)**2
+
+Antag att 7*y - 3*y + 6 = 3*x, 3*x - 6 = -4*y. Låt i vara (12/25)/(4/30) + -3. Antag att 1/5*g**3 + 1/5 + 3/5*g**x + i*g = 0. Vad är g?
+Svar: -1
+
+Låt d = 215/16 + 11/48. Låt r = -13 + d. Faktorisera 4/3*x**4 + 0*x + 0*x**2 - 2/3*x**5 - r*x**3 + 0.
+Svar: -2*x**3*(x - 1)**2/3
+
+Låt p vara ((-195)/26)/(6/(-4)). Låt n(d) vara förstaderivatan av 9/2*d**2 + 3/4*d**4 + 4*d**3 + p + 0*d. Faktorisera n(f).
+Svar: 3*f*(f + 1)*(f + 3)
+
+Låt g(k) vara andraderivatan av 0 + 3*k + 3/16*k**4 + 1/336*k**7 - 7/240*k**6 + 1/16*k**5 - 9/16*k**3 - 27/16*k**2. Vad är n i g(n) = 0?
+Svaret är: -1, 3
+
+Låt g(j) vara förstaderivatan av -2*j**5/45 + j**4/2 - 14*j**3/9 + 19*j**2/9 - 4*j/3 - 274. Antag att g(c) = 0. Vad är c.
+Svar: 1, 6
+
+Låt n = 11 - 93. Låt r = n - -84. Lös 0 - 2/9*p + 2/9*p**r = 0.
+Svar: 0, 1
+
+Låt n vara (-4)/2*(3 + -7). Låt 68*i**3 - n*i**4 - 64*i**3 + 4*i - 4*i + 4*i**5 = 0. Vad är i?
+Svaret är: 0, 1
+
+Antag att 5655*w**2 + w**3 - 5655*w**2 - 6*w**3 = 0. Vad är w?
+Svar: 0
+
+Låt y(h) vara andraderivatan av -h**7/84 + h**6/72 + h**5/24 - 2*h**3/3 - 11*h. Låt x(r) vara andraderivatan av y(r). Faktorisera x(d).
+Svar: -5*d*(d - 1)*(2*d + 1)
+
+Låt h(t) vara förstaderivatan av t**5/25 - 9*t**3/5 - 5*t**2 - 24*t/5 - 366. Faktorisera h(j).
+Svaret är: (j - 6)*(j + 1)**2*(j + 4)/5
+
+Antag att -4*p + 36 = 4*i, -2*p = -p - 2*i. Låt b vara p/4 + 19 + -13. Faktorisera -10*u - 5/2*u**2 - b.
+Svar: -5*(u + 1)*(u + 3)/2
+
+Låt h vara 216/1197 - (2 + (-400)/190). Bestäm z så att 0*z + 4/7*z**2 + 6/7*z**3 + h*z**4 + 0 = 0.
+Svar: -2, -1, 0
+
+Låt f(y) vara förstaderivatan av 16/3*y**3 - 41 - 10*y**2 + 8*y - y**4. Faktorisera f(s).
+Svar: -4*(s - 2)*(s - 1)**2
+
+Låt h(j) vara andraderivatan av -1/78*j**4 + 9*j + 1/39*j**3 + 2/13*j**2 + 0. Faktorisera h(q).
+Svaret är: -2*(q - 2)*(q + 1)/13
+
+Låt y(k) vara tredjederivatan av 2*k**7/315 + 4*k**6/45 - 11*k**5/45 - k**4 - 5*k**2 - 144*k. Låt y(q) = 0. Vad är q?
+Svar: -9, -1, 0, 2
+
+Låt q = -8 - -30. Låt j = 30 - q. Antag att -10*o**3 + 2*o**4 - j*o**2 + 9*o**3 - 11*o**3 - 6*o**4 = 0. Vad är o?
+Svaret är: -2, -1, 0
+
+Låt m(v) = v - 44*v**4 + 24*v**4 - v**3 + 21*v**4. Låt j(b) = b**4 + 2*b. Låt w(t) = 3*j(t) - 6*m(t). Faktorisera w(o).
+Svaret är: -3*o**3*(o - 2)
+
+Låt h(w) vara andraderivatan av -w**4/6 + 19*w**3/3 + 42*w**2 - 255*w. Låt h(o) = 0. Vad är o?
+Svaret är: -2, 21
+
+Antag att 19*g = 15*g + 8. Faktorisera -4/3*h + 1/3*h**g + 4/3.
+Svar: (h - 2)**2/3
+
+Låt r(n) = 10*n**2 - 6*n - 4. Låt x(y) = 1 - y**2. Låt z = 48 + -47. Låt g(h) = z*r(h) + 8*x(h). Faktorisera g(u).
+Svaret är: 2*(u - 2)*(u - 1)
+
+Låt y(b) = 2*b**2 - 15*b - 25. Låt p vara y(9). Låt d = 139 - 136. Faktorisera 2*l**d - 2/3*l**4 + 0 - p*l**2 + 2/3*l.
+Svaret är: -2*l*(l - 1)**3/3
+
+Låt p = 62633/52190 + -1/10438. Antag att -2/5*k + 4/5 + 2/5*k**3 - p*k**2 + 2/5*k**4 = 0. Vad är k?
+Svaret är: -2, -1, 1
+
+Låt f(x) vara förstaderivatan av 2*x**5/45 + 37*x**4/18 + 104*x**3/3 + 240*x**2 + 384*x - 31. Faktorisera f(a).
+Svar: 2*(a + 1)*(a + 12)**3/9
+
+Låt f(m) vara förstaderivatan av m**5/180 - 5*m**4/36 + 25*m**3/18 - 7*m**2 + 17. Låt x(h) vara andraderivatan av f(h). Bestäm g så att x(g) = 0.
+Svaret är: 5
+
+Låt a(y) vara andraderivatan av y**4/6 - 34*y**3/3 - 35*y**2 + 2*y + 17. Faktorisera a(i).
+Svar: 2*(i - 35)*(i + 1)
+
+Låt a(o) vara förstaderivatan av -2*o**5/35 - 5*o**4/14 + 64*o**3/21 - 36*o**2/7 - 522. Faktorisera a(l).
+Svaret är: -2*l*(l - 2)**2*(l + 9)/7
+
+Låt z(k) vara andraderivatan av 0 + 32*k - 1/126*k**7 + 0*k**2 + 1/9*k**4 + 0*k**3 - 1/30*k**6 + 0*k**5. Faktorisera z(m).
+Svar: -m**2*(m - 1)*(m + 2)**2/3
+

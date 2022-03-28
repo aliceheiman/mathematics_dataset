@@ -1,6 +1,90 @@
-Samla termerna i -30*u**3 + 23*u**3 - 24 - 8*u + 0*u + 8*u
--7*u**3 - 24
-Samla termerna i -287*w + 870*w - 285*w - 293*w
-5*w
-Samla termerna i -951900 + 111*p**2 + 951900
-111*p**2
+Samla termerna i -869*i - 1239*i + 501*i
+Svar: -1607*i
+
+Samla termerna i -3*p + 7*p - 4*p - 2*p + 10*p
+Svaret är: 8*p
+
+Samla termerna i 32*f - 347*f + 206*f + 28*f + 25*f + 34*f
+Svar: -22*f
+
+Samla termerna i -10*s**2 + 733*s - 357*s - 366*s
+Svaret är: -10*s**2 + 10*s
+
+Samla termerna i 3703*v - 1848*v - 1815*v
+Svar: 40*v
+
+Samla termerna i 86*m + 1 - 92*m - 6*m**2 - 284*m
+Svaret är: -6*m**2 - 290*m + 1
+
+Samla termerna i 109*z - 58*z - 5*z**2 - 51*z + 6*z**2
+Svaret är: z**2
+
+Samla termerna i -110 - 171*f**2 - 118 - 116 + 344
+Svaret är: -171*f**2
+
+Samla termerna i -324*v**2 + 134*v**2 + 69*v**2 + 64*v**2 + 65*v**2
+Svar: 8*v**2
+
+Samla termerna i 167*o + 309*o + 743*o + 5*o**2
+Svar: 5*o**2 + 1219*o
+
+Samla termerna i -q**2 - 35 + 0*q**2 - q**2 - 60*q
+Svaret är: -2*q**2 - 60*q - 35
+
+Samla termerna i 251*v**2 + 355 - 355 - 239*v**2
+Svaret är: 12*v**2
+
+Samla termerna i -40*x**3 - 314 - 306 + 156*x**3 + 620
+Svaret är: 116*x**3
+
+Samla termerna i 148*k**2 + 180*k**3 - 90*k**3 - 91*k**3 - 2*k**2
+Svar: -k**3 + 146*k**2
+
+Samla termerna i 1578*s - 1578*s + 0*s**2 - 6*s**2
+Svaret är: -6*s**2
+
+Samla termerna i 2*i**2 + 0*i**2 - 2922*i + 5948*i - 3026*i
+Svar: 2*i**2
+
+Samla termerna i 398*n**3 - 1592*n**3 + 415*n**3 + 442*n**3 + 394*n**3
+Svar: 57*n**3
+
+Samla termerna i 70 - 70 - 11*c**2 + 80*c - 80*c
+Svaret är: -11*c**2
+
+Samla termerna i -38*u**2 + 10*u**2 + u**2 - 4*u**2
+Svar: -31*u**2
+
+Samla termerna i -8*u**2 + 10 + 11 + 2 - 23
+Svar: -8*u**2
+
+Samla termerna i -5613*v**3 - 2581*v**3 - 3484*v**3 + 927*v**3
+Svar: -10751*v**3
+
+Samla termerna i 746*z**2 - 221*z**2 - 241*z**2 - 256*z**2
+Svaret är: 28*z**2
+
+Samla termerna i 3*g + 1367 - 2157 + 790
+Svar: 3*g
+
+Samla termerna i -619 + 2465 - 619 - 614 - 622 - 4*k
+Svar: -4*k - 9
+
+Samla termerna i s**2 - s**2 + 3051*s**3 - 3061*s**3
+Svaret är: -10*s**3
+
+Samla termerna i 2357 + 2363 - 4720 - 2*t
+Svaret är: -2*t
+
+Samla termerna i 79*q**2 - 227*q**2 + 146*q**2
+Svaret är: -2*q**2
+
+Samla termerna i 8548 + 10754*d - 8548
+Svar: 10754*d
+
+Samla termerna i 1848907*t**2 + 15*t - 3*t**3 - 1848907*t**2
+Svaret är: -3*t**3 + 15*t
+
+Samla termerna i 22282*r**3 - 11134*r**3 - 11143*r**3
+Svaret är: 5*r**3
+

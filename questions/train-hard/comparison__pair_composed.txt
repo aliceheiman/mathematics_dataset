@@ -1,6 +1,90 @@
-Låt s vara -1 + -1 + 1 + 2. Låt u = 19 - 47. Låt j vara u/(-8)*2/5. Är j lika med s?
-False
-Antag att 3207*t + 13260 = 3194*t. Which is greater: -1019 or t?
--1019
-Låt i = 2784 - 2718. Är i != 60?
-True
+Låt s = -57.2 + -45.8. Låt c = 20 - s. Which is smaller: 0.1 or c?
+Svaret är: 0.1
+
+Låt n(u) = -2*u**3 + 17*u**2 + 91*u - 13. Låt b vara n(12). Which is smaller: b or 92?
+Svar: b
+
+Låt g(j) = 29*j**2 + 1538*j + 53. Låt v vara g(-53). Which is bigger: v or 30/1421?
+Svar: 30/1421
+
+Låt h(t) = t**3 - 8*t**2 + 13*t - 2. Låt j vara h(6). Antag att 34 = j*v - 6. Låt x vara 1 - 7 - (v + -8). Är x större än -9?
+Svaret är: True
+
+Låt m = -68 - -70. Antag att -4*p - 5*z = -10, -z - 2 = -m*p - 4. Låt s(l) = -2*l**2 + 2*l - 1. Låt r vara s(1). Är p större än eller lika med r?
+Svar: True
+
+Låt r(a) = a**2 - 14*a - 8. Låt z(v) = v**2 - v - 1. Låt j(d) = -r(d) + 2*z(d). Låt f vara j(-12). Låt l = f - -1. Är 6 >= l?
+Svar: False
+
+Låt o vara (-2455)/3 + 6/(-9). Antag att -28 = -5*z + 7. Låt q vara ((-18)/o)/((-3)/z). Which is greater: 1 or q?
+Svaret är: 1
+
+Antag att -3*s - 124 = s - 5*v, 100 = -3*s + 2*v. Antag att -4*o = -5*o + 51. Låt h = o + s. Which is bigger: h or 16?
+Svar: 16
+
+Låt b = 13569324350/637 - 21301914. Låt x = 105/13 - b. Antag att 0 = -7*h + 7. Är x < h?
+Svar: True
+
+Låt s vara 92/(-12) + 8/12. Låt x vara (-2 - s)*(-768)/1680. Är x större än -2?
+Svar: False
+
+Låt g = -9008 + 142929934/15867. Är -1 != g?
+Svaret är: True
+
+Låt l = 1 + 5. Låt x vara l/14*6/(-27). Which is bigger: 0 or x?
+Svar: 0
+
+Låt a = -16.031 - -19.031. Är a mindre än -1951?
+Svaret är: False
+
+Låt o = -10115 - -91037/9. Är o och -170/27 lika?
+Svar: False
+
+Låt n vara ((-9)/18 + (-148249)/(-6))*(-18)/189. Which is greater: n or -2354?
+Svar: n
+
+Låt s = -7 + 9. Antag att 1 = s*l - l. Låt i vara (8/(-114))/(-4*(-2)/(-36)). Är l > i?
+Svaret är: True
+
+Låt y = -90 - 0. Låt t vara 488/60 - (-12)/y. Låt a = -25 - -31. Which is bigger: a or t?
+Svar: t
+
+Låt c vara (-6)/15 - 633/(-1570). Låt u(f) = 340*f - 1. Låt d vara u(0). Which is smaller: d or c?
+Svaret är: d
+
+Låt w = 19/27 + -1391/135. Låt g = 503/3 + -167. Which is greater: w or g?
+Svar: g
+
+Låt j = -1539181/5 + 311213. Which is smaller: j or 3377?
+Svaret är: j
+
+Låt v = 3 + -1. Antag att 59*c - 792 = -7*c. Antag att c = -4*y + 2*t, -y + v = t + 5. Är -3 och y olika?
+Svar: False
+
+Låt r = -39 + 49.1. Låt m = 11.1 - r. Är m mindre än -32?
+Svaret är: False
+
+Antag att 0 = f + 3*x - 18, -4*x = -5*f + 2*f - 24. Which is smaller: 37/32 or f?
+Svaret är: f
+
+Låt u vara -3*(-4)/3 + -13 + 2. Låt q vara 642/1122*u - -4. Which is smaller: -1 or q?
+Svar: -1
+
+Låt i = 0 + 0. Låt k vara 3/8 + (-4750)/13200*(-1)/(-5). Är k = i?
+Svaret är: False
+
+Låt g = 213 + 63. Låt m = 276.8 - g. Which is bigger: m or -2/7?
+Svaret är: m
+
+Låt q vara -78 - (-1)/(1/5). Låt l = 89 + q. Antag att l - 25 = -3*c. Har 3 och c olika värden?
+Svaret är: False
+
+Låt w = -439.6 + 407. Låt s = -38 - w. Låt v = s - -5.2. Är v och -2/13 olika?
+Svaret är: True
+
+Låt n = 56 - 41. Antag att -z + 1 = 2*v, 5*v = -5*z + 14 - 4. Antag att 0 = -z*p + 2*i + 48, 18 = -2*p - 2*i + 50. Which is bigger: n or p?
+Svaret är: p
+
+Låt f vara (-9)/39*20/(-24). Antag att 0 = -4*l - 4*n + 15 + 1, -14 = -l - 3*n. Which is smaller: l or f?
+Svaret är: l
+

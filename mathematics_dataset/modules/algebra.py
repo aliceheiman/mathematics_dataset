@@ -206,6 +206,12 @@ def polynomial_roots(value, sample_args, context=None):
         template = random.choice(
             [
                 lang.l.translate("Factor {expression}."),
+                lang.l.translate("Factor {expression} as fully as possible."),
+                lang.l.translate("Factor the following polynomial {expression}."),
+                lang.l.translate("Take the expression {expression} and factor it."),
+                lang.l.translate("Write {expression} as a product of factors."),
+                lang.l.translate("Convert {expression} into a product of factors."),
+                lang.l.translate("Rewrite {expression} as a product of factors."),
             ]
         )
         return example.Problem(question=example.question(context, template, expression=expression), answer=factored)
@@ -257,6 +263,13 @@ def _solve_linear_system(degree, value, sample_args, context=None):
         template = random.choice(
             [
                 lang.l.translate("Solve {equations} for {variable}."),
+                lang.l.translate("Solve {equations}."),
+                lang.l.translate("Find the value of {variable} in {equations}."),
+                lang.l.translate("What is {variable} in {equations}?"),
+                lang.l.translate("Solve {equations} and find the value of {variable}."),
+                lang.l.translate("Let {equations} and find what {variable} equals to."),
+                lang.l.translate("What is the value of {variable} for {equations} to hold true?"),
+                lang.l.translate("Solve for {variable} so that {equations} to hold true."),
             ]
         )
         return example.Problem(example.question(context, template, equations=equations, variable=variable), answer)
@@ -336,6 +349,11 @@ def sequence_next_term(min_entropy, max_entropy):
             lang.l.translate("What is next in {sequence}?"),
             lang.l.translate("What comes next: {sequence}?"),
             lang.l.translate("What is the next term in {sequence}?"),
+            lang.l.translate("What is the next item in {sequence}?"),
+            lang.l.translate("Following the pattern in {sequence}, what comes next?"),
+            lang.l.translate("Continue {sequence} and give the next term."),
+            lang.l.translate("Take the sequence {sequence}. What comes next?"),
+            lang.l.translate("Take the sequence {sequence}. What is the next term?"),
         ]
     )
     answer = sequence.term(num_terms + 1)
@@ -358,6 +376,13 @@ def sequence_nth_term(min_entropy, max_entropy):
     template = random.choice(
         [
             lang.l.translate("What is the {variable}'th term of {sequence}?"),
+            lang.l.translate("Take the sequence {sequence}. What is the {variable}'th term?"),
+            lang.l.translate("What term is at position {variable} in the sequence {sequence}?"),
+            lang.l.translate("Give the value for the item at position {variable} in the sequence {sequence}."),
+            lang.l.translate("Find an expression for the {variable}'th term of {sequence}."),
+            lang.l.translate("Find the closed expression for the term at position {variable} in {sequence}."),
+            lang.l.translate("Following the pattern in {sequence}, what is {variable}'th term?"),
+            lang.l.translate("Given the sequence {sequence}, what is the {variable}'th term?"),
         ]
     )
     answer = sequence.sympy

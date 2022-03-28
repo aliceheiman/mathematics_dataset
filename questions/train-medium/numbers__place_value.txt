@@ -1,6 +1,90 @@
-Vad är entalssiffran i 220914?
-4
-Vad är hundratalssiffran i 12299?
-2
-Vad är tiotalssiffran i 791323?
-2
+Vad är tiotalssiffran i 4782169?
+Svaret är: 6
+
+Vad är tusentalssiffran i 275440?
+Svar: 5
+
+Vad är tusentalssiffran i 12744045?
+Svaret är: 4
+
+Vad är tiotalssiffran i 1089524?
+Svar: 2
+
+Vad är tiotusentalssiffran i 134581?
+Svar: 3
+
+Vad är tiotusentalssiffran i 3192909?
+Svar: 9
+
+Vad är hundratusentalssiffran i 807773?
+Svar: 8
+
+Vad är tiotalssiffran i 951263?
+Svaret är: 6
+
+Vad är tiomiljontalssiffran i 14783806?
+Svaret är: 1
+
+Vad är tusentalssiffran i 4585406?
+Svaret är: 5
+
+Vad är tusentalssiffran i 5432823?
+Svar: 2
+
+Vad är hundratusentalssiffran i 878732?
+Svar: 8
+
+Vad är tusentalssiffran i 36853?
+Svaret är: 6
+
+Vad är hundratusentalssiffran i 486696?
+Svaret är: 4
+
+Vad är hundratalssiffran i 106883?
+Svar: 8
+
+Vad är tiotusentalssiffran i 247210?
+Svaret är: 4
+
+Vad är hundratalssiffran i 10416?
+Svar: 4
+
+Vad är tiotusentalssiffran i 904720?
+Svaret är: 0
+
+Vad är hundratusentalssiffran i 1003739?
+Svar: 0
+
+Vad är hundratalssiffran i 263230?
+Svaret är: 2
+
+Vad är hundratusentalssiffran i 6863884?
+Svaret är: 8
+
+Vad är tiotalssiffran i 889917?
+Svar: 1
+
+Vad är entalssiffran i 1200192?
+Svar: 2
+
+Vad är tiotalssiffran i 1668833?
+Svaret är: 3
+
+Vad är hundratusentalssiffran i 8195182?
+Svar: 1
+
+Vad är tiotusentalssiffran i 329867?
+Svar: 2
+
+Vad är hundratalssiffran i 5554168?
+Svaret är: 1
+
+Vad är entalssiffran i 360495?
+Svaret är: 5
+
+Vad är hundratusentalssiffran i 628998?
+Svar: 6
+
+Vad är entalssiffran i 6529789?
+Svaret är: 9
+

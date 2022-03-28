@@ -1,6 +1,90 @@
-Vad är 497 dividerat med 52?
-497/52
--250 dividerat med -3
-250/3
-Dividera -3222 med -6.
-537
+Dividera -2 med -88.
+Svar: 1/44
+
+Dividera 8 med 2.
+Svaret är: 4
+
+Vad är -70 dividerat med 31?
+Svar: -70/31
+
+Dividera 18543 med -883.
+Svar: -21
+
+Vad är -2408 dividerat med -4?
+Svaret är: 602
+
+Beräkna 2 dividerat med -41.
+Svar: -2/41
+
+Vad är -5830 dividerat med -1166?
+Svar: 5
+
+Vad är 15 dividerat med -4?
+Svaret är: -15/4
+
+Beräkna 531 dividerat med -9.
+Svar: -59
+
+Beräkna -6570 dividerat med -6.
+Svaret är: 1095
+
+5 dividerat med -7678
+Svar: -5/7678
+
+-468 dividerat med 4
+Svaret är: -117
+
+-65 dividerat med 13
+Svaret är: -5
+
+Vad är -3 dividerat med -236?
+Svaret är: 3/236
+
+Beräkna -1389 dividerat med -6.
+Svar: 463/2
+
+Vad är 170 dividerat med -1?
+Svaret är: -170
+
+-5 dividerat med 181
+Svar: -5/181
+
+Dividera -95 med 2.
+Svar: -95/2
+
+Vad är 1 dividerat med 3169?
+Svar: 1/3169
+
+Vad är -4 dividerat med 16?
+Svar: -1/4
+
+Beräkna -370 dividerat med -5.
+Svaret är: 74
+
+Dividera 566 med -6.
+Svar: -283/3
+
+Vad är -17184 dividerat med -24?
+Svaret är: 716
+
+Beräkna 183 dividerat med 3.
+Svar: 61
+
+Vad är 4 dividerat med 1870?
+Svar: 2/935
+
+-874 dividerat med 38
+Svaret är: -23
+
+Beräkna -17 dividerat med 91.
+Svar: -17/91
+
+Vad är 5 dividerat med 150?
+Svar: 1/30
+
+-2447 dividerat med -2
+Svar: 2447/2
+
+Vad är 17166 dividerat med 6?
+Svaret är: 2861
+

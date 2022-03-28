@@ -1,6 +1,90 @@
-Bestäm den gemensamma nämnaren till 22/765 och 19/3.
-765
-Beräkna den minsta gemensamma faktorn till 623 och 979.
-6853
-Bestäm den gemensamma nämnaren till -127/1584 och -41/2112.
-6336
+Beräkna den minsta gemensamma faktorn till 6 och 423.
+Svar: 846
+
+Vilken är den gemensamma nämnaren till -67/110 och 27/88?
+Svar: 440
+
+Beräkna den gemensamma nämnaren till -77/200 och 26/9.
+Svaret är: 1800
+
+Beräkna den minsta gemensamma faktorn till 336 och 128.
+Svaret är: 2688
+
+Beräkna den minsta gemensamma faktorn till 266 och 287.
+Svaret är: 10906
+
+Bestäm den gemensamma nämnaren till 101/6 och -79/18.
+Svar: 18
+
+Vilken är den gemensamma nämnaren till -3/139 och -41/8?
+Svaret är: 1112
+
+Vilken är den minsta gemensamma faktorn till 9 och 789?
+Svar: 2367
+
+Vilken är den gemensamma nämnaren till 13/66 och 157/588?
+Svar: 6468
+
+Vilken är den gemensamma nämnaren till -41/924 och -11/84?
+Svaret är: 924
+
+Beräkna den minsta gemensamma faktorn till 3132 och 12.
+Svar: 3132
+
+Beräkna den minsta gemensamma faktorn till 105 och 80.
+Svaret är: 1680
+
+Beräkna den minsta gemensamma faktorn till 204 och 340.
+Svaret är: 1020
+
+Beräkna den gemensamma nämnaren till 42 och -79/11286.
+Svar: 11286
+
+Vilken är den minsta gemensamma faktorn till 964 och 12?
+Svar: 2892
+
+Vilken är den gemensamma nämnaren till -23/210 och -85/42?
+Svar: 210
+
+Vilken är den gemensamma nämnaren till -29/92 och 101/20?
+Svar: 460
+
+Beräkna den minsta gemensamma faktorn till 4900 och 100.
+Svaret är: 4900
+
+Bestäm den gemensamma nämnaren till 35/984 och -64/33.
+Svar: 10824
+
+Beräkna den gemensamma nämnaren till -52/21 och 47/606.
+Svar: 4242
+
+Vilken är den gemensamma nämnaren till -62/3 och 53/300?
+Svaret är: 300
+
+Bestäm den gemensamma nämnaren till 101/60 och -47/260.
+Svar: 780
+
+Beräkna den minsta gemensamma faktorn till 440 och 464.
+Svaret är: 25520
+
+Beräkna den minsta gemensamma faktorn till 154 och 56.
+Svar: 616
+
+Vilken är den minsta gemensamma faktorn till 192 och 2?
+Svaret är: 192
+
+Bestäm den gemensamma nämnaren till -103/54 och 55/102.
+Svaret är: 918
+
+Beräkna den gemensamma nämnaren till 37/90 och 17/5.
+Svaret är: 90
+
+Beräkna den gemensamma nämnaren till 151/13860 och -53/1925.
+Svar: 69300
+
+Beräkna den gemensamma nämnaren till -155/42 och -73/140.
+Svaret är: 420
+
+Vilken är den gemensamma nämnaren till -37/126 och 85/154?
+Svar: 1386
+

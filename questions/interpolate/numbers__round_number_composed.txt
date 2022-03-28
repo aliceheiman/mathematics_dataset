@@ -1,20 +1,300 @@
-Låt d vara (-27060)/(585630/(-1365000) - 6/(-14)). Vad är d avrundat till det närmsta miljontalet?
-59000000
-Låt y = 78 + -76. Låt m vara -724*5*(-1)/(y/20). Avrunda m till det närmsta tiotusentalet.
-40000
-Låt r = 37.64 + -37.2556. Avrunda r till ett decimal.
-0.4
-Låt k(j) = -j**3 - 2*j**2 - 12*j + 5. Låt u = -57 - -12. Låt d = -34 - u. Låt g vara k(d). Vad är g avrundat till det närmsta 1000?
--2000
-Låt i = -458.99559 - -459. Vad är i avrundat till fyra decimaler?
-0.0044
-Låt a = -1012 - -566.6. Avrunda a till det närmsta 10.
--450
-Låt o = 18.199998007 + -18.2. Avrunda o till 7 decimaler.
--0.000002
-Låt k(c) vara förstaderivatan av c**4/4 + 10*c**3/3 + 4*c**2 - c + 13. Låt r vara k(-9). Låt o vara 1614/r - ((-9)/4 - -2). Avrunda o till det närmsta tiotalet.
-200
-Låt k = 9.7 + -4.7. Låt b = 5 + k. Låt c = b - 9.999983. Vad är c avrundat till sex decimaler?
-0.000017
-Låt i = 26 + -20. Låt w = 70.5 - 70. Låt o = i - w. Avrunda o till det närmsta heltalet.
-6
+Låt z = -10201.9713 + 10203. Vad är z avrundat till två decimaler?
+Svar: 1.03
+
+Låt p(o) = -11*o - 6. Låt i vara p(-2). Antag att i*x = 12*x + 224. Antag att -5*j - 49 = x. Avrunda j till det närmsta tiotalet.
+Svaret är: -20
+
+Låt s vara 0/13*1/(-4). Antag att -3*h + 4*h - 80964 = s. Låt n = h + -49964. Avrunda n till det närmsta tiotusentalet.
+Svaret är: 30000
+
+Låt r(k) = 17431*k**2 - 16*k - 1. Låt f vara r(-5). Antag att 8*t + f = -8946. Vad är t avrundat till det närmsta 1000?
+Svar: -56000
+
+Antag att -2*m = z + 52092 - 281670, -4*z = -2*m + 229588. Avrunda m till det närmsta 10000.
+Svar: 110000
+
+Låt i vara 2 - (-48120004)/(-6) - 272/204. Vad är i avrundat till det närmsta hundratusentalet?
+Svaret är: -8000000
+
+Låt b = -18.53 - -19.2436. Avrunda b till två decimaler.
+Svar: 0.71
+
+Låt k = -2467 + 2467.00001131. Avrunda k till 5 decimaler.
+Svaret är: 0.00001
+
+Låt j = -0.07372 - -0.036255. Vad är j avrundat till 4 decimaler?
+Svaret är: -0.0375
+
+Antag att -44 - 47 = -7*q. Antag att -q*l + 8*l = -1651870. Låt s = 49374 - l. Vad är s avrundat till det närmsta tiotusentalet?
+Svar: -280000
+
+Låt u = 5352 + -5355.119. Avrunda u till det närmsta heltalet.
+Svar: -3
+
+Antag att -4*s - 19 = -79. Antag att 3*f = s*f + 14400. Avrunda f till det närmsta tusentalet.
+Svar: -1000
+
+Antag att 0 = 5*n - 29 + 4. Låt a vara 10 - (-1)/(n/(-20)). Antag att a*j + 86490 = j + 5*p, 2*p = 4*j + 69196. Avrunda j till det närmsta tusentalet.
+Svaret är: -17000
+
+Låt s = 1058 - 1029.45. Låt t = s + 0.95. Vad är t avrundat till noll decimaler?
+Svar: 30
+
+Låt o(d) = 1764*d - 12. Låt r(p) = 1 - p. Låt s(t) = -o(t) - 16*r(t). Låt w vara s(2). Avrunda w till det närmsta 10000.
+Svar: 0
+
+Låt s = -18769.3218 + 18766. Låt l = s + 0.0318. Vad är l avrundat till ett decimal?
+Svaret är: -3.3
+
+Låt q = -0.36 - 9.64. Låt h = q - -9.8. Låt l = 0.08 - h. Avrunda l till 1 decimal.
+Svar: 0.3
+
+Låt y = -26.14 - -26.1399838. Vad är y avrundat till fem decimaler?
+Svaret är: -0.00002
+
+Låt m = -23849.0000022121 - -23849. Vad är m avrundat till 7 decimaler?
+Svaret är: -0.0000022
+
+Låt h = 18 + -111. Låt y = -18637745.99961 - -18637839. Låt z = h + y. Vad är z avrundat till 4 decimaler?
+Svar: 0.0004
+
+Låt s = 999 + -999.0002481. Avrunda s till 5 decimaler.
+Svaret är: -0.00025
+
+Låt i = 0.3922 - 254.7822. Avrunda i till noll decimaler.
+Svar: -254
+
+Låt x = 750.3 - 745.533. Avrunda x till 1 decimal.
+Svaret är: 4.8
+
+Antag att -4*m - 2*p = -256532, 2*p - 193265 - 127401 = -5*m. Låt c = m + -21900. Antag att c - 1834 = 2*f. Vad är f avrundat till det närmsta 1000?
+Svar: 20000
+
+Låt v = 65.72 + -65.71997141. Vad är v avrundat till fem decimaler?
+Svaret är: 0.00003
+
+Antag att 31415244 = -7*x - 21494971 - 11489785. Avrunda x till det närmsta 100000.
+Svar: -9200000
+
+Låt l = 1.32 + -1.1. Låt w = -4890 + 4889.78145. Låt g = l + w. Avrunda g till fyra decimaler.
+Svar: 0.0015
+
+Låt p = 1744 - 1744.007. Vad är p avrundat till tre decimaler?
+Svar: -0.007
+
+Låt m = 4902.944 + -4914. Avrunda m till det närmsta heltalet.
+Svaret är: -11
+
+Låt n = 6236 + -6236.0000015211. Avrunda n till 7 decimaler.
+Svaret är: -0.0000015
+
+Låt c = -1247.8 + 1247.72881. Avrunda c till två decimaler.
+Svaret är: -0.07
+
+Låt p = -1.23 + 1.494. Låt a = p + 0.082. Avrunda a till 2 decimaler.
+Svar: 0.35
+
+Låt o(d) = 3*d - 9. Låt x(u) = 9 - u. Låt z vara x(4). Låt h vara o(z). Låt i vara (-119998)/h + 6/(-18). Avrunda i till det närmsta 100000.
+Svaret är: 0
+
+Låt v = -0.148 - 0.055. Låt m = v - -0.136. Vad är m avrundat till 1 decimal?
+Svaret är: -0.1
+
+Låt u = -218.5 - -218.4999026. Vad är u avrundat till fem decimaler?
+Svaret är: -0.0001
+
+Låt x = -284 - -284.050075. Låt f = -0.002 + -0.048. Låt z = x + f. Vad är z avrundat till fem decimaler?
+Svaret är: 0.00008
+
+Låt y = 5958172 - 2904172. Avrunda y till det närmsta hundratusentalet.
+Svaret är: 3100000
+
+Låt m vara 7/(42/9)*605266. Antag att -2*y = -1 - 1, -4*x - 3*y + m = 0. Låt s = -876974 + x. Avrunda s till det närmsta 100000.
+Svar: -700000
+
+Låt d = 23546224.65 + -23549777.733042. Låt c = d - -3501.0832. Låt l = c - -52. Avrunda l till fem decimaler.
+Svar: 0.00016
+
+Låt i = -38006448.134000354 - -38006448. Låt w = i + 0.134. Avrunda w till 7 decimaler.
+Svaret är: -0.0000004
+
+Låt a = 3076651 - 3076634.999812. Låt m = a + -16. Avrunda m till 5 decimaler.
+Svaret är: 0.00019
+
+Låt u vara (12/(-16)*-2)/(1/(-12)). Låt m vara -1*4 + (10186 - u). Vad är m avrundat till det närmsta 1000?
+Svaret är: 10000
+
+Låt f(b) = -16426*b**2 + 21*b - 24. Låt p vara f(1). Avrunda p till det närmsta hundratalet.
+Svar: -16400
+
+Låt x = -2.2 - -3.8. Låt p = x + -1.5999962. Vad är p avrundat till 6 decimaler?
+Svar: 0.000004
+
+Låt a = 12.9999987824 + -13. Vad är a avrundat till 7 decimaler?
+Svaret är: -0.0000012
+
+Låt a = 47 + 16. Låt u = a - 62.99711. Avrunda u till tre decimaler.
+Svaret är: 0.003
+
+Låt j = 1468887 + -854267. Låt y = -273620 + j. Vad är y avrundat till det närmsta hundratusentalet?
+Svaret är: 300000
+
+Låt l = -0.93165 - -0.09555. Vad är l avrundat till två decimaler?
+Svaret är: -0.84
+
+Låt p = -46 + 52. Antag att 112524 = -p*s + 4792452. Antag att 3*f - t - 2*t - s = 0, 0 = -3*f - 4*t + 780016. Avrunda f till det närmsta hundratusentalet.
+Svar: 300000
+
+Antag att z + 4*m - 2 = 0, -2*z + 5*m + 4 = -0*z. Låt h vara 6/(-1 + 2) - (z - 1). Låt p vara (-288006 + 4 + 2)*h*1. Vad är p avrundat till det närmsta 100000?
+Svaret är: -1400000
+
+Låt f = 3956 - 3956.09708. Vad är f avrundat till tre decimaler?
+Svar: -0.097
+
+Låt i = 1851.1 - 1943. Låt v = -91.89999469 - i. Avrunda v till sex decimaler.
+Svar: 0.000005
+
+Låt o = -50805497 + 50806976.35955. Låt n = o + -1489.36. Låt b = n - -10. Avrunda b till fyra decimaler.
+Svar: -0.0005
+
+Låt s = 147 + -167.4. Låt m = -20.4000106 - s. Avrunda m till sex decimaler.
+Svar: -0.000011
+
+Låt j = 5.721 - 5.78539. Vad är j avrundat till 2 decimaler?
+Svaret är: -0.06
+
+Låt o = -48.088 + 0.088. Låt g = 45 - o. Låt r = 92.99999949 - g. Vad är r avrundat till sju decimaler?
+Svaret är: -0.0000005
+
+Låt r = -347.61499642 - 0.39039358. Låt z = -348 - r. Avrunda z till tre decimaler.
+Svaret är: 0.005
+
+Låt o = 199.9464 - 200. Vad är o avrundat till två decimaler?
+Svar: -0.05
+
+Låt k = 1.76 - 1.69. Låt a = k + -0.06956. Vad är a avrundat till fyra decimaler?
+Svaret är: 0.0004
+
+Låt o = 461.001684 - 461. Vad är o avrundat till 4 decimaler?
+Svaret är: 0.0017
+
+Antag att -k = -4*s + 11092, -3*s - 2*k - 777 = -9096. Antag att -5*v = 10383 - s. Låt t = 762 + v. Avrunda t till det närmsta hundratalet.
+Svaret är: -800
+
+Låt m = -1532 + 2204. Låt z = 84 - m. Låt w = 587.9679 + z. Avrunda w till 3 decimaler.
+Svaret är: -0.032
+
+Låt u = 95 + -85. Låt d(i) = 12*i**2 - 8*i - 10. Låt k vara d(u). Vad är k avrundat till det närmsta tusentalet?
+Svaret är: 1000
+
+Låt y = -0.080863 - -0.09428. Vad är y avrundat till 3 decimaler?
+Svaret är: 0.013
+
+Låt k = 123.069 - 0.069. Låt s = k - 122.555. Vad är s avrundat till två decimaler?
+Svaret är: 0.45
+
+Låt q = 1246 + -1242.465. Vad är q avrundat till ett decimal?
+Svar: 3.5
+
+Låt u vara 36000 - ((-18)/6 + 3). Låt b vara ((-2806)/6)/(12/u). Avrunda b till det närmsta hundratusentalet.
+Svar: -1400000
+
+Låt p = -203 - -202.15. Låt l = -0.945 - p. Vad är l avrundat till två decimaler?
+Svaret är: -0.1
+
+Låt w = 6478 + -6477.99994614. Avrunda w till 6 decimaler.
+Svaret är: 0.000054
+
+Låt w = 11.61538 - 11.335. Avrunda w till två decimaler.
+Svar: 0.28
+
+Låt t = 0.5893 + -0.64681. Vad är t avrundat till två decimaler?
+Svar: -0.06
+
+Låt u = -0.26 - -4.76. Låt d = 4809 + -4804.4944. Låt b = d - u. Avrunda b till 3 decimaler.
+Svar: 0.006
+
+Låt o = 57.7687 + 2.7873. Låt k = -15.334 - o. Låt r = -75 - k. Vad är r avrundat till ett decimal?
+Svaret är: 0.9
+
+Låt a = -68 + 428. Låt v = a - 359.689. Vad är v avrundat till två decimaler?
+Svaret är: 0.31
+
+Låt x = 27320 + -27343.894. Vad är x avrundat till det närmsta heltalet?
+Svaret är: -24
+
+Låt d = -191630 - -272170. Vad är d avrundat till det närmsta tiotusentalet?
+Svaret är: 80000
+
+Låt r(b) = -3*b - 12. Låt c vara r(-5). Låt s vara 5 - 9 - (c + -4948). Antag att -s + 1441 = 7*x. Avrunda x till det närmsta 100.
+Svaret är: -500
+
+Låt x = -15.554 - 0.146. Låt f = -15.699999259 - x. Avrunda f till 7 decimaler.
+Svar: 0.0000007
+
+Låt p = 319 + -292.4. Låt l = p + -32. Låt g = -3.4 + l. Avrunda g till det närmsta heltalet.
+Svaret är: -9
+
+Låt z = 27535 + -27535.25406. Vad är z avrundat till två decimaler?
+Svar: -0.25
+
+Låt v = -2.99183995 - -1.50183874. Låt j = v + 1.49. Avrunda j till sju decimaler.
+Svaret är: -0.0000012
+
+Låt l = 2614 + -2593.17. Avrunda l till det närmsta heltalet.
+Svar: 21
+
+Antag att -5*g + 424 + 146 = 0. Antag att -3*b + g = -25686. Låt o = 14500 - b. Avrunda o till det närmsta 1000.
+Svar: 6000
+
+Låt a = 802.08265 + -0.18265. Låt u = -872 + a. Avrunda u till noll decimaler.
+Svar: -70
+
+Låt y = 1498283.7018 + -1500178.2. Låt r = y + 1894. Låt u = r - -0.5. Avrunda u till tre decimaler.
+Svaret är: 0.002
+
+Låt k = 10602819 + -17751819. Vad är k avrundat till det närmsta hundratusentalet?
+Svaret är: -7100000
+
+Låt s(g) = 20995*g - 20. Låt d(a) = -a**2 - 4. Låt w = 28 - 28. Låt b vara d(w). Låt m vara s(b). Avrunda m till det närmsta 10000.
+Svar: -80000
+
+Låt m = 9.153 - 56.383. Vad är m avrundat till det närmsta tiotalet?
+Svar: -50
+
+Låt l(m) = m + 3 + 80*m**2 - 3 + 1. Låt y = 503 - 504. Låt c vara l(y). Avrunda c till det närmsta tiotalet.
+Svar: 80
+
+Låt u = -46.69 + -0.31. Låt d = -92 - u. Låt y = 45.05 + d. Vad är y avrundat till ett decimal?
+Svar: 0.1
+
+Antag att 4*n = 3*b - 192, 6*n + 2*b - 192 = 10*n. Låt t vara 24/n + (-58522)/(-4). Vad är t avrundat till det närmsta 1000?
+Svar: 15000
+
+Låt j vara (1781/(-26))/((6/(-16))/(-3)). Låt s vara -625377*(-6)/12*j/(-6). Låt p = s - 12658883. Vad är p avrundat till det närmsta 1000000?
+Svar: 16000000
+
+Låt d = 740 + -740.897. Låt p = d + 0.896999523. Avrunda p till 7 decimaler.
+Svar: -0.0000005
+
+Antag att 6*l + 321876 = 4*l. Låt o = 392938 + l. Vad är o avrundat till det närmsta tiotusentalet?
+Svaret är: 230000
+
+Låt p = 1.8249 - 1.8233702. Avrunda p till fem decimaler.
+Svaret är: 0.00153
+
+Låt k = -818.6 - -817.7029. Avrunda k till 2 decimaler.
+Svar: -0.9
+
+Antag att -1 = a - 4. Antag att -19 = -5*c + 4*z, -1 = -3*c - 5*z + a. Antag att -c*f - 9050789 = 9549211. Avrunda f till det närmsta 1000000.
+Svaret är: -6000000
+
+Låt m = 27.33 - 27.34067. Avrunda m till 3 decimaler.
+Svaret är: -0.011
+
+Antag att -5*m + 8039 = 3*g, -4*m - 2*g = -7*m + 4812. Låt a = m + -1118. Antag att -322 = -3*o + a. Vad är o avrundat till det närmsta hundratalet?
+Svar: 300
+
+Låt n = -3617 + 3623.132. Låt m = n - 5.65. Vad är m avrundat till 2 decimaler?
+Svar: 0.48
+

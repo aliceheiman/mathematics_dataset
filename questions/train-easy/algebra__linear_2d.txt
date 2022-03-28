@@ -1,6 +1,90 @@
-Lös 0*u + 5*l + 9 = -u, 5*l = -15 för u.
-6
-Lös -2*r = -p, 39 - 35 = 4*r för p.
-2
-Lös -7*l = 4*u - 2*l + 16, -2*u = 3*l + 10 för u.
-1
+Lös -j + 5*b = 27, -20*b + 22*b - 10 = 0 för j.
+Svar: -2
+
+Lös 5*g - l - 5 = 0, 0*g = 4*g + 5*l + 25 för g.
+Svar: 0
+
+Lös -l - 3*l - 23 = -3*m, 4*m - 18 = -l för m.
+Svar: 5
+
+Lös 10*f = 8*f - 3*r - 5, -2*f + 16 = -4*r för f.
+Svaret är: 2
+
+Lös -5*f - 10 = -2*x, -x - 2*x + 8 = -4*f för f.
+Svaret är: -2
+
+Lös -3*n = -8*m - 28 - 9, -5*n + 4*m = -15 för n.
+Svaret är: -1
+
+Lös -5*q + 12 = f, -f = -3*f + 4 för q.
+Svaret är: 2
+
+Lös 4*o - 5*q + 0 + 11 = 0, 5*o + 24 = -4*q för o.
+Svaret är: -4
+
+Lös -408*u + 3*r + 10 = -407*u, -5*u - r = 14 för u.
+Svar: -2
+
+Lös -4 = -4*g + 4*a, 52 = 2*g - 4*a + 46 för g.
+Svar: -1
+
+Lös 4*h - 4*j + 8 = -0*j, 4*j - 8 = h för h.
+Svar: 0
+
+Lös -g - 10 = 5*m - 1, 0 = 5*g + 20 för m.
+Svar: -1
+
+Lös 5*z + 21 = -4*f, -3*f = f - z - 9 för f.
+Svaret är: 1
+
+Lös 5*r = -h + 18, h - 203 = -200 för r.
+Svar: 3
+
+Lös -4*g - 21 = -5*v, -4*g + 2*g = -4*v + 18 för v.
+Svaret är: 5
+
+Lös -5*x + 2*y + 33 = 0, y + 18 = 2*x - y för x.
+Svaret är: 5
+
+Lös 151 - 115 = -4*r + 4*h, -15 = -r - 2*h för r.
+Svar: -1
+
+Lös -5*k = -2*y + 15, -16*k = -12*k - 3*y + 12 för k.
+Svaret är: -3
+
+Lös -59*b = 4*g - 55*b, 3*g - 12 = 3*b för g.
+Svar: 2
+
+Lös -3*y + 20 = -j + 14, -4*y = -4 för j.
+Svar: -3
+
+Lös 5*j + 31 = -3*q, -q - 13 = 3*q + j för q.
+Svar: -2
+
+Lös 2*m + 3*i - 4*i - 6 = 0, 0 = -m + 2*i + 9 för m.
+Svaret är: 1
+
+Lös -m - 20 = -5*i, -5*m - 22 = i - 0*m för i.
+Svar: 3
+
+Lös 0 = 2*h - 2*y - 16, 5*h - y + 33 = 61 för h.
+Svaret är: 5
+
+Lös 19*m - 15*m + 5*l - 49 = 0, 2*m + 2*l - 22 = 0 för m.
+Svar: 6
+
+Lös d + 0 = -2*q - 5, -2*d = 2*q + 10 för d.
+Svar: -5
+
+Lös 3*x = -0*h - h - 16, -2*x = -4*h - 8 för x.
+Svaret är: -4
+
+Lös 4*b = 0, 5*v - b - 11 = 9 för v.
+Svar: 4
+
+Lös -2*w = 3*h - 3, -3*w = w + 3*h + 3 för w.
+Svar: -3
+
+Lös -7*m = -2*m + 2*v + 6, 15 = 4*m - 5*v för m.
+Svaret är: 0
+

@@ -1,6 +1,90 @@
-Låt q vara (1/2)/((-3)/((-90)/3)). Sätt -4/5, -7, q, 2/9 i minskande ordning.
-q, 2/9, -4/5, -7
-Låt p = -3.36 - -4.9. Låt r = p - 1.9. Låt z = r + -0.04. Sätt z, -1, -3 i minskande ordning.
-z, -1, -3
-Låt b = -1.4 + 2. Låt x = b - 0. Låt v = 0.2 - x. Sortera -0.3, 1, v.
-v, -0.3, 1
+Låt t = 15 - 11. Låt k = -2 - 0. Låt y(x) = x**3 + 5*x**2 + 4*x. Låt u vara y(-4). Sortera k, u, t i minskande ordning.
+Svar: t, u, k
+
+Låt f(k) = 4*k - 19. Låt i vara f(6). Sätt -6, 4, i i stigande ordning.
+Svar: -6, 4, i
+
+Låt a = 4 + -2. Antag att -10 = l - 8. Sätt 5, l, a i minskande ordning.
+Svaret är: 5, a, l
+
+Låt a = 0 - 0. Låt y = 9 + -6. Antag att c - y*c + 10 = a. Sätt c, -2, 1 i stigande ordning.
+Svar: -2, 1, c
+
+Antag att 30 = -8*g + 86. Sätt 2, -4, g i avtagande ordning.
+Svar: g, 2, -4
+
+Antag att y - 6 = 2*z - 0*y, -9 = 3*z + 2*y. Låt s(o) = o**2 - 7*o + 1. Låt m vara s(6). Sortera z, -4, m i stigande ordning.
+Svaret är: m, -4, z
+
+Låt f vara (3*-1)/(9/6). Låt d vara (-45)/(-6) + 3/(-6). Antag att 0 = 5*v + 2*i - 1, 4*v + d = -0*i + i. Sortera v, 4, f.
+Svaret är: f, v, 4
+
+Antag att -7*p = 5*y - 2*p + 160, 5*y + 2*p + 148 = 0. Sätt y, 0, 1, 4 i minskande ordning.
+Svaret är: 4, 1, 0, y
+
+Antag att -21 = -3*m + 3*k, -4*m + 26 = -3*k + 2. Sätt -2, -5, m i minskande ordning.
+Svar: m, -2, -5
+
+Antag att 93 = 5*u + 18. Antag att 2*o = -o + u. Låt n vara 2*1*2/4. Sortera o, n, 2.
+Svaret är: n, 2, o
+
+Antag att 9 = -5*f - 6. Sätt 3, 0, f i växande ordning.
+Svar: f, 0, 3
+
+Låt i = 1/2 - -1/6. Låt f vara (-11)/(-13) + (-2)/2. Låt z = 0.8 + -0.6. Sätt z, f, i i stigande ordning.
+Svar: f, z, i
+
+Låt w vara (2 - -2) + (-4)/2. Låt x = 5 - 0. Sortera w, x, -2 i avtagande ordning.
+Svaret är: x, w, -2
+
+Låt t = -1/20 - -103/60. Sortera t, 0.4, -2, 2 i minskande ordning.
+Svaret är: 2, t, 0.4, -2
+
+Antag att 2*b + 33 = -75. Låt n vara (-3)/(-2)*9/b. Låt h = 1.5 + -1. Sortera n, 0.1, h i minskande ordning.
+Svar: h, 0.1, n
+
+Låt z = -10 - -13. Låt h = -2 - z. Sortera 2/3, 3, h i stigande ordning.
+Svaret är: h, 2/3, 3
+
+Låt i vara 173/90 + -2 - (-6)/(-27). Sortera -3, 2/3, i.
+Svaret är: -3, i, 2/3
+
+Låt i = -0.018 - 0.062. Sortera 0.2, i, 0 i växande ordning.
+Svar: i, 0, 0.2
+
+Låt a(p) = -p**3 - 6*p**2 + 4*p - 1. Låt h(c) = -c**3 + c - 7. Låt o vara h(0). Låt z vara a(o). Antag att 0 = 2*i + 2*i - z. Sätt i, -1, 2 i växande ordning.
+Svaret är: -1, 2, i
+
+Låt u = -12.7 + 18.4. Låt h = u - 0.7. Sortera h, -4, -3/4 i stigande ordning.
+Svaret är: -4, -3/4, h
+
+Låt h vara 1/(-2 - 3/(-2)). Antag att 2 + 4 = 3*a. Låt w = 6 - a. Sortera w, 3, h.
+Svaret är: h, 3, w
+
+Antag att -c + l - 2 + 1 = 0, -c + 9 = -3*l. Låt w = c + 0. Låt m = 1 + w. Sätt m, 5, -1 i avtagande ordning.
+Svaret är: 5, -1, m
+
+Antag att 0 = -z + 4*z. Låt o = -0.6 + 0.1. Sortera o, z, -5 i växande ordning.
+Svar: -5, o, z
+
+Låt l = 33/10 + -277/90. Låt p vara 6/21 - (-94)/14. Låt y(a) = a**2 - 7*a + 2. Låt v vara y(p). Sortera 0.4, l, v i växande ordning.
+Svaret är: l, 0.4, v
+
+Låt u = 5 + -3. Låt p = 0.22 - 0.62. Sätt u, p, -2/15 i växande ordning.
+Svaret är: p, -2/15, u
+
+Låt k = -951300/433 + 2197. Låt f = 1307/3464 - k. Sätt -3/2, -5, f i avtagande ordning.
+Svaret är: f, -3/2, -5
+
+Låt p = 343 - 5833/17. Sätt 2, -3/2, p, -0.4 i avtagande ordning.
+Svar: 2, p, -0.4, -3/2
+
+Låt r = 20 - 22. Sortera -1, 0, r i stigande ordning.
+Svar: r, -1, 0
+
+Låt p(u) = 5 - u. Låt n vara p(6). Låt w = 7 - 5. Antag att h + 2 = w*i + 8, -6 = -4*h - i. Sortera n, h, 1 i minskande ordning.
+Svar: h, 1, n
+
+Låt t = -0.56 + 0.16. Låt h = -2 - -4. Sätt t, h, -3 i minskande ordning.
+Svar: h, t, -3
+

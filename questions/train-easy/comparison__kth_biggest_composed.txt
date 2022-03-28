@@ -1,6 +1,90 @@
-Antag att 2*q + 5*t - 10 = q, q = t + 4. Antag att 1 + 14 = q*n. Antag att -c + n = -4*c. Vad är det största värdet i c, -3, -3/4?
--3/4
-Låt q(p) = -7*p - 61. Låt t vara q(-9). Vilket är det andra minsta värdet?  (a) 3/4  (b) -2  (c) -3  (d) t
-b
-Antag att -i - 9*i + 30 = 0. Vilket är det tredje minsta värdet?  (a) i  (b) 11  (c) 5
-b
+Låt x(f) = -f**2 - 2*f - 2. Låt p vara x(-3). Låt y(w) = w - 8. Låt m vara y(6). Låt n = -4.1 + 4. Vilket är det andra största värdet?  (a) n  (b) m  (c) p
+Svar: b
+
+Låt v = 0.021 + -1.021. Låt s vara (2/(-3))/(5/15). Vilket är det andra största värdet?  (a) v  (b) s  (c) 0.4
+Svar: a
+
+Låt p = 1.2 + -1.1. Vad är det minsta värdet i -4, -3, p?
+Svar: -4
+
+Antag att 6*p - 20 = 2*p. Låt s(l) = l - 3*l - 1 - p. Låt n vara s(-5). Vilket är det tredje största värdet?  (a) 0.1  (b) n  (c) -3
+Svar: c
+
+Låt y = -2 - -6. Antag att -2*u + 2 = -4. Låt g vara 1/(u + (-2)/4). Vad är det tredje minsta värdet i -0.5, g, y?
+Svaret är: y
+
+Låt t = 24 - 24.5. Vad är det tredje minsta värdet i 0.4, 4, t?
+Svaret är: 4
+
+Låt n = -214 + 217. Låt a(t) = 18*t - 2. Låt w vara a(4). Låt m vara 58/w - (-6)/(-15). Vad är det största värdet i -1/3, n, m?
+Svaret är: n
+
+Antag att 0 = 3*h - k + 10, h - 3*k + 6 = -2*k. Vad är det andra största värdet i h, 2/11, 3/2?
+Svar: 2/11
+
+Låt a vara 1/(2/(8/(-22))). Låt p = -0.18 + 0.68. Låt m = p - 0.1. Vad är det tredje största värdet i -2/9, a, m?
+Svaret är: -2/9
+
+Låt g = -10.04 + 0.04. Låt y = g - -7. Vad är det andra största värdet i y, -1/8, 0.3?
+Svaret är: -1/8
+
+Låt o = 1 - -3. Låt q = 2 + -8. Låt m = o + q. Vilket är det andra största värdet?  (a) 3  (b) 0.3  (c) m
+Svaret är: b
+
+Låt t = 0.8 - 0.7. Vilket är det fjärde största värdet?  (a) t  (b) -4  (c) -0.3  (d) -0.4
+Svar: b
+
+Antag att 3*m + 12 = 0, 0 = q - 8*m + 5*m - 16. Vilket är det andra minsta värdet?  (a) q  (b) 8  (c) 0  (d) 3
+Svaret är: d
+
+Låt h(q) = -2*q**2 - 16*q + 14. Låt o vara h(-9). Låt v = 0 - -1. Låt i = 0.6 - v. Vilket är det andra största värdet?  (a) i  (b) o  (c) 3
+Svar: a
+
+Låt w = 3.8 - 1.1. Låt u = w + -3. Låt d = -0.7 + u. Vad är det största värdet i -0.2, 0.2, d?
+Svar: 0.2
+
+Låt n = -2 + 1. Låt z = n + 1.7. Låt x = z + 0.3. Vilket är det tredje största värdet?  (a) x  (b) 2  (c) -5
+Svar: c
+
+Antag att 0 = -4*s - 2*s - 18. Vilket är det andra minsta värdet?  (a) 5  (b) s  (c) 2
+Svaret är: c
+
+Låt d = 94 + -89. Vad är det största värdet i 0, d, 1?
+Svaret är: d
+
+Låt k(l) = l**2 + 5*l - 6. Låt p = 10 - 6. Antag att 18 = -7*g + p*g. Låt w vara k(g). Vad är det andra största värdet i 3, -4, w?
+Svaret är: w
+
+Antag att -2*m - 176 = a, -2*m + 2*a - 164 = -0*a. Låt t = -256/3 - m. Vad är det tredje minsta värdet i 4/3, 1/4, t?
+Svaret är: 4/3
+
+Låt v vara 21/(-11) - (-1 - 1). Låt p = -10 - -12. Vad är det tredje största värdet i v, 0.3, p?
+Svar: v
+
+Låt t = -53 - -50. Vilket är det andra minsta värdet?  (a) t  (b) 0.1  (c) 1  (d) -5
+Svar: a
+
+Låt u = 0.37 - 0.07. Låt v = -0.85 - -0.05. Låt m = v - -0.5. Vilket är det tredje minsta värdet?  (a) u  (b) 4  (c) m
+Svaret är: b
+
+Låt w = -9 + 5. Antag att -75 = -25*n + 40*n. Vilket är det tredje största värdet?  (a) w  (b) 5  (c) n
+Svar: c
+
+Låt h vara 4/(-357)*(-7)/18. Låt f = 2732/5049 + h. Vad är det tredje största värdet i 0.3, f, -3?
+Svaret är: -3
+
+Låt x vara (-2 - -4)*4/40. Låt v = -2 - 1. Vad är det minsta värdet i 2/5, v, x?
+Svar: v
+
+Låt l vara 18/4 - (-9)/(-6). Vad är det tredje största värdet i l, 0.3, 2/9?
+Svaret är: 2/9
+
+Låt i vara 1/((-12)/9 + 1). Vad är det minsta värdet i 3/7, 1, i?
+Svar: i
+
+Låt f = -5.06 + 5. Låt n = 0.36 + f. Vilket är det andra minsta värdet?  (a) 0.5  (b) -4  (c) n
+Svaret är: c
+
+Låt f = 179 - 178.8. Låt v = 14 + -10. Antag att -2*z = -4*b - 4, 4*b + 8 = -0. Vad är det tredje största värdet i f, z, v?
+Svar: z
+

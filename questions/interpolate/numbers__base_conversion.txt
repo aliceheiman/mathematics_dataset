@@ -1,20 +1,300 @@
-101101111001110111 (bas 2) till bas 10
-188023
-Konvertera 201767 (bas 9) till bas 14.
-31767
-Vad är -65680 (bas 9) i bas 14?
--11c41
-Konvertera -13357 (bas 8) till bas 6.
--43103
-Vad är -1c06a (bas 13) i bas 8?
--153345
-Konvertera -9054 (bas 11) till bas 3.
--121111212
--600162 (bas 7) till bas 5
--11212220
-Konvertera 20a08 (bas 13) till bas 14.
-17616
-Vad är -163ba (bas 14) i bas 11?
--38885
-Vad är 26b26 (bas 16) i bas 13?
-571b6
+6ba31 (bas 13) till bas 11
+Svaret är: 125230
+
+Konvertera 51ac2 (bas 13) till bas 5.
+Svaret är: 14144400
+
+Konvertera -10a861 (bas 11) till bas 10.
+Svaret är: -175396
+
+Vad är 1214a (bas 11) i bas 12?
+Svaret är: a146
+
+-10100100101010 (bas 2) till bas 10
+Svar: -10538
+
+Konvertera 2000201101 (bas 3) till bas 13.
+Svaret är: 15205
+
+Konvertera 11334 (bas 6) till bas 3.
+Svar: 2020211
+
+Vad är 1001000010010111 (bas 2) i bas 4?
+Svaret är: 21002113
+
+-1110021011 (bas 3) till bas 13
+Svar: -1004b
+
+Vad är 100121202002 (bas 3) i bas 10?
+Svaret är: 189353
+
+Vad är 131132312 (bas 4) i bas 11?
+Svaret är: 82800
+
+Konvertera 3348 (bas 11) till bas 10.
+Svaret är: 4408
+
+Konvertera 126804 (bas 10) till bas 4.
+Svaret är: 132331110
+
+Vad är 29efb (bas 16) i bas 12?
+Svaret är: 834a3
+
+650324 (bas 7) till bas 5
+Svaret är: 12104022
+
+Konvertera 11232400 (bas 5) till bas 10.
+Svar: 102225
+
+Vad är -20132011 (bas 5) i bas 6?
+Svar: -3243414
+
+Vad är -212433 (bas 7) i bas 10?
+Svaret är: -36921
+
+Vad är 101000110110011000 (bas 2) i bas 5?
+Svar: 20323240
+
+Vad är 164302 (bas 8) i bas 13?
+Svar: 21177
+
+Vad är 65195 (bas 13) i bas 5?
+Svaret är: 21321032
+
+9672b (bas 12) till bas 3
+Svar: 101001122122
+
+Vad är -2240231 (bas 6) i bas 10?
+Svaret är: -114139
+
+Konvertera 114899 (bas 10) till bas 13.
+Svaret är: 403b5
+
+Konvertera 420e (bas 15) till bas 5.
+Svaret är: 421324
+
+Konvertera -11210210021 (bas 3) till bas 2.
+Svaret är: -10111000110010111
+
+Vad är -100100101101000001 (bas 2) i bas 8?
+Svaret är: -445501
+
+Konvertera 1224344 (bas 7) till bas 9.
+Svar: 260178
+
+Konvertera -10432104 (bas 5) till bas 10.
+Svar: -92779
+
+1010010100100101 (bas 2) till bas 5
+Svar: 2323102
+
+Vad är 100001110101011000 (bas 2) i bas 5?
+Svar: 13413314
+
+3730a (bas 15) till bas 16
+Svar: 2b039
+
+Vad är 27677 (bas 10) i bas 12?
+Svar: 14025
+
+Konvertera 141505 (bas 6) till bas 2.
+Svar: 11010000110001
+
+-2422120 (bas 6) till bas 11
+Svaret är: -87869
+
+12295 (bas 11) till bas 9
+Svar: 26180
+
+Konvertera 1110011000011 (bas 2) till bas 4.
+Svaret är: 1303003
+
+Vad är -335282 (bas 9) i bas 12?
+Svaret är: -9819b
+
+Vad är -7b (bas 14) i bas 10?
+Svar: -109
+
+-15a22 (bas 11) till bas 8
+Svar: -54002
+
+Vad är -59370 (bas 13) i bas 6?
+Svaret är: -3255240
+
+Vad är -58234 (bas 10) i bas 9?
+Svar: -87784
+
+Konvertera a6159 (bas 11) till bas 7.
+Svar: 1212450
+
+Konvertera 31bd9 (bas 14) till bas 15.
+Svar: 259c9
+
+Vad är 24843 (bas 13) i bas 7?
+Svaret är: 400155
+
+Konvertera -130222011 (bas 4) till bas 13.
+Svaret är: -41574
+
+Vad är 30759 (bas 16) i bas 11?
+Svar: 126145
+
+Vad är -632266 (bas 7) i bas 16?
+Svar: -1a94d
+
+Konvertera 22002200211 (bas 3) till bas 2.
+Svar: 100110111011000110
+
+-6c51 (bas 15) till bas 12
+Svar: -113aa
+
+Vad är 101043 (bas 11) i bas 7?
+Svaret är: 1244361
+
+-26852 (bas 15) till bas 10
+Svar: -123377
+
+dfd5 (bas 16) till bas 11
+Svar: 3a062
+
+-10001100011000001 (bas 2) till bas 16
+Svaret är: -118c1
+
+12330143 (bas 5) till bas 9
+Svar: 203471
+
+Konvertera -4220420 (bas 5) till bas 8.
+Svar: -210736
+
+Konvertera 211012321 (bas 4) till bas 9.
+Svaret är: 251441
+
+Konvertera -1331330 (bas 7) till bas 4.
+Svar: -222322220
+
+Vad är -19f3f (bas 16) i bas 12?
+Svar: -51627
+
+Konvertera -a382a (bas 11) till bas 13.
+Svar: -53bb5
+
+Vad är -17460 (bas 11) i bas 8?
+Svar: -57674
+
+Konvertera 53717 (bas 9) till bas 14.
+Svaret är: cd71
+
+2cb0c (bas 15) till bas 7
+Svaret är: 1140342
+
+152435 (bas 9) till bas 11
+Svaret är: 64413
+
+-122174 (bas 10) till bas 4
+Svar: -131310332
+
+Vad är 101101110000111101 (bas 2) i bas 5?
+Svaret är: 21444303
+
+130230320 (bas 4) till bas 8
+Svaret är: 345470
+
+Konvertera 100111022100 (bas 3) till bas 7.
+Svar: 1405515
+
+-134264 (bas 8) till bas 11
+Svaret är: -32586
+
+111430 (bas 11) till bas 8
+Svaret är: 532604
+
+Konvertera -46969 (bas 14) till bas 2.
+Svar: -101001111111010001
+
+Vad är -615051 (bas 8) i bas 6?
+Svar: -4205121
+
+Vad är 37791 (bas 15) i bas 13?
+Svaret är: 62878
+
+Konvertera 61879 (bas 11) till bas 8.
+Svaret är: 260167
+
+2253140 (bas 6) till bas 3
+Svaret är: 12220012020
+
+Vad är -130378 (bas 10) i bas 2?
+Svaret är: -11111110101001010
+
+49698 (bas 11) till bas 2
+Svaret är: 10001011011010000
+
+-3e695 (bas 15) till bas 12
+Svar: -9811b
+
+11438a (bas 11) till bas 14
+Svaret är: 4a1c9
+
+Vad är -9e92 (bas 15) i bas 7?
+Svaret är: -200066
+
+Vad är 165516 (bas 7) i bas 15?
+Svaret är: 9c76
+
+Vad är 855a6 (bas 11) i bas 7?
+Svaret är: 1025662
+
+-100020200202 (bas 3) till bas 6
+Svar: -3522415
+
+Vad är -23200011 (bas 4) i bas 2?
+Svar: -1011100000000101
+
+6298 (bas 14) till bas 5
+Svaret är: 1020430
+
+Konvertera 601234 (bas 7) till bas 5.
+Svaret är: 11220213
+
+Konvertera -27600 (bas 9) till bas 13.
+Svar: -8694
+
+Konvertera 10010110100010011 (bas 2) till bas 15.
+Svaret är: 17c85
+
+21020112202 (bas 3) till bas 6
+Svar: 3015545
+
+Vad är -11122111101 (bas 3) i bas 10?
+Svar: -91486
+
+Konvertera 28b6f (bas 16) till bas 15.
+Svaret är: 3462c
+
+15132 (bas 7) till bas 15
+Svar: 1393
+
+Konvertera d665 (bas 16) till bas 6.
+Svaret är: 1102033
+
+Vad är 4194b (bas 12) i bas 6?
+Svaret är: 1502135
+
+Konvertera 3350434 (bas 6) till bas 13.
+Svar: 5c476
+
+-148d7 (bas 14) till bas 16
+Svar: -c7cd
+
+1114140 (bas 5) till bas 11
+Svaret är: 13a6a
+
+2304543 (bas 6) till bas 16
+Svar: 1cbcf
+
+23776 (bas 8) till bas 10
+Svaret är: 10238
+
+Vad är -2522142 (bas 6) i bas 11?
+Svar: -92700
+

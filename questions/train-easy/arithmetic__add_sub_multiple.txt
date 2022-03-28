@@ -1,6 +1,90 @@
-Beräkna -4 - (-1 - (-4 + -4) - 2).
--9
-Vad är värdet av (5 + -1 - 1) + (-11 - -3)?
--5
-Vad är 0 - (-5 + (5 - 6)) - 2?
-4
+Beräkna 4 + 0 + -8 - -4.
+Svar: 0
+
+Vad är (4 - 9) + 1 + (-1 - 0)?
+Svaret är: -5
+
+Beräkna 2 + -3 - -4 - 5.
+Svar: -2
+
+Vad är värdet av 5 - (31 + -9) - -11?
+Svaret är: -6
+
+Vad är 1 - (2 + 1) - -6?
+Svar: 4
+
+Räkna ut 32 - 36 - ((1 - -1) + -10).
+Svar: 4
+
+-12 + 16 + 2 + -1 - 4
+Svaret är: 1
+
+7 - 6 - (4 + -2)
+Svaret är: -1
+
+Räkna ut 0 - (0 + (-4 - -1)).
+Svar: 3
+
+Vad är värdet av -9 + 7 + (2 - 0)?
+Svar: 0
+
+Vad är 10 - (3 - 8) - 9?
+Svar: 6
+
+Vad är värdet av -7 - ((4 - 7) + -2)?
+Svar: -2
+
+Räkna ut 6 - 5 - (4 + (3 - 4)).
+Svar: -2
+
+Vad är 13 + -6 - 9 - (1 + 5)?
+Svar: -8
+
+-2 + 3 + -6 + 6
+Svaret är: 1
+
+Vad är värdet av (-3 - (2 - (2 + -3))) + 2?
+Svar: -4
+
+Beräkna (8 - 4) + -3 + 1.
+Svar: 2
+
+Beräkna (-6 - (4 + -9)) + 0.
+Svaret är: -1
+
+Beräkna 2 + (4 - 8) - -1 - -3.
+Svar: 2
+
+Räkna ut 3 - (1 + 1) - 6.
+Svar: -5
+
+Räkna ut 11 + -6 + -8 + 1.
+Svaret är: -2
+
+(-8 + -2 - -4) + 1 + 2
+Svar: -3
+
+-7 + (5 - -1 - 11) + 7
+Svar: -5
+
+5 - (-1 + 3) - (-9 - -10)
+Svaret är: 2
+
+Vad är värdet av 4 + (1 - -3) + -3 + 0?
+Svaret är: 5
+
+Räkna ut (11 - 8) + (-4 - 1).
+Svaret är: -2
+
+(-3 - -5 - 1) + 5
+Svar: 6
+
+Vad är värdet av -7 - (-12 + 12) - (-1 - 2)?
+Svar: -4
+
+Beräkna 2 - 4 - 1 - -1.
+Svaret är: -2
+
+Beräkna 8 + -1 + 1 + -7.
+Svar: 1
+

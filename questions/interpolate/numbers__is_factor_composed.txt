@@ -1,20 +1,300 @@
-Låt x(o) = 50 - o**2. Låt n vara x(-11). Är 5/(-4)*-4 - n en multipel av 31?
-Falskt
-Låt z vara (-84)/126*1/((-2)/123). Antag att 4*h - z = 3*h. Är 3 en delare till h?
-Falskt
-Låt n = -29 - -33. Antag att 0 = n*a - 351 - 333. Är 19 en delare till a?
-Sant
-Antag att -136*s + 4*s + 276271 = 37087. Är 6 en faktor i s?
-Sant
-Låt j = 1500 + 318. Är 6 en faktor i j?
-Sant
-Antag att 2*q - 4*a - 12 = 0, 4*q - 3*a + 6*a = 13. Antag att 0 = 5*y - q*n + 116, 28 = -2*y + y + 2*n. Låt x = y + 67. Är 5 en faktor i x?
-Falskt
-Antag att -3*i + 3*m = 2*i - 4, 0 = 5*i - 5*m. Låt q(x) = 7 - 7 - 2*x**i - 94*x**3 + 1. Är q(-1) en multipel av 14?
-Falskt
-Antag att 2*a = -2*w - 0*a - 998, 3*a - 1018 = 2*w. Låt d = w - -888. Är 23 en delare till d?
-Falskt
-Låt p(g) = -6*g**3 - 92*g**2 - 40*g + 56. Låt k(q) = -4*q**3 - 61*q**2 - 27*q + 37. Låt x(j) = 7*k(j) - 5*p(j). Är 21 en delare till x(-15)?
-Falskt
-Är 29 en delare till 792/48*44/2?
-Falskt
+Antag att 35*q = 39*q - 2020. Antag att q - 1265 = -8*c. Antag att 2*g - o - 65 = -2*o, 3*g = -2*o + c. Är g en multipel av 22?
+Svar: Falskt
+
+Antag att 3*h - 1011 = 3*d, -3*h = 4*d - 1253 + 214. Är h jämn?
+Svar: Falskt
+
+Låt t(y) = -32*y + 7 - 57*y + 3 - 15. Är t(-2) en multipel av 64?
+Svar: Falskt
+
+Antag att -13*b + 23612 = -4663. Är 145 en faktor i b?
+Svaret är: Sant
+
+Låt t(l) = 28 - 2*l. Låt a(c) = -32*c**3 + 62*c**3 - 5*c - 29*c**3 - 3. Låt s vara a(3). Är 2 en delare till t(s)?
+Svaret är: Sant
+
+Antag att 10*f + 424 = j + 11*f, 4*f + 1237 = 3*j. Låt x = 797 - j. Är 42 en delare till x?
+Svaret är: Sant
+
+Antag att -5*n - z + 93 = 3*z, 0 = -3*n + 3*z + 45. Låt h = n + 92. Antag att -a + 1 + h = 0. Är a en multipel av 22?
+Svaret är: Sant
+
+Låt v = 2475 - 329. Är 37 en delare till v?
+Svaret är: Sant
+
+Antag att -22*k = -23*k + 1. Är (39/(-6) - -6)*(-76)/k jämn?
+Svaret är: Sant
+
+Låt f = -11072 + 15541. Är f en multipel av 5?
+Svar: Falskt
+
+Låt h = 54 + -57. Är (222/(-12))/(h/24) + 0 en multipel av 7?
+Svaret är: Falskt
+
+Antag att 76*m = -80*m + 988884. Är 39 en faktor i m?
+Svar: Falskt
+
+Låt y(c) = -c**2 + 3*c + 41. Låt o vara y(0). Låt q = o + -14. Låt i = 19 + q. Är 22 en delare till i?
+Svar: Falskt
+
+Låt z(a) = 745 - 818*a. Är z(-3) en multipel av 11?
+Svar: Falskt
+
+Låt u(p) = p**2 - 15*p + 4. Låt x vara u(15). Antag att 0 = g - 4*s - 7 - 11, -x*g - 3*s = 23. Är 31 en faktor i (94 - (1 + -2)) + g?
+Svaret är: Sant
+
+Låt w(x) = x**3 + 8*x**2 - 14*x - 45. Låt f vara w(-9). Antag att -t + 5*t + 3*m - 1428 = f, -1088 = -3*t + 2*m. Är 38 en faktor i t?
+Svar: Falskt
+
+Antag att 4*t + u - 80 = 24, 2*t - 52 = -4*u. Är 26 en delare till t?
+Svar: Sant
+
+Låt i = 2 - -3. Antag att -m - i = -3. Är 19 en faktor i ((-684)/30)/(m/5)?
+Svar: Sant
+
+Låt x vara 2/(-3*(-4)/(-360)). Låt v vara 24/x - (-52)/5. Är 9 en delare till (48/v)/(7/35)?
+Svaret är: Falskt
+
+Låt z(t) vara andraderivatan av -3*t**5/10 + t**4/6 + t**3/2 + 5*t**2/2 - 21*t. Är z(-4) en multipel av 32?
+Svaret är: Falskt
+
+Låt p(z) = 18 - 8*z. Låt k(s) = -357*s + 6 + 354*s + 0. Låt b(c) = -10*k(c) + 3*p(c). Är 10 en faktor i b(8)?
+Svaret är: Falskt
+
+Låt k = 44 - 42. Antag att -5*l - c = 73, -l - k*c = 3*c + 5. Är 7 en delare till 170/(-6)*-1 - (-5)/l?
+Svaret är: Sant
+
+Låt a = -26 + 31. Är 18 en faktor i 376 - 2*(a + -4 + -2)?
+Svaret är: Sant
+
+Låt i(g) = g**3 + 8*g**2 + 5*g - 8. Låt d vara ((-26)/2)/(5 + -4). Låt j = 6 + d. Är 6 en delare till i(j)?
+Svar: Sant
+
+Låt q(r) = 421*r + 272. Är q(8) en multipel av 40?
+Svaret är: Sant
+
+Låt s = -71 + 150. Låt m(t) = 8*t - 40. Låt x vara m(12). Låt q = s - x. Är q en multipel av 4?
+Svar: Falskt
+
+Låt q(m) = 2*m + 10. Låt o = -15 + 13. Låt h vara q(o). Är 14 en delare till (-28)/(7/(21/h) - 3)?
+Svar: Sant
+
+Antag att 90*j - 898560 = 58*j - 160*j. Är 8 en faktor i j?
+Svaret är: Sant
+
+Låt y = 17 + 2476. Är 13 en faktor i y?
+Svaret är: Falskt
+
+Antag att 4 + 21 = 5*d. Låt q vara (393*(-2)/12)/((-4)/40). Antag att -q = -d*z - u, -u + 151 - 684 = -4*z. Är 33 en faktor i z?
+Svar: Sant
+
+Låt c(w) = -w**3 + 13*w**2 - 10*w + 43. Låt u vara c(12). Låt n = u + 102. Är 15 en delare till n?
+Svaret är: Falskt
+
+Är 8 + 1331 - (5 - 17) en multipel av 35?
+Svar: Falskt
+
+Låt u vara (-6 + 14 - -1)/(6/(-6)). Antag att 3*m + 0*z - 10 = 5*z, 5*m - 2*z - 4 = 0. Är (u/2)/(m + (-5)/50) en multipel av 9?
+Svar: Sant
+
+Antag att 2*v - 5*i = 1447, -293 = 4*v + 4*i - 3229. Är v jämn?
+Svar: Falskt
+
+Låt p(h) = 74*h**2 - 10*h + 8 - 35*h**2 - 38*h**2. Antag att -5*k + 21 + 49 = 0. Är 35 en faktor i p(k)?
+Svaret är: Falskt
+
+Låt n(h) = h. Låt l(o) = -2*o**2 - 23*o - 78. Låt d(f) = f**2 + 11*f + 39. Låt t(a) = 5*d(a) + 3*l(a). Låt g(b) = 3*n(b) - t(b). Är g(-16) en multipel av 23?
+Svaret är: Sant
+
+Låt f = 1510 - -1418. Är f en multipel av 6?
+Svar: Sant
+
+Låt j(v) = 2*v**3 - 2*v**2 - 5*v - 7. Låt h vara j(3). Antag att m + h = 68. Är 6 en faktor i m?
+Svaret är: Sant
+
+Låt s vara 102 + -5 + 3 + 3. Låt j = s + -48. Är j en multipel av 17?
+Svar: Falskt
+
+Antag att v - 6772 + 1987 = 0. Är 11 en faktor i v?
+Svar: Sant
+
+Antag att -5*q + 5*f = -35, -5*q + 5 = -0*q + f. Antag att q*g + 4*k - 330 = 0, 825 = 5*g + k + k. Är g en multipel av 33?
+Svar: Sant
+
+Låt i vara (-4)/14 + (-39805)/(-133). Låt r = i - 117. Är 14 en faktor i r?
+Svar: Sant
+
+Antag att 6136 = 20*p - 564. Är p en multipel av 15?
+Svaret är: Falskt
+
+Antag att -z + 2*x + 27 = -x, z = 5*x + 37. Antag att -z = -10*k + 288. Låt s = -18 + k. Är s en multipel av 3?
+Svar: Sant
+
+Antag att w - 4*k = 4*w - 770, 2*k - 1020 = -4*w. Låt i = w + 196. Är i en multipel av 19?
+Svar: Falskt
+
+Låt w(d) = 42*d + 116. Är w(-1) en multipel av 3?
+Svar: Falskt
+
+Låt b(k) vara tredjederivatan av -k**7/840 + 7*k**6/360 - k**5/30 + 7*k**4/12 - 3*k**3 - 4*k**2. Låt v(u) vara förstaderivatan av b(u). Är 4 en faktor i v(6)?
+Svar: Falskt
+
+Antag att 5*u + 4*a = 25, 2*a = -4*u - a + 19. Är (-3)/u*(-3765)/45 en multipel av 27?
+Svaret är: Falskt
+
+Låt b = -36 + 28. Är b + (-173)/(-4) + 6/8 en multipel av 9?
+Svar: Sant
+
+Låt x(t) = -t**2 - 8*t - 13. Låt o vara x(-7). Låt n(i) = -5*i - 25. Låt v vara n(o). Antag att 0 = v*p - p - 172. Är p en multipel av 7?
+Svaret är: Falskt
+
+Antag att 0 = 4*a - 3*v - 22982, -164*v + 17228 = 3*a - 162*v. Är a en multipel av 102?
+Svaret är: Falskt
+
+Antag att -2*m + 38 + 6 = 0. Låt k vara 5 + (-102)/((-14)/7). Antag att u - k = -m. Är 17 en delare till u?
+Svar: Sant
+
+Låt o vara (24/28)/(14/49). Antag att o*s + 5 = 4*m, 4*s + 0*s + 3*m = 35. Antag att -s*y - 3*g + 350 = 0, 3*y = -3*g + 148 + 62. Är y en multipel av 14?
+Svar: Sant
+
+Låt k vara 82/12 + (7/(-6))/(-7). Antag att -k*r + 144 = -3*r. Antag att 0*g = -2*g + r. Är g en multipel av 9?
+Svar: Sant
+
+Låt b = 77 - 94. Låt t(c) = 83 - 9*c. Är 8 en delare till t(b)?
+Svaret är: Falskt
+
+Låt b(x) = -75*x - 811. Är b(-30) en multipel av 22?
+Svaret är: Falskt
+
+Låt g(s) = -83*s - 836. Är 8 en delare till g(-20)?
+Svaret är: Sant
+
+Låt l vara (-11)/(-3) - (-6 + (-102)/(-18)). Antag att -3*k - 4*q = -79, -l*k + 6*k - 52 = -2*q. Är 3 en faktor i k?
+Svar: Falskt
+
+Antag att 0 = 5*o - 2*v - v + 2414, -3*v = 4*o + 1942. Är 20 en faktor i ((-8)/(-16) + 0)/((-1)/o)?
+Svaret är: Falskt
+
+Låt f(g) = g - 14. Låt v(s) = 15 - s. Låt n(h) = -4*f(h) - 3*v(h). Låt m vara n(6). Antag att 0 = -m*t + 431 + 219. Är 23 en delare till t?
+Svaret är: Falskt
+
+Antag att -28 = -2*v + 214. Låt w(j) = 10*j - 16. Låt m vara w(2). Antag att m*s + 384 = 3*o, -2*s = 2*o - 121 - v. Är 31 en faktor i o?
+Svar: Sant
+
+Låt o(f) = 15*f**2 - 57*f - 312. Är o(-8) en multipel av 7?
+Svaret är: Falskt
+
+Är 29 en faktor i (4 - -576)*(-1484)/(-265)?
+Svaret är: Sant
+
+Låt o(l) = -l**3 - 10*l**2 + 10*l + 13. Låt v = 44 - 46. Låt t vara (134/6 + (-1)/3)/v. Är 6 en delare till o(t)?
+Svar: Sant
+
+Är (-12)/48 - 31802/(-8) en multipel av 15?
+Svaret är: Sant
+
+Antag att 0 = -5*a - 26 + 26. Antag att a = 60*q - 59*q - 154. Är 11 en delare till q?
+Svaret är: Sant
+
+Antag att 5*x = -3*q - 26, 4*q + 3 - 8 = -x. Låt v = x - -9. Antag att 46 = v*o - 4*n, -3*o - 139 = -8*o - 2*n. Är 9 en delare till o?
+Svar: Sant
+
+Låt g(o) = o**3 - 18*o**2 - 20*o - 27. Låt c(y) = -3*y - 14. Låt x vara c(-4). Låt h(a) = -a**3 - a**2. Låt b(w) = x*h(w) - g(w). Är 3 en faktor i b(-19)?
+Svaret är: Falskt
+
+Är (1 - 2)/((-2)/12712) en multipel av 28?
+Svar: Sant
+
+Låt l(n) = 12*n**2 - 34*n + 197. Är 10 en faktor i l(12)?
+Svaret är: Falskt
+
+Låt t(v) = 34*v + 2432. Är 16 en faktor i t(0)?
+Svar: Sant
+
+Antag att -45 = 3*b - 18*b. Är (-8 + (3 - b))*(-732)/16 en multipel av 61?
+Svar: Sant
+
+Låt t = 1879 + 1306. Är t en multipel av 8?
+Svaret är: Falskt
+
+Låt j(b) = -813*b - 1686. Är 14 en faktor i j(-6)?
+Svaret är: Sant
+
+Antag att -710*n = -703*n + 10198 - 32402. Är 26 en delare till n?
+Svaret är: Sant
+
+Antag att 4681 = -10*t + 14431. Låt v = t + -489. Är 54 en faktor i v?
+Svaret är: Sant
+
+Antag att -74*w + 76*w - 296 = 0. Låt j = w + -130. Är j jämn?
+Svaret är: Sant
+
+Låt r vara -12 + 154 + 2 + 1. Antag att -3*y + 5*s - 8 = -55, 5*y + 5*s = r. Antag att -2*m + y = -6. Är 15 en faktor i m?
+Svar: Sant
+
+Låt s vara (-2)/10 + -1 - (-2)/10. Är 4 en faktor i s/((-5)/(-260))*-1?
+Svar: Sant
+
+Låt y(w) vara förstaderivatan av 78*w**2 - 6*w + 4. Låt r vara y(3). Antag att -308 = -7*d + r. Är d en multipel av 19?
+Svar: Falskt
+
+Antag att -15648 = -4*l + 4*x, -4*x - 23800 = -5*l - 4239. Är 43 en faktor i l?
+Svaret är: Sant
+
+Låt q(s) = -4*s**2 + s + 20. Låt x vara q(0). Antag att -x*k + 26*k = 216. Är 13 en delare till k?
+Svaret är: Falskt
+
+Antag att h - w = 3*w - 410, -3*w = -15. Låt r = 918 + h. Är r en multipel av 22?
+Svar: Sant
+
+Låt x(h) = 8*h - 4. Låt i(v) = -v - 12. Antag att 19*n + 75 = 14*n. Låt l vara i(n). Är 16 en faktor i x(l)?
+Svar: Falskt
+
+Låt b = 98 - 96. Antag att f = t + 48, f - b*t + 2 = 49. Är f en multipel av 7?
+Svar: Sant
+
+Låt t(a) = 3*a**2 - 6*a + 2*a - 1 + 2*a + 19*a**2. Är 13 en delare till t(-2)?
+Svar: Sant
+
+Låt b(a) vara tredjederivatan av -a**5/30 + a**4/24 + 17*a**3/2 + 10*a**2. Är 17 en faktor i b(0)?
+Svaret är: Sant
+
+Låt a(r) = 6*r**3 + 4*r**2 - r + 1. Låt u vara a(3). Låt o = u + -148. Är 4 en delare till o?
+Svar: Sant
+
+Låt i = 150 + -148. Antag att -d = -2, 0 = -2*y + i*d - 15 + 245. Är 9 en faktor i y?
+Svaret är: Sant
+
+Låt w(b) = -11*b**2 + 3*b + 6. Låt l vara w(2). Låt y = -73 - -4. Låt r = l - y. Är 12 en faktor i r?
+Svaret är: Falskt
+
+Låt g(r) = 48*r**2 + 32*r**2 - 4*r + 82*r**2 - 106*r**2. Är 9 en delare till g(2)?
+Svaret är: Sant
+
+Låt k(j) = 2*j**2 + 33*j + 3. Låt n vara k(-9). Låt g = n + 629. Är g en multipel av 30?
+Svaret är: Falskt
+
+Låt z(p) = 2*p + 4. Låt c vara z(0). Antag att -8*r + c = -4*r. Är (12/r)/(-3) - -133 en multipel av 26?
+Svaret är: Falskt
+
+Antag att -264 = -12*r + 936. Låt h = 179 + r. Är h en multipel av 63?
+Svaret är: Falskt
+
+Antag att -12*h = 9217 - 44677. Är h en multipel av 8?
+Svaret är: Falskt
+
+Låt t(h) = 2*h - 1. Låt f(s) = -s**3 + 5*s**2 - 8*s + 10. Låt y vara f(4). Låt g vara t(y). Låt j(i) = 11 - i. Är 12 en faktor i j(g)?
+Svar: Sant
+
+Antag att -3*z + 15 = 0, -o = 27*z - 32*z - 5750. Är 175 en faktor i o?
+Svaret är: Sant
+
+Låt f(o) = -13*o - 9. Låt v(w) = -12*w - 9. Låt p(t) = 3*f(t) - 4*v(t). Låt d(i) = i + 1. Låt n(s) = 9*d(s) - 3*p(s). Är 35 en faktor i n(-9)?
+Svaret är: Falskt
+
+Låt m(r) = -487*r - 7. Låt n vara m(-5). Är 58 en faktor i (-96)/(-72) + n/6?
+Svaret är: Sant
+
+Antag att -9*p = 99 + 9. Är 58 en delare till (-5933)/(-102) - (-2)/p?
+Svaret är: Sant
+

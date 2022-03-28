@@ -1,6 +1,90 @@
-Samla termerna i -n - 14*n**3 + n - 6*n**3
--20*n**3
-Samla termerna i -6*q**3 - 16*q**2 + 5*q**2 + 11*q**2
--6*q**3
-Samla termerna i -45 + q + 45 - 4*q
--3*q
+Samla termerna i 16 - 16 + 1216*z**3
+Svaret är: 1216*z**3
+
+Samla termerna i j**2 + 18*j - 8*j - 10*j
+Svar: j**2
+
+Samla termerna i 407 + 0*u**3 - 3*u**3 - 407
+Svaret är: -3*u**3
+
+Samla termerna i 8*q**2 - 20*q**2 - 17*q**2
+Svar: -29*q**2
+
+Samla termerna i -4*j + 5*j - 3*j - 9*j**2 + 49*j**2
+Svar: 40*j**2 - 2*j
+
+Samla termerna i -2*v + 7*v - 6 + 4*v + 3
+Svaret är: 9*v - 3
+
+Samla termerna i -7*i + 8*i - 16*i
+Svaret är: -15*i
+
+Samla termerna i -12*c**2 - 7*c**2 - 2*c**2
+Svaret är: -21*c**2
+
+Samla termerna i -3 + 0*p**3 + 2 + 0*p**3 - 46*p**3
+Svaret är: -46*p**3 - 1
+
+Samla termerna i 17*t**2 + 783 - 13*t**2 - 783
+Svar: 4*t**2
+
+Samla termerna i 3*h**3 - 17*h**3 + 12*h**3
+Svar: -2*h**3
+
+Samla termerna i w + 3*w**3 - 2*w**3 - w
+Svar: w**3
+
+Samla termerna i 2*n**3 + 74*n**2 - 5*n**3 - 74*n**2
+Svar: -3*n**3
+
+Samla termerna i -5 - 21 - 5*c + 2*c - 35
+Svaret är: -3*c - 61
+
+Samla termerna i 37*n - 7*n**3 - 37*n - n**2
+Svaret är: -7*n**3 - n**2
+
+Samla termerna i 4*w**2 - 9*w**2 - 6*w**2
+Svar: -11*w**2
+
+Samla termerna i 339*t - 163*t - 171*t
+Svar: 5*t
+
+Samla termerna i -41*j + 48*j + 4 - 4
+Svaret är: 7*j
+
+Samla termerna i -135 - 104 - 2*x - 163
+Svaret är: -2*x - 402
+
+Samla termerna i -4*o**3 + 3 - 12 + 9
+Svar: -4*o**3
+
+Samla termerna i -6*u**3 + 3 - 14*u**3 - 3
+Svar: -20*u**3
+
+Samla termerna i 2*q + 68 - 68
+Svar: 2*q
+
+Samla termerna i 29*c**3 + 47*c**3 + 5*c**3
+Svaret är: 81*c**3
+
+Samla termerna i 101*f**3 - 10*f**2 + 10*f**2
+Svar: 101*f**3
+
+Samla termerna i 12*l**2 + 89*l + 85*l - 174*l
+Svaret är: 12*l**2
+
+Samla termerna i 141*h**2 - 70*h**2 - 73*h**2
+Svaret är: -2*h**2
+
+Samla termerna i 16*h**2 + 6*h**2 - 29*h**2 + 6*h**2
+Svar: -h**2
+
+Samla termerna i 1652 - 1652 + 2*x**3
+Svaret är: 2*x**3
+
+Samla termerna i -4 - 150*p + 4 - 585*p
+Svar: -735*p
+
+Samla termerna i -10*f**3 - 2*f**3 + 10*f**3 - 2*f**3 + 3*f**3
+Svar: -f**3
+

@@ -12,14 +12,43 @@ Find {variable}, given that {equality}. ### Bestäm {variable}, givet att {equal
 Determine {variable} so that {equality}. ### Bestäm {variable} så att {equality}.
 Determine {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
 Solve {equality}. ### Lös {equality}.
+
 Factor {expression}. ### Faktorisera {expression}.
+Factor {expression} as fully as possible. ### Faktorisera {expression} så långt som möjligt.
+Factor the following polynomial {expression}. ### Faktorisera följande polynom {expression}.
+Take the expression {expression} and factor it. ### Ta uttrycket {expression} och faktorisera det.
+Write {expression} as a product of factors. ### Skriv {expression} som en produkt av faktorer.
+Convert {expression} into a product of factors. ### Omvandla {expression} till en produkt av faktorer.
+Rewrite {expression} as a product of factors. ### Skriv om {expression} till en produkt av faktorer.
+
 Solve {equations} for {variable}. ### Lös {equations} för {variable}.
+Solve {equations}. ### Lös {equations}.
+Find the value of {variable} in {equations}. ### Bestäm värdet av {variable} i {equations}.
+What is {variable} in {equations}? ### Vad är {variable} i {equations}?
+Solve {equations} and find the value of {variable}. ### Lös {equations} och bestäm värdet av {variable}.
+Let {equations} and find what {variable} equals to. ### Låt {equations} och bestäm vad {variable} är lika med.
+What is the value of {variable} for {equations} to hold true? ### Vad är värdet på {variable} för att {equations} ska stämma?
+Solve for {variable} so that {equations} to hold true. ### Bestäm värdet på {variable} så att {equations} stämmer.
+
 Suppose {equations}. ### Antag att {equations}.
 
 What is next in {sequence}? ### Vad kommer näst i {sequence}?
 What comes next: {sequence}? ### Vad kommer näst: {sequence}?
 What is the next term in {sequence}? ### Vad är nästa term i {sequence}?
+What is the next item in {sequence}? ### Vad är nästa element i {sequence}?
+Following the pattern in {sequence}, what comes next? ### Genom att fortsätta mönstret i {sequence}, vad kommer näst?
+Continue {sequence} and give the next term. ### Fortsätt på {sequence} och ge nästa term.
+Take the sequence {sequence}. What comes next? ### Betrakta sekvensen {sequence}. Vad kommer näst?
+Take the sequence {sequence}. What is the next term? ### Betrakta sekvensen {sequencen}. Vad är nästa term?
+
 What is the {variable}'th term of {sequence}? ### Vilken är den {variable}:te termen i {sequence}?
+Take the sequence {sequence}. What is the {variable}'th term? ### Betrakta sekvensen {sequence}. Vad är den {variable}:te termen?
+What term is at position {variable} in the sequence {sequence}? ### Vilken term är på position {variable} i sekvensen {sequence}?
+Give the value for the item at position {variable} in the sequence {sequence}. ### Bestäm värdet på elementet på position {variable} i sekvensen {sequence}.
+Find an expression for the {variable}'th term of {sequence}. ### Bestäm ett uttryck för den {variable}:te termen i {sequence}.
+Find the closed expression for the term at position {variable} in {sequence}. ### Bestäm ett slutet uttryck för termen på position {variable} i {sequence}.
+Following the pattern in {sequence}, what is {variable}'th term? ### Genom att fortsätta mönstret i {sequence}, vad är den {variable}:te termen?
+Given the sequence {sequence}, what is the {variable}'th term? ### Givet sekvensen {sequence}, vad är den {variable}:te termen?
 
 # Arithmetic
 {p} + {q} ### {p} + {q}
@@ -54,7 +83,22 @@ What is the {} between {}? ### Vad är {} mellan {}?
 Let {self} = {p} - {q}. ### Låt {self} = {p} - {q}.
 
 In base {base}, what is {p} + {q}? ### I bas {base}, vad är {p} + {q}?
+Using base {base}, what is {p} + {q}? ### Med bas {base}, vad är {p} + {q}?
+In base {base}, compute {p} + {q}. ### I bas {base}, beräkna {p} + {q}.
+In base {base}, calculate {p} + {q}. ### I bas {base}, räkna ut {p} + {q}.
+Working in base {base}, what is {p} + {q}? ### För bas {base}, vad är {p} + {q}?
+Use and answer in base {base}. What is {p} + {q}? ### Använd och svara i bas {base}. Vad är {p} + {q}?
+Use base {base} for the following problem: what is {p} + {q}? ### Använd bas {base} för följande problem: vad är {p} + {q}?
+Compute {p} + {q} using base {base}. ### Beräkna {p} + {q} med hjälp av bas {base}.
+
 In base {base}, what is {p} - {q}? ### I bas {base}, vad är {p} - {q}?
+Using base {base}, what is {p} - {q}? ### Med bas {base}, vad är {p} - {q}?
+In base {base}, compute {p} - {q}. ### I bas {base}, beräkna {p} - {q}.
+In base {base}, calculate {p} - {q}. ### I bas {base}, räkna ut {p} - {q}.
+Working in base {base}, what is {p} - {q}? ### För bas {base}, vad är {p} - {q}?
+Use and answer in base {base}. What is {p} - {q}? ### Använd och svara i bas {base}. Vad är {p} - {q}?
+Use base {base} for the following problem: what is {p} - {q}? ### Använd bas {base} för följande problem: vad är {p} - {q}?
+Compute {p} - {q} using base {base}. ### Beräkna {p} - {q} med hjälp av bas {base}.
 
 {p}{ops.MUL_SYMBOL}{q} ### {p}{ops.MUL_SYMBOL}{q}
 {p} {ops.MUL_SYMBOL} {q} ### {p} {ops.MUL_SYMBOL} {q}
@@ -66,16 +110,33 @@ What is the product of {p} and {q}? ### Vad är produkten av {p} och {q}?
 {p} times {q} ### {p} gånger {q}
 What is {p} times {q}? ### Vad är {p} gånger {q}?
 
+{p} / {q} ### {p} / {q}
+{p} ÷ {q} ### {p} ÷ {q}
 Divide {p} by {q}. ### Dividera {p} med {q}.
 {p} divided by {q} ### {p} dividerat med {q}
 What is {p} divided by {q}? ### Vad är {p} dividerat med {q}?
 Calculate {p} divided by {q}. ### Beräkna {p} dividerat med {q}.
+Compute {p} divided by {q}. ### Räkna ut {p} dividerat med {q}.
+{q} times what equals {p}? ### {q} multiplicerat med vad blir {p}?
 
 Let {self} be {p} divided by {q}. ### Låt {self} vara {p} dividerat med {q}.
 
 What is {value} to the power of 1/{one_over_exponent}, to the nearest integer? ### Vad är {value} upphöjt i 1/{one_over_exponent}, till det närmsta heltalet?
+What is {value} ^ 1/{one_over_exponent} to the nearest integer? ### Vad är {value} ^ 1/{one_over_exponent}, till det närmsta heltalet?
+Compute {value} to the power of 1/{one_over_exponent} to the nearest integer. ### Beräkna {value} upphöjt i 1/{one_over_exponent} till det närmsta heltalet.
+Compute {value} ^ 1/{one_over_exponent} to the nearest integer. ### Beräkna {value} ^ 1/{one_over_exponent} till det närmsta heltalet.
+Calculate {value} to the power of 1/{one_over_exponent} to the nearest integer. ### Räkna ut {value} upphöjt i 1/{one_over_exponent} till det närmsta heltalet.
+Calculate {value} ^ 1/{one_over_exponent} to the nearest integer. ### Räkna ut {value} ^ 1/{one_over_exponent} till det närmsta heltalet.
+What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer? ### Vad är {value} multiplicerat med sig självt 1/{one_over_exponent} gånger, till det närmsta heltalet?
+Compute {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer. ### Beräkna {value} multiplicerat med sig självt 1/{one_over_exponent} gånger till det närmsta heltalet.
+Calculate {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer. ### Räkna ut {value} multiplicerat med sig självt 1/{one_over_exponent} gånger till det närmsta heltalet.
+
 What is the {ordinal} root of {value} to the nearest integer? ### Vad är den {ordinal} roten av {value} till det närmsta heltalet?
+
+
 What is the square root of {value} to the nearest integer? ### Vad är kvadratroten av {value} till det närmsta heltalet?
+[Compute, Evaluate, Calculate] the square root of {value} to the nearest integer. ### 
+
 What is the cube root of {value} to the nearest integer? ### Vad är kubikroten av {value} till det närmsta heltalet?
 
 {op} ### {op}

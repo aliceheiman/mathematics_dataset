@@ -1,20 +1,300 @@
-Konvertera 160.6179 kilometer till mikrometer.
-160617900000
-Vad är 39/2 av 1 vecka i timmar?
-3276
-Vad är 497789.4g i kilogram?
-497.7894
-Hur många millimeter finns det i 6907.708cm?
-69077.08
-Hur många århundraden finns det i 6272.032 år?
-62.72032
-Konvertera 8259.1299ms till veckor.
-0.00001365596875
-Hur många timmar finns det i 5/12 vecka?
-70
-Vad är 161.75244 månader i år?
-13.47937
-Hur många milliliter finns det i ett halv liter?
-500
-Konvertera 87900.3 timmar till millisekunder.
-316441080000
+Vad är nio fjärdedelar av 1 timme i minuter?
+Svaret är: 135
+
+Hur många årtusenden finns det i 406.6366 årtionden?
+Svaret är: 4.066366
+
+Hur många milligram finns det i 69.56021 nanogram?
+Svaret är: 0.00006956021
+
+Hur många gram finns det i 1/2 kilogram?
+Svar: 500
+
+Hur många millisekunder finns det i 12/5 sekund?
+Svar: 2400
+
+Hur många mikrogram finns det i 0.3863853 ton?
+Svar: 386385300000
+
+Vad är 33/4 av 1 meter i centimeter?
+Svaret är: 825
+
+Vad är 22/3 av 1 minut i sekunder?
+Svar: 440
+
+Vad är 73279.25ng i mikrogram?
+Svaret är: 73.27925
+
+Hur många århundraden finns det i 0.0846582 månader?
+Svar: 0.0000705485
+
+Vad är 572025.4 kilogram i ton?
+Svaret är: 572.0254
+
+Konvertera 0.3278088ns till millisekunder.
+Svar: 0.0000003278088
+
+Hur många kilogram finns det i 2/5 ton?
+Svaret är: 400
+
+Hur många milliliter finns det i tjugo-tre fjärdedelar liter?
+Svar: 5750
+
+Hur många milliliter finns det i 9.37232 liter?
+Svaret är: 9372.32
+
+Hur många århundraden finns det i 0.0753995 årtionden?
+Svaret är: 0.00753995
+
+Hur många minuter finns det i 232.9581 mikrosekund?
+Svar: 0.000003882635
+
+Hur många minuter finns det i 5/2 dag?
+Svaret är: 3600
+
+Konvertera 48.99405 centimeter till mikrometer.
+Svar: 489940.5
+
+Hur många månader finns det i 659.4055 årtionden?
+Svaret är: 79128.66
+
+Hur många millimeter finns det i 7.54083um?
+Svar: 0.00754083
+
+Hur många mikrometer finns det i 1/8 centimeter?
+Svar: 1250
+
+Hur många minuter finns det i 33/2 dag?
+Svaret är: 23760
+
+Vad är nio halvor av 1 liter i milliliter?
+Svar: 4500
+
+Konvertera 2.480796 centimeter till mikrometer.
+Svaret är: 24807.96
+
+Vad är 18006.5l i milliliter?
+Svar: 18006500
+
+Hur många månader finns det i 9/2 årtionde?
+Svaret är: 540
+
+Hur många milliliter finns det i 187.137 liter?
+Svar: 187137
+
+Hur många nanometer finns det i 28/5 mikrometer?
+Svaret är: 5600
+
+Vad är 638.4579km i millimeter?
+Svaret är: 638457900
+
+Hur många kilogram finns det i femton åttondelar ton?
+Svar: 1875
+
+Hur många år finns det i 7/5 årtionde?
+Svar: 14
+
+Vad är 2/25 av 1 sekund i millisekunder?
+Svar: 80
+
+Hur många milliliter finns det i 81/5 liter?
+Svar: 16200
+
+Konvertera 49737.26us till sekunder.
+Svar: 0.04973726
+
+Vad är 8/5 av 1 liter i milliliter?
+Svaret är: 1600
+
+Hur många millimeter finns det i 3/2 meter?
+Svaret är: 1500
+
+Vad är 19/5 av 1 mikrogram i nanogram?
+Svar: 3800
+
+Konvertera 16782637.2 timmar till veckor.
+Svaret är: 99896.65
+
+Vad är elva femtedelar av 1 milligram i mikrogram?
+Svar: 2200
+
+Hur många månader finns det i 40453.44 år?
+Svar: 485441.28
+
+Konvertera 422155.2mm till meter.
+Svar: 422.1552
+
+Vad är 843.594t i milligram?
+Svar: 843594000000
+
+Konvertera 0.5104256 timmar till sekunder.
+Svar: 1837.53216
+
+Konvertera 495551.6 århundraden till år.
+Svar: 49555160
+
+Vad är 65/4 av 1 ton i kilogram?
+Svar: 16250
+
+Vad är 7.474249 timmar i minuter?
+Svar: 448.45494
+
+Vad är 22024.27 millimeter i nanometer?
+Svaret är: 22024270000
+
+Vad är tre fjärdedelar av 1 liter i milliliter?
+Svar: 750
+
+Vad är 93.90693 århundraden i årtionden?
+Svaret är: 939.0693
+
+Vad är femtio-sju fjärdedelar av 1 liter i milliliter?
+Svaret är: 14250
+
+Hur många liter finns det i 0.3717668ml?
+Svar: 0.0003717668
+
+Hur många dagar finns det i 10.0053495 nanosekunder?
+Svar: 0.00000000000011580265625
+
+Hur många meter finns det i 3.096146nm?
+Svaret är: 0.000000003096146
+
+Hur många timmar finns det i 11/3 vecka?
+Svar: 616
+
+Hur många centimeter finns det i 60.17902km?
+Svar: 6017902
+
+Konvertera 1902.046 århundraden till årtusenden.
+Svar: 190.2046
+
+Vad är 0.2967232nm i centimeter?
+Svar: 0.00000002967232
+
+Hur många mikrometer finns det i 9/8 millimeter?
+Svaret är: 1125
+
+Vad är 3005.19 nanometer i kilometer?
+Svaret är: 0.00000000300519
+
+Hur många liter finns det i 0.485024ml?
+Svar: 0.000485024
+
+Konvertera 3186228.6ms till timmar.
+Svaret är: 0.8850635
+
+Vad är fjorton femtedelar av 1 liter i milliliter?
+Svar: 2800
+
+Vad är 936501.8 årtusenden i år?
+Svar: 936501800
+
+Konvertera 2559.883 år till månader.
+Svaret är: 30718.596
+
+Vad är 66.53304 kilogram i milligram?
+Svar: 66533040
+
+Vad är fyrtio-sju halvor av 1 millimeter i mikrometer?
+Svar: 23500
+
+Hur många sekunder finns det i 1/8 vecka?
+Svaret är: 75600
+
+Hur många kilogram finns det i femton halvor ton?
+Svaret är: 7500
+
+Vad är 73.8901 årtusenden i månader?
+Svar: 886681.2
+
+Vad är 12/5 av 1 liter i milliliter?
+Svaret är: 2400
+
+Vad är 61/5 av 1 århundrade i månader?
+Svaret är: 14640
+
+Hur många månader finns det i 56/3 århundrade?
+Svaret är: 22400
+
+Vad är tre halvor av 1 millimeter i mikrometer?
+Svar: 1500
+
+Vad är 64.89446 milliliter i liter?
+Svaret är: 0.06489446
+
+Konvertera 4170.711 mikrosekund till minuter.
+Svaret är: 0.00006951185
+
+Vad är 11/6 av 1 vecka i timmar?
+Svar: 308
+
+Vad är 5420.549 årtionden i århundraden?
+Svar: 542.0549
+
+Hur många milliliter finns det i 2/25 liter?
+Svaret är: 80
+
+Vad är 57/4 av 1 kilogram i gram?
+Svar: 14250
+
+Hur många årtusenden finns det i 6.80915 årtionden?
+Svar: 0.0680915
+
+Vad är 2/25 av 1 kilometer i meter?
+Svar: 80
+
+Konvertera 39911.92km till mikrometer.
+Svaret är: 39911920000000
+
+Hur många månader finns det i fyrtio-tre femtedelar århundrade?
+Svar: 10320
+
+Hur många månader finns det i 1/25 årtusende?
+Svaret är: 480
+
+Hur många milliliter finns det i 4/25 liter?
+Svaret är: 160
+
+Hur många sekunder finns det i tre tjugondelar dag?
+Svar: 12960
+
+Hur många sekunder finns det i tre fjärdedelar minut?
+Svar: 45
+
+Hur många sekunder finns det i 2/25 dag?
+Svar: 6912
+
+Hur många milliliter finns det i 27/8 liter?
+Svar: 3375
+
+Hur många milliliter finns det i 22/5 liter?
+Svar: 4400
+
+Vad är 267211.44 månader i årtionden?
+Svar: 2226.762
+
+Vad är tre fjärdedelar av 1 gram i milligram?
+Svaret är: 750
+
+Vad är fem halvor av 1 århundrade i månader?
+Svar: 3000
+
+Hur många mikrometer finns det i 9/2 millimeter?
+Svaret är: 4500
+
+Hur många minuter finns det i ett halv timme?
+Svar: 30
+
+Hur många år finns det i 33036.67 årtionden?
+Svaret är: 330366.7
+
+Hur många månader finns det i sextio-tre halvor år?
+Svaret är: 378
+
+Vad är tre tjugondelar av 1 liter i milliliter?
+Svar: 150
+
+Vad är 27/10 av 1 sekund i millisekunder?
+Svar: 2700
+

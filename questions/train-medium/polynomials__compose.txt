@@ -1,6 +1,90 @@
-Låt k(r) = 2*r**2. Låt p(c) = 180*c**2 - 64*c**2 + 18*c**2 + 80*c**2. Ange p(k(q)).
-856*q**4
-Låt u(o) = o**2. Låt g(p) vara förstaderivatan av 2*p**2 + 54. Vad är u(g(y))?
-16*y**2
-Låt u(q) = -3*q**2. Låt b(n) = -80*n - 101. Vad är b(u(w))?
-240*w**2 - 101
+Låt h(n) = 3*n**2. Låt o(r) = -1. Låt v(i) = 2*i - 11. Låt p(m) = 2*m - 10. Låt s(t) = 4*p(t) - 3*v(t). Låt q(w) = 14*o(w) - 2*s(w). Beräkna h(q(b)).
+Svar: 48*b**2
+
+Låt g(o) = -2*o**2. Antag att -118*u - 4 = -119*u. Låt q(w) vara tredjederivatan av 0 + 0*w + 0*w**3 - 2*w**2 - 1/10*w**5 + 0*w**u. Beräkna g(q(b)).
+Svaret är: -72*b**4
+
+Låt h(g) = 14*g**2. Låt o(r) = -31993*r. Bestäm o(h(u)).
+Svaret är: -447902*u**2
+
+Låt m(y) = -4 + 23*y**2 + 4 - 22*y**2. Låt g(t) = 44*t. Ange m(g(u)).
+Svaret är: 1936*u**2
+
+Låt w(b) = 4*b. Antag att 10*h = 3*h - 315. Låt c(q) = -4*q - 2. Låt g(m) = 27*m + 15. Låt n(k) = h*c(k) - 6*g(k). Vad är w(n(s))?
+Svaret är: 72*s
+
+Låt f(u) = -8*u**2. Låt v(d) = 3*d. Låt k(z) = -12*z. Låt s = 21 - 16. Låt l(y) = s*k(y) + 21*v(y). Ange l(f(b)).
+Svar: -24*b**2
+
+Låt z(x) = 28*x**2 - 53*x**2 + 23*x**2. Låt a(u) = 26*u**2. Vad är a(z(h))?
+Svar: 104*h**4
+
+Låt l(t) vara tredjederivatan av t**4/24 + 2*t**2 - 19. Låt s(n) = 7*n**2 - 2. Låt o(c) = 14*c**2 - 5. Låt p(w) = -2*o(w) + 5*s(w). Ange p(l(x)).
+Svaret är: 7*x**2
+
+Låt i(d) = -261*d - 257*d + 1028*d - 255*d - 258*d. Låt w(y) vara tredjederivatan av -y**4/12 - y**2. Beräkna i(w(v)).
+Svar: 6*v
+
+Låt s(l) vara andraderivatan av -l**4/2 + 32*l - 5. Låt c(b) = -261*b. Bestäm c(s(g)).
+Svar: 1566*g**2
+
+Låt r(g) = -3*g**2. Låt x(b) vara förstaderivatan av -b**4/8 + 13*b**2/2 + 5. Låt w(q) vara andraderivatan av x(q). Vad är w(r(p))?
+Svaret är: 9*p**2
+
+Låt q(m) = -26*m**2. Låt s(j) = -172*j**2 + 82*j**2 + 86*j**2. Beräkna s(q(h)).
+Svar: -2704*h**4
+
+Låt z(p) = 8*p**2. Låt b(y) = -15*y + 11*y + 9*y + 3*y. Beräkna b(z(d)).
+Svar: 64*d**2
+
+Låt m(c) = -2*c**2. Antag att -13*b = -12*b - o - 2, -2*b = 3*o - 9. Låt g(v) vara andraderivatan av -4*v + 0*v**2 + 0 - 1/3*v**b. Bestäm g(m(z)).
+Svar: 4*z**2
+
+Låt g(s) = 10*s. Låt l(y) = -4*y - 17 - 14 - 13 + 44. Beräkna l(g(u)).
+Svar: -40*u
+
+Låt y(q) = -32374*q. Låt f(m) = -2*m. Vad är f(y(r))?
+Svaret är: 64748*r
+
+Låt w(n) vara andraderivatan av n**4/6 - n. Låt b(k) vara tredjederivatan av k**4/12 - 73*k**2 + 5*k. Bestäm w(b(x)).
+Svaret är: 8*x**2
+
+Låt r(m) vara andraderivatan av m**4/12 + 119*m. Låt f(p) = 2*p**2. Vad är f(r(t))?
+Svaret är: 2*t**4
+
+Låt c(s) vara tredjederivatan av -s**5/60 + 75*s**2. Låt t(q) = 5*q**2. Låt n vara 46 + (2 - 3/1). Låt d(v) = 55*v**2. Låt i(w) = n*t(w) - 4*d(w). Ange i(c(k)).
+Svaret är: 5*k**4
+
+Låt q(z) = 59094*z**2. Låt a(m) = -2*m**2. Vad är a(q(s))?
+Svaret är: -6984201672*s**4
+
+Låt m(j) = -5*j**2 + 3*j - 1 + 10 - 2 + j**3 + 0. Låt o vara m(4). Låt g(y) = -11*y + 7*y + o*y. Låt w(q) = 2*q**2. Vad är g(w(z))?
+Svar: -2*z**2
+
+Låt d(z) vara andraderivatan av -z**4/12 + 97*z. Låt x(o) = 5*o. Beräkna d(x(c)).
+Svaret är: -25*c**2
+
+Låt t = 38 + -31. Låt a(j) = -4*j**2 - j + 8*j - t*j. Låt g(i) = -8*i. Vad är g(a(q))?
+Svaret är: 32*q**2
+
+Låt f(s) = -9*s**2. Låt u(o) vara förstaderivatan av 33 - o**2/2. Ange f(u(v)).
+Svaret är: -9*v**2
+
+Låt c(p) = 16*p. Låt i(f) = -35*f**2 + 25*f + 75. Låt o(w) = 3*w**2 - 2*w - 6. Låt n(l) = -2*i(l) - 25*o(l). Vad är n(c(a))?
+Svar: -1280*a**2
+
+Låt w(i) = 51*i - 5. Låt v(y) = 112 - 1148*y. Låt z(g) = 5*v(g) + 112*w(g). Antag att -10*u + 8*u + 4 = 0. Låt n(a) = -4*a**2 + 4*a**2 + u*a**2. Vad är n(z(q))?
+Svar: 1568*q**2
+
+Låt l(w) = w**2 - w + 1. Låt i(n) = -40*n**2 + 48*n - 48. Låt g vara (4/(-1))/((-15)/(-6))*-30. Låt x(z) = g*l(z) + i(z). Låt p(u) = 2*u. Ange p(x(q)).
+Svaret är: 16*q**2
+
+Låt k(x) = 2*x**2 - 2*x**2 + 2*x**2. Låt p vara 12*(-10)/25*1630/(-3). Låt u(f) = -3*f**2 - p + 0*f**2 + 2608. Ange k(u(s)).
+Svaret är: 18*s**4
+
+Låt h(w) = -19*w. Låt o(k) = -3*k - 574. Ange o(h(p)).
+Svaret är: 57*p - 574
+
+Låt u(i) = i**2 - 4. Låt x(n) = -3. Låt w(v) = -3*u(v) + 4*x(v). Antag att 4*j - 6*l - 28 = -l, l = 5*j - 14. Låt z(h) = -h**j + 3 - 3 + 0. Beräkna w(z(s)).
+Svaret är: -3*s**4
+

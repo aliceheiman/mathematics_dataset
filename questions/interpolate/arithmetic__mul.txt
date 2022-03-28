@@ -1,20 +1,300 @@
--51 * -12350.5
-629875.5
-Beräkna 7572.1*-1.1.
--8329.31
-34 * 256545
-8722530
-Produkten av -18398443 och -5.
-91992215
-Multiplicera 2 och 1491651.
-2983302
-Räkna ut -2403456 * 0.2.
--480691.2
--4*-4.837618
-19.350472
-586222 gånger -4
--2344888
-Produkten av 432571 och 20.
-8651420
-Räkna ut -1.061265 * -0.11.
-0.11673915
+Produkten av 144 och 1175.1.
+Svaret är: 169214.4
+
+Vad är 4.3172 gånger 269?
+Svar: 1161.3268
+
+Vad är produkten av 4394 och -70?
+Svaret är: -307580
+
+Produkten av 7202192 och -4.
+Svar: -28808768
+
+7*369.633
+Svaret är: 2587.431
+
+Multiplicera 793.648 och 0.
+Svar: 0
+
+Vad är produkten av -1.17 och 320.23?
+Svar: -374.6691
+
+Räkna ut -2.62915 * -0.13.
+Svaret är: 0.3417895
+
+Beräkna -52069*48.
+Svaret är: -2499312
+
+1.6906 * 0.468
+Svar: 0.7912008
+
+-46491 * -0.75
+Svar: 34868.25
+
+Multiplicera -0.17 och -892096.
+Svar: 151656.32
+
+-33 gånger -0.386536
+Svar: 12.755688
+
+0.4 * -4042252
+Svar: -1616900.8
+
+Beräkna 576.01*-5.7.
+Svaret är: -3283.257
+
+Vad är produkten av 0.09 och -0.530258?
+Svar: -0.04772322
+
+Multiplicera -1787800 och 5.
+Svaret är: -8939000
+
+Vad är -15 gånger 1462598?
+Svar: -21938970
+
+-1718 gånger 5701
+Svaret är: -9794318
+
+-338336*0.1
+Svaret är: -33833.6
+
+0.0381 gånger 1121
+Svar: 42.7101
+
+16692 gånger -0.019
+Svaret är: -317.148
+
+Vad är 0.015467 gånger 3.27?
+Svar: 0.05057709
+
+174.6 gånger 0.12163
+Svaret är: 21.236598
+
+Vad är produkten av -1133906 och -10?
+Svar: 11339060
+
+Multiplicera 89.264 och 16.
+Svaret är: 1428.224
+
+37 * -23.4699
+Svaret är: -868.3863
+
+263499 * 0.083
+Svar: 21870.417
+
+Beräkna -0.2*2427729.
+Svar: -485545.8
+
+10813.3 gånger -0.42
+Svaret är: -4541.586
+
+4*-5968.93
+Svaret är: -23875.72
+
+Vad är produkten av 0.1 och 0.074412?
+Svar: 0.0074412
+
+-0.0877 * -44.51
+Svar: 3.903527
+
+Multiplicera 746 och 157.62.
+Svaret är: 117584.52
+
+Räkna ut -2 * 547662.
+Svaret är: -1095324
+
+Vad är produkten av 27 och -91637?
+Svar: -2474199
+
+Räkna ut 1 * 862.912.
+Svar: 862.912
+
+0.5*2456595
+Svaret är: 1228297.5
+
+-4383*3.08
+Svaret är: -13499.64
+
+Räkna ut 1 * -2520693.
+Svar: -2520693
+
+Multiplicera 0.3 och 10.11364.
+Svar: 3.034092
+
+Beräkna -2*-887640.
+Svar: 1775280
+
+-21.5 * -32746
+Svaret är: 704039
+
+Produkten av -35567 och -130.
+Svaret är: 4623710
+
+Produkten av -0.16 och 14946.2.
+Svar: -2391.392
+
+-84900 * -16
+Svar: 1358400
+
+-61 * -214606
+Svaret är: 13090966
+
+Räkna ut 0.045 * 289789.
+Svaret är: 13040.505
+
+Produkten av 39 och -19604.9.
+Svar: -764591.1
+
+Multiplicera -123707 och -0.45.
+Svar: 55668.15
+
+-285006.7 * -0.3
+Svaret är: 85502.01
+
+Vad är -14 gånger 14.6247?
+Svar: -204.7458
+
+Räkna ut -0.3 * 3.916805.
+Svaret är: -1.1750415
+
+-5*-1732841
+Svar: 8664205
+
+Räkna ut -0.035007 * -12.3.
+Svar: 0.4305861
+
+Beräkna 7*-25.1637.
+Svar: -176.1459
+
+Vad är produkten av 47252 och 0.33?
+Svaret är: 15593.16
+
+Multiplicera 44632 och -178.
+Svaret är: -7944496
+
+-223780.05*5
+Svar: -1118900.25
+
+Produkten av -465.9 och -200.
+Svaret är: 93180
+
+Beräkna 0.6*0.045344.
+Svaret är: 0.0272064
+
+Beräkna -5699303*4.
+Svaret är: -22797212
+
+Vad är 0.074 gånger 16.874?
+Svaret är: 1.248676
+
+-58060 gånger -220
+Svar: 12773200
+
+Beräkna 0.2*1603467.
+Svaret är: 320693.4
+
+Vad är 13424 gånger 702?
+Svar: 9423648
+
+Beräkna 0.016*46.94.
+Svaret är: 0.75104
+
+Vad är produkten av 51958 och -48?
+Svaret är: -2493984
+
+394791 * 12
+Svaret är: 4737492
+
+0.5 * -2616728
+Svaret är: -1308364
+
+Produkten av -123 och -86137.
+Svar: 10594851
+
+-6765 * -1166
+Svar: 7887990
+
+Produkten av 1189.04 och 0.038.
+Svaret är: 45.18352
+
+17.9 * 4.1836
+Svar: 74.88644
+
+Produkten av -0.0834624 och -0.6.
+Svaret är: 0.05007744
+
+Produkten av 9.37 och 799.
+Svaret är: 7486.63
+
+Beräkna -6*891078.
+Svar: -5346468
+
+Vad är produkten av 16344 och 60?
+Svar: 980640
+
+4464514 * 0.4
+Svaret är: 1785805.6
+
+Vad är produkten av -1313764 och 0.3?
+Svar: -394129.2
+
+Vad är produkten av 3.7 och 211793?
+Svar: 783634.1
+
+Beräkna -1.76*-9.7119.
+Svaret är: 17.092944
+
+Vad är -161 gånger -89126?
+Svar: 14349286
+
+39.44 * 57
+Svar: 2248.08
+
+Multiplicera -28304 och -90.
+Svar: 2547360
+
+Beräkna 3*-2216208.
+Svaret är: -6648624
+
+Räkna ut -0.055462 * -86.
+Svaret är: 4.769732
+
+Vad är produkten av -559709 och 8?
+Svar: -4477672
+
+Multiplicera -1878 och -1162.
+Svaret är: 2182236
+
+Vad är -3.73 gånger 46790?
+Svaret är: -174526.7
+
+Räkna ut 0.08015086 * -0.3.
+Svaret är: -0.024045258
+
+Multiplicera 56 och 2017.03.
+Svar: 112953.68
+
+58.58327 gånger -0.5
+Svar: -29.291635
+
+-10*1.800057
+Svaret är: -18.00057
+
+-291.4 * -1657
+Svar: 482849.8
+
+Vad är produkten av -0.2 och -7.70917?
+Svaret är: 1.541834
+
+391877.9 gånger -6
+Svaret är: -2351267.4
+
+3.76 gånger 40142
+Svaret är: 150933.92
+
+Räkna ut -1 * -801626.
+Svar: 801626
+
+Multiplicera 249 och -87.12.
+Svaret är: -21692.88
+

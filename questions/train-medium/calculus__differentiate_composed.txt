@@ -1,6 +1,90 @@
-Antag att 0 = 5*r + 97 - 102. Bestäm andraderivatan av -7*i + 5*i**5 - 1 - 4*i**3 - 5 + 4 - r med avseende på i.
-100*i**3 - 24*i
-Bestäm förstaderivatan av 204*v**3 + 52 + 5*v**4 - 201*v**3 - 5 med avseende på v.
-20*v**3 + 9*v**2
-Vad är andraderivatan av -5*f**2 - 11*f**2 + 256*f**3 - 10*f**2 - 7*f + 2 + 26*f**2 med avseende på f?
-1536*f
+Låt r = -30 - -65. Vad är derivatan av -13*g**2 - 12*g**2 + 8 + 6*g**2 - r med avseende på g?
+Svaret är: -38*g
+
+Låt p(t) vara tredjederivatan av -t**9/63 - t**7/35 - 5*t**5/12 - t**4/8 - 37*t**2 - 1. Vad är tredjederivatan av p(b) med avseende på b?
+Svaret är: -960*b**3 - 144*b
+
+Låt c(f) = 81*f**2 + 26*f. Låt o(v) = v**2 - v. Låt i(u) = -c(u) + 5*o(u). Vad är andraderivatan av i(g) med avseende på g?
+Svar: -152
+
+Antag att -4*m - 20 = m, -3*h - 2*m + 1 = 0. Bestäm andraderivatan av 0*i - h*i**4 + 0*i - 13*i + 2*i**4 med avseende på i.
+Svaret är: -12*i**2
+
+Antag att 10 - 35 = -5*v. Antag att -5*i + 5 = -v. Bestäm tredjederivatan av -2*l**5 + 2*l**2 - 4*l**i + 0*l**5 med avseende på l.
+Svar: -120*l**2
+
+Antag att -2*s - r - 2 = r, 5*r = -2*s - 17. Bestäm tredjederivatan av -284*n**4 + 161*n**s + 145*n**4 + 34*n**2 med avseende på n.
+Svar: 528*n
+
+Bestäm tredjederivatan av -2 + 4*f**2 - 2*f**2 + f**6 + 671*f**4 - 4*f**2 + 10*f**2 med avseende på f.
+Svar: 120*f**3 + 16104*f
+
+Derivera -118*h + 30 - 13 - 12*h - 23 med avseende på h.
+Svaret är: -130
+
+Låt p(f) vara förstaderivatan av -1/4*f**4 + 0*f + 5/6*f**3 + 2*f**2 - 1. Låt y(k) vara andraderivatan av p(k). Derivera y(r) med avseende på r.
+Svar: -6
+
+Låt s(o) vara andraderivatan av 3*o**6/40 + 3*o**4/8 + 9*o**2/2 + 6*o. Låt g(w) vara förstaderivatan av s(w). Bestäm andraderivatan av g(a) med avseende på a.
+Svaret är: 54*a
+
+Låt l(p) = -p**3 - 15*p**2 + 13*p - 4. Låt s vara l(-16). Derivera -35 - 13*h**3 + s - h**3 med avseende på h.
+Svaret är: -42*h**2
+
+Låt w(d) = -d**3 + 4*d**2 + 6*d - 3. Låt t vara w(5). Låt y vara t/7 - 8/28. Bestäm andraderivatan av -c**5 - 2*c + y*c**5 - 2*c**5 + 2*c**5 med avseende på c.
+Svaret är: -20*c**3
+
+Låt w vara (4/(-8))/((-3)/30). Låt x(d) = 4*d**3 + d - 1. Låt o vara x(1). Vad är förstaderivatan av 1 + 5 + 2 + 2*b**o - w med avseende på b?
+Svar: 8*b**3
+
+Vad är andraderivatan av -l**2 - 584 + 85*l**4 + 0*l**2 + 0*l**2 + 547 - l med avseende på l?
+Svar: 1020*l**2 - 2
+
+Låt w(o) = -o**2 - o. Låt f vara w(-3). Låt j = f - -10. Vad är andraderivatan av 3*v - v**2 + v**2 + 6*v**j med avseende på v?
+Svar: 72*v**2
+
+Antag att -226 = 4*q + 98. Låt o = q + 113. Vad är tredjederivatan av -39*n**5 + o*n**5 + 2*n**2 - 8*n**2 med avseende på n?
+Svaret är: -420*n**2
+
+Låt r(n) = -14*n**2 - 7*n - 35. Låt j(m) = 1 + 7 - 4 - 3. Låt l(p) = 70*j(p) + 2*r(p). Bestäm andraderivatan av l(w) med avseende på w.
+Svaret är: -56
+
+Låt l(a) vara andraderivatan av 0*a**3 + 0*a**5 + 0*a**2 + 0 - 5/12*a**4 + 1/5*a**6 + a. Bestäm tredjederivatan av l(m) med avseende på m.
+Svaret är: 144*m
+
+Låt y = 20 + -14. Bestäm tredjederivatan av 21*a**2 - 14*a**6 - 19*a**y + 28*a**6 med avseende på a.
+Svar: -600*a**3
+
+Antag att -5 - 4 = -3*m. Derivera 1 - 10*f**3 + 2 + 11*f**m - 19*f**3 med avseende på f.
+Svar: -54*f**2
+
+Låt b(n) = -5*n - 2. Låt k vara b(-2). Bestäm tredjederivatan av 29 + 24*j**3 - j**5 - 29 - 3*j**2 + k*j + 2*j**5 med avseende på j.
+Svar: 60*j**2 + 144
+
+Låt r = -131 - -135. Vad är andraderivatan av -184*g**3 - 38*g + 185*g**3 - 2*g**r - 3*g**4 med avseende på g?
+Svaret är: -60*g**2 + 6*g
+
+Låt r(v) vara andraderivatan av 0 + 0*v**3 - 25/2*v**2 + 5/6*v**4 - 24*v. Vad är derivatan av r(x) med avseende på x?
+Svar: 20*x
+
+Låt i(n) = 545*n**4 - 3*n**3 - 3*n + 391. Låt x(m) = -m**3 - m + 1. Låt u(o) = i(o) - 3*x(o). Vad är derivatan av u(s) med avseende på s?
+Svaret är: 2180*s**3
+
+Låt j(n) = -n - 1. Låt p(h) = -6 + 8*h + 15 + 3. Låt o(y) = 4*j(y) + p(y). Vad är derivatan av o(f) med avseende på f?
+Svaret är: 4
+
+Låt y(u) vara förstaderivatan av 0*u**4 + 26/7*u**7 + 0*u**6 + 0*u + 0*u**5 - 26 + 0*u**2 + 11*u**3. Bestäm tredjederivatan av y(j) med avseende på j.
+Svaret är: 3120*j**3
+
+Antag att 9*z = -3*i + 10*z + 22, -26 = -i + 5*z. Låt s(t) = -t**2 - 6*t - 2. Låt y vara s(-5). Vad är derivatan av -2 + i*l - 2 + y med avseende på l?
+Svaret är: 6
+
+Låt b(n) vara andraderivatan av -15*n**4/4 - n**3/6 - 9*n**2/2 + 37*n. Bestäm andraderivatan av b(s) med avseende på s.
+Svar: -90
+
+Låt p(f) vara andraderivatan av -149*f**6/10 - 33*f**2/2 - 14*f. Vad är derivatan av p(x) med avseende på x?
+Svar: -1788*x**3
+
+Låt z = -8 + 13. Vad är tredjederivatan av -9*d + 25*d - 10*d**2 - 16*d - z*d**6 med avseende på d?
+Svaret är: -600*d**3
+

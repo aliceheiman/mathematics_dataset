@@ -1,6 +1,90 @@
-Är 20 en faktor i 597?
-Falskt
-Är 10 en faktor i 8223?
-Falskt
-Är 4 en faktor i 479?
-Falskt
+Är 3065 en multipel av 22?
+Svar: Falskt
+
+Är 621 en multipel av 9?
+Svaret är: Sant
+
+Är 23 en faktor i 8211?
+Svar: Sant
+
+Är 71 en delare till 1207?
+Svaret är: Sant
+
+Är 64 en faktor i 1414?
+Svaret är: Falskt
+
+Är 3 en faktor i 75?
+Svaret är: Sant
+
+Är 14 en faktor i 70042?
+Svaret är: Sant
+
+Är 6 en faktor i 1146?
+Svaret är: Sant
+
+Är 27199 en multipel av 59?
+Svar: Sant
+
+Är 842 en multipel av 12?
+Svaret är: Falskt
+
+Är 7 en faktor i 749?
+Svaret är: Sant
+
+Är 12 en faktor i 84?
+Svar: Sant
+
+Är 5 en delare till 2935?
+Svaret är: Sant
+
+Är 9 en faktor i 22321?
+Svar: Falskt
+
+Är 13 en delare till 54982?
+Svaret är: Falskt
+
+Är 2147 en multipel av 19?
+Svar: Sant
+
+Är 28 en faktor i 532?
+Svaret är: Sant
+
+Är 2005 en multipel av 54?
+Svaret är: Falskt
+
+Är 183 en multipel av 4?
+Svaret är: Falskt
+
+Är 57300 en multipel av 277?
+Svar: Falskt
+
+Är 2790 en multipel av 18?
+Svaret är: Sant
+
+Är 18 en delare till 306?
+Svaret är: Sant
+
+Är 19 en delare till 4446?
+Svaret är: Sant
+
+Är 225 en delare till 9753?
+Svaret är: Falskt
+
+Är 13 en faktor i 1914?
+Svaret är: Falskt
+
+Är 11367 en multipel av 31?
+Svaret är: Falskt
+
+Är 10 en faktor i 5052?
+Svaret är: Falskt
+
+Är 14 en delare till 13846?
+Svaret är: Sant
+
+Är 12 en delare till 6588?
+Svaret är: Sant
+
+Är 181 en delare till 3077?
+Svar: Sant
+

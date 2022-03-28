@@ -1,6 +1,90 @@
-Låt t(y) = -8391*y - 5915648. Vad är t(-705)?
-7
-Låt h(w) = -w**3 + 509*w**2 - 63215*w + 1048. Ange h(215).
--27
-Låt v(m) = -2*m**2 - 48*m + 1791. Vad är v(-60)?
--2529
+Låt u(y) = -y**3 - 774*y**2 - 978*y - 158457. Bestäm u(-773).
+Svaret är: 8
+
+Låt c(v) = 1676833 - 167684*v. Bestäm c(10).
+Svaret är: -7
+
+Låt n(j) = -403*j**2 - 3297*j - 607. Bestäm n(-8).
+Svaret är: -23
+
+Låt c(h) = 3*h**2 + 558*h - 4487. Bestäm c(-194).
+Svar: 169
+
+Låt b(x) = -10*x**2 - 2755*x - 19309. Vad är b(-7)?
+Svaret är: -514
+
+Låt u(h) = -h**3 + h**2 + 38*h + 44. Beräkna u(-8).
+Svaret är: 316
+
+Låt j(k) = 106*k + 30411. Vad är j(-287)?
+Svar: -11
+
+Låt o(p) = p**2 - 225*p - 19380. Beräkna o(-68).
+Svaret är: 544
+
+Låt m(j) = -j**2 - 83*j - 964. Vad är m(-25)?
+Svaret är: 486
+
+Låt u(d) = 19*d - 2088. Bestäm u(127).
+Svar: 325
+
+Låt p(q) = q**3 - 18*q**2 - 48*q + 149. Beräkna p(17).
+Svaret är: -956
+
+Låt c(g) = -4*g**3 + 17*g**2 - 352*g + 2172. Beräkna c(6).
+Svaret är: -192
+
+Låt t(x) = -x**3 + 62*x + 153. Beräkna t(-6).
+Svar: -3
+
+Låt z(q) = 22966 - 1231*q. Beräkna z(20).
+Svar: -1654
+
+Låt y(d) = 71*d**2 + 5312*d - 976. Ange y(-75).
+Svar: -1
+
+Låt q(r) = r**2 + 1245*r + 121769. Beräkna q(-107).
+Svar: 3
+
+Låt o(n) = -27*n**3 - 5*n**2 - 19*n - 58. Vad är o(-3)?
+Svar: 683
+
+Låt p(i) = -3*i**2 + 10*i - 193. Ange p(17).
+Svar: -890
+
+Låt b(r) = 7*r**3 - 89*r**2 + 66*r - 94. Bestäm b(12).
+Svar: -22
+
+Låt q(o) = -115*o**2 - 1579*o + 6301. Bestäm q(4).
+Svaret är: -1855
+
+Låt k(z) = z**3 + 44*z**2 - 149*z - 7705. Beräkna k(-43).
+Svar: 551
+
+Låt y(h) = -2*h**3 + 19*h**2 - 32*h + 37. Beräkna y(8).
+Svar: -27
+
+Låt b(z) = -43*z**2 + 2841*z - 202. Beräkna b(66).
+Svaret är: -4
+
+Låt f(t) = -5*t**3 - 38*t**2 + 1754*t + 5564. Beräkna f(-3).
+Svaret är: 95
+
+Låt h(v) = -94*v**3 - 16448*v**2 + 367*v + 2970. Vad är h(-175)?
+Svaret är: -5
+
+Låt l(r) = -6*r**2 + 1856*r - 3717. Beräkna l(2).
+Svar: -29
+
+Låt i(f) = 187760 - 1026*f. Bestäm i(183).
+Svaret är: 2
+
+Låt l(o) = 435*o + 37234. Bestäm l(-78).
+Svaret är: 3304
+
+Låt x(l) = l**2 - 34. Vad är x(24)?
+Svaret är: 542
+
+Låt n(s) = -s**3 - 19*s**2 + 31*s - 224. Vad är n(-17)?
+Svaret är: -1329
+

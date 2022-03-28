@@ -1,6 +1,90 @@
-Lös -20*t + 21*t + 8 = 0 för t.
--8
-Lös -44 = -12*o - 44 för o.
-0
-Lös 27*y - 2 = 25*y för y.
-1
+Lös -24*x + 213 = 45 för x.
+Svaret är: 7
+
+Lös 297 - 289 = 2*i för i.
+Svaret är: 4
+
+Lös -20*z + 15 = -15*z för z.
+Svar: 3
+
+Lös -10*b = 60 - 50 för b.
+Svar: -1
+
+Lös 7*f + 121 - 100 = 0 för f.
+Svaret är: -3
+
+Lös -30*g + 9*g = 126 för g.
+Svar: -6
+
+Lös -21*t = -13*t + 56 för t.
+Svaret är: -7
+
+Lös 0 = 30*b - 26*b + 12 för b.
+Svar: -3
+
+Lös -56*n - 102 = 10 för n.
+Svar: -2
+
+Lös -92*p - 60 = -82*p för p.
+Svaret är: -6
+
+Lös 0 = 4*g - 23*g + 57 för g.
+Svaret är: 3
+
+Lös 1127*r - 1142*r = -15 för r.
+Svar: 1
+
+Lös 14*r = 12*r + 6 för r.
+Svaret är: 3
+
+Lös 235 - 3 = 58*f för f.
+Svar: 4
+
+Lös -70*l + 75*l = -10 för l.
+Svaret är: -2
+
+Lös -9*y + 20 = -14*y för y.
+Svar: -4
+
+Lös -7*n - 29 = -1 för n.
+Svar: -4
+
+Lös r + 0 = -4 för r.
+Svar: -4
+
+Lös 84*x = 85*x + 4 för x.
+Svar: -4
+
+Lös -16 = 12*p - 16 för p.
+Svar: 0
+
+Lös 2*l = -6*l för l.
+Svar: 0
+
+Lös 231 - 315 = -12*f för f.
+Svar: 7
+
+Lös 2*v = -140 + 148 för v.
+Svar: 4
+
+Lös 11*u + 78 = 24*u för u.
+Svar: 6
+
+Lös 2*y - 4 = -2*y för y.
+Svaret är: 1
+
+Lös 0*n + 13*n + 65 = 0 för n.
+Svar: -5
+
+Lös 64*y + 9*y = -438 för y.
+Svaret är: -6
+
+Lös -206 = 39*k + 145 för k.
+Svar: -9
+
+Lös 13 + 2 = -5*a för a.
+Svaret är: -3
+
+Lös 49*a = 53*a - 16 för a.
+Svar: 4
+

@@ -1,6 +1,90 @@
-Subtrahera 0.0015664538604 från -0.3.
--0.3015664538604
-Lägg ihop 1.4 och 172672772111.
-172672772112.4
-Räkna ut -36 + 101743.740821.
-101707.740821
+Lägg ihop 331.461583628 och 3.
+Svaret är: 334.461583628
+
+Lägg ihop -76476629774 och -10416.
+Svaret är: -76476640190
+
+Vad är -35.7606655055905 - 4?
+Svaret är: -39.7606655055905
+
+Lägg ihop 10133754.989 och 20.
+Svaret är: 10133774.989
+
+Vad är -160874899691 minus -425?
+Svaret är: -160874899266
+
+Summera 903005 och 2413026.
+Svaret är: 3316031
+
+Vad är 239613 mindre än -33247?
+Svaret är: -272860
+
+Summera -0.2 och -256.9201761.
+Svar: -257.1201761
+
+Räkna ut 102180001 - -979205.
+Svar: 103159206
+
+Vad är 1086100 minus -2.86567?
+Svaret är: 1086102.86567
+
+Addera 0.01 och -3218274770.04.
+Svar: -3218274770.03
+
+Räkna ut -1059862688851 + 0.13.
+Svar: -1059862688850.87
+
+Vad är skillnaden mellan -631.7852 och 1453.73?
+Svaret är: 2085.5152
+
+Summera 0.05626 och -2131136073.
+Svaret är: -2131136072.94374
+
+Summan av 0.34184 och -8596525.
+Svar: -8596524.65816
+
+Vad är 2340189 + 0.5553103?
+Svar: 2340189.5553103
+
+Vad är avståndet mellan 1484.97 och 991732086?
+Svar: 991730601.03
+
+Summan av 1893115138 och 81.
+Svar: 1893115219
+
+Subtrahera 0.3 från -6.28553882.
+Svar: -6.58553882
+
+Addera ihop -88 och -94880123742.
+Svaret är: -94880123830
+
+Vad är -80333626 + 14144?
+Svaret är: -80319482
+
+Beräkna -1190.71 - 17.2633.
+Svar: -1207.9733
+
+Räkna ut 33296741692 + 66.97.
+Svaret är: 33296741758.97
+
+Subtrahera 2132269944 från 6291.
+Svaret är: -2132263653
+
+Vad är 284.9862605 ta bort -0.05869?
+Svaret är: 285.0449505
+
+Vad är skillnaden mellan 171574833612 och 0.1?
+Svar: 171574833611.9
+
+Addera ihop 602 och 6393441374.
+Svar: 6393441976
+
+Lägg ihop -6027.3 och 5.22449869.
+Svaret är: -6022.07550131
+
+Vad är -689 - 463445951?
+Svaret är: -463446640
+
+1.198 - 2112535959
+Svaret är: -2112535957.802
+

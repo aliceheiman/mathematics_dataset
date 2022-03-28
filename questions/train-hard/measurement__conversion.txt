@@ -1,6 +1,90 @@
-Hur många nanosekunder finns det i 33.67201 veckor?
-20364831648000000
-Vad är 6.85915 årtionden i årtusenden?
-0.0685915
-Hur många årtusenden finns det i 23058.77 år?
-23.05877
+Hur många milliliter finns det i ett femtedel liter?
+Svaret är: 200
+
+Hur många liter finns det i 0.1327757ml?
+Svaret är: 0.0001327757
+
+Hur många liter finns det i 6930.912 milliliter?
+Svar: 6.930912
+
+Konvertera 901.1414 veckor till minuter.
+Svaret är: 9083505.312
+
+Vad är 3/25 av 1 meter i centimeter?
+Svar: 12
+
+Vad är 19/4 av 1 milligram i mikrogram?
+Svar: 4750
+
+Hur många milliliter finns det i 941911.8 liter?
+Svar: 941911800
+
+Hur många milliliter finns det i 3/10 liter?
+Svaret är: 300
+
+Hur många århundraden finns det i 29/5 årtusende?
+Svaret är: 58
+
+Konvertera 11.02218 ton till gram.
+Svar: 11022180
+
+Hur många årtionden finns det i 1284834.6 månader?
+Svar: 10706.955
+
+Hur många liter finns det i 19551.17 milliliter?
+Svaret är: 19.55117
+
+Konvertera 10078.71km till centimeter.
+Svar: 1007871000
+
+Hur många minuter finns det i sju sjättedelar timme?
+Svar: 70
+
+Hur många milliliter finns det i 3/8 liter?
+Svar: 375
+
+Konvertera 904316.7 liter till milliliter.
+Svar: 904316700
+
+Vad är 26406.69kg i mikrogram?
+Svar: 26406690000000
+
+Vad är 1/5 av 1 meter i centimeter?
+Svar: 20
+
+Hur många årtionden finns det i 7.85379 månader?
+Svar: 0.06544825
+
+Vad är 46/9 av 1 dag i minuter?
+Svaret är: 7360
+
+Vad är 1.52698km i nanometer?
+Svaret är: 1526980000000
+
+Vad är fem fjärdedelar av 1 milligram i mikrogram?
+Svaret är: 1250
+
+Konvertera 259.061463 nanosekunder till dagar.
+Svaret är: 0.0000000000029983965625
+
+Vad är 7/3 av 1 vecka i minuter?
+Svaret är: 23520
+
+Konvertera 99554.85ml till liter.
+Svar: 99.55485
+
+Konvertera 76486.12l till milliliter.
+Svaret är: 76486120
+
+Vad är 4.32996ng i mikrogram?
+Svar: 0.00432996
+
+Vad är 336108.3g i nanogram?
+Svaret är: 336108300000000
+
+Hur många meter finns det i 61/4 kilometer?
+Svaret är: 15250
+
+Vad är 1/4 av 1 centimeter i mikrometer?
+Svar: 2500
+

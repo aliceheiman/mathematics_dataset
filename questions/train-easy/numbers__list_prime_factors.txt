@@ -1,6 +1,90 @@
-Vilka är primtalsfaktorerna till 1909?
-23, 83
-Vilka är primtalsfaktorerna till 6326?
-2, 3163
-Vilka är primtalsfaktorerna till 4635?
-3, 5, 103
+Vilka är primtalsfaktorerna till 161?
+Svaret är: 7, 23
+
+Lista primtalsfaktorerna till 46302.
+Svar: 2, 3, 7717
+
+Vilka är primtalsfaktorerna till 13221?
+Svaret är: 3, 13, 113
+
+Lista primtalsfaktorerna till 45.
+Svar: 3, 5
+
+Vilka är primtalsfaktorerna till 81226?
+Svaret är: 2, 17, 2389
+
+Lista primtalsfaktorerna till 3971.
+Svar: 11, 19
+
+Vilka är primtalsfaktorerna till 2547?
+Svar: 3, 283
+
+Vilka är primtalsfaktorerna till 1665?
+Svar: 3, 5, 37
+
+Lista primtalsfaktorerna till 8226.
+Svar: 2, 3, 457
+
+Lista primtalsfaktorerna till 1682.
+Svar: 2, 29
+
+Vilka är primtalsfaktorerna till 1194?
+Svar: 2, 3, 199
+
+Lista primtalsfaktorerna till 365.
+Svar: 5, 73
+
+Vilka är primtalsfaktorerna till 6364?
+Svaret är: 2, 37, 43
+
+Vilka är primtalsfaktorerna till 83370?
+Svar: 2, 3, 5, 7, 397
+
+Lista primtalsfaktorerna till 723.
+Svar: 3, 241
+
+Vilka är primtalsfaktorerna till 5376?
+Svaret är: 2, 3, 7
+
+Vilka är primtalsfaktorerna till 53532?
+Svar: 2, 3, 1487
+
+Vilka är primtalsfaktorerna till 1173?
+Svar: 3, 17, 23
+
+Lista primtalsfaktorerna till 8608.
+Svaret är: 2, 269
+
+Vilka är primtalsfaktorerna till 15767?
+Svar: 15767
+
+Vilka är primtalsfaktorerna till 13622?
+Svar: 2, 7, 139
+
+Vilka är primtalsfaktorerna till 4908?
+Svar: 2, 3, 409
+
+Lista primtalsfaktorerna till 1792.
+Svar: 2, 7
+
+Vilka är primtalsfaktorerna till 4370?
+Svar: 2, 5, 19, 23
+
+Lista primtalsfaktorerna till 50087.
+Svar: 50087
+
+Vilka är primtalsfaktorerna till 2535?
+Svaret är: 3, 5, 13
+
+Lista primtalsfaktorerna till 3905.
+Svaret är: 5, 11, 71
+
+Vilka är primtalsfaktorerna till 287?
+Svaret är: 7, 41
+
+Lista primtalsfaktorerna till 3293.
+Svar: 37, 89
+
+Lista primtalsfaktorerna till 6570.
+Svaret är: 2, 3, 5, 73
+

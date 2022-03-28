@@ -1,6 +1,90 @@
-Låt i(a) = 6*a**3 + a**2 + 2*a - 2. Antag att y = 3*d - 6, 0 = 5*d - y - 2*y - 14. Låt c vara i(d). Antag att 201 + 103 = 76*o. Lös o*w - 27 = -c för w.
-5
-Låt f = 91 + -86. Antag att 5*p + a = 11, 2*p = p + a + 1. Antag att -4*g - 10 = f*q, p*g = -2*q - 3*q. Lös -q*j = -j för j.
-0
-Antag att -19*q + q + 2*q = 0. Antag att -30 = -4*s - i + 9, -4*s + 4*i + 44 = q. Lös -4*u - s = -30 för u.
-5
+Låt u(p) = p**2 + 8*p - 22. Låt q vara u(3). Antag att 14*g - q*g = 12. Lös 5 = -3*i - g för i.
+Svaret är: -3
+
+Låt y = -16455 - -16457. Låt t = -12 - -20. Antag att 0 = 4*g - 3*v - 25, 2*g + 4*v + t = g. Lös 6 = g*j + y för j.
+Svaret är: 1
+
+Låt a = -16918 - -16948. Lös -a = -14*j + 12 för j.
+Svaret är: 3
+
+Låt l(i) = i**2 + 10*i + 26. Låt m = -240 + 233. Låt w vara l(m). Lös -16*s + w = -11*s för s.
+Svar: 1
+
+Låt s(n) = 16*n**3 + n**2 - 2*n + 1. Låt d vara s(1). Låt m vara (4/(-18))/(1642/(-88668)). Lös m*b - 8*b - d = 0 för b.
+Svaret är: 4
+
+Antag att 0 = 2*h + a + 127, 15*h - 11*h = -3*a - 253. Låt k vara (-5)/(-2)*h/(-32). Lös 0 = k*f - 6*f - 4 för f.
+Svar: -4
+
+Låt p vara 0 - 8 - (10 - 11). Låt j(y) = -y**3 - 7*y**2 + 2*y + 20. Låt q vara j(p). Lös 0 = -2*c + q - 2 för c.
+Svar: 2
+
+Antag att x - 4 = 0, 4*x = -3*l - 50 + 141. Antag att -l*v + 726 = 8*v. Lös v*d + 8 = 24*d för d.
+Svaret är: 4
+
+Antag att 5*x = -3*i + 6*x + 22, -x = 5*i - 26. Lös 0 = -7*g - i*g + 17*g för g.
+Svaret är: 0
+
+Låt x = 1934 + -1801. Lös -8 = x*m - 135*m för m.
+Svaret är: 4
+
+Låt w = 13871 - 13864. Lös 35*p + w = 28*p för p.
+Svaret är: -1
+
+Låt l = 6655 - 6630. Lös 15*r = 10*r - l för r.
+Svaret är: -5
+
+Låt v = -244 - -193. Låt o(m) = 9 - m**2. Låt r vara o(7). Låt t = r - v. Lös 0 = 5*y - 1 + t för y.
+Svar: -2
+
+Låt m = 10822 + -10822. Lös -60*c + 27*c = m för c.
+Svar: 0
+
+Antag att -a + 11*a = 2*a. Antag att 20 - 18 = -2*o + 2*i, a = 5*o - 3*i + 3. Lös o = 2*r - 2 för r.
+Svaret är: 1
+
+Låt q(s) = -4*s - 40. Låt x vara q(-13). Antag att -x*n + 56 = 8. Låt w vara ((-96)/9)/n*(-72)/32. Lös w = r + r för r.
+Svaret är: 3
+
+Antag att t - 3*b + 14 = 0, 0 = -t + 14*b - 17*b - 32. Låt c(v) = -10*v - 222. Låt q vara c(t). Lös 0*r = -q*r + 40 för r.
+Svar: 5
+
+Låt j = -4534 - -4742. Lös -j*d - 18 = -214*d för d.
+Svaret är: 3
+
+Låt q vara -7 + 10 + -5 - (28 + 0). Låt z vara (-50)/q - (2 + 7/(-3)). Låt c(j) = 3*j - 3. Låt g vara c(z). Lös 2 = 5*a - g för a.
+Svaret är: 1
+
+Antag att d + 21 = -0*d + 4*z, 2*z = -d - 9. Låt t(q) = -2*q - 22. Låt w vara t(d). Antag att -l = -a + w, 4*a - l - 11 = -1. Lös a = 5*k - 8 för k.
+Svar: 2
+
+Antag att -72 = -47*f + 58 - 36. Lös -53*r = -54*r + f för r.
+Svaret är: 2
+
+Låt r vara 118/18 - (-272)/(-340)*15/(-27). Lös -r*m - 25 = -81 för m.
+Svar: 8
+
+Antag att 131 = 19*c - 6*c - 12. Lös 19*t - 32 = c*t för t.
+Svaret är: 4
+
+Låt d(a) = 4*a + 46. Låt t(u) = u + 1. Låt c(j) = d(j) - 2*t(j). Låt v(z) = 10 - 10*z. Låt w vara v(3). Låt o vara c(w). Lös -2 = 2*n + o för n.
+Svar: -3
+
+Antag att -5 = -55*d + 70 + 365. Lös 7*j + d = 11*j för j.
+Svar: 2
+
+Låt q vara (-4240)/(-100) - (-1 + (-6)/(-15)). Lös 40*z - 3 = q*z för z.
+Svaret är: -1
+
+Antag att s + 71 = 3*l, 3*s + 23 = -5*l + 146. Lös l*c - 5*c = 95 för c.
+Svar: 5
+
+Antag att 4350*g = 4339*g + 22. Antag att -6*h - 9 = -9*h. Lös -h*i + g*i - 3 = 0 för i.
+Svaret är: -3
+
+Låt q vara 4/(-3)*-117 + -4. Låt n = q + -150. Lös c - 3 = n för c.
+Svaret är: 5
+
+Antag att 237 - 73 = -41*d. Låt o vara (-12)/(-18)*(-30)/d. Lös -o*a - 10 = -0*a för a.
+Svaret är: -2
+

@@ -1,6 +1,90 @@
-Vilket är det tredje största värdet?  (a) -1/5  (b) 1/36  (c) -2/19  (d) -1  (e) 3  (f) 13/6
-b
-Vad är det andra största värdet i 6, 5/9, 0.3, 4, -0.4?
-4
-Vilket är det största värdet?  (a) 1/4  (b) -2/61  (c) 55
-c
+Vad är det fjärde minsta värdet i 212, -1/3, 1/12, 2/57, -1.6?
+Svar: 1/12
+
+Vad är det femte minsta värdet i -1, -8, -86, -5, 24/11, -3?
+Svar: -1
+
+Vad är det fjärde minsta värdet i 4, 6, 1/5, 19.92, -5?
+Svar: 6
+
+Vad är det största värdet i 0.735, -0.6, -3?
+Svar: 0.735
+
+Vilket är det största värdet?  (a) 4  (b) 0.3  (c) -29878/5
+Svaret är: a
+
+Vad är det största värdet i -4, 1/10, 2, 122, -0.042, -5?
+Svar: 122
+
+Vilket är det femte minsta värdet?  (a) -5  (b) -4/7  (c) 4  (d) 1  (e) 16/9  (f) -7
+Svaret är: e
+
+Vad är det största värdet i 1/459, -4, -0.07?
+Svar: 1/459
+
+Vilket är det tredje största värdet?  (a) -1988  (b) 3/8  (c) -4
+Svaret är: a
+
+Vilket är det minsta värdet?  (a) 0  (b) -1/5131  (c) -13
+Svar: c
+
+Vad är det fjärde minsta värdet i 5, -1/12, 0.09961, 0.3, 5/6?
+Svar: 5/6
+
+Vilket är det tredje minsta värdet?  (a) -2  (b) -2/17  (c) -2/13  (d) 62071
+Svar: b
+
+Vilket är det minsta värdet?  (a) -123  (b) -7  (c) -1770
+Svar: c
+
+Vad är det tredje minsta värdet i -3, 3, 1422, 4?
+Svar: 4
+
+Vad är det andra största värdet i 32, 0.4, -5, 140?
+Svaret är: 32
+
+Vilket är det största värdet?  (a) 3586  (b) -3  (c) -0.01  (d) -5
+Svaret är: a
+
+Vilket är det andra minsta värdet?  (a) -1  (b) -13  (c) 5  (d) 0.07  (e) 6/11
+Svar: a
+
+Vilket är det femte minsta värdet?  (a) 4  (b) 5/2  (c) -1310/3  (d) 4/7  (e) -0.5
+Svaret är: a
+
+Vilket är det tredje största värdet?  (a) -1/2  (b) 0.2  (c) -3  (d) -1  (e) -1/1492
+Svaret är: a
+
+Vad är det fjärde största värdet i -2/7, 2, -2.3, 1/3, -13.6, 5?
+Svar: -2/7
+
+Vilket är det fjärde största värdet?  (a) -519  (b) -0.4  (c) 2/15  (d) -738
+Svar: d
+
+Vilket är det tredje största värdet?  (a) 2/151  (b) 2/11  (c) 0.5  (d) -1
+Svaret är: a
+
+Vilket är det tredje största värdet?  (a) -78  (b) 4  (c) 2/3  (d) 2/9  (e) 0.1
+Svaret är: d
+
+Vilket är det andra minsta värdet?  (a) 15  (b) 3  (c) -351
+Svar: b
+
+Vad är det tredje minsta värdet i 1/5, -1/3, 1, -2/7, -147, -0.2?
+Svaret är: -2/7
+
+Vilket är det sjätte minsta värdet?  (a) 0.4  (b) 4/5  (c) -4  (d) 0.5  (e) -1  (f) -3
+Svar: b
+
+Vad är det fjärde minsta värdet i -5/3, -0.0405, -0.08, 0.4, -0.5?
+Svaret är: -0.0405
+
+Vad är det tredje största värdet i 9, 4/15, 0.07, 4?
+Svar: 4/15
+
+Vad är det fjärde största värdet i 4, 53, -3, 2/13, -1?
+Svaret är: -1
+
+Vilket är det tredje största värdet?  (a) -108  (b) 6.1  (c) -1
+Svar: a
+

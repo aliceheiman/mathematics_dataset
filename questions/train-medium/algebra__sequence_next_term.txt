@@ -1,6 +1,90 @@
-Vad kommer näst i 629, 875, 1113, 1337, 1541, 1719?
-1865
-Vad kommer näst i -78, -748, -2556, -6072, -11866, -20508, -32568, -48616?
--69222
-Vad kommer näst i -3417, -3434, -3453, -3474, -3497?
--3522
+Vad är nästa term i -3250, -3239, -3228, -3217, -3206, -3195?
+Svar: -3184
+
+Vad kommer näst i 1549, 1718, 1901, 2104, 2333, 2594, 2893?
+Svaret är: 3236
+
+Vad är nästa term i 24313, 97227, 218749, 388879, 607617?
+Svaret är: 874963
+
+Vad är nästa term i -5255, -5371, -5573, -5867, -6259, -6755?
+Svar: -7361
+
+Vad kommer näst i 2017, 4419, 6813, 9193, 11553?
+Svaret är: 13887
+
+Vad är nästa term i -502, -431, -312, -145, 70, 333?
+Svar: 644
+
+Vad är nästa term i 873, 1311, 1751, 2193?
+Svaret är: 2637
+
+Vad kommer näst: 44, -305, -888, -1705, -2756, -4041, -5560?
+Svar: -7313
+
+Vad kommer näst: 6803, 6821, 6851, 6893, 6947?
+Svar: 7013
+
+Vad är nästa term i -4091, -4058, -4035, -4028, -4043, -4086?
+Svaret är: -4163
+
+Vad kommer näst i 27595, 55063, 82521, 109963, 137383, 164775?
+Svaret är: 192133
+
+Vad kommer näst i 280, 533, 762, 967?
+Svar: 1148
+
+Vad kommer näst i 407, 459, 551, 683, 855, 1067?
+Svar: 1319
+
+Vad kommer näst: 231, 907, 2037, 3621, 5659?
+Svar: 8151
+
+Vad kommer näst i -22794, -45731, -68666, -91599, -114530, -137459?
+Svaret är: -160386
+
+Vad kommer näst i -2226, -2243, -2284, -2361, -2486, -2671?
+Svar: -2928
+
+Vad kommer näst i 307, 645, 983, 1321?
+Svaret är: 1659
+
+Vad kommer näst i 5459, 5507, 5581, 5675, 5783, 5899, 6017, 6131?
+Svaret är: 6235
+
+Vad kommer näst: -2114, -2102, -2090, -2078?
+Svaret är: -2066
+
+Vad är nästa term i -2379, -2391, -2411, -2439, -2475?
+Svaret är: -2519
+
+Vad är nästa term i 226, 673, 1320, 2167, 3214, 4461?
+Svaret är: 5908
+
+Vad kommer näst i -136227, -272452, -408677?
+Svaret är: -544902
+
+Vad kommer näst i 149124, 149121, 149118, 149115, 149112, 149109?
+Svar: 149106
+
+Vad kommer näst i -3337, -6680, -10023, -13366, -16709, -20052?
+Svar: -23395
+
+Vad kommer näst i 8398, 8259, 8012, 7651, 7170, 6563, 5824?
+Svar: 4947
+
+Vad kommer näst i -14, -204, -718, -1718, -3366?
+Svaret är: -5824
+
+Vad är nästa term i 1132, 2266, 3400, 4534, 5668, 6802?
+Svar: 7936
+
+Vad kommer näst i 1523, 3050, 4577?
+Svaret är: 6104
+
+Vad kommer näst: 91, 69, 69, 91, 135, 201?
+Svar: 289
+
+Vad kommer näst: 165003, 330005, 495007, 660009?
+Svaret är: 825011
+

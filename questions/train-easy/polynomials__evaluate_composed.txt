@@ -1,6 +1,90 @@
-Antag att -3*x = 2*s - x + 50, -5*x + 15 = 0. Låt m vara 63/s*8/3. Låt y(r) = r - 6. Beräkna y(m).
--12
-Låt r(c) = c. Låt w(h) = 1 + 4 - 1 + 2*h. Låt k vara w(-3). Bestäm r(k).
--2
-Låt t(a) = a**3 + 7*a**2 + 6*a. Låt l vara (1/(-2))/((-1)/(-10)). Vad är t(l)?
-20
+Låt f(g) = g - 11. Låt k = 26 + -18. Ange f(k).
+Svaret är: -3
+
+Låt j vara -2 + -1 + 1 - -7. Antag att -10 = 2*p + j*w, -7*p - 6 = -2*p + 3*w. Låt r(s) = -4 + 0 + p*s + 1 - s. Bestäm r(-4).
+Svar: 1
+
+Låt u(s) = s - 3. Låt t(d) = 4*d - 26. Låt b vara t(8). Bestäm u(b).
+Svaret är: 3
+
+Låt y(u) vara andraderivatan av u**4/12 - u**2 - 61*u. Bestäm y(-3).
+Svar: 7
+
+Låt p(m) = m**3 - 6*m**2 - 5*m - 10. Antag att -3*n - 7 = -4*n. Beräkna p(n).
+Svaret är: 4
+
+Antag att 4*c - 26 = -2*y, -4*c = 2*y - y - 21. Låt o(u) = -u**2 - 5*u + 2. Låt l vara o(-4). Låt x(t) = 3*t**2 - l*t**2 - 2*t**2 + t**3 - 5 + t. Vad är x(y)?
+Svar: 0
+
+Antag att 0 = v - 2 - 0. Låt z(h) vara andraderivatan av 0 - v*h - 1/3*h**3 - 1/2*h**2 - 1/12*h**4. Bestäm z(-2).
+Svar: -1
+
+Låt p(f) vara förstaderivatan av -15*f**2 - f + 11. Vad är p(1)?
+Svaret är: -31
+
+Låt v(m) vara tredjederivatan av -m**7/280 + m**6/360 - m**5/120 + m**4/12 - 5*m**2. Låt l(b) vara andraderivatan av v(b). Vad är l(1)?
+Svar: -8
+
+Låt x(k) = 3*k - k**2 + 0*k + 1 + k. Låt j(z) = 3*z + 1 - 6*z - z. Låt i vara j(-1). Bestäm x(i).
+Svar: -4
+
+Låt a(z) vara tredjederivatan av -z**4/3 - z**3/6 - 34*z**2. Beräkna a(2).
+Svaret är: -17
+
+Låt q(o) vara andraderivatan av -o**4/12 + 2*o**3/3 - 3*o**2/2 - o. Antag att 7 = -2*g + 3*g. Antag att g*h = 4*h + 9. Vad är q(h)?
+Svaret är: 0
+
+Låt f(u) = -u**2 + 5*u - 2. Låt v = -40 + 44. Beräkna f(v).
+Svaret är: 2
+
+Antag att 3*r = -0*r - 6. Låt n vara r + 0 + 3 - -1. Låt p(t) = 4*t + 1. Beräkna p(n).
+Svaret är: 9
+
+Låt o(z) = -4*z**3 + 2*z**2 - 1. Låt h vara o(-1). Antag att -h*r + 7 + 13 = 0. Låt c(l) = -2 + 0*l**2 + 4 + r - l**2 - l. Vad är c(0)?
+Svaret är: 6
+
+Låt x(n) = -3*n - 4 + n**2 + 8*n + 6. Låt j = -3 + 0. Låt z vara 13/j + (-4)/6. Bestäm x(z).
+Svaret är: 2
+
+Låt a = 6 - 3. Antag att 2*p = -1 - a, -5*p - 30 = -5*i. Låt b(n) = n**2 - 2*n + 2 - i - n. Ange b(3).
+Svaret är: -2
+
+Låt p(c) = 2*c - 9 + 1 - 2*c**2 + 6 + 0. Bestäm p(2).
+Svaret är: -6
+
+Låt x(q) vara andraderivatan av -q**4/12 - 5*q**3/6 + 5*q**2/2 - q. Antag att -8 = -0*y - 4*y. Antag att 3 = -g - y. Vad är x(g)?
+Svaret är: 5
+
+Antag att -5*n + 10*n - 10 = -3*l, 4*l + 4*n = 0. Låt o(b) vara andraderivatan av b**5/20 + 5*b**4/12 + b**3/3 + 7*b**2/2 + 159*b. Ange o(l).
+Svar: -3
+
+Låt w(f) vara andraderivatan av 1/2*f**2 + 5/12*f**4 + 1/6*f**3 + 2*f + 0. Antag att -10 = -2*z - 12. Ange w(z).
+Svar: 5
+
+Låt q(o) vara tredjederivatan av o**9/60480 - o**8/3360 + o**7/1680 + o**6/720 + o**5/20 - 5*o**2. Låt s(v) vara tredjederivatan av q(v). Beräkna s(5).
+Svaret är: -9
+
+Låt c(g) = -g**3 - 6*g**2 + 8*g + 9. Låt x vara c(-7). Låt b(j) vara förstaderivatan av 2*j**3 - 2*j + 3*j**x + 1/4*j**4 - 4. Ange b(-5).
+Svaret är: -7
+
+Låt x(d) = -d - 4. Låt s vara x(-10). Låt k(a) = 4 - a. Ange k(s).
+Svaret är: -2
+
+Låt a(r) = 4*r + 1. Låt w vara 4 + 7/(7/(-2)). Beräkna a(w).
+Svaret är: 9
+
+Låt f(j) vara tredjederivatan av -j**6/40 - j**5/20 + j**4/24 + j**3/3 + j**2. Antag att -1 + 5 = 2*m. Antag att -m*r - 6 = r. Bestäm f(r).
+Svar: 12
+
+Låt s(c) = 1 - c. Låt p(b) = -b - 10. Låt i(g) = -p(g) + 2*s(g). Beräkna i(11).
+Svaret är: 1
+
+Låt r vara (-8)/12*6 - -14. Låt j = r - 13. Låt m(k) = 3 - 2*k. Beräkna m(j).
+Svar: 9
+
+Låt z(u) vara förstaderivatan av 3*u**6/40 - u**3/6 + u**2/2 + 4. Låt x(a) vara andraderivatan av z(a). Bestäm x(1).
+Svar: 8
+
+Låt n(w) = 3*w + 3. Låt g vara (3/(-2))/(12/16). Låt u vara n(g). Låt c(x) = x**2 + x - 1. Låt v vara c(u). Låt j(h) = -h**2 + 6*h - 1. Bestäm j(v).
+Svaret är: 4
+

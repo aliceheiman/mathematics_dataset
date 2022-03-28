@@ -1,6 +1,90 @@
-Vad är 0.001967234 avrundat till 6 decimaler?
-0.001967
-Vad är 379668970 avrundat till det närmsta 100000?
-379700000
-Avrunda -0.0000094945619 till sex decimaler.
--0.000009
+Vad är -0.70579 avrundat till två decimaler?
+Svaret är: -0.71
+
+Avrunda -30369.83 till det närmsta tusentalet.
+Svaret är: -30000
+
+Avrunda 1117425.2 till det närmsta 1000.
+Svar: 1117000
+
+Vad är -6.12823 avrundat till ett decimal?
+Svaret är: -6.1
+
+Avrunda -0.00004570849 till 7 decimaler.
+Svar: -0.0000457
+
+Vad är -0.00526075 avrundat till tre decimaler?
+Svar: -0.005
+
+Vad är 71.3585 avrundat till det närmsta heltalet?
+Svar: 71
+
+Vad är -75.954227 avrundat till ett decimal?
+Svaret är: -76
+
+Avrunda -0.00000027121 till 7 decimaler.
+Svaret är: -0.0000003
+
+Vad är -0.3165831 avrundat till 2 decimaler?
+Svar: -0.32
+
+Vad är 11.153179 avrundat till tre decimaler?
+Svaret är: 11.153
+
+Vad är -2333.9 avrundat till det närmsta hundratalet?
+Svaret är: -2300
+
+Avrunda -40.560658 till två decimaler.
+Svar: -40.56
+
+Vad är -0.0268471 avrundat till 3 decimaler?
+Svar: -0.027
+
+Avrunda 17153.82 till det närmsta tiotalet.
+Svaret är: 17150
+
+Avrunda 201891340 till det närmsta miljontalet.
+Svar: 202000000
+
+Vad är 262.93108 avrundat till det närmsta heltalet?
+Svar: 263
+
+Avrunda 0.5493895 till 2 decimaler.
+Svar: 0.55
+
+Avrunda -3204601 till det närmsta tiotusentalet.
+Svaret är: -3200000
+
+Vad är 0.00005209 avrundat till 3 decimaler?
+Svar: 0
+
+Vad är -0.0559645 avrundat till två decimaler?
+Svaret är: -0.06
+
+Vad är 5494637.3 avrundat till det närmsta tusentalet?
+Svar: 5495000
+
+Avrunda 8192786.6 till det närmsta 1000.
+Svaret är: 8193000
+
+Vad är 4849650 avrundat till det närmsta miljontalet?
+Svaret är: 5000000
+
+Vad är 211679000 avrundat till det närmsta miljontalet?
+Svar: 212000000
+
+Avrunda 0.001069098 till 4 decimaler.
+Svar: 0.0011
+
+Vad är -5935875000 avrundat till det närmsta miljontalet?
+Svar: -5936000000
+
+Vad är -3.851575 avrundat till 2 decimaler?
+Svaret är: -3.85
+
+Vad är -215272800 avrundat till det närmsta hundratusentalet?
+Svar: -215300000
+
+Avrunda 0.00000173074 till 7 decimaler.
+Svar: 0.0000017
+

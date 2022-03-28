@@ -1,6 +1,90 @@
-Vad är den tredje roten av 2534481448 till det närmsta heltalet?
-1363
-Vad är den åttonde roten av 1159064872 till det närmsta heltalet?
-14
-Vad är 408469517 upphöjt i 1/4, till det närmsta heltalet?
-142
+Vad är den tredje roten av 4849578734 till det närmsta heltalet?
+Svar: 1693
+
+Vad är 19513219 upphöjt i 1/6, till det närmsta heltalet?
+Svaret är: 16
+
+Vad är kubikroten av 182515512 till det närmsta heltalet?
+Svaret är: 567
+
+Vad är 50789440 upphöjt i 1/5, till det närmsta heltalet?
+Svaret är: 35
+
+Vad är 4197978324 upphöjt i 1/7, till det närmsta heltalet?
+Svar: 24
+
+Vad är kubikroten av 6424925579 till det närmsta heltalet?
+Svaret är: 1859
+
+Vad är kvadratroten av 46438149 till det närmsta heltalet?
+Svar: 6815
+
+Vad är 54819372 upphöjt i 1/6, till det närmsta heltalet?
+Svar: 19
+
+Vad är kubikroten av 217843175 till det närmsta heltalet?
+Svaret är: 602
+
+Vad är 34291007 upphöjt i 1/2, till det närmsta heltalet?
+Svaret är: 5856
+
+Vad är 876259754 upphöjt i 1/2, till det närmsta heltalet?
+Svaret är: 29602
+
+Vad är 114852977 upphöjt i 1/7, till det närmsta heltalet?
+Svar: 14
+
+Vad är den femte roten av 47536673 till det närmsta heltalet?
+Svaret är: 34
+
+Vad är 292126880 upphöjt i 1/9, till det närmsta heltalet?
+Svaret är: 9
+
+Vad är kvadratroten av 90733008 till det närmsta heltalet?
+Svar: 9525
+
+Vad är den sjätte roten av 2663311597 till det närmsta heltalet?
+Svaret är: 37
+
+Vad är den femte roten av 77137908 till det närmsta heltalet?
+Svaret är: 38
+
+Vad är kvadratroten av 257135163 till det närmsta heltalet?
+Svaret är: 16035
+
+Vad är den tionde roten av 3230861312 till det närmsta heltalet?
+Svar: 9
+
+Vad är kvadratroten av 614226682 till det närmsta heltalet?
+Svaret är: 24784
+
+Vad är den sjätte roten av 1414367930 till det närmsta heltalet?
+Svaret är: 34
+
+Vad är den sjunde roten av 383324280 till det närmsta heltalet?
+Svaret är: 17
+
+Vad är 10799445 upphöjt i 1/2, till det närmsta heltalet?
+Svaret är: 3286
+
+Vad är den sjunde roten av 2202021337 till det närmsta heltalet?
+Svar: 22
+
+Vad är 37339987 upphöjt i 1/6, till det närmsta heltalet?
+Svaret är: 18
+
+Vad är 109484511 upphöjt i 1/9, till det närmsta heltalet?
+Svar: 8
+
+Vad är den tredje roten av 93238460 till det närmsta heltalet?
+Svar: 453
+
+Vad är kvadratroten av 19660214 till det närmsta heltalet?
+Svar: 4434
+
+Vad är den femte roten av 968712083 till det närmsta heltalet?
+Svaret är: 63
+
+Vad är kvadratroten av 3025234660 till det närmsta heltalet?
+Svaret är: 55002
+

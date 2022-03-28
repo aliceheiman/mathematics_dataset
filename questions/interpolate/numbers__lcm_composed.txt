@@ -1,20 +1,300 @@
-Antag att -22486 - 13291 = -7*z. Beräkna den minsta gemensamma faktorn till z och 5.
-25555
-Antag att 2*o + 2*l = 158, 2*o - 4*l - 13 = 139. Beräkna den minsta gemensamma faktorn till 38 och o.
-1482
-Bestäm den gemensamma nämnaren till 91/174 och 10590/(-1890) + 6/(-21).
-522
-Låt p = 42 - 24. Låt x = 83 + -93. Beräkna den minsta gemensamma faktorn till (-8)/x - 64/(-20) och p.
-36
-Låt r = 634 + -41891/66. Vilken är den gemensamma nämnaren till r och -12/121?
-726
-Låt f = 24003850/319 - 75247. Vilken är den gemensamma nämnaren till f och 37/232?
-2552
-Låt k(c) = c**3 + 5*c**2 + 7*c + 7. Låt j vara k(-4). Antag att -4*u + 0 = -88. Vilken är den minsta gemensamma faktorn till j/(-2)*(-5)/(75/(-96)) och u?
-176
-Låt n = 1946 - 1932. Låt q = -41 - -61. Beräkna den minsta gemensamma faktorn till n och q.
-140
-Låt l = -337359659/824 + 409417. Beräkna den gemensamma nämnaren till -143/36 och l.
-7416
-Låt b = 255433/18 + -14196. Låt l vara ((-10)/(-111))/(104/(-36)). Låt s = l - -26725/8658. Beräkna den gemensamma nämnaren till s och b.
-18
+Antag att 4*l = 50 - 6. Antag att 15182 = -l*p + 13*p. Låt z = p - 151757/20. Beräkna den gemensamma nämnaren till 91/18 och z.
+Svaret är: 180
+
+Antag att 4*a + 4261 = 27*a - 1535. Vilken är den minsta gemensamma faktorn till 15 och a?
+Svar: 1260
+
+Låt u vara ((-16)/40)/((-3)/(-60)). Bestäm den gemensamma nämnaren till (2 - 138/u)*1 och 121/10.
+Svar: 20
+
+Vilken är den minsta gemensamma faktorn till 378 och ((-112)/(-80))/(1/5) - (-8 + 5)?
+Svar: 1890
+
+Antag att 8141*f - 1000 = 8131*f. Beräkna den minsta gemensamma faktorn till 60 och f.
+Svaret är: 300
+
+Låt j = 206632371/101452 - 5/50726. Låt x = j + -2054. Bestäm den gemensamma nämnaren till x och 75/2.
+Svar: 4
+
+Låt h = -294398 - -132479161/450. Vilken är den gemensamma nämnaren till h och 71/450?
+Svar: 450
+
+Vilken är den gemensamma nämnaren till 314*(-1)/384 - 2/(-8) och 45/16?
+Svaret är: 192
+
+Låt k(g) = 21 - 30*g. Låt v vara k(3). Låt w = v + 71. Antag att 0 = 5*b + a - 17, 0*b + 3*a + 25 = 4*b. Vilken är den minsta gemensamma faktorn till b och w?
+Svar: 4
+
+Låt n = -153 + 219. Antag att 3*u + 12 = n. Beräkna den minsta gemensamma faktorn till (-1)/(2 + -3) + 7 och u.
+Svar: 72
+
+Låt o(w) = w**2 + 8*w + 39. Låt y vara o(-14). Låt a = -113 + y. Låt j(f) = 1 - 3*f**3. Vilken är den minsta gemensamma faktorn till j(-1) och a?
+Svaret är: 20
+
+Antag att -j - 1 + 3 = 0. Antag att 30 = 10*t - 20. Antag att -28 = -2*m + j*v, t*m + 3*v - 14 = 48. Beräkna den minsta gemensamma faktorn till 6 och m.
+Svar: 78
+
+Antag att 41*k = -20003 + 276909. Beräkna den minsta gemensamma faktorn till k och 22.
+Svar: 68926
+
+Låt c = 3 + -3. Antag att -12*s = -5*s - 70. Antag att 4*f - d - 18 = c, -d - s = 4*d. Vilken är den minsta gemensamma faktorn till f och 3?
+Svaret är: 12
+
+Antag att -n - 59 = -5*f - 15, 0 = f + n - 10. Antag att 2*b = 21 + f. Beräkna den minsta gemensamma faktorn till 15 och b.
+Svar: 15
+
+Vilken är den gemensamma nämnaren till ((-8)/(-36) - 88/18)*(-54)/912 och 49/418?
+Svar: 836
+
+Vilken är den gemensamma nämnaren till (2/279)/(172/11094) och 85/558?
+Svar: 558
+
+Låt y = 8094031844301143/100 - 80941628452949. Låt z = y + 1309997452. Låt l = z - -12485. Bestäm den gemensamma nämnaren till -13/20 och l.
+Svar: 100
+
+Antag att 2*q - 349 = -c - 321, -5*c + q = -74. Beräkna den minsta gemensamma faktorn till c och (-16)/(-3)*3/2.
+Svar: 16
+
+Antag att -4*p = 4*k - 676, 3*k + k - 673 = -3*p. Låt h = k - 118. Vilken är den minsta gemensamma faktorn till 4 och h?
+Svaret är: 48
+
+Låt p = 3383 + -3377. Låt q(s) = 4*s**2 + s - 1. Beräkna den minsta gemensamma faktorn till q(1) och p.
+Svaret är: 12
+
+Vilken är den gemensamma nämnaren till ((-8)/6 + 1)/((-176)/(-156)) och (-39)/78 - (27/(-20) - -1)?
+Svar: 220
+
+Låt g = 3465 - 13783/4. Bestäm den gemensamma nämnaren till g och 151/216.
+Svar: 216
+
+Låt d = -189 - -357. Antag att 4*f + 0 + d = 0. Låt m = f - -44. Beräkna den minsta gemensamma faktorn till 4 och m.
+Svar: 4
+
+Antag att 0 = 11*o + 161 + 202. Antag att 5*u - 22 = 3*q, 0 + 9 = 4*q + u. Bestäm den gemensamma nämnaren till 18/5 och 3/(q*3/o).
+Svar: 5
+
+Låt o = -1594 - -1818. Vilken är den minsta gemensamma faktorn till o och 308?
+Svar: 2464
+
+Låt k vara ((-63)/(-14) + -4)/((-2)/(-792)). Antag att 0 = 51*w - 57*w + k. Beräkna den minsta gemensamma faktorn till w och 3.
+Svar: 33
+
+Antag att -p + 44 - 313 = -b, -3*p = -5*b + 1347. Vilken är den minsta gemensamma faktorn till b och 81?
+Svar: 810
+
+Låt d = 197/77 - -12/7. Låt k vara (6/(-4))/((-12)/(-32)). Vilken är den gemensamma nämnaren till d och ((-2)/k)/((-15)/369)?
+Svaret är: 110
+
+Antag att -21 = -4*c + 175. Låt r(q) = 47*q + 57. Låt m vara r(0). Låt w = m - c. Beräkna den minsta gemensamma faktorn till w och 6.
+Svaret är: 24
+
+Låt y(d) = 18*d + 62. Låt l(j) = -6*j**3 - j**2 - 3*j - 2. Låt o vara l(-2). Antag att 7*p - o = 4*p. Vilken är den minsta gemensamma faktorn till p och y(-3)?
+Svar: 16
+
+Antag att -2*h - 5 = -i, -4*i - h + 40 = -4*h. Låt g = -27 + 38. Antag att 3*a - 44 + g = 0. Vilken är den minsta gemensamma faktorn till i och a?
+Svar: 143
+
+Låt f(q) = 53*q**2 - 12*q + 39. Vilken är den minsta gemensamma faktorn till f(3) och 10?
+Svaret är: 480
+
+Vilken är den gemensamma nämnaren till -73/56 och (-6)/2 + (-118243)/(-48336) + (-2)/(-6)?
+Svaret är: 2128
+
+Antag att -s + 0*s = -27. Vilken är den minsta gemensamma faktorn till 10 + ((-77)/(-11) - -1) och s?
+Svar: 54
+
+Låt n = 808/45 + -91/5. Bestäm den gemensamma nämnaren till -26/153 och n.
+Svaret är: 765
+
+Låt b(r) = 1362*r - 310. Beräkna den minsta gemensamma faktorn till b(2) och 8.
+Svaret är: 9656
+
+Låt r = 997/138 - -175/23. Beräkna den gemensamma nämnaren till r och ((-8)/(-1))/(-8) - ((-21)/98 + 1).
+Svar: 42
+
+Antag att -4*w - q = -0 - 66, 3*q - 6 = 0. Låt i vara (-19)/2 + 3/6. Låt f = i + 39. Vilken är den minsta gemensamma faktorn till w och f?
+Svaret är: 240
+
+Låt h = 2/5503 + 38111/1128115. Vilken är den gemensamma nämnaren till h och -1/123?
+Svaret är: 615
+
+Låt g = 181 - 95. Antag att -4*i + 5*q - g = 0, q + 4*q = -4*i - 106. Beräkna den gemensamma nämnaren till i och 1209/(-270) + (-4)/18.
+Svar: 10
+
+Låt b(m) = 15*m + 27. Låt i vara b(-2). Beräkna den gemensamma nämnaren till (-1)/6*133/(-4) och 495/(-126) - 9/i.
+Svar: 168
+
+Vilken är den gemensamma nämnaren till 8/7 och (-30)/28*413/(-4602)?
+Svar: 364
+
+Låt d = 16 + -14. Låt z(t) = 2*t**3 - 5*t**2 + 8*t - 2. Beräkna den minsta gemensamma faktorn till z(d) och 11.
+Svar: 110
+
+Antag att 3*m + 3 = -9. Beräkna den gemensamma nämnaren till 2/(-24)*(-4 + (13 - m)) och -11/10.
+Svaret är: 60
+
+Låt t(s) = -s**3 - 32*s**2 - 30*s + 373. Vilken är den minsta gemensamma faktorn till 38 och t(-31)?
+Svaret är: 342
+
+Vilken är den minsta gemensamma faktorn till 90 och ((-20)/(-15) + -2)*-141 - 4?
+Svar: 90
+
+Låt d(q) = 20*q - 672. Vilken är den minsta gemensamma faktorn till 210 och d(36)?
+Svar: 1680
+
+Låt g = 17594/177 - 298/3. Låt q = g - -199/1416. Bestäm den gemensamma nämnaren till q och 0 + 1 + (-183)/36.
+Svar: 24
+
+Låt m = 2241 - 2229. Vilken är den minsta gemensamma faktorn till 147 och m?
+Svar: 588
+
+Antag att 13*a - 166 = -36. Beräkna den minsta gemensamma faktorn till 6 - -1 - (13 - a) och 223.
+Svar: 892
+
+Låt d(a) = 22*a - 86. Låt s vara d(5). Beräkna den minsta gemensamma faktorn till (3/s)/1 + (-105)/(-56) och 8.
+Svaret är: 8
+
+Antag att 4*j = -5*g + 74, 2*g - j = 4*j + 56. Låt r(n) = 5*n**3 - 25*n**2 + 24*n - 114. Beräkna den minsta gemensamma faktorn till g och r(5).
+Svar: 18
+
+Låt i(c) = 30*c - 21. Låt t vara i(3). Bestäm den gemensamma nämnaren till 14/15 och (t/25 + -3)/(6/3).
+Svar: 75
+
+Antag att -3*g + 671 = -3*v - 1945, g - 3*v - 872 = 0. Beräkna den minsta gemensamma faktorn till g och 4.
+Svaret är: 872
+
+Antag att 4*z - 2*g = 184, -4*z = -0*z + 4*g - 184. Låt k(a) = a**3 + 137*a**2 + 910*a + 4. Vilken är den minsta gemensamma faktorn till k(-130) och z?
+Svaret är: 92
+
+Låt h(o) = 8*o - 4. Låt n vara h(1). Låt g = -1195 + 28687/24. Vilken är den gemensamma nämnaren till (27/810)/(n/(-1030)) och g?
+Svar: 24
+
+Låt w(l) = -l - 15. Låt j vara w(-13). Låt y(i) = -i - 7. Låt b vara y(-8). Beräkna den gemensamma nämnaren till 67/4 och (35/12 - j) + b/(-6).
+Svaret är: 4
+
+Låt z = 82 - 42. Låt c = 64989 - 64978. Vilken är den minsta gemensamma faktorn till z och c?
+Svaret är: 440
+
+Låt m = -157 - -157. Antag att -6*a + 2*a + 4 = m, 4*n - 121 = -a. Beräkna den minsta gemensamma faktorn till 30 och n.
+Svaret är: 30
+
+Låt g(h) = -2*h**3 - 93*h**2 - 45*h + 62. Beräkna den minsta gemensamma faktorn till 96 och g(-46).
+Svaret är: 96
+
+Låt a vara 4/(1 + (-121)/123). Antag att 3*z - 2*z - a = 5*b, -5*b - 4*z = 241. Låt o = 63 + b. Vilken är den minsta gemensamma faktorn till 14 och o?
+Svaret är: 14
+
+Antag att 3*i - 1325 = 5*r, -1672 = -4*i + 5*r + 103. Vilken är den minsta gemensamma faktorn till 450 och i?
+Svar: 450
+
+Låt c = 14/17 - 722/51. Låt s = c - -45/2. Vilken är den gemensamma nämnaren till s och -51/29?
+Svar: 174
+
+Låt b = 7 + -3. Antag att -d + 7 = 4*h, -10 + 20 = 4*d - 2*h. Beräkna den minsta gemensamma faktorn till b och d.
+Svar: 12
+
+Låt l(t) = 6*t + 8. Låt m = 34 - 27. Låt c vara l(m). Vilken är den minsta gemensamma faktorn till c/5 + (-2 - -3) och 9?
+Svar: 99
+
+Låt l = -180498757/380 - -474997. Beräkna den gemensamma nämnaren till l och -69/20.
+Svar: 380
+
+Låt v(m) = -6*m**3 + 23*m**2 + 29*m + 32. Låt y(f) = -f**3 + f. Låt q(a) = v(a) - 5*y(a). Vilken är den minsta gemensamma faktorn till q(24) och 28?
+Svar: 224
+
+Antag att -c - 140 = 4*f, 7*f - 260 = 2*c + 5*f. Låt s = c - -286. Beräkna den minsta gemensamma faktorn till 6 och s.
+Svar: 462
+
+Bestäm den gemensamma nämnaren till -1 + 66/(-45) - 0 och (332/(-81) + (-14 - -18))*-24.
+Svar: 135
+
+Låt r = 63281/18 - 3514. Låt q = -1 + -32. Bestäm den gemensamma nämnaren till (494/171)/(4/q) och r.
+Svar: 18
+
+Låt c vara 3/((45/(-130))/(-3)). Antag att v - k - c = 8, -3*k = -6. Låt f = v - 32. Beräkna den minsta gemensamma faktorn till 6 och f.
+Svar: 12
+
+Låt o vara (-4)/6 + 204470/306291. Låt h = 315129/44390 + o. Beräkna den gemensamma nämnaren till -99/16 och h.
+Svar: 80
+
+Antag att -10*o + 16 = -14. Antag att o*t - 54 + 45 = 0. Beräkna den minsta gemensamma faktorn till t och 8.
+Svaret är: 24
+
+Låt n(c) = 4 - 7*c. Låt k(g) = 9*g - 5. Låt b(z) = -4*k(z) - 5*n(z). Låt j(s) = s. Vilken är den minsta gemensamma faktorn till j(5) och b(-6)?
+Svar: 30
+
+Antag att -7*m + 2*m - 20 = 0. Vilken är den minsta gemensamma faktorn till (-19)/(-4) + m/(-16) och (0 - 1)/(1*(-16)/80)?
+Svar: 5
+
+Låt d = -1318 - -1463. Vilken är den minsta gemensamma faktorn till d och 319?
+Svar: 1595
+
+Antag att -121*n - 2*b - 280 = -126*n, 2*b + 48 = n. Beräkna den minsta gemensamma faktorn till 116 och n.
+Svar: 116
+
+Beräkna den minsta gemensamma faktorn till 11*10*(-4)/(-44) och (8/24)/(1/246).
+Svaret är: 410
+
+Vilken är den gemensamma nämnaren till -7 + (-106722)/(-10530) + 1*-3 och 68/225?
+Svar: 2925
+
+Låt w(u) = -u**3 - 20*u**2 - 18*u + 17. Låt b vara w(-19). Beräkna den gemensamma nämnaren till 113/10 och (-1004)/40 + b/5.
+Svaret är: 10
+
+Låt i = -20956325/89 - -235461. Låt y = i - -13063/2670. Bestäm den gemensamma nämnaren till y och 11/10.
+Svaret är: 30
+
+Låt p = 919 - 1288. Låt k = p + 3573/10. Låt l = -6145/142 - 16/71. Beräkna den gemensamma nämnaren till k och l.
+Svar: 10
+
+Beräkna den minsta gemensamma faktorn till 96/80 - 4578/(-35) och 11.
+Svaret är: 132
+
+Låt z vara (-166)/(-8) + ((-165)/(-20) - 8). Vilken är den gemensamma nämnaren till 53/18 och z*265/1440 + -1 + -3?
+Svar: 288
+
+Vilken är den minsta gemensamma faktorn till 305 och 150400/352 - 3/11?
+Svaret är: 2135
+
+Antag att -2*r + r = -5. Låt y(g) = -g**3 + 2*g**2 + 1. Låt d vara y(0). Beräkna den minsta gemensamma faktorn till 50/10*(d + 0) och r.
+Svar: 5
+
+Låt c(l) = 15*l**3 + 2*l**2 + 10*l - 17. Beräkna den minsta gemensamma faktorn till c(4) och 56.
+Svar: 8120
+
+Antag att -4*g + 128 = 2*t, 0*g - 3*t + 128 = 4*g. Låt j(u) = 522 - 102*u. Vilken är den minsta gemensamma faktorn till j(5) och g?
+Svaret är: 96
+
+Låt b(h) vara förstaderivatan av -7*h**2 + 31*h + 13 - 1/3*h**3. Vilken är den minsta gemensamma faktorn till 8 och b(-15)?
+Svar: 16
+
+Antag att -26*p + 21*p = -85. Antag att p*b - 32 = 9*b. Vilken är den minsta gemensamma faktorn till b och 64?
+Svar: 64
+
+Låt b = -245 + 2421/10. Antag att 3*l - 13 = -31. Bestäm den gemensamma nämnaren till b och 33/4*l/(-7).
+Svar: 70
+
+Låt l vara (-6)/4*(-1146)/9. Låt t = l - 164. Vilken är den minsta gemensamma faktorn till 24 och t?
+Svar: 216
+
+Låt y = -37 + 62. Låt u = 36595/6 + -6124. Beräkna den gemensamma nämnaren till (-10)/(-16)*94/y och u.
+Svaret är: 60
+
+Låt d = -56/283 - -14294/12169. Vilken är den gemensamma nämnaren till 49/9 och d?
+Svar: 387
+
+Låt m(h) = 1299 - 173*h. Vilken är den minsta gemensamma faktorn till 70 och m(5)?
+Svar: 2170
+
+Låt b = -768 - -2022. Beräkna den minsta gemensamma faktorn till 36 och b.
+Svar: 7524
+
+Låt v vara ((-210)/28)/((-1)/(-24)). Låt c = -57 + 66. Vilken är den minsta gemensamma faktorn till v/27*3/(-2) och c?
+Svaret är: 90
+
+Antag att 4*d + 4*n - 872 = 0, -4*d - n = 2*n - 868. Låt b = 230 - d. Vilken är den minsta gemensamma faktorn till 16 och b?
+Svaret är: 16
+
+Låt r = -90 + 126. Bestäm den gemensamma nämnaren till 47/6 och (-152)/r*(-15)/4.
+Svar: 6
+

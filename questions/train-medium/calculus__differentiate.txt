@@ -1,6 +1,90 @@
-Bestäm tredjederivatan av 56187*t**3 - 2*t**2 + 2763*t + 2 med avseende på t.
-337122
-Bestäm tredjederivatan av -33*i**4*v**2 - 6*i**4 + 106*i**3 - 3*i**2*v - 232440*i*v**2 med avseende på i.
--792*i*v**2 - 144*i + 636
-Bestäm andraderivatan av -r**5 + 3*r**4 - 37*r**3 - 7*r - 2772.
--20*r**3 + 36*r**2 - 222*r
+Vad är tredjederivatan av -785832*p**4 + 3*p**3 + 1738*p**2 + 331*p med avseende på p?
+Svar: 18 - 18859968*p
+
+Vad är andraderivatan av 91623*f**2 - 18*f - 1531?
+Svar: 183246
+
+Bestäm tredjederivatan av 69252*y**6 - 5505*y**2 med avseende på y.
+Svaret är: 8310240*y**3
+
+Vad är andraderivatan av 4*g**4 + 64071*g**3 + 1394270*g?
+Svar: 48*g**2 + 384426*g
+
+Vad är tredjederivatan av -2894783*x**3 - 103*x**2 - 986*x?
+Svaret är: -17368698
+
+Vad är tredjederivatan av 9286*f**2*u**4 - 3*f**2*u**3 + 162*f**2*u**2 + 10*f**2 - 2*f + u**2 med avseende på u?
+Svar: 222864*f**2*u - 18*f**2
+
+Bestäm tredjederivatan av -312361*k**5 + 26*k**2 + 35*k - 44 med avseende på k.
+Svaret är: -18741660*k**2
+
+Vad är derivatan av 114716 - 72844*t med avseende på t?
+Svar: -72844
+
+Vad är andraderivatan av 12*j**2*p**2 - 7*j**2*p + 10*j**2 - j*p**2 + j - 3*p**2 - 4076 med avseende på j?
+Svar: 24*p**2 - 14*p + 20
+
+Bestäm tredjederivatan av 2703449*q**6 - 4137657*q**2.
+Svar: 324413880*q**3
+
+Vad är tredjederivatan av 1532346*y**3 + 911900*y**2 + 2?
+Svaret är: 9194076
+
+Vad är tredjederivatan av -18277*z**3 + 375370*z**2 - z + 1 med avseende på z?
+Svaret är: -109662
+
+Vad är tredjederivatan av 15946*p*y**3 - 4515*p*y**2 - 12*y**3 + 10*y med avseende på y?
+Svar: 95676*p - 72
+
+Bestäm tredjederivatan av 4950*k**3*p**3 + 2*k**3 - 89*k**2 - 2*k*p**2 + 4*p med avseende på p.
+Svaret är: 29700*k**3
+
+Derivera 5*d**2*f*g + 3*d**2*f - 262*d - 198*f*g + f + 34*g med avseende på d.
+Svar: 10*d*f*g + 6*d*f - 262
+
+Vad är andraderivatan av 297707*c**3 - 258473*c?
+Svaret är: 1786242*c
+
+Vad är andraderivatan av 22299*d**2*u**3 + 7145*d*u + u**3 med avseende på d?
+Svar: 44598*u**3
+
+Bestäm andraderivatan av 2*g**2*m - 11554*g**2 + g*m + 886*m med avseende på g.
+Svar: 4*m - 23108
+
+Vad är förstaderivatan av -145009*c*g - 57*c + 101 med avseende på g?
+Svaret är: -145009*c
+
+Vad är derivatan av 175670*y**4 - 124403?
+Svar: 702680*y**3
+
+Derivera -1948*b**3 - 52130 med avseende på b.
+Svaret är: -5844*b**2
+
+Bestäm andraderivatan av -1489460*b**2*s*t**2 - 10*b*s*t**2 + 3*b*s + 2*b*t + 206*s*t**2 - s*t - s med avseende på b.
+Svar: -2978920*s*t**2
+
+Vad är tredjederivatan av 149054*s**4 - 4*s**2 + 9200*s + 2 med avseende på s?
+Svaret är: 3577296*s
+
+Bestäm tredjederivatan av -2*m**4 - 5320*m**3 + 16458*m**2 - 13*m med avseende på m.
+Svar: -48*m - 31920
+
+Bestäm tredjederivatan av -19*j**2*p**3 - j**2*p**2 - 81872*j*p**6 + 861908*p**2 med avseende på p.
+Svar: -114*j**2 - 9824640*j*p**3
+
+Derivera -1623*u**2 + 1283*u - 7056857 med avseende på u.
+Svar: 1283 - 3246*u
+
+Bestäm tredjederivatan av -4*p*w**3*z**3 + 5551*p*w*z**3 + p*z**2 - 16791*p*z + 2*w**3*z**2 - 2*w med avseende på z.
+Svar: -24*p*w**3 + 33306*p*w
+
+Bestäm andraderivatan av 2*n**3*t**3*x**3 + 44580*n**3*t**2 + 3*n*t**3*x**3 + 4*n*t**3 - 325*n*t*x**2 med avseende på n.
+Svar: 12*n*t**3*x**3 + 267480*n*t**2
+
+Bestäm andraderivatan av -6455*s**2 - 3*s - 17281 med avseende på s.
+Svar: -12910
+
+Bestäm andraderivatan av 2756*c**4 - 36*c**2 - 42223*c + 2 med avseende på c.
+Svaret är: 33072*c**2 - 72
+

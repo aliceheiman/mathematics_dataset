@@ -1,20 +1,300 @@
-Vilken är den g:te termen i 13572, 54298, 122178, 217212, 339400, 488742, 665238?
-13577*g**2 - 5*g
-Vilken är den t:te termen i 3779, 15208, 34255, 60920, 95203, 137104?
-3809*t**2 + 2*t - 32
-Vilken är den i:te termen i -295845, -591702, -887559, -1183416, -1479273?
-12 - 295857*i
-Vilken är den o:te termen i 87736, 89527, 91328, 93145, 94984, 96851, 98752?
-o**3 - o**2 + 1787*o + 85949
-Vilken är den n:te termen i 28151, 112588, 253315, 450332, 703639?
-28145*n**2 + 2*n + 4
-Vilken är den h:te termen i -14130, -28254, -42380, -56508, -70638, -84770, -98904?
--h**2 - 14121*h - 8
-Vilken är den w:te termen i 6027, 41024, 136019, 321012, 626003, 1080992, 1715979?
-5000*w**3 - w**2 + 1028
-Vilken är den d:te termen i 1863, 2490, 3117, 3744, 4371?
-627*d + 1236
-Vilken är den h:te termen i 852184, 852187, 852198, 852223, 852268, 852339?
-h**3 - 2*h**2 + 2*h + 852183
-Vilken är den q:te termen i 4192, 16823, 37876, 67345, 105224?
--q**3 + 4217*q**2 - 13*q - 11
+Vilken är den f:te termen i 22, -2, -42, -80, -98, -78, -2?
+Svaret är: 3*f**3 - 26*f**2 + 33*f + 12
+
+Vilken är den k:te termen i -3483, -14180, -31999, -56940, -89003, -128188?
+Svaret är: -3561*k**2 - 14*k + 92
+
+Vilken är den j:te termen i -3751854, -7503710, -11255566, -15007422, -18759278?
+Svaret är: 2 - 3751856*j
+
+Vilken är den b:te termen i 543, 3665, 12127, 28599, 55751, 96253, 152775, 227987?
+Svaret är: 445*b**3 + 7*b + 91
+
+Vilken är den w:te termen i 1081406, 2162802, 3244200, 4325600, 5407002, 6488406?
+Svar: w**2 + 1081393*w + 12
+
+Vilken är den r:te termen i -11, -44, -155, -392, -803, -1436, -2339, -3560?
+Svaret är: -8*r**3 + 9*r**2 - 4*r - 8
+
+Vilken är den o:te termen i 4, -36, -150, -338?
+Svaret är: -37*o**2 + 71*o - 30
+
+Vilken är den k:te termen i 1044963, 1044962, 1044961, 1044960?
+Svaret är: 1044964 - k
+
+Vilken är den w:te termen i -127, 2719, 10435, 25457, 50221, 87163, 138719, 207325?
+Svar: 406*w**3 - w**2 + 7*w - 539
+
+Vilken är den s:te termen i 135051, 135142, 135231, 135318, 135403?
+Svar: -s**2 + 94*s + 134958
+
+Vilken är den r:te termen i 17189210, 17189209, 17189208?
+Svar: 17189211 - r
+
+Vilken är den o:te termen i -8556, -8608, -8660, -8712?
+Svaret är: -52*o - 8504
+
+Vilken är den s:te termen i -46407, -92749, -139091, -185433, -231775?
+Svar: -46342*s - 65
+
+Vilken är den o:te termen i 28533, 57432, 86329, 115224, 144117, 173008, 201897?
+Svaret är: -o**2 + 28902*o - 368
+
+Vilken är den t:te termen i 1125607, 1125597, 1125579, 1125553, 1125519, 1125477?
+Svar: -4*t**2 + 2*t + 1125609
+
+Vilken är den l:te termen i 7274, 6106, 4938, 3770?
+Svar: 8442 - 1168*l
+
+Vilken är den k:te termen i -6244, -12354, -18250, -23824, -28968, -33574, -37534, -40740?
+Svar: 18*k**3 - k**2 - 6233*k - 28
+
+Vilken är den c:te termen i 59395, 59390, 59385, 59380, 59375, 59370?
+Svar: 59400 - 5*c
+
+Vilken är den z:te termen i -3094, -11983, -26800, -47539, -74194, -106759?
+Svar: z**3 - 2970*z**2 + 14*z - 139
+
+Vilken är den y:te termen i -253, -2455, -8425, -20041, -39181?
+Svar: -313*y**3 - 6*y**2 + 7*y + 59
+
+Vilken är den c:te termen i -25955, -25982, -26011, -26042, -26075, -26110, -26147?
+Svar: -c**2 - 24*c - 25930
+
+Vilken är den q:te termen i 13143203, 26286404, 39429605, 52572806?
+Svar: 13143201*q + 2
+
+Vilken är den t:te termen i -98260, -98321, -98382, -98443, -98504, -98565?
+Svaret är: -61*t - 98199
+
+Vilken är den o:te termen i -6107, -12370, -18825, -25478, -32335, -39402?
+Svaret är: -o**3 - 90*o**2 - 5986*o - 30
+
+Vilken är den g:te termen i -11351, -11353, -11367, -11393?
+Svar: -6*g**2 + 16*g - 11361
+
+Vilken är den k:te termen i -2194, -4245, -6120, -7819, -9342, -10689, -11860?
+Svaret är: 88*k**2 - 2315*k + 33
+
+Vilken är den f:te termen i 5975, 19959, 43267, 75899?
+Svar: 4662*f**2 - 2*f + 1315
+
+Vilken är den o:te termen i 4258, 4522, 4794, 5080, 5386, 5718, 6082?
+Svar: o**3 - 2*o**2 + 263*o + 3996
+
+Vilken är den a:te termen i -9120, -8726, -8332, -7938, -7544, -7150?
+Svaret är: 394*a - 9514
+
+Vilken är den k:te termen i -188069, -188296, -188511, -188708, -188881, -189024?
+Svar: k**3 - 234*k - 187836
+
+Vilken är den q:te termen i -120, -925, -2348, -4389, -7048, -10325?
+Svaret är: -309*q**2 + 122*q + 67
+
+Vilken är den w:te termen i -13220266, -26440533, -39660798, -52881061, -66101322?
+Svaret är: w**2 - 13220270*w + 3
+
+Vilken är den g:te termen i -20645, -20672, -20721, -20798, -20909, -21060, -21257, -21506?
+Svar: -g**3 - 5*g**2 - 5*g - 20634
+
+Vilken är den b:te termen i 385103, 770188, 1155273?
+Svar: 385085*b + 18
+
+Vilken är den n:te termen i -1558606, -1558598, -1558590?
+Svar: 8*n - 1558614
+
+Vilken är den z:te termen i 19495319, 19495320, 19495321, 19495322, 19495323?
+Svar: z + 19495318
+
+Vilken är den m:te termen i -2860, -13875, -32236, -57943, -90996, -131395, -179140?
+Svar: -3673*m**2 + 4*m + 809
+
+Vilken är den c:te termen i -7843263, -15686523, -23529783, -31373043, -39216303, -47059563?
+Svaret är: -7843260*c - 3
+
+Vilken är den b:te termen i 1725, 6950, 15669, 27882, 43589, 62790?
+Svar: 1747*b**2 - 16*b - 6
+
+Vilken är den w:te termen i -5698, -12473, -19246, -26017?
+Svaret är: w**2 - 6778*w + 1079
+
+Vilken är den u:te termen i -4599, -9392, -14153, -18876, -23555, -28184, -32757?
+Svar: u**3 + 10*u**2 - 4830*u + 220
+
+Vilken är den a:te termen i 718, 1705, 3376, 5731, 8770, 12493, 16900?
+Svar: 342*a**2 - 39*a + 415
+
+Vilken är den z:te termen i -17127796, -34255592, -51383388, -68511184, -85638980?
+Svaret är: -17127796*z
+
+Vilken är den b:te termen i 245, 474, 871, 1448, 2217, 3190, 4379, 5796?
+Svaret är: 2*b**3 + 72*b**2 - b + 172
+
+Vilken är den p:te termen i -87537918, -87537930, -87537956, -87538002, -87538074, -87538178, -87538320?
+Svar: -p**3 - p**2 - 2*p - 87537914
+
+Vilken är den i:te termen i -299917, -299923, -299953, -300019, -300133, -300307?
+Svar: -2*i**3 + 8*i - 299923
+
+Vilken är den a:te termen i 276, 634, 886, 1032, 1072, 1006?
+Svaret är: -53*a**2 + 517*a - 188
+
+Vilken är den y:te termen i -3675470, -3675472, -3675474, -3675476?
+Svaret är: -2*y - 3675468
+
+Vilken är den j:te termen i -204684, -204702, -204720, -204738?
+Svar: -18*j - 204666
+
+Vilken är den o:te termen i 137251, 137290, 137329, 137368, 137407?
+Svaret är: 39*o + 137212
+
+Vilken är den s:te termen i 26669, 52971, 79273, 105575, 131877?
+Svaret är: 26302*s + 367
+
+Vilken är den d:te termen i -1894214, -1894233, -1894278, -1894361, -1894494?
+Svar: -2*d**3 - d**2 - 2*d - 1894209
+
+Vilken är den s:te termen i -111151, -111145, -111139, -111133, -111127?
+Svar: 6*s - 111157
+
+Vilken är den p:te termen i 297751, 297779, 297809, 297841, 297875, 297911, 297949?
+Svar: p**2 + 25*p + 297725
+
+Vilken är den p:te termen i 83, 254, 603, 1154, 1931, 2958?
+Svar: 4*p**3 + 65*p**2 - 52*p + 66
+
+Vilken är den y:te termen i -7441603, -7441604, -7441605, -7441606, -7441607, -7441608?
+Svar: -y - 7441602
+
+Vilken är den x:te termen i -296137, -296154, -296183, -296224, -296277, -296342, -296419?
+Svaret är: -6*x**2 + x - 296132
+
+Vilken är den t:te termen i -8627, -17364, -26099, -34832, -43563?
+Svar: t**2 - 8740*t + 112
+
+Vilken är den b:te termen i -9514, -37982, -85424, -151840, -237230, -341594, -464932?
+Svaret är: -9487*b**2 - 7*b - 20
+
+Vilken är den q:te termen i 47231, 189699, 427151, 759593, 1187031, 1709471, 2326919?
+Svaret är: q**3 + 47486*q**2 + 3*q - 259
+
+Vilken är den h:te termen i 65626, 65570, 65518, 65470?
+Svaret är: 2*h**2 - 62*h + 65686
+
+Vilken är den l:te termen i 7195, 7036, 6877, 6718, 6559?
+Svar: 7354 - 159*l
+
+Vilken är den k:te termen i -16635, -33202, -49769, -66336?
+Svar: -16567*k - 68
+
+Vilken är den f:te termen i -91369, -91357, -91349, -91345?
+Svaret är: -2*f**2 + 18*f - 91385
+
+Vilken är den o:te termen i 10491684, 20983366, 31475048, 41966730, 52458412, 62950094?
+Svaret är: 10491682*o + 2
+
+Vilken är den x:te termen i 35223, 35212, 35191, 35160, 35119, 35068?
+Svar: -5*x**2 + 4*x + 35224
+
+Vilken är den i:te termen i 2089, 4137, 6127, 8041, 9861, 11569, 13147, 14577?
+Svar: -3*i**3 - 11*i**2 + 2102*i + 1
+
+Vilken är den n:te termen i -7140, -8159, -9866, -12267, -15368, -19175, -23694?
+Svaret är: -n**3 - 338*n**2 + 2*n - 6803
+
+Vilken är den a:te termen i 56933, 113952, 170971?
+Svaret är: 57019*a - 86
+
+Vilken är den n:te termen i -40357, -40290, -40179, -40024, -39825, -39582, -39295?
+Svar: 22*n**2 + n - 40380
+
+Vilken är den l:te termen i 6838, 13773, 20802, 27925, 35142, 42453, 49858?
+Svaret är: 47*l**2 + 6794*l - 3
+
+Vilken är den s:te termen i 5138, 7210, 9296, 11402, 13534, 15698, 17900, 20146?
+Svaret är: s**3 + s**2 + 2062*s + 3074
+
+Vilken är den k:te termen i 54104811, 54104812, 54104813?
+Svaret är: k + 54104810
+
+Vilken är den c:te termen i -159, -594, -1373, -2496, -3963?
+Svar: -172*c**2 + 81*c - 68
+
+Vilken är den p:te termen i -20300, -20281, -20262, -20243, -20224?
+Svar: 19*p - 20319
+
+Vilken är den b:te termen i -310, -972, -1950, -3244?
+Svaret är: -158*b**2 - 188*b + 36
+
+Vilken är den d:te termen i -1079, -4120, -9097, -16010, -24859?
+Svaret är: -968*d**2 - 137*d + 26
+
+Vilken är den n:te termen i 52, -64, -566, -1706, -3736, -6908, -11474?
+Svaret är: -42*n**3 + 59*n**2 + n + 34
+
+Vilken är den k:te termen i 1118584, 2237168, 3355752, 4474336, 5592920, 6711504?
+Svar: 1118584*k
+
+Vilken är den v:te termen i -14664, -17932, -21198, -24462, -27724, -30984, -34242?
+Svaret är: v**2 - 3271*v - 11394
+
+Vilken är den t:te termen i -129, -491, -797, -1047, -1241?
+Svar: 28*t**2 - 446*t + 289
+
+Vilken är den h:te termen i -1968905, -1968897, -1968889, -1968881?
+Svaret är: 8*h - 1968913
+
+Vilken är den t:te termen i 215, 534, 983, 1574, 2319, 3230, 4319?
+Svar: 2*t**3 + 53*t**2 + 146*t + 14
+
+Vilken är den y:te termen i 181, 687, 1537, 2725, 4245, 6091, 8257?
+Svar: -y**3 + 178*y**2 - 21*y + 25
+
+Vilken är den w:te termen i -61559, -61331, -61103, -60875?
+Svar: 228*w - 61787
+
+Vilken är den y:te termen i 5751, 10883, 16015, 21147?
+Svar: 5132*y + 619
+
+Vilken är den h:te termen i -4835204, -9670413, -14505622, -19340831, -24176040?
+Svaret är: 5 - 4835209*h
+
+Vilken är den r:te termen i 74520, 74552, 74606, 74682, 74780, 74900?
+Svaret är: 11*r**2 - r + 74510
+
+Vilken är den l:te termen i -13205, -52912, -119133, -211874, -331141, -476940?
+Svar: -l**3 - 13251*l**2 + 53*l - 6
+
+Vilken är den w:te termen i -470481, -470501, -470535, -470583, -470645, -470721, -470811?
+Svaret är: -7*w**2 + w - 470475
+
+Vilken är den u:te termen i 2191857, 2191849, 2191841, 2191833, 2191825?
+Svar: 2191865 - 8*u
+
+Vilken är den f:te termen i -25431, -50876, -76321, -101766, -127211, -152656?
+Svaret är: 14 - 25445*f
+
+Vilken är den g:te termen i 2827, 9748, 21287, 37450, 58243, 83672?
+Svaret är: g**3 + 2303*g**2 + 5*g + 518
+
+Vilken är den y:te termen i -13148, -26315, -39482?
+Svar: 19 - 13167*y
+
+Vilken är den b:te termen i 1895, 1624, 901, -496, -2789?
+Svar: -37*b**3 - 4*b**2 + 1936
+
+Vilken är den j:te termen i -331049, -331056, -331063, -331070?
+Svaret är: -7*j - 331042
+
+Vilken är den y:te termen i 239, 1168, 2629, 4622, 7147, 10204?
+Svar: 266*y**2 + 131*y - 158
+
+Vilken är den o:te termen i -493, -874, -1313, -1810, -2365?
+Svaret är: -29*o**2 - 294*o - 170
+
+Vilken är den o:te termen i -338, -325, -322, -335, -370, -433, -530?
+Svaret är: -o**3 + o**2 + 17*o - 355
+
+Vilken är den w:te termen i 60056, 120145, 180230, 240311?
+Svaret är: -2*w**2 + 60095*w - 37
+

@@ -1,6 +1,90 @@
-Förenkla -3 + (-2*sqrt(171)*5 - (5 + 1 + sqrt(171))).
--33*sqrt(19) - 9
-Förenkla 1*(-5 + 4*((sqrt(1500)*-2)/sqrt(5) + 0)).
--80*sqrt(3) - 5
-Förenkla sqrt(78)/(sqrt(600)*3) - 5*-3*sqrt(832).
-3601*sqrt(13)/30
+Förenkla (((sqrt(98) + 1 - sqrt(98))**2 - sqrt(2)) + (1 + sqrt(14)/sqrt(7) - sqrt(2)))*-2.
+Svaret är: -4 + 2*sqrt(2)
+
+Förenkla (4 + -5 + sqrt(475)*1*2 + sqrt(475) + 0 + 2)**2.
+Svaret är: 30*sqrt(19) + 4276
+
+Förenkla ((2*sqrt(624)*-5)/(sqrt(243) - sqrt(243)*3*-3))**2.
+Svaret är: 208/81
+
+Förenkla 4 + (2*sqrt(1300) + sqrt(1300))*2 + 2*(1*sqrt(1300) - sqrt(1300))*-2.
+Svar: 4 + 60*sqrt(13)
+
+Förenkla (2*(4 + sqrt(931)*-2 + sqrt(931)) - (2*sqrt(931) + -3 + 1 + sqrt(931)*-2))**2.
+Svar: 3824 - 280*sqrt(19)
+
+Förenkla (5*((sqrt(360) + 1*sqrt(360) - sqrt(360) - sqrt(360))*5 + sqrt(360))/((sqrt(8) - (-1*sqrt(32) + sqrt(8))) + sqrt(8) + (sqrt(16)*-1)/sqrt(2)))**2.
+Svar: 1125/4
+
+Förenkla 5 + (((sqrt(1200) - -2*sqrt(1200))/sqrt(4))**2 - ((sqrt(3)*1 + 2 + sqrt(3))**2 + 4)).
+Svar: 2685 - 8*sqrt(3)
+
+Förenkla (-6*(sqrt(70)/sqrt(7) + sqrt(10)))/sqrt(5) - (sqrt(256)/sqrt(8) + (sqrt(12)/sqrt(24))**2).
+Svar: -16*sqrt(2) - 1/2
+
+Förenkla (-2 + -3 + sqrt(13) + 3 + (sqrt(13)*-2 + sqrt(13))*4 + -1*sqrt(1872))**2.
+Svaret är: 60*sqrt(13) + 2929
+
+Förenkla -6*((-5 + -1*sqrt(208) - (sqrt(208) + 1)*2)**2 - (-3 + -2 + -1 + sqrt(208))).
+Svaret är: -11562 - 984*sqrt(13)
+
+Förenkla (4*(sqrt(96) + sqrt(96)*2 + sqrt(96) + sqrt(96)) - sqrt(96) - sqrt(96))/(-4*sqrt(588)*-1).
+Svaret är: 9*sqrt(2)/7
+
+Förenkla (((-6*(sqrt(1372) + 1) - sqrt(1372)) + -2)*5)**2 + -1.
+Svaret är: 39200*sqrt(7) + 1682299
+
+Förenkla (3*sqrt(2904))/(1*sqrt(144)/sqrt(12)).
+Svaret är: 33*sqrt(2)
+
+Förenkla (1 + -4 + 3*sqrt(1100) + sqrt(1100) + 1*4*sqrt(1100))**2.
+Svar: 70409 - 480*sqrt(11)
+
+Förenkla -2 + (sqrt(102)/(2*sqrt(2) - sqrt(2)))/(sqrt(9)/(sqrt(3)*3)).
+Svaret är: -2 + 3*sqrt(17)
+
+Förenkla 3*((-5 + 1*sqrt(931) + sqrt(931))**2 - (-5 + sqrt(931) + 0)).
+Svaret är: 11262 - 441*sqrt(19)
+
+Förenkla -1 + ((sqrt(270)/sqrt(96))/sqrt(9) - ((sqrt(320) - (0 + sqrt(320))) + sqrt(180))).
+Svaret är: -23*sqrt(5)/4 - 1
+
+Förenkla 6*(-2 + (sqrt(156) + 1*sqrt(156)*3)/(sqrt(432)*-2)).
+Svaret är: -12 - 2*sqrt(13)
+
+Förenkla (4*(-1 + sqrt(208) + sqrt(208))*6)**2 + ((sqrt(208) + -4 + sqrt(208) + 2)*6)**2.
+Svar: 509904 - 10368*sqrt(13)
+
+Förenkla ((sqrt(272) - ((sqrt(272) - 1*sqrt(272)) + 5 - sqrt(272))) + sqrt(272) + sqrt(272) + 3 - (sqrt(272)*2*4 + -4))**2.
+Svaret är: 4356 - 64*sqrt(17)
+
+Förenkla 3*(4 + ((2*sqrt(70) - sqrt(70))*-4)/(sqrt(60)/(sqrt(6) + sqrt(18)/sqrt(3))) + -3).
+Svar: 3 - 24*sqrt(7)
+
+Förenkla 2*(sqrt(17) - -6*(sqrt(612) + sqrt(17) - sqrt(17))) - ((sqrt(1700) + -5 + 0)**2 - sqrt(1700)).
+Svar: -1725 + 184*sqrt(17)
+
+Förenkla ((2*sqrt(19)*2 - sqrt(171)/sqrt(81)) + -2)**2 + -1.
+Svaret är: 2326/9 - 44*sqrt(19)/3
+
+Förenkla (sqrt(1666) - (2*sqrt(1666)*-2 - sqrt(1666)))/(3*-2*sqrt(8)/sqrt(4)).
+Svar: -7*sqrt(17)
+
+Förenkla 3 + ((-3*-2*sqrt(112) - sqrt(112)) + sqrt(112) + -1)**2*-1.
+Svar: -4030 + 48*sqrt(7)
+
+Förenkla ((sqrt(176)*-2 + sqrt(176) - sqrt(176) - sqrt(176))*6 - sqrt(176))/((sqrt(396)*4)/sqrt(11)).
+Svaret är: -19*sqrt(11)/6
+
+Förenkla (4 + (-4 + 1*sqrt(128) - (-1 + sqrt(128) + 2)))**2.
+Svar: 1
+
+Förenkla (2 + sqrt(243) + -2 + sqrt(243) + -4 + -5)**2.
+Svaret är: 1053 - 324*sqrt(3)
+
+Förenkla (-3 + (sqrt(5324) - 5*-1*sqrt(5324))*2)**2.
+Svaret är: 766665 - 1584*sqrt(11)
+
+Förenkla (5*(sqrt(64) + -2*sqrt(64))/sqrt(8))/(sqrt(48)/(sqrt(9)/sqrt(3))).
+Svar: -5*sqrt(2)/2
+

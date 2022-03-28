@@ -1,6 +1,90 @@
-Vilken är den b:te termen i -88, -80, -60, -22, 40, 132, 260?
-b**3 + b - 90
-Vilken är den z:te termen i 1399, 1402, 1405, 1408, 1411?
-3*z + 1396
-Vilken är den o:te termen i -803, -1620, -2437, -3254, -4071?
-14 - 817*o
+Vilken är den y:te termen i -1027, -2054, -3081?
+Svaret är: -1027*y
+
+Vilken är den c:te termen i -8, -17, -34, -65, -116, -193, -302, -449?
+Svaret är: -c**3 + 2*c**2 - 8*c - 1
+
+Vilken är den y:te termen i -358, -630, -902, -1174, -1446?
+Svar: -272*y - 86
+
+Vilken är den v:te termen i 565, 564, 563, 562?
+Svar: 566 - v
+
+Vilken är den t:te termen i 129, 127, 123, 117, 109, 99, 87?
+Svaret är: -t**2 + t + 129
+
+Vilken är den j:te termen i 83, 138, 173, 176, 135, 38, -127, -372?
+Svar: -2*j**3 + 2*j**2 + 63*j + 20
+
+Vilken är den m:te termen i -133, -521, -1161, -2047, -3173, -4533, -6121?
+Svaret är: m**3 - 132*m**2 + m - 3
+
+Vilken är den l:te termen i 5, 29, 55, 83, 113, 145?
+Svar: l**2 + 21*l - 17
+
+Vilken är den s:te termen i -59, -68, -99, -164, -275, -444, -683?
+Svar: -2*s**3 + s**2 + 2*s - 60
+
+Vilken är den m:te termen i -301, -607, -913?
+Svaret är: 5 - 306*m
+
+Vilken är den r:te termen i -93, -163, -235, -309, -385, -463, -543?
+Svaret är: -r**2 - 67*r - 25
+
+Vilken är den w:te termen i 45, 73, 89, 87, 61, 5?
+Svaret är: -w**3 + 35*w + 11
+
+Vilken är den r:te termen i 15, 57, 127, 225, 351?
+Svaret är: 14*r**2 + 1
+
+Vilken är den b:te termen i 50, 47, 42, 35, 26, 15?
+Svaret är: 51 - b**2
+
+Vilken är den u:te termen i -7, -7, 1, 23, 65?
+Svaret är: u**3 - 2*u**2 - u - 5
+
+Vilken är den n:te termen i 9, 49, 117, 225, 385, 609, 909, 1297?
+Svaret är: 2*n**3 + 2*n**2 + 20*n - 15
+
+Vilken är den p:te termen i 482, 978, 1476, 1976, 2478?
+Svaret är: p**2 + 493*p - 12
+
+Vilken är den w:te termen i -5, -16, -41, -86, -157, -260?
+Svaret är: -w**3 - w**2 - w - 2
+
+Vilken är den r:te termen i 1702, 3385, 5046, 6673, 8254, 9777, 11230?
+Svar: -2*r**3 + r**2 + 1694*r + 9
+
+Vilken är den j:te termen i -1, 6, 13, 20, 27?
+Svaret är: 7*j - 8
+
+Vilken är den u:te termen i -1677, -1674, -1671, -1668?
+Svaret är: 3*u - 1680
+
+Vilken är den j:te termen i -1, 5, 15, 29, 47, 69, 95?
+Svar: 2*j**2 - 3
+
+Vilken är den b:te termen i -67, -42, 21, 140, 333, 618?
+Svaret är: 3*b**3 + b**2 + b - 72
+
+Vilken är den p:te termen i 33, 81, 161, 273, 417?
+Svaret är: 16*p**2 + 17
+
+Vilken är den h:te termen i -13, 29, 141, 359, 719, 1257, 2009, 3011?
+Svar: 6*h**3 - h**2 + 3*h - 21
+
+Vilken är den y:te termen i -778, -1551, -2322, -3091?
+Svar: y**2 - 776*y - 3
+
+Vilken är den k:te termen i 681, 685, 689?
+Svar: 4*k + 677
+
+Vilken är den u:te termen i -695, -1389, -2085, -2783?
+Svaret är: -u**2 - 691*u - 3
+
+Vilken är den x:te termen i 7, 48, 159, 376, 735, 1272, 2023?
+Svar: 6*x**3 - x**2 + 2*x
+
+Vilken är den p:te termen i 389, 388, 387, 386, 385, 384?
+Svaret är: 390 - p
+

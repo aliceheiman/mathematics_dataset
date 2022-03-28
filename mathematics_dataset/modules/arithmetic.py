@@ -229,10 +229,35 @@ def add_or_sub_in_base(sample_args):
     base = random.randint(2, 16)
     if random.choice([False, True]):
         answer = p + q
-        template = lang.l.translate("In base {base}, what is {p} + {q}?")
+
+        templates = [
+            lang.l.translate("In base {base}, what is {p} + {q}?"),
+            lang.l.translate("Using base {base}, what is {p} + {q}?"),
+            lang.l.translate("In base {base}, compute {p} + {q}."),
+            lang.l.translate("In base {base}, calculate {p} + {q}."),
+            lang.l.translate("Working in base {base}, what is {p} + {q}?"),
+            lang.l.translate("Use and answer in base {base}. What is {p} + {q}?"),
+            lang.l.translate("Use base {base} for the following problem: what is {p} + {q}?"),
+            lang.l.translate("Compute {p} + {q} using base {base}."),
+        ]
+
+        template = random.choice(templates)
     else:
         answer = p - q
-        template = lang.l.translate("In base {base}, what is {p} - {q}?")
+
+        templates = [
+            lang.l.translate("In base {base}, what is {p} - {q}?"),
+            lang.l.translate("Using base {base}, what is {p} - {q}?"),
+            lang.l.translate("In base {base}, compute {p} - {q}."),
+            lang.l.translate("In base {base}, calculate {p} - {q}."),
+            lang.l.translate("Working in base {base}, what is {p} - {q}?"),
+            lang.l.translate("Use and answer in base {base}. What is {p} - {q}?"),
+            lang.l.translate("Use base {base} for the following problem: what is {p} - {q}?"),
+            lang.l.translate("Compute {p} - {q} using base {base}."),
+        ]
+
+        template = random.choice(templates)
+
     return example.Problem(
         question=example.question(
             context, template, base=base, p=display.NumberInBase(p, base), q=display.NumberInBase(q, base)
@@ -299,10 +324,14 @@ def div(value, sample_args, context=None):
     if is_question:
         template = random.choice(
             [
+                lang.l.translate("{p} / {q}"),
+                lang.l.translate("{p} ÷ {q}"),
                 lang.l.translate("Divide {p} by {q}."),
                 lang.l.translate("{p} divided by {q}"),
                 lang.l.translate("What is {p} divided by {q}?"),
                 lang.l.translate("Calculate {p} divided by {q}."),
+                lang.l.translate("Compute {p} divided by {q}."),
+                lang.l.translate("{q} times what equals {p}?"),
             ]
         )
         return example.Problem(question=example.question(context, template, p=p, q=q), answer=answer)
@@ -329,6 +358,14 @@ def nearest_integer_root(sample_args):
 
     templates = [
         lang.l.translate("What is {value} to the power of 1/{one_over_exponent}, to the nearest integer?"),
+        lang.l.translate("What is {value} ^ 1/{one_over_exponent} to the nearest integer?"),
+        lang.l.translate("Compute {value} to the power of 1/{one_over_exponent} to the nearest integer."),
+        lang.l.translate("Compute {value} ^ 1/{one_over_exponent} to the nearest integer."),
+        lang.l.translate("Calculate {value} to the power of 1/{one_over_exponent} to the nearest integer."),
+        lang.l.translate("Calculate {value} ^ 1/{one_over_exponent} to the nearest integer."),
+        lang.l.translate("What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer?"),
+        lang.l.translate("Compute {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer."),
+        lang.l.translate("Calculate {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer."),
     ]
 
     if one_over_exponent != 2:  # "What is the second root of 4?" never used.

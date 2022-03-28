@@ -1,6 +1,90 @@
-Låt b vara 1*-2*15/1190. Which is smaller: -1 or b?
--1
-Låt x = -22 - -19. Låt f(y) = -y**3 - 5*y**2 - 5*y - 7. Låt c vara f(x). Är -10 mindre än c?
-False
-Låt s = -5/2571 - 20837/8570. Låt b = s + 13/5. Är -1/3 < b?
-True
+Låt p = -57/140 - -3/28. Är 1 > p?
+Svaret är: True
+
+Låt p = 0.1 - 0.9. Låt y = p - 0.2. Which is smaller: y or 9?
+Svaret är: y
+
+Antag att 0 = -2*l - 3*b + 3, -5*l + 43 = -3*l - 5*b. Låt q = l - 3. Är 3 större än q?
+Svar: False
+
+Låt t = -27 + 23. Which is smaller: -3 or t?
+Svaret är: t
+
+Antag att -2*v = 2*l + 2, -4*v - 5*l + 1 = 6. Which is greater: v or 1?
+Svaret är: 1
+
+Låt g = 14 + -10. Låt b vara ((-2)/g)/((-2)/(-32)). Låt h = b - -6. Är h högst lika mycket som -2?
+Svar: True
+
+Låt d = 0.143 + -12.243. Låt q = d + 2.1. Är q större än eller lika med -2/5?
+Svaret är: False
+
+Låt t = -1 - -6. Which is smaller: t or -1?
+Svar: -1
+
+Låt l = 1643/40 + -196/5. Which is smaller: 2 or l?
+Svar: l
+
+Låt b vara (60/(-16))/(-5)*2. Which is bigger: -3/5 or b?
+Svaret är: b
+
+Antag att 4*c = 2*c + 4. Låt x = -7 + 10. Är c som minst x?
+Svar: False
+
+Antag att 3*y + 4*i = 2*y + 5, 0 = -5*y - 2*i + 7. Är 1 >= y?
+Svaret är: True
+
+Låt d vara (-30)/36 + 0 + 2/4. Är d och 2 icke lika?
+Svaret är: True
+
+Låt a = 122/221 + -12/17. Är a >= 1?
+Svar: False
+
+Låt i vara 71/(-75) - (3 + -4). Är i > -1?
+Svaret är: True
+
+Antag att 0 = 5*k + 12 + 13. Låt p = 7 + k. Antag att 5*m - 3 - p = 0. Which is bigger: 3/11 or m?
+Svar: m
+
+Låt u = -29 - -842/29. Låt i = u + -65/203. Antag att -4*l - g + 6 = -0*g, 0 = 5*l + 4*g - 13. Är i minst lika mycket som l?
+Svaret är: False
+
+Låt m vara (42/(-6))/7 + 40/22. Är 1 större än m?
+Svar: True
+
+Låt g vara -2 - 4/((-4)/2). Antag att -u = -g*u. Låt y vara 0/(-1*(u + 2)). Which is smaller: 1/5 or y?
+Svaret är: y
+
+Låt k(l) = l**3 + 2*l**2 - 4*l + 1. Låt q vara k(-3). Låt b vara 0 - q/(-5 + 1). Which is smaller: b or 3?
+Svar: b
+
+Låt i = 11 + -6. Antag att i*k = -6 - 14. Har -6 och k samma värde?
+Svaret är: False
+
+Låt a(u) = -2*u**2 + 4*u + 4. Låt r vara a(4). Låt l = -7 - r. Antag att 3*c = -15, -t + 1 + 13 = -2*c. Which is smaller: t or l?
+Svar: t
+
+Låt m = 0.1 - -2.9. Är -2/5 och m olika?
+Svar: True
+
+Låt k = -18 - -11. Låt w vara (9 + k)*2/16. Which is smaller: w or -1?
+Svar: -1
+
+Antag att 15 + 50 = 5*x. Låt o(z) = z**3 - 14*z**2 + 12*z + 15. Låt i vara o(x). Which is smaller: i or -1?
+Svaret är: -1
+
+Låt u = 11/6 - -5/3. Är 5 mindre än eller lika med u?
+Svar: False
+
+Låt i = -221/342 - -7/19. Är 1 mindre än i?
+Svar: False
+
+Låt s = 0.15 - 12.15. Låt t = 13 + s. Är -4 mindre än t?
+Svaret är: True
+
+Låt z = 8/5 + -67/45. Låt g = -1 - 0. Which is smaller: g or z?
+Svar: g
+
+Låt o = -84 + 416/5. Låt q vara ((-9)/(-6))/(9/4). Låt a = o + q. Which is smaller: 1 or a?
+Svar: a
+

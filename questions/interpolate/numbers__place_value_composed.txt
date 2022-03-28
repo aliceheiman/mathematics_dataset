@@ -1,20 +1,300 @@
-Antag att 2*h = 4*a + 18080, -h - 26*a + 27*a = -9040. Vad är tusentalssiffran i h?
-9
-Låt m vara (-174)/(-12)*(-1 + 5). Låt g = -34 + m. Antag att -26*l + g*l = -96. Vad är tiotalssiffran i l?
-4
-Antag att l = 6*l - 40. Vad är entalssiffran i 10*(0 - 87)*(-4)/l?
-5
-Låt s(c) = 6*c**3 - 80*c**2 + 17*c - 18. Vad är tusentalssiffran i s(16)?
-4
-Låt o vara 0/(5 + -4 - 0). Låt p(d) = d**2 + 5*d + 266. Vad är hundratalssiffran i p(o)?
-2
-Antag att 6 = g + 2*l, 0 = -3*g + 2*l - 0*l + 10. Antag att -q = b - 171, 3 + 1 = g*b. Vad är entalssiffran i q?
-0
-Låt d vara (0 + -1)/((-2 - -11)/(-4671)). Låt j = -275 + d. Vad är hundratalssiffran i j?
-2
-Låt m = 17 - 18. Låt y vara (1/m)/((-5)/15). Antag att y*i - 4*r = 60, -4*i + 0*i + 76 = -4*r. Vad är tiotalssiffran i i?
-1
-Låt k vara 752/6 + 2/(-6). Antag att 5*w - 158*l + 226 = -155*l, -4*w - 4*l - 200 = 0. Låt y = k + w. Vad är tiotalssiffran i y?
-7
-Antag att -2*i - m = -2*m - 5, -5*i + 26 = 2*m. Låt w = i + 12. Antag att -s = w - 90. Vad är tiotalssiffran i s?
-7
+Antag att 3*g = 2*g - 1, v + 3*g = 6. Låt t vara (v/(-15))/(2/(-50)). Låt j(n) = n**3 - 14*n**2 - 10*n + 1. Vad är tiotalssiffran i j(t)?
+Svar: 7
+
+Låt q = -74 + -297. Låt n = q - -639. Vad är entalssiffran i n?
+Svar: 8
+
+Låt g vara 18/2 - 1/1. Låt y(u) = -3*u + 212 + 211 - 618 + 10*u + 226. Vad är tiotalssiffran i y(g)?
+Svar: 8
+
+Vad är hundratalssiffran i 3 - (-2 + (-32)/(-6)) - (-351538)/57?
+Svaret är: 1
+
+Antag att 0 = 18*u - 22*u + 280. Antag att -u - 466 = -4*y. Vad är hundratalssiffran i y?
+Svar: 1
+
+Låt h = 39 + -28. Antag att -16*z = -h*z - 1050. Vad är entalssiffran i z?
+Svaret är: 0
+
+Antag att -2*h = -4*i + 3*h + 19, -2*h = -3*i + 23. Låt f vara (-9)/(-11)*-111 - 2/i. Låt q = 153 + f. Vad är tiotalssiffran i q?
+Svar: 6
+
+Låt h = -5 + 15. Antag att -h*l = -2986 + 946. Antag att -2*u - 38 = -l. Vad är tiotalssiffran i u?
+Svaret är: 8
+
+Låt l = -1 - 1. Låt f vara 10 + -5 - (-2)/(l*1). Låt y = f - -78. Vad är entalssiffran i y?
+Svaret är: 2
+
+Antag att 38 = -11*r + 203. Antag att b - 3*t = 2*t + 25, -4*b - r = 3*t. Antag att -4*c = -2*q - 304, -2*q - 79 = -c - b*c. Vad är tiotalssiffran i c?
+Svar: 7
+
+Antag att -6*c = -4*c + c - 26523. Vad är tiotalssiffran i c?
+Svar: 4
+
+Låt l(z) = -9*z**2 - 67*z - 1. Låt b(x) = 5*x**2 + 33*x. Låt n(f) = -5*b(f) - 3*l(f). Vad är hundratalssiffran i n(-25)?
+Svar: 3
+
+Antag att -j = -3*a + 2956, 2*a - j - 2288 = -316. Antag att -6*p + 9*p = a. Vad är tiotalssiffran i p?
+Svar: 2
+
+Antag att -5*n - 4*w = -1030, 570 + 460 = 5*n + w. Antag att 4*a - 2*c = n, 3*a + c = 2*c + 155. Antag att 37 - a = -b. Vad är tiotalssiffran i b?
+Svar: 1
+
+Antag att 5*z - 2*l = 2*z + 16799, 0 = -2*z + l + 11199. Vad är tiotalssiffran i z?
+Svar: 9
+
+Låt m vara ((-6)/(-12)*16)/(-2). Vad är entalssiffran i -3 - 1695/(-40)*-2*m?
+Svar: 6
+
+Antag att 17 - 42 = -5*g. Antag att 0*b - b - g*q = -66, 4*q = -b + 69. Antag att 4*v = -5*w + 393, -2*v + 88 = -3*w - b. Vad är tiotalssiffran i v?
+Svar: 9
+
+Antag att q - 55 + 44 = 0. Låt s = 399 - q. Vad är entalssiffran i s?
+Svar: 8
+
+Antag att 0*p - 4*p = 84. Låt g = p + 23. Antag att 0 = -g*w - 5*d + 46, -4*w - 4*d = d - 92. Vad är tiotalssiffran i w?
+Svar: 2
+
+Låt c = -918 - -1640. Vad är entalssiffran i c?
+Svar: 2
+
+Antag att -29*q + 28*q = -3*t - 5803, -3*t + 12 = 0. Vad är tiotalssiffran i q?
+Svaret är: 1
+
+Antag att -3*k + 242 - 17 = 0. Antag att -l - 4*l + k = 0. Vad är entalssiffran i l?
+Svar: 5
+
+Vad är entalssiffran i -163 + 158 - 1048/(-2)?
+Svar: 9
+
+Låt x = -173 + 186. Vad är tiotalssiffran i x - 14 - (-2 + -26 + -2)?
+Svar: 2
+
+Antag att 0 = -4*p + 8 + 8. Låt v vara 316 - 0/(2*p/(-8)). Antag att -5*d + v = -d. Vad är tiotalssiffran i d?
+Svar: 7
+
+Låt o(i) = 44*i - 4. Låt t vara -2 - (-12)/5 - 72/(-20). Antag att 0 = x + t - 5. Vad är tiotalssiffran i o(x)?
+Svar: 4
+
+Antag att 5*l - z + 42 = 0, -4*l - 3 = -2*z + 33. Låt f(r) = -2*r**3 - 15*r**2 - 8*r + 4. Vad är entalssiffran i f(l)?
+Svaret är: 2
+
+Låt c(f) = f**3 - 54*f**2 - 141*f - 312. Vad är hundratalssiffran i c(58)?
+Svaret är: 9
+
+Vad är tiotalssiffran i (-1 - 0)*(4/(8/(-6962)) - 10)?
+Svaret är: 9
+
+Låt v = 39 - 12. Låt f = -27 + v. Antag att f = 7*s - 239 - 132. Vad är tiotalssiffran i s?
+Svaret är: 5
+
+Antag att -2*l - 5*a = -797 - 5046, 0 = l - a - 2939. Vad är entalssiffran i l?
+Svar: 4
+
+Låt n(z) = 27*z - 4. Låt u vara n(1). Antag att -27*l + u*l + 1576 = 0. Vad är entalssiffran i l?
+Svaret är: 4
+
+Låt k(i) = -4*i**3 + 5*i**2 + 9*i. Låt v(z) = -7*z**3 + 11*z**2 + 18*z - 1. Låt u(j) = 11*k(j) - 6*v(j). Vad är tiotalssiffran i u(-7)?
+Svar: 1
+
+Antag att -14*b - 66718 = -41*b - 6157. Vad är hundratalssiffran i b?
+Svar: 2
+
+Låt k(u) = u**2 + 9*u + 8. Låt o vara 12/72 + 49/(-6). Låt j vara k(o). Antag att j = -2*i + i + 40. Vad är entalssiffran i i?
+Svar: 0
+
+Låt n(z) = -z**3 - z**2 - 13. Låt h vara -2*(-2)/16 + (-125)/20. Vad är tiotalssiffran i n(h)?
+Svaret är: 6
+
+Antag att 5*h + u + 4*u = -30, -u - 9 = 2*h. Antag att 5*n = 2*n + 210. Vad är tiotalssiffran i 3/(1 + h/(-6)) + n?
+Svar: 7
+
+Låt x = -19 + -297. Låt w = -215 - x. Antag att 0*k - 2*p + 164 = 3*k, -3*p + w = 2*k. Vad är tiotalssiffran i k?
+Svaret är: 5
+
+Låt y = -7071 - -14354. Vad är entalssiffran i y?
+Svaret är: 3
+
+Antag att 3*m - 205 = 182. Låt q vara 6 + -4 - m/3*-1. Antag att 0*y = 5*y - q. Vad är entalssiffran i y?
+Svaret är: 9
+
+Låt t = -969 + 5060. Vad är entalssiffran i t?
+Svaret är: 1
+
+Låt r(u) = -393*u - 1069. Vad är hundratalssiffran i r(-21)?
+Svar: 1
+
+Låt c(m) = m**3 + m**2 + 3*m. Låt n vara c(0). Låt j vara 4 + n + 0 + -4. Antag att 4*w - 150 - 74 = -4*r, j = -4*r + w + 214. Vad är entalssiffran i r?
+Svaret är: 4
+
+Låt j vara 6/2 + 95/(3 + -8). Vad är tiotalssiffran i (-1 - 1)*1048/j?
+Svar: 3
+
+Antag att 0 = 11*r - 201 - 1482. Låt b vara (r/(-6))/(12/80). Vad är entalssiffran i (48/40)/((-4)/b)?
+Svaret är: 1
+
+Låt w(l) = 5*l**2 + 104*l + 15. Vad är entalssiffran i w(7)?
+Svar: 8
+
+Antag att 2*x + 2 = 14. Antag att -4*b = 4*f - 16, x*b - 7 = 2*b + 5*f. Antag att -g + 332 = b*g. Vad är tiotalssiffran i g?
+Svar: 8
+
+Låt n(w) = -78*w - 120. Låt r(x) = -x**3 + 20*x**2 + 2*x - 47. Låt s vara r(20). Vad är entalssiffran i n(s)?
+Svar: 6
+
+Låt x(a) = -a**2 + 12*a + 14. Låt c vara x(13). Låt d vara (22/24 + c/(-4))*54. Låt f = d - 24. Vad är tiotalssiffran i f?
+Svar: 1
+
+Låt o(h) = 21 - 639*h. Låt f vara o(-2). Antag att -158*c + 155*c = -f. Vad är hundratalssiffran i c?
+Svar: 4
+
+Låt x(v) = v**2 - 6*v + 13. Låt c vara x(3). Antag att -3*w = -g - 586, 2*w = c*w + 2*g - 380. Vad är tiotalssiffran i 3*(w/6 - -1)?
+Svaret är: 0
+
+Låt s vara (-2 - (3 - 0))*-5. Låt k = s - 11. Låt r(b) = 8*b - 29. Vad är tiotalssiffran i r(k)?
+Svaret är: 8
+
+Låt v vara 4 - (-640 + 6 + -4). Antag att -3*n - v = -9*n. Låt w = -39 + n. Vad är entalssiffran i w?
+Svaret är: 8
+
+Låt o = -36 + 16. Låt a = -14 - o. Antag att a*p + 66 = 8*p. Vad är entalssiffran i p?
+Svar: 3
+
+Antag att -6*u + 6 = -18. Vad är entalssiffran i 28/(2 + u/(-4))?
+Svaret är: 8
+
+Antag att -4*f + 3*f = 19. Låt m = f + 19. Vad är entalssiffran i 2 + -1 + 0 - m?
+Svar: 1
+
+Låt b(r) = r**3 - 30*r**2 + 165*r - 44. Vad är tiotalssiffran i b(26)?
+Svar: 4
+
+Låt m = -2687 - -4401. Vad är entalssiffran i m?
+Svar: 4
+
+Antag att 4*t - c - 25164 = -8905, -2*t = 3*c - 8147. Vad är entalssiffran i t?
+Svaret är: 6
+
+Låt m = 47 - 44. Låt t(g) = 45*g**2 + 12*g + 5. Vad är tiotalssiffran i t(m)?
+Svaret är: 4
+
+Antag att -11*c + 10*c + 7901 = 0. Vad är hundratalssiffran i c?
+Svar: 9
+
+Låt t = 40 + -40. Låt z(m) = m**2 + 3. Låt o vara z(t). Antag att 5*c - 165 = -o*p, -p = 3*p. Vad är entalssiffran i c?
+Svaret är: 3
+
+Låt y = 12386 + -4742. Vad är entalssiffran i y?
+Svaret är: 4
+
+Låt c vara 2/(-3) - (-2989)/(-21). Låt q = -49 - c. Vad är entalssiffran i q?
+Svar: 4
+
+Vad är hundratalssiffran i 4218 + (2 - -6) + -10?
+Svaret är: 2
+
+Låt j = 319 + -201. Antag att 3*h = -3*z + 366, -h + 0*h - 2*z + j = 0. Vad är entalssiffran i h?
+Svar: 6
+
+Antag att 115*i + 92850 = 850700. Vad är hundratalssiffran i i?
+Svar: 5
+
+Antag att -3*d = 2 - 5. Antag att -j + 3 = -d. Antag att j*z + 12 = 5*x, 2*x + 4*z = 5*x - 4. Vad är entalssiffran i x?
+Svar: 4
+
+Låt b(t) = -t**2 + 32*t. Låt j vara b(8). Låt i = j + -58. Vad är entalssiffran i i?
+Svar: 4
+
+Låt x vara (-166)/(-4) - 3/(-6). Antag att 0 = 43*q - x*q. Antag att q*s - 3*s + 171 = 2*m, -5*s + 254 = 3*m. Vad är tiotalssiffran i m?
+Svar: 9
+
+Antag att 1 = -3*r + 2*r. Vad är tiotalssiffran i r/(-6) + (-3)/((-54)/3579)?
+Svaret är: 9
+
+Låt t(c) = 9 - 12*c. Låt y vara t(5). Antag att -857 = -10*o - 7. Låt w = y + o. Vad är entalssiffran i w?
+Svar: 4
+
+Antag att 3*w + 24082 = 4*h - 176, -2*h + 5*w = -12136. Vad är tusentalssiffran i h?
+Svaret är: 6
+
+Antag att 0*j = -2*j - 4*u + 18, -u + 15 = 2*j. Låt f(a) = 42*a - 27. Vad är entalssiffran i f(j)?
+Svar: 7
+
+Låt b(c) = c**2 - 11*c + 6. Låt m(d) = -2*d - 4. Låt j vara m(-8). Låt y vara b(j). Låt l(u) = 4*u + 19. Vad är entalssiffran i l(y)?
+Svaret är: 1
+
+Antag att -4*h = 2*m - 1984, -6*m = -m - h - 4982. Antag att m = 5*j - 2*j. Vad är entalssiffran i j?
+Svaret är: 2
+
+Låt b vara (32 + -16)/(1/(-2)). Låt f = -29 - b. Antag att 0*s = f*s - 81. Vad är tiotalssiffran i s?
+Svar: 2
+
+Låt y = -1473 - -3464. Vad är tusentalssiffran i y?
+Svar: 1
+
+Låt k = 50 + -50. Antag att 5*j - 5 + k = 0. Vad är entalssiffran i (-6 - -9) + 31 + j?
+Svar: 5
+
+Låt i(m) vara förstaderivatan av m**3/3 - 2*m**2 - 23*m - 18. Vad är tiotalssiffran i i(-12)?
+Svaret är: 6
+
+Låt o(k) = -k**3 + 5*k**2 + k - 17. Låt u vara o(4). Antag att 3*r + 4*t - 1282 = 0, u*t + 832 = 2*r - 0*r. Vad är hundratalssiffran i r?
+Svaret är: 4
+
+Låt r(o) = 2*o + 14. Låt t vara r(-7). Antag att t = 2*x + x - 42. Vad är tiotalssiffran i (-138)/(-8) + x/(-56)?
+Svar: 1
+
+Låt j(d) = -17*d**2 + 2*d + 9. Låt o vara j(-5). Låt t = -108 - o. Vad är tiotalssiffran i t?
+Svaret är: 1
+
+Låt f = -3774 + 13612. Vad är entalssiffran i f?
+Svar: 8
+
+Antag att -245*s - 112691 = -262*s + 53858. Vad är tusentalssiffran i s?
+Svaret är: 9
+
+Antag att -2*z + 429 = -13*z. Vad är entalssiffran i (-74)/(-26) - 3 - 5895/z?
+Svar: 1
+
+Antag att 3*m - 109 + 44 = -2*d, 3*m - 3 = 0. Antag att -171 - d = -p. Vad är entalssiffran i p?
+Svaret är: 2
+
+Antag att 5*b - d + 5 - 1 = 0, 0 = 4*b - d + 4. Antag att -j + 0*j + 18 = b. Låt x = 38 + j. Vad är entalssiffran i x?
+Svar: 6
+
+Låt y(s) vara förstaderivatan av 135*s**3 - s**2 + 3*s + 59. Vad är entalssiffran i y(1)?
+Svar: 6
+
+Låt z = -1994 - -4213. Vad är entalssiffran i z?
+Svar: 9
+
+Låt c vara (6*-2)/(43 + -42). Vad är tiotalssiffran i ((-399)/2)/(9/c)?
+Svaret är: 6
+
+Antag att 0 = -2*a - 4*k + 340, 0*k - 680 = -4*a - 5*k. Låt y = a + -110. Vad är entalssiffran i y?
+Svar: 0
+
+Antag att -2*h + 16956 = 5*y, 30*y - 25453 = -3*h + 32*y. Vad är entalssiffran i h?
+Svaret är: 3
+
+Låt f(m) = 9 - 235*m. Låt l vara f(-1). Låt r = 481 - l. Vad är tiotalssiffran i r?
+Svaret är: 3
+
+Antag att -q + 28 = 2*t - t, -q = 0. Antag att t*o - 18*o = 3250. Vad är entalssiffran i o?
+Svaret är: 5
+
+Antag att -23*q - 15499 = -1101. Låt i = 998 + q. Vad är hundratalssiffran i i?
+Svar: 3
+
+Antag att 30 = 2*g - 5*x, -4*g = -32*x + 30*x - 28. Antag att -k = -g*c + 742, -4*c - 3*k = -0*k - 586. Vad är tiotalssiffran i c?
+Svaret är: 4
+
+Låt q = -139 + 312. Låt t = 449 - q. Vad är tiotalssiffran i t?
+Svar: 7
+
+Låt n(o) = o**2 + 9*o - 9. Låt s = -148 - -132. Vad är tiotalssiffran i n(s)?
+Svaret är: 0
+
+Låt y(d) = -2*d - 5. Låt q vara y(7). Låt f(l) = -27*l - 128. Vad är tiotalssiffran i f(q)?
+Svaret är: 8
+

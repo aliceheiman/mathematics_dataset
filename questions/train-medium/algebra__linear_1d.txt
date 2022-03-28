@@ -1,6 +1,90 @@
-Lös 37*v + 5 - 28 = 310 för v.
-9
-Lös -155 = -1570*c + 1521*c + 923 för c.
-22
-Lös -24*w - 2104 + 354 = 101*w för w.
--14
+Lös 123*n + 80 = 131*n - 16*n för n.
+Svaret är: -10
+
+Lös 0 = -211*x + 105*x + 101*x - 55 för x.
+Svar: -11
+
+Lös -410 - 856 = 96*b - 210 för b.
+Svaret är: -11
+
+Lös 501*m = 496*m - 20 för m.
+Svar: -4
+
+Lös 177*q = 85*q - 3036 för q.
+Svaret är: -33
+
+Lös 0 = -17*y + 85*y + 78*y + 2190 för y.
+Svaret är: -15
+
+Lös -11*u + 1399845 - 1399493 = 0 för u.
+Svaret är: 32
+
+Lös -233*i - 909 = -1219 - 1554 för i.
+Svaret är: 8
+
+Lös 0 = -1084*x + 4683 - 1431 för x.
+Svaret är: 3
+
+Lös 8*u = -1238 + 1302 för u.
+Svar: 8
+
+Lös 54 = 21*m - 92*m - 159 för m.
+Svar: -3
+
+Lös -110*d + 6261 - 2775 = 56*d för d.
+Svaret är: 21
+
+Lös 0 = 60*c + 1286 - 410 + 324 för c.
+Svar: -20
+
+Lös -52*g + 18515 = -9*g + 18386 för g.
+Svaret är: 3
+
+Lös -1229 = 1287*p - 1717 - 23965 för p.
+Svaret är: 19
+
+Lös -699 - 240 = -216*z + 573 för z.
+Svaret är: 7
+
+Lös -18*b - 11*b = -41*b + 180 för b.
+Svaret är: 15
+
+Lös -682*x + 159 = -689*x + 5 för x.
+Svaret är: -22
+
+Lös -2201*w = -1114*w - 1122*w - 1015 för w.
+Svar: -29
+
+Lös 0 = -126*s - 821 + 217 - 530 för s.
+Svaret är: -9
+
+Lös 317*r - 1409 = 5565 för r.
+Svar: 22
+
+Lös -75*v = 1761 - 2361 för v.
+Svar: 8
+
+Lös -179*n = -167*n - 108 för n.
+Svar: 9
+
+Lös 9*m = -4*m - 3*m - 64 för m.
+Svaret är: -4
+
+Lös -132*g = -166*g - 204 för g.
+Svaret är: -6
+
+Lös -3514*d - 660 = -3470*d för d.
+Svar: -15
+
+Lös 37 - 5 = 6*b - 4 för b.
+Svaret är: 6
+
+Lös -56*u - 176 = 160 för u.
+Svaret är: -6
+
+Lös 227*t - 1980 = 282*t för t.
+Svaret är: -36
+
+Lös 0 = 24*l + 23 - 319 - 160 för l.
+Svaret är: 19
+

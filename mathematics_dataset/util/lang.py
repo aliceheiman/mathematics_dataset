@@ -14,6 +14,7 @@
 
 import os
 import sys
+import re
 
 
 class Lang:
@@ -67,6 +68,27 @@ class Lang:
             return text
         else:
             return self.lookup[text]
+
+    def parse(self, templates):
+        """Parses and returns a list of string templates.
+
+        Args:
+            templates (array): a list of template strings. Converts "[Synonym1, Synonym2] ..." into separate list items.
+        """
+
+        all_templates = []
+
+        for template in templates:
+            if "[" in template and "]" in template:
+                # Get synonyms enclosed in brackets from english and translation
+                eng_synonyms, lang_synonyms = re.findall("\[.*?\]", template)
+
+                # Go through each item in each block
+                eng_block = eng_synonyms[1:-1].split(", ")
+                lang_block = lang_synonyms[1:-1].split(", ")
+
+                for eng_syn, lang_syn in zip(eng_block, lang_block):
+                    new_template = template.replace(eng_blo)
 
 
 def init_translation(language="en"):

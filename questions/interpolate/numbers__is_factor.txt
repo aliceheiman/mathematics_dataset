@@ -1,20 +1,300 @@
-Är 42049161 en multipel av 693?
-Sant
-Är 13125741 en multipel av 4?
-Falskt
-Är 189 en delare till 34356150?
-Falskt
-Är 139 en faktor i 9620173?
-Falskt
-Är 21 en faktor i 12233361?
-Sant
-Är 21 en faktor i 12154023?
-Sant
-Är 65991770 en multipel av 66?
-Falskt
-Är 4401187 en multipel av 170?
-Falskt
-Är 8 en delare till 148468?
-Falskt
-Är 20 en delare till 35725549?
-Falskt
+Är 45 en delare till 89934894?
+Svaret är: Falskt
+
+Är 131 en faktor i 12248762?
+Svar: Sant
+
+Är 28 en faktor i 52755668?
+Svar: Sant
+
+Är 321 en delare till 25430583?
+Svaret är: Sant
+
+Är 1959 en faktor i 48847465?
+Svar: Falskt
+
+Är 16298370 en multipel av 606?
+Svar: Sant
+
+Är 55991859 en multipel av 1617?
+Svar: Sant
+
+Är 43690959 en multipel av 11?
+Svaret är: Falskt
+
+Är 228 en faktor i 20045076?
+Svar: Sant
+
+Är 17996759 en multipel av 11?
+Svaret är: Sant
+
+Är 460 en delare till 1213020?
+Svar: Sant
+
+Är 20 en faktor i 23638420?
+Svaret är: Sant
+
+Är 12 en delare till 56517696?
+Svar: Sant
+
+Är 41 en delare till 46777474?
+Svaret är: Sant
+
+Är 64 en delare till 16989056?
+Svaret är: Sant
+
+Är 508740 en multipel av 1830?
+Svaret är: Sant
+
+Är 9 en faktor i 1096271?
+Svar: Falskt
+
+Är 12151654 en multipel av 18?
+Svaret är: Falskt
+
+Är 51770488 en multipel av 101?
+Svaret är: Falskt
+
+Är 521 en delare till 31104221?
+Svar: Sant
+
+Är 107347444 en multipel av 29?
+Svar: Sant
+
+Är 376 en delare till 55400404?
+Svaret är: Falskt
+
+Är 323 en delare till 84653060?
+Svaret är: Falskt
+
+Är 34 en delare till 71671830?
+Svaret är: Sant
+
+Är 49873920 en multipel av 384?
+Svaret är: Sant
+
+Är 7583611 en multipel av 1277?
+Svaret är: Falskt
+
+Är 27 en faktor i 1357182?
+Svar: Sant
+
+Är 1331 en delare till 27730054?
+Svaret är: Sant
+
+Är 29434970 en multipel av 301?
+Svaret är: Falskt
+
+Är 54246920 en multipel av 10?
+Svaret är: Sant
+
+Är 58 en delare till 39364430?
+Svaret är: Falskt
+
+Är 14211995 en multipel av 491?
+Svaret är: Sant
+
+Är 69 en faktor i 9393798?
+Svar: Sant
+
+Är 2224 en faktor i 30448784?
+Svar: Sant
+
+Är 5275270 en multipel av 217?
+Svar: Sant
+
+Är 1516 en faktor i 26207092?
+Svar: Sant
+
+Är 91 en delare till 32243757?
+Svar: Sant
+
+Är 69279472 en multipel av 11?
+Svaret är: Falskt
+
+Är 23 en delare till 28571405?
+Svaret är: Sant
+
+Är 24142283 en multipel av 173?
+Svaret är: Falskt
+
+Är 59 en delare till 28042742?
+Svaret är: Falskt
+
+Är 3124 en faktor i 27378736?
+Svaret är: Sant
+
+Är 464836 jämn?
+Svar: Sant
+
+Är 3563325 en multipel av 25?
+Svaret är: Sant
+
+Är 799 en faktor i 71828098?
+Svar: Falskt
+
+Är 24751569 en multipel av 654?
+Svaret är: Falskt
+
+Är 107 en delare till 16060206?
+Svar: Falskt
+
+Är 1174 en delare till 17347024?
+Svaret är: Sant
+
+Är 22 en delare till 10045877?
+Svaret är: Falskt
+
+Är 6940188 en multipel av 27?
+Svaret är: Sant
+
+Är 59473 en multipel av 468?
+Svaret är: Falskt
+
+Är 2003 en delare till 19174719?
+Svar: Sant
+
+Är 895 en delare till 16266625?
+Svar: Sant
+
+Är 14235914 en multipel av 154?
+Svaret är: Sant
+
+Är 29999772 en multipel av 1562?
+Svaret är: Sant
+
+Är 2315 en faktor i 36030500?
+Svar: Falskt
+
+Är 19440494 en multipel av 71?
+Svar: Falskt
+
+Är 3727 en faktor i 55360956?
+Svaret är: Falskt
+
+Är 103 en delare till 5475264?
+Svaret är: Falskt
+
+Är 40 en delare till 39697439?
+Svaret är: Falskt
+
+Är 21169294 en multipel av 364?
+Svaret är: Falskt
+
+Är 1372 en faktor i 28570350?
+Svar: Falskt
+
+Är 8 en faktor i 11439026?
+Svaret är: Falskt
+
+Är 4 en delare till 11016869?
+Svaret är: Falskt
+
+Är 85 en delare till 25053834?
+Svaret är: Falskt
+
+Är 162153 en multipel av 387?
+Svaret är: Sant
+
+Är 48 en faktor i 32005296?
+Svar: Sant
+
+Är 93 en delare till 53446256?
+Svar: Falskt
+
+Är 65 en faktor i 62033855?
+Svaret är: Sant
+
+Är 3382424 en multipel av 196?
+Svaret är: Falskt
+
+Är 24034583 en multipel av 18?
+Svaret är: Falskt
+
+Är 890784 en multipel av 34?
+Svar: Falskt
+
+Är 77313584 en multipel av 1052?
+Svar: Sant
+
+Är 65339505 en multipel av 21?
+Svar: Sant
+
+Är 28 en faktor i 641396?
+Svar: Sant
+
+Är 48069450 en multipel av 275?
+Svaret är: Sant
+
+Är 303 en delare till 77987958?
+Svar: Sant
+
+Är 3998436 en multipel av 7?
+Svar: Falskt
+
+Är 55660364 en multipel av 9?
+Svaret är: Falskt
+
+Är 254 en faktor i 1887232?
+Svaret är: Falskt
+
+Är 13070227 en multipel av 907?
+Svaret är: Falskt
+
+Är 35962878 en multipel av 73?
+Svar: Falskt
+
+Är 30002 en multipel av 17?
+Svaret är: Falskt
+
+Är 24492356 en multipel av 217?
+Svar: Sant
+
+Är 655 en faktor i 44122082?
+Svaret är: Falskt
+
+Är 6 en faktor i 9266528?
+Svar: Falskt
+
+Är 20517288 en multipel av 132?
+Svaret är: Sant
+
+Är 151 en faktor i 6960345?
+Svaret är: Sant
+
+Är 108 en delare till 31956660?
+Svar: Sant
+
+Är 43 en delare till 53421394?
+Svar: Sant
+
+Är 25 en delare till 87059850?
+Svar: Sant
+
+Är 12 en delare till 5891253?
+Svar: Falskt
+
+Är 1148 en faktor i 57253056?
+Svar: Sant
+
+Är 20 en delare till 40710625?
+Svaret är: Falskt
+
+Är 5 en faktor i 4938229?
+Svaret är: Falskt
+
+Är 3 en faktor i 10093173?
+Svar: Sant
+
+Är 493 en delare till 8261694?
+Svaret är: Sant
+
+Är 143 en delare till 3780625?
+Svaret är: Falskt
+
+Är 1127 en delare till 37074444?
+Svaret är: Falskt
+
+Är 639 en faktor i 50010696?
+Svaret är: Sant
+

@@ -1,6 +1,90 @@
-Sortera -2, -5, -242 i minskande ordning.
--2, -5, -242
-Sortera 0, -3/77, 2 i stigande ordning.
--3/77, 0, 2
-Sortera -342, 0.5, -0.2, -4 i växande ordning.
--342, -4, -0.2, 0.5
+Sätt 5, 6, -2 i minskande ordning.
+Svaret är: 6, 5, -2
+
+Sortera -10/3, -2, 122.
+Svaret är: -10/3, -2, 122
+
+Sätt -49, 36, -5, 3 i avtagande ordning.
+Svar: 36, 3, -5, -49
+
+Sortera 0, 1, -5, -20.
+Svaret är: -20, -5, 0, 1
+
+Sortera 21, -0.2, -3, -0.5, -0.1.
+Svaret är: -3, -0.5, -0.2, -0.1, 21
+
+Sortera 11, 0.5, 0.4, -55, -0.1 i växande ordning.
+Svar: -55, -0.1, 0.4, 0.5, 11
+
+Sätt -6, 1, -4 i minskande ordning.
+Svaret är: 1, -4, -6
+
+Sätt -3, -8, -1, -42 i minskande ordning.
+Svar: -1, -3, -8, -42
+
+Sortera 1, -1, 431.
+Svaret är: -1, 1, 431
+
+Sortera -5, 5, 3.
+Svaret är: -5, 3, 5
+
+Sortera 0.192, -2, 0.5, 4, 1/6.
+Svaret är: -2, 1/6, 0.192, 0.5, 4
+
+Sortera 41, -3, -13, 0 i avtagande ordning.
+Svaret är: 41, 0, -3, -13
+
+Sortera 30, -2, 3 i avtagande ordning.
+Svar: 30, 3, -2
+
+Sortera -1, -2/5, -7 i avtagande ordning.
+Svar: -2/5, -1, -7
+
+Sortera -102, -1, -35 i minskande ordning.
+Svar: -1, -35, -102
+
+Sortera 3, -24, 7, 5.
+Svaret är: -24, 3, 5, 7
+
+Sortera 291, 9, -2, -2/21.
+Svar: -2, -2/21, 9, 291
+
+Sätt 2, -21, 3.9 i avtagande ordning.
+Svar: 3.9, 2, -21
+
+Sätt -189, 0, -3 i växande ordning.
+Svar: -189, -3, 0
+
+Sätt 2/7, -1, -4, 5 i minskande ordning.
+Svar: 5, 2/7, -1, -4
+
+Sätt -3, 2/3, 6/5, -3/2, -3/4 i minskande ordning.
+Svar: 6/5, 2/3, -3/4, -3/2, -3
+
+Sätt -5/3, -0.1, -1.2, 2 i stigande ordning.
+Svaret är: -5/3, -1.2, -0.1, 2
+
+Sortera 3, -1/62, 33 i minskande ordning.
+Svaret är: 33, 3, -1/62
+
+Sätt 30/127, 5, -1/4, 2, -2/9 i stigande ordning.
+Svar: -1/4, -2/9, 30/127, 2, 5
+
+Sortera 3, -2, 120.
+Svaret är: -2, 3, 120
+
+Sätt 333, 2, 0, -3 i växande ordning.
+Svaret är: -3, 0, 2, 333
+
+Sortera 0.2, 12/23, 7 i minskande ordning.
+Svaret är: 7, 12/23, 0.2
+
+Sortera -2, 3, -289.
+Svaret är: -289, -2, 3
+
+Sortera 4, -17, -2, 2 i minskande ordning.
+Svar: 4, 2, -2, -17
+
+Sätt 5, -4, -2/11, 1 i stigande ordning.
+Svaret är: -4, -2/11, 1, 5
+

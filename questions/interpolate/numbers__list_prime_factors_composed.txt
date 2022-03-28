@@ -1,20 +1,300 @@
-Antag att -585 = 48*h - 49*h. Antag att 13*z - 585 - h = 0. Lista primtalsfaktorerna till z.
-2, 3, 5
-Antag att 3*f + 164 = 4*y + 598, 0 = -4*f + y + 570. Antag att -f = a - 511. Lista primtalsfaktorerna till a.
-3, 41
-Låt d = 13416 + -6600. Lista primtalsfaktorerna till d.
-2, 3, 71
-Låt h vara ((-7)/21)/(1/3) + -24. Låt u = h + 70. Antag att -41*x - 404 = -u*x. Vilka är primtalsfaktorerna till x?
-101
-Antag att 0 = 8*w + 2*w - 60. Vilka är primtalsfaktorerna till 1/(3236/(-540) + w)?
-3, 5
-Låt r(t) = 391 - 2033*t. Lista primtalsfaktorerna till r(-3).
-2, 5, 11, 59
-Låt h vara 1*4/(-4)*-3 + 2. Antag att h*m + 4*i = 5*i + 163, -i = -2*m + 64. Antag att m = -y + 72. Vilka är primtalsfaktorerna till y?
-3, 13
-Antag att -n + 9*n = 2648. Låt c = n + -188. Vilka är primtalsfaktorerna till c?
-11, 13
-Låt j(x) = -12*x - 20. Låt a vara j(-5). Antag att 0 = 32*r - a*r + 920. Vilka är primtalsfaktorerna till r?
-5, 23
-Antag att 30*j - 8195 = 27*j + 772. Lista primtalsfaktorerna till j.
-7, 61
+Låt i(u) = 8695*u**2 - 1. Lista primtalsfaktorerna till i(-1).
+Svar: 2, 3, 7, 23
+
+Antag att -107*b = -102*b, 0 = 2*r + b - 5426. Lista primtalsfaktorerna till r.
+Svar: 2713
+
+Låt j(l) vara tredjederivatan av l**5/30 + 2*l**4/3 - 5*l**3/6 - l**2. Antag att 3453*c - 3450*c + 33 = 0. Vilka är primtalsfaktorerna till j(c)?
+Svaret är: 61
+
+Låt a(z) = z**2 - 7*z + 28. Låt t vara (476/21)/((-8)/(-6)). Lista primtalsfaktorerna till a(t).
+Svar: 2, 3, 11
+
+Antag att -27564 = -211*r + 49340 + 66154. Vilka är primtalsfaktorerna till r?
+Svaret är: 2, 3, 113
+
+Antag att 0 = 5*u - 5*c - 11175, -2*u + 7*u + 3*c - 11135 = 0. Vilka är primtalsfaktorerna till u?
+Svar: 2, 5, 223
+
+Låt m = 263 - -363. Antag att m = 6*v - 142. Lista primtalsfaktorerna till v.
+Svaret är: 2
+
+Låt o(u) = -850*u - 112. Lista primtalsfaktorerna till o(-2).
+Svaret är: 2, 397
+
+Vilka är primtalsfaktorerna till (54/2)/((42/1560)/7)?
+Svar: 2, 3, 5, 13
+
+Antag att 15*a + 742905 = 42*a + 108*a. Lista primtalsfaktorerna till a.
+Svar: 5503
+
+Låt o(g) = 815*g - 54. Vilka är primtalsfaktorerna till o(7)?
+Svaret är: 5651
+
+Låt g(y) = y - 14. Låt r vara g(20). Lista primtalsfaktorerna till ((-365)/10 + -1)/(r/(-64)).
+Svar: 2, 5
+
+Låt u(b) = b**3 + 8*b**2 + 5. Låt i vara u(-8). Lista primtalsfaktorerna till 1 - i - (4 - 140).
+Svaret är: 2, 3, 11
+
+Låt f(k) = 49*k**2 + 232*k + 2. Lista primtalsfaktorerna till f(11).
+Svar: 17, 499
+
+Låt o(w) = 2 + 12*w - w**2 - 64*w**3 - 1 - 11*w. Antag att 11 = 15*b + 26. Vilka är primtalsfaktorerna till o(b)?
+Svar: 3, 7
+
+Låt m vara (-1412)/(-6) - 26/(-39). Antag att 3*n + 2*j - 235 = m, 617 = 4*n - j. Vilka är primtalsfaktorerna till n?
+Svaret är: 5, 31
+
+Låt b = -317 - -571. Låt t = -168 + b. Antag att 28 - t = -2*d. Vilka är primtalsfaktorerna till d?
+Svar: 29
+
+Antag att -9571 = 2*h - 27549. Vilka är primtalsfaktorerna till h?
+Svaret är: 89, 101
+
+Låt o(p) = -36. Låt n(j) = 180 - j. Låt l(b) = 2*n(b) + 11*o(b). Låt k vara l(-19). Antag att -5*c + 3 = h - 79, -k*c = 0. Vilka är primtalsfaktorerna till h?
+Svar: 2, 41
+
+Antag att -3*t - 10 = -34. Antag att -3*w = -2*v - t, 4*v + 4*w = 17 + 7. Vilka är primtalsfaktorerna till 1/(v/108) + 0/(-2)?
+Svaret är: 2, 3
+
+Antag att -112 - 92 = -4*z. Låt l = z + -47. Antag att -231 = -3*n - 4*w, 0 = l*n - 5*n - 5*w + 88. Vilka är primtalsfaktorerna till n?
+Svaret är: 73
+
+Låt p(l) = -5*l**3 + 5*l**2 - 23. Låt y(r) = -9*r**3 + 10*r**2 + r - 46. Låt v(c) = 7*p(c) - 4*y(c). Vilka är primtalsfaktorerna till v(9)?
+Svar: 311
+
+Låt r vara 6 + (0 - (-5 - 0)). Lista primtalsfaktorerna till (-33 + 66/r)*(-1 + -1).
+Svaret är: 2, 3
+
+Låt o(a) = -984*a**3 - 3*a**2 - 55*a - 107. Lista primtalsfaktorerna till o(-2).
+Svar: 3, 2621
+
+Antag att -4*h = q - 20544, 5100 = h - 5*q - 36. Vilka är primtalsfaktorerna till h?
+Svaret är: 2, 3, 107
+
+Låt t(q) = 111 - 9*q. Låt s vara t(6). Antag att -4*u = -x + 99, 4*u + 216 = 2*x + 2*u. Låt n = x - s. Vilka är primtalsfaktorerna till n?
+Svaret är: 2, 3
+
+Låt m(k) = 8*k**3 + 16*k**2 - 24*k - 22. Låt z(i) = 3*i**3 + 5*i**2 - 8*i - 7. Låt s(f) = 4*m(f) - 11*z(f). Vilka är primtalsfaktorerna till s(-5)?
+Svaret är: 379
+
+Låt x(j) = 15 - 3*j. Låt i vara x(4). Låt d vara 26/(-78) - (-214)/i. Antag att 2 - d = -3*v. Vilka är primtalsfaktorerna till v?
+Svar: 23
+
+Antag att a + 3*p + 18 = 0, 4*a = -5*p - 31 - 41. Låt k = a + 56. Lista primtalsfaktorerna till k.
+Svaret är: 2, 19
+
+Låt y = 2633 + -1631. Låt j = y - 579. Lista primtalsfaktorerna till j.
+Svar: 3, 47
+
+Låt t(i) = -174*i - 1. Låt u vara t(-1). Antag att 13*w + 71 = 110. Antag att -u = -3*p - 5*g, p + w*p - 4*g = 188. Lista primtalsfaktorerna till p.
+Svar: 3, 17
+
+Antag att -3*w + 2*i - 4 = w, 0 = -w + 5*i - 19. Låt p(v) = -v**2 + 2 - w + 3 - 20*v - 5. Lista primtalsfaktorerna till p(-8).
+Svar: 5, 19
+
+Låt i(k) vara andraderivatan av -73*k**3/6 - 3*k**2/2 + 34*k - 1. Lista primtalsfaktorerna till i(-2).
+Svar: 11, 13
+
+Låt v = 18036 + -8974. Vilka är primtalsfaktorerna till v?
+Svar: 2, 23, 197
+
+Låt k vara 1/(((-2)/12)/(3/6)). Låt f(p) = 2 - 44*p. Låt b vara f(k). Antag att -4*h = -5*n - b + 21, -5*h - n = -134. Lista primtalsfaktorerna till h.
+Svar: 3
+
+Antag att 27*g = 8*g + 68734 + 6506. Lista primtalsfaktorerna till g.
+Svaret är: 2, 3, 5, 11
+
+Låt h(b) = b**3 + 8*b**2 + 21*b + 30. Låt w vara h(-7). Vilka är primtalsfaktorerna till -1 + 1 + 217 + (w - -71)?
+Svar: 2, 5, 11
+
+Låt o vara 7/(28/16) + 0. Låt m vara 153/3 - (o + -8). Låt v = 117 - m. Lista primtalsfaktorerna till v.
+Svaret är: 2, 31
+
+Antag att 2*o = -4*a + 140, -2 = -5*a - 22. Antag att 8*b - o = 234. Vilka är primtalsfaktorerna till b?
+Svar: 3, 13
+
+Låt w vara 2/2 - (-6 - -6). Låt n(f) = 1 - w + 2 - 3 + 57*f. Lista primtalsfaktorerna till n(1).
+Svar: 2, 7
+
+Låt g = -280 + 514. Lista primtalsfaktorerna till g/(-30)*-1*45.
+Svar: 3, 13
+
+Låt a(k) = -10*k - 12. Låt l vara a(-3). Låt h = l + -15. Antag att -h*y = -0*y - 66. Vilka är primtalsfaktorerna till y?
+Svar: 2, 11
+
+Låt o(x) vara förstaderivatan av -3*x**2/2 - 9*x - 17. Låt i vara o(-4). Antag att 5*m - 488 = -i. Lista primtalsfaktorerna till m.
+Svaret är: 97
+
+Låt x(s) = -7*s**2 - 8*s - 1. Låt b vara x(5). Låt r = -107 - b. Låt g = -55 + r. Lista primtalsfaktorerna till g.
+Svar: 2, 3
+
+Låt f vara 5 + (-1548 - 5) + -1. Vilka är primtalsfaktorerna till 3 - 41/13 - f/13?
+Svar: 7, 17
+
+Låt j vara (-102)/(-20) + 35/(-350). Låt m(q) vara andraderivatan av -q**5/20 + q**4/3 + 7*q**3/6 - 3*q**2/2 + 2*q. Lista primtalsfaktorerna till m(j).
+Svaret är: 7
+
+Låt z vara 2 - 1 - (-4 + (-18)/(-6)). Lista primtalsfaktorerna till 389/z + (-18)/36.
+Svar: 2, 97
+
+Antag att -3*v + 37 = 5*x, 3*v + 2*x = 7*v - 32. Antag att 0 = m - 2*i - 356, m + v*i - 332 = 5*i. Lista primtalsfaktorerna till m.
+Svaret är: 2, 3, 29
+
+Antag att 4*s + 3*s - 42 = 0. Låt j vara 0/(9/s*-2). Antag att 7*a - 53 - 59 = j. Lista primtalsfaktorerna till a.
+Svaret är: 2
+
+Låt k(n) = n**3 - 39*n**2 + 46*n - 182. Vilka är primtalsfaktorerna till k(41)?
+Svar: 2, 17, 149
+
+Antag att 9*m - 25*m - 2421 = -80069. Lista primtalsfaktorerna till m.
+Svaret är: 23, 211
+
+Låt p(b) vara förstaderivatan av -14*b**2 - 10*b - 126. Låt f vara ((-18)/10 + 1)*5. Vilka är primtalsfaktorerna till p(f)?
+Svar: 2, 3, 17
+
+Låt q(b) = 1096*b**3 + 3*b**2 - 2*b - 9. Lista primtalsfaktorerna till q(2).
+Svaret är: 11, 797
+
+Låt h vara (-387)/(-15) - 5/(-25). Antag att -20 = m - h. Antag att -l + v - 153 = -m*l, 0 = 2*v - 6. Vilka är primtalsfaktorerna till l?
+Svaret är: 2, 3, 5
+
+Vilka är primtalsfaktorerna till (-28)/(-14) + 0 - -4248?
+Svaret är: 2, 5, 17
+
+Antag att r = -4*o + 36681, 0 = o - 142*r + 141*r - 9174. Lista primtalsfaktorerna till o.
+Svar: 3, 1019
+
+Låt f vara 1 - -95*(0/2 - 1). Låt m = -46 - f. Antag att 0 = 4*x - 156 - m. Vilka är primtalsfaktorerna till x?
+Svar: 3, 17
+
+Antag att 5*b + q = 39477, 2*q = -b - 3*q + 7905. Vilka är primtalsfaktorerna till b?
+Svaret är: 5, 1579
+
+Antag att 3699*t - 176150 = 3674*t. Lista primtalsfaktorerna till t.
+Svar: 2, 13, 271
+
+Antag att -148*n + 193470 = -118*n. Vilka är primtalsfaktorerna till n?
+Svaret är: 6449
+
+Låt b vara 297/27 - 12/2. Antag att 5*s = b*i + 2130, -13*s - i + 1694 = -9*s. Vilka är primtalsfaktorerna till s?
+Svaret är: 2, 53
+
+Låt n = 243 - 149. Låt m = 15 + n. Vilka är primtalsfaktorerna till m?
+Svar: 109
+
+Låt o(z) = z**3 - 72*z**2 + 80*z - 193. Vilka är primtalsfaktorerna till o(71)?
+Svaret är: 2, 223
+
+Antag att 11*c + 832 = 5320. Antag att 5*p - 36 = 2*p. Antag att 16*x = p*x + c. Lista primtalsfaktorerna till x.
+Svar: 2, 3, 17
+
+Antag att 4*h + 3*y = 38436, -25036 = -3*h - 4*y + 3791. Vilka är primtalsfaktorerna till h?
+Svar: 3, 3203
+
+Låt p vara 1*(14 + 2 - 3) - -3. Låt l vara 23/7 - p/56. Vilka är primtalsfaktorerna till 195/l - 2/2*1?
+Svaret är: 2
+
+Låt n(v) = 9*v**3 - v**2 + 6*v - 3. Låt y vara n(4). Låt s = y + -265. Antag att 0*z + 4*z = s. Lista primtalsfaktorerna till z.
+Svaret är: 79
+
+Låt j(f) = -f**3 + 15*f**2 + 3*f - 36. Låt u(o) = -o**3 + 9*o**2 - 8*o + 14. Låt b vara u(8). Lista primtalsfaktorerna till j(b).
+Svar: 2, 101
+
+Antag att -23*b = -27*b + 2368. Antag att -346 = -3*j + 4*y, -y = 5*j - 0*y - b. Vilka är primtalsfaktorerna till j?
+Svaret är: 2, 59
+
+Låt q(c) = c + 49. Låt s vara q(-44). Låt g = 86 - -6. Antag att -3*x = 2*v - g, 144 = s*x + v - 0*v. Lista primtalsfaktorerna till x.
+Svaret är: 2, 7
+
+Vilka är primtalsfaktorerna till 558/248*1656/2?
+Svar: 3, 23
+
+Låt j(g) = -3*g + 3 - 3*g - 8. Låt m(u) = -2*u**2 - 38*u - 174. Låt t vara m(-12). Lista primtalsfaktorerna till j(t).
+Svar: 31
+
+Antag att 2*i = 97 - 33. Antag att 0 = -3*n + 16 + i. Antag att -124 = -n*w + 14*w. Lista primtalsfaktorerna till w.
+Svaret är: 2, 31
+
+Låt v(k) = k**3 + 87*k**2 - 236*k - 216. Vilka är primtalsfaktorerna till v(-89)?
+Svar: 2, 2473
+
+Låt l = 12372 - 6486. Lista primtalsfaktorerna till l.
+Svaret är: 2, 3, 109
+
+Antag att -14*p - 329150 + 112430 = -94*p. Lista primtalsfaktorerna till p.
+Svaret är: 3, 7, 43
+
+Antag att 47 = -5*r - 633. Låt q = -134 - r. Lista primtalsfaktorerna till q.
+Svaret är: 2
+
+Antag att 4*i + 4*i - 4272 = 0. Låt k = i + -196. Vilka är primtalsfaktorerna till k?
+Svaret är: 2, 13
+
+Antag att 3*b = -5*a + 33277, -3*a - 4641 = 4*b - 24616. Lista primtalsfaktorerna till a.
+Svaret är: 6653
+
+Låt u = 6 - 3. Låt f vara 7 - -1 - u - 3. Låt p(d) = 3*d**3 + 2*d + 1. Lista primtalsfaktorerna till p(f).
+Svaret är: 29
+
+Låt q = -202 + 204. Antag att -o - 37 = 3*v - 5*v, -4*v + 70 = q*o. Lista primtalsfaktorerna till v.
+Svaret är: 2, 3
+
+Antag att 0 = -21*v + 10 + 32. Antag att -v*y + y = -u + 441, 0 = -4*y + 20. Lista primtalsfaktorerna till u.
+Svar: 2, 223
+
+Låt x vara 4 - 3/(-2)*(-8)/(-12). Antag att 0 = 4*a - 2*r - 1786, -x*a = -4*r - 712 - 1528. Vilka är primtalsfaktorerna till a?
+Svar: 2, 3, 37
+
+Lista primtalsfaktorerna till (8352/435)/((-6)/(-2920)).
+Svar: 2, 73
+
+Antag att 0 = 3460*r - 3459*r - 9105. Lista primtalsfaktorerna till r.
+Svar: 3, 5, 607
+
+Låt h = -8 - -11. Antag att -4*m - 3*w + h = 0, -5*w = 4*m + 2 - 7. Låt i = 35 + m. Vilka är primtalsfaktorerna till i?
+Svar: 5, 7
+
+Lista primtalsfaktorerna till -67 + 503 - (1 - 10/2).
+Svar: 2, 5, 11
+
+Antag att 122*s - 18*s = 737776. Lista primtalsfaktorerna till s.
+Svaret är: 2, 3547
+
+Antag att 0 = 3*n - 4*n + 38. Låt f = n + -35. Antag att 0 = -4*q + a + 317, 3*a - a = f*q - 244. Vilka är primtalsfaktorerna till q?
+Svaret är: 2, 3, 13
+
+Låt m(q) = 5*q**2 + 3*q + 16. Låt r vara m(-9). Antag att 512 = 2*s - r. Lista primtalsfaktorerna till s.
+Svaret är: 3, 151
+
+Antag att 89 = 3*f + 446. Låt b = f - -320. Vilka är primtalsfaktorerna till b?
+Svar: 3, 67
+
+Låt s(l) = l**2 + l + 8. Låt m vara -2 + -2 + 2 - (-3 + 5). Låt v vara 0/(-1 + 0) + m + 4. Vilka är primtalsfaktorerna till s(v)?
+Svaret är: 2
+
+Låt l = -63 - -68. Antag att z - 320 = 3*m, 4*z + l*m = -z + 1520. Vilka är primtalsfaktorerna till z?
+Svaret är: 2, 7, 11
+
+Låt t(x) vara förstaderivatan av -17*x**2/2 - x - 12. Låt b(c) = -9*c. Låt s(m) = 5*b(m) - 3*t(m). Vilka är primtalsfaktorerna till s(1)?
+Svaret är: 3
+
+Antag att -5*n = 5*y - 37535, 0 = 156*y - 159*y - n + 22511. Lista primtalsfaktorerna till y.
+Svar: 2, 11, 31
+
+Antag att 2*b - 3*u + u + 6 = 0, 3 = 5*b + u. Låt j(h) = 7*h - 37. Låt t vara j(6). Antag att -t*o + 12 + 78 = b. Vilka är primtalsfaktorerna till o?
+Svaret är: 2, 3
+
+Antag att -135109 = -75*c + 548141. Vilka är primtalsfaktorerna till c?
+Svaret är: 2, 5, 911
+
+Låt j = -722 - -6295. Lista primtalsfaktorerna till j.
+Svaret är: 5573
+
+Antag att 4*r + 8 + 16 = 0. Låt l vara (4 - (-36)/(-8))*r. Antag att 2*y = -4*k + 100, -k + y + 43 = -l*y. Vilka är primtalsfaktorerna till k?
+Svar: 3
+
+Låt z = -3769 + 8480. Lista primtalsfaktorerna till z.
+Svar: 7, 673
+

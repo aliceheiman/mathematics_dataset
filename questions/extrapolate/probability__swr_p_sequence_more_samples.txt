@@ -1,20 +1,300 @@
-Fem bokstäver väljs utan återsättning från {b: 2, z: 3, x: 6, w: 2}. Vad är sannolikheten att sekvensen är wbxzw?
-1/2145
-Beräkna sannolikheten att sekvensen är smmpm då fem bokstäver väljs utan återsättning från {m: 6, p: 2, s: 10}.
-5/2142
-Vad är sannolikheten att sekvensen är mmmmj då fem bokstäver väljs utan återsättning från mjmmmmjjmjmjjjj?
-8/429
-Fem bokstäver väljs utan återsättning från {x: 10}. Ange sannolikheten att sekvensen är xxxxx.
-1
-Fem bokstäver väljs utan återsättning från {i: 1, n: 9}. Vad är sannolikheten att sekvensen är nnnin?
-1/10
-Fem bokstäver väljs utan återsättning från {d: 1, k: 4}. Ange sannolikheten att sekvensen är dkkkk.
-1/5
-Vad är sannolikheten att sekvensen är sszzs då fem bokstäver väljs utan återsättning från zssssszzszssss?
-36/1001
-Beräkna sannolikheten att sekvensen är ggomo då fem bokstäver väljs utan återsättning från {m: 4, o: 10, g: 2}.
-1/728
-Beräkna sannolikheten att sekvensen är jjjje då fem bokstäver väljs utan återsättning från ejjjoojjjjjojoo.
-6/715
-Fem bokstäver väljs utan återsättning från {m: 4, e: 3, v: 8}. Vad är sannolikheten att sekvensen är ememm?
-2/5005
+Beräkna sannolikheten att sekvensen är lflfq då fem bokstäver väljs utan återsättning från {f: 3, q: 4, l: 8}.
+Svar: 8/2145
+
+Fem bokstäver väljs utan återsättning från mssmspmzsmmspmmsmp. Ange sannolikheten att sekvensen är szmss.
+Svaret är: 1/1071
+
+Vad är sannolikheten att sekvensen är iddll då fem bokstäver väljs utan återsättning från liddl?
+Svar: 1/30
+
+Fem bokstäver väljs utan återsättning från {j: 1, b: 4, q: 4}. Ange sannolikheten att sekvensen är qqbqb.
+Svaret är: 2/105
+
+Fem bokstäver väljs utan återsättning från lllllzlllzzlzz. Ange sannolikheten att sekvensen är llzll.
+Svar: 9/143
+
+Fem bokstäver väljs utan återsättning från {i: 5, d: 3, n: 1, p: 1, c: 1, z: 4}. Ange sannolikheten att sekvensen är nddpz.
+Svaret är: 1/15015
+
+Fem bokstäver väljs utan återsättning från jddjd. Ange sannolikheten att sekvensen är jdddd.
+Svaret är: 0
+
+Fem bokstäver väljs utan återsättning från qlelqyyvvvmme. Ange sannolikheten att sekvensen är yvvev.
+Svar: 1/6435
+
+Fem bokstäver väljs utan återsättning från ikiiddkdikdidd. Vad är sannolikheten att sekvensen är iiiik?
+Svaret är: 3/2002
+
+Vad är sannolikheten att sekvensen är clddd då fem bokstäver väljs utan återsättning från dlcddcdgdlcdlll?
+Svaret är: 5/1001
+
+Fem bokstäver väljs utan återsättning från iypppuwppuw. Vad är sannolikheten att sekvensen är iwppy?
+Svar: 1/1386
+
+Beräkna sannolikheten att sekvensen är zffzf då fem bokstäver väljs utan återsättning från {z: 7, f: 6}.
+Svaret är: 14/429
+
+Fem bokstäver väljs utan återsättning från ytyyyydtntntyynhnnhn. Vad är sannolikheten att sekvensen är hynny?
+Svar: 7/5168
+
+Beräkna sannolikheten att sekvensen är jjjms då fem bokstäver väljs utan återsättning från {j: 3, s: 1, m: 3, u: 1, d: 1}.
+Svaret är: 1/840
+
+Fem bokstäver väljs utan återsättning från sxuuuxvvuxwx. Vad är sannolikheten att sekvensen är xvwxv?
+Svar: 1/3960
+
+Vad är sannolikheten att sekvensen är rfvfq då fem bokstäver väljs utan återsättning från {r: 3, u: 3, f: 5, v: 3, q: 2}?
+Svaret är: 1/1456
+
+Fem bokstäver väljs utan återsättning från {u: 4, h: 2, k: 7, l: 3}. Ange sannolikheten att sekvensen är kuulh.
+Svaret är: 1/1040
+
+Vad är sannolikheten att sekvensen är lxaex då fem bokstäver väljs utan återsättning från {x: 4, n: 1, m: 2, e: 1, l: 1, a: 10}?
+Svaret är: 1/11628
+
+Fem bokstäver väljs utan återsättning från {d: 4, j: 6, b: 2, s: 1}. Vad är sannolikheten att sekvensen är sjbdj?
+Svar: 2/1287
+
+Beräkna sannolikheten att sekvensen är qmeeq då fem bokstäver väljs utan återsättning från {m: 1, q: 5, e: 3}.
+Svaret är: 1/126
+
+Beräkna sannolikheten att sekvensen är nnnzn då fem bokstäver väljs utan återsättning från {z: 1, n: 6}.
+Svar: 1/7
+
+Vad är sannolikheten att sekvensen är klkkl då fem bokstäver väljs utan återsättning från lkklkkklk?
+Svar: 1/21
+
+Fem bokstäver väljs utan återsättning från yyyyywooyyyyww. Ange sannolikheten att sekvensen är oyoyw.
+Svaret är: 9/5005
+
+Fem bokstäver väljs utan återsättning från {z: 1, b: 5, v: 1, q: 6, k: 5}. Vad är sannolikheten att sekvensen är vbkzq?
+Svar: 5/34272
+
+Fem bokstäver väljs utan återsättning från {d: 5}. Ange sannolikheten att sekvensen är ddddd.
+Svaret är: 1
+
+Beräkna sannolikheten att sekvensen är jgihh då fem bokstäver väljs utan återsättning från jgfhhjijjggjjggigggj.
+Svar: 7/58140
+
+Vad är sannolikheten att sekvensen är rnwgg då fem bokstäver väljs utan återsättning från ttggtrgtwrrhnggttwg?
+Svaret är: 1/7752
+
+Fem bokstäver väljs utan återsättning från {r: 1, m: 1, w: 1, t: 1, u: 2, s: 2}. Ange sannolikheten att sekvensen är sswtu.
+Svaret är: 1/1680
+
+Fem bokstäver väljs utan återsättning från qufyuhqqqfgf. Ange sannolikheten att sekvensen är gyfqh.
+Svar: 1/7920
+
+Vad är sannolikheten att sekvensen är nnjnn då fem bokstäver väljs utan återsättning från {n: 6, j: 4}?
+Svar: 1/21
+
+Fem bokstäver väljs utan återsättning från amaoamamyoymommmm. Ange sannolikheten att sekvensen är aoyom.
+Svaret är: 4/7735
+
+Fem bokstäver väljs utan återsättning från {s: 1, l: 5}. Ange sannolikheten att sekvensen är lllll.
+Svar: 1/6
+
+Beräkna sannolikheten att sekvensen är qrzoa då fem bokstäver väljs utan återsättning från {z: 3, a: 1, q: 1, o: 1, r: 1}.
+Svaret är: 1/840
+
+Vad är sannolikheten att sekvensen är tyyaa då fem bokstäver väljs utan återsättning från kaktkaykytkytkyakk?
+Svaret är: 1/4760
+
+Vad är sannolikheten att sekvensen är zpnzp då fem bokstäver väljs utan återsättning från {z: 9, p: 7, n: 4}?
+Svar: 21/3230
+
+Fem bokstäver väljs utan återsättning från {t: 11, w: 5}. Vad är sannolikheten att sekvensen är wwttw?
+Svar: 55/4368
+
+Fem bokstäver väljs utan återsättning från nonnoonoononnnooonon. Vad är sannolikheten att sekvensen är onnno?
+Svaret är: 45/1292
+
+Fem bokstäver väljs utan återsättning från {e: 1, m: 3, j: 14}. Vad är sannolikheten att sekvensen är jmjme?
+Svaret är: 13/12240
+
+Fem bokstäver väljs utan återsättning från {u: 2, b: 5, x: 4, d: 8}. Ange sannolikheten att sekvensen är bxbbu.
+Svaret är: 1/2907
+
+Fem bokstäver väljs utan återsättning från cllclzllllzlzlllclll. Ange sannolikheten att sekvensen är zlllz.
+Svar: 91/12920
+
+Fem bokstäver väljs utan återsättning från uuuusfjuufffffuusj. Vad är sannolikheten att sekvensen är ffssj?
+Svaret är: 1/8568
+
+Beräkna sannolikheten att sekvensen är oooae då fem bokstäver väljs utan återsättning från {e: 1, a: 11, d: 2, o: 4}.
+Svar: 11/42840
+
+Fem bokstäver väljs utan återsättning från {a: 5, r: 3, b: 6}. Vad är sannolikheten att sekvensen är bbrrb?
+Svar: 3/1001
+
+Fem bokstäver väljs utan återsättning från {u: 2, n: 7, k: 10}. Ange sannolikheten att sekvensen är knnnu.
+Svaret är: 35/11628
+
+Beräkna sannolikheten att sekvensen är hbjxb då fem bokstäver väljs utan återsättning från {x: 6, b: 5, j: 3, h: 4}.
+Svar: 1/714
+
+Vad är sannolikheten att sekvensen är aaafn då fem bokstäver väljs utan återsättning från {n: 1, f: 6, a: 9}?
+Svar: 3/520
+
+Beräkna sannolikheten att sekvensen är otyyo då fem bokstäver väljs utan återsättning från oyoot.
+Svar: 0
+
+Fem bokstäver väljs utan återsättning från xpxzxhhxhmhdmxhzhdm. Ange sannolikheten att sekvensen är mphdd.
+Svar: 1/38760
+
+Vad är sannolikheten att sekvensen är huhhu då fem bokstäver väljs utan återsättning från {h: 5, u: 14}?
+Svaret är: 91/11628
+
+Fem bokstäver väljs utan återsättning från ehehoh. Ange sannolikheten att sekvensen är ehheh.
+Svaret är: 1/60
+
+Fem bokstäver väljs utan återsättning från {r: 4, p: 9}. Vad är sannolikheten att sekvensen är rrppp?
+Svar: 28/715
+
+Vad är sannolikheten att sekvensen är tmwyw då fem bokstäver väljs utan återsättning från {j: 1, w: 3, a: 1, t: 2, y: 1, m: 2}?
+Svaret är: 1/1260
+
+Fem bokstäver väljs utan återsättning från {j: 1, p: 2, i: 2, t: 1}. Ange sannolikheten att sekvensen är pptij.
+Svaret är: 1/180
+
+Fem bokstäver väljs utan återsättning från iihhihihi. Vad är sannolikheten att sekvensen är hiiii?
+Svaret är: 2/63
+
+Beräkna sannolikheten att sekvensen är aacaa då fem bokstäver väljs utan återsättning från aaccacac.
+Svaret är: 1/70
+
+Beräkna sannolikheten att sekvensen är qasat då fem bokstäver väljs utan återsättning från ayaddqyddaatsqdasy.
+Svar: 1/12852
+
+Beräkna sannolikheten att sekvensen är puqdq då fem bokstäver väljs utan återsättning från {d: 1, u: 1, f: 2, p: 3, q: 2, l: 1}.
+Svaret är: 1/5040
+
+Fem bokstäver väljs utan återsättning från wwmlwwxlllmwxmwxx. Ange sannolikheten att sekvensen är mmwll.
+Svar: 9/15470
+
+Fem bokstäver väljs utan återsättning från {b: 1, o: 6, z: 2}. Ange sannolikheten att sekvensen är ozboo.
+Svar: 1/63
+
+Fem bokstäver väljs utan återsättning från {u: 4, l: 10}. Vad är sannolikheten att sekvensen är ulluu?
+Svar: 9/1001
+
+Fem bokstäver väljs utan återsättning från txmxxmmm. Vad är sannolikheten att sekvensen är xmtmx?
+Svar: 3/280
+
+Vad är sannolikheten att sekvensen är xubea då fem bokstäver väljs utan återsättning från bbxnaebaeu?
+Svar: 1/2520
+
+Beräkna sannolikheten att sekvensen är gngsp då fem bokstäver väljs utan återsättning från {n: 6, p: 2, s: 1, m: 4, g: 5}.
+Svaret är: 1/4284
+
+Fem bokstäver väljs utan återsättning från {o: 6, p: 13}. Vad är sannolikheten att sekvensen är ooooo?
+Svaret är: 1/1938
+
+Vad är sannolikheten att sekvensen är jjvij då fem bokstäver väljs utan återsättning från {i: 5, j: 8, a: 1, v: 3}?
+Svar: 3/442
+
+Fem bokstäver väljs utan återsättning från bkkkkbbkkbbkkkkkbkkk. Vad är sannolikheten att sekvensen är bbbbk?
+Svaret är: 7/2584
+
+Beräkna sannolikheten att sekvensen är utuut då fem bokstäver väljs utan återsättning från ttuttuttttutttuuuttt.
+Svar: 91/7752
+
+Beräkna sannolikheten att sekvensen är xgvix då fem bokstäver väljs utan återsättning från lllgvvlmlxvxxxllim.
+Svaret är: 1/28560
+
+Fem bokstäver väljs utan återsättning från {j: 5, q: 10, z: 1}. Ange sannolikheten att sekvensen är zqqjj.
+Svar: 5/1456
+
+Vad är sannolikheten att sekvensen är gxxgm då fem bokstäver väljs utan återsättning från {g: 2, c: 3, m: 8, x: 3}?
+Svar: 1/5460
+
+Vad är sannolikheten att sekvensen är aryyy då fem bokstäver väljs utan återsättning från {y: 13, a: 3, r: 4}?
+Svar: 143/12920
+
+Fem bokstäver väljs utan återsättning från sfifsirxirsfsixifi. Vad är sannolikheten att sekvensen är xxisf?
+Svaret är: 1/5355
+
+Fem bokstäver väljs utan återsättning från {a: 1, j: 2, z: 2, k: 9}. Vad är sannolikheten att sekvensen är ajzjz?
+Svaret är: 1/60060
+
+Fem bokstäver väljs utan återsättning från {e: 6, y: 5, h: 2, p: 1}. Ange sannolikheten att sekvensen är yhhyp.
+Svaret är: 1/6006
+
+Beräkna sannolikheten att sekvensen är oiiio då fem bokstäver väljs utan återsättning från {i: 6, o: 11}.
+Svaret är: 55/3094
+
+Beräkna sannolikheten att sekvensen är qqqsb då fem bokstäver väljs utan återsättning från {q: 3, b: 7, l: 1, y: 4, s: 2}.
+Svaret är: 1/8840
+
+Beräkna sannolikheten att sekvensen är skgkk då fem bokstäver väljs utan återsättning från {s: 5, g: 4, t: 3, k: 6}.
+Svaret är: 5/2142
+
+Beräkna sannolikheten att sekvensen är vikvi då fem bokstäver väljs utan återsättning från kviikvvvv.
+Svar: 1/189
+
+Fem bokstäver väljs utan återsättning från ccndce. Ange sannolikheten att sekvensen är eccnd.
+Svaret är: 1/120
+
+Vad är sannolikheten att sekvensen är ygygy då fem bokstäver väljs utan återsättning från ygggygyyyyyyggygg?
+Svaret är: 42/1105
+
+Fem bokstäver väljs utan återsättning från ooiitttittoitii. Vad är sannolikheten att sekvensen är iiiii?
+Svaret är: 2/1001
+
+Fem bokstäver väljs utan återsättning från {w: 4, v: 2}. Vad är sannolikheten att sekvensen är wwwvw?
+Svaret är: 1/15
+
+Beräkna sannolikheten att sekvensen är hhhhh då fem bokstäver väljs utan återsättning från {h: 5}.
+Svar: 1
+
+Vad är sannolikheten att sekvensen är myiya då fem bokstäver väljs utan återsättning från {v: 1, i: 1, y: 3, m: 3, a: 1}?
+Svar: 1/840
+
+Fem bokstäver väljs utan återsättning från zzttzzzttztzzz. Vad är sannolikheten att sekvensen är tzztz?
+Svaret är: 6/143
+
+Beräkna sannolikheten att sekvensen är xaaxu då fem bokstäver väljs utan återsättning från auuuxxaxaaaaxxaauaaa.
+Svaret är: 55/11628
+
+Beräkna sannolikheten att sekvensen är mmamz då fem bokstäver väljs utan återsättning från zmzzzsszmszzmazzm.
+Svaret är: 9/30940
+
+Fem bokstäver väljs utan återsättning från {f: 6, b: 3, t: 5}. Vad är sannolikheten att sekvensen är tttbf?
+Svar: 9/2002
+
+Vad är sannolikheten att sekvensen är qqhqa då fem bokstäver väljs utan återsättning från {f: 6, h: 1, e: 2, a: 6, p: 2, q: 3}?
+Svar: 1/51680
+
+Fem bokstäver väljs utan återsättning från ootttttootottot. Vad är sannolikheten att sekvensen är oottt?
+Svar: 6/143
+
+Beräkna sannolikheten att sekvensen är lxoow då fem bokstäver väljs utan återsättning från {w: 7, x: 5, o: 4, l: 4}.
+Svaret är: 7/7752
+
+Fem bokstäver väljs utan återsättning från lxxlllllllllxxllll. Vad är sannolikheten att sekvensen är lxlxl?
+Svaret är: 13/510
+
+Vad är sannolikheten att sekvensen är qqqkk då fem bokstäver väljs utan återsättning från {q: 13, k: 7}?
+Svar: 1001/25840
+
+Fem bokstäver väljs utan återsättning från jjjnjjnjjjjjjjjnjjj. Vad är sannolikheten att sekvensen är jnjnj?
+Svaret är: 14/969
+
+Fem bokstäver väljs utan återsättning från {w: 2, t: 1, a: 1, z: 2, n: 4, o: 5}. Vad är sannolikheten att sekvensen är ztoaz?
+Svaret är: 1/36036
+
+Fem bokstäver väljs utan återsättning från {y: 2, g: 1, w: 6, r: 1, e: 1, c: 8}. Ange sannolikheten att sekvensen är wgeyc.
+Svaret är: 1/14535
+
+Beräkna sannolikheten att sekvensen är scsss då fem bokstäver väljs utan återsättning från cssssuckcussscscsc.
+Svar: 3/170
+
+Fem bokstäver väljs utan återsättning från huhzhurouuhz. Ange sannolikheten att sekvensen är uzhrh.
+Svar: 1/990
+
+Beräkna sannolikheten att sekvensen är lslnb då fem bokstäver väljs utan återsättning från {b: 7, e: 2, w: 4, s: 3, n: 2, l: 2}.
+Svar: 7/155040
+
+Fem bokstäver väljs utan återsättning från {l: 3, i: 4, k: 1, g: 2, o: 1, b: 1}. Vad är sannolikheten att sekvensen är lbgog?
+Svaret är: 1/15840
+

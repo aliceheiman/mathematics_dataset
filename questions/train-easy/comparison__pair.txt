@@ -1,6 +1,90 @@
-Är 1 och 8/7 lika?
-False
-Which is smaller: 12/311 or -3?
--3
-Which is smaller: -19/1166 or -1?
--1
+Which is greater: -72/5 or -15?
+Svar: -72/5
+
+Är -7/768 <= 0?
+Svar: True
+
+Which is smaller: -1597 or -1?
+Svaret är: -1597
+
+Which is bigger: 1.192 or 1/4?
+Svar: 1.192
+
+Which is bigger: -92 or 10?
+Svaret är: 10
+
+Which is bigger: -1/3 or -7/283?
+Svaret är: -7/283
+
+Är -3928 större än -3927?
+Svaret är: False
+
+Är -108 < 7?
+Svar: True
+
+Which is bigger: 1 or 4?
+Svar: 4
+
+Är -1/65 mindre än 1/2?
+Svaret är: True
+
+Which is bigger: 544 or 542?
+Svaret är: 544
+
+Är -3 högst lika mycket som -178?
+Svaret är: False
+
+Är -3/4 större än -2/3?
+Svaret är: False
+
+Är 3/925 > 1?
+Svar: False
+
+Which is bigger: 479 or 481?
+Svaret är: 481
+
+Which is bigger: 0 or 2/2197?
+Svar: 2/2197
+
+Which is smaller: 63/20 or -0.2?
+Svar: -0.2
+
+Har -4460 och -4460 samma värde?
+Svar: True
+
+Which is smaller: 405 or 401?
+Svar: 401
+
+Which is smaller: -307 or -308?
+Svar: -308
+
+Which is greater: 0 or -0.771?
+Svaret är: 0
+
+Which is smaller: -167/6 or -29?
+Svaret är: -29
+
+Which is bigger: -53515 or -0.1?
+Svar: -0.1
+
+Which is bigger: -1 or -22/65?
+Svaret är: -22/65
+
+Which is smaller: 209 or 1048/5?
+Svaret är: 209
+
+Är 39/2 och 21 icke lika?
+Svar: True
+
+Är 96 <= 96?
+Svar: True
+
+Which is smaller: -4/25 or -123?
+Svaret är: -123
+
+Which is smaller: 97 or 14?
+Svaret är: 14
+
+Which is bigger: -3288 or -3290?
+Svar: -3288
+

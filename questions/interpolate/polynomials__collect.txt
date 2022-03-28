@@ -1,20 +1,300 @@
-Samla termerna i a + 12*a**2 - 218*a**2 - 18*a - 129*a**2 - 50*a**2
--385*a**2 - 17*a
-Samla termerna i 11 - 386*q**2 + 1 - 12 - 1182*q**2
--1568*q**2
-Samla termerna i -2 + 81*s - 524*s + 155*s + 94*s
--194*s - 2
-Samla termerna i -5*d**2 - 1 + 2*d**2 - 7*d**2 + 249*d**3 + 0*d**2
-249*d**3 - 10*d**2 - 1
-Samla termerna i -4 + 2*m**3 - 11*m**3 + 20*m**3 - 12*m**3 + 0*m**3 + 4
--m**3
-Samla termerna i -96*y**2 + 2*y**3 + 213*y**2 - 8*y**3 + 2*y**3 - 117*y**2
--4*y**3
-Samla termerna i -38*z + 213*z + 183 + 27*z - 51*z - 180
-151*z + 3
-Samla termerna i -93479*s + 18698*s + 18703*s + 18694*s + 18697*s + 18717*s
-30*s
-Samla termerna i -1084*t**2 + 45*t**3 - 6*t**3 + 573*t**2 + 578*t**2
-39*t**3 + 67*t**2
-Samla termerna i 1700*z + 838*z - 1311*z + 4586*z
-5813*z
+Samla termerna i -504*g - 99*g**2 + 40*g**2 + 28*g**2 + 33*g**2
+Svaret är: 2*g**2 - 504*g
+
+Samla termerna i -740578 - 48*w + w**2 - 3*w + 740578 + 51*w
+Svaret är: w**2
+
+Samla termerna i -1 + 1205*l + 1 + 1207*l - 4822*l + 1205*l + 1201*l
+Svaret är: -4*l
+
+Samla termerna i -3*a**3 - 1938*a**2 + 985*a**2 + 1025*a**2
+Svar: -3*a**3 + 72*a**2
+
+Samla termerna i -z**2 - 31*z**3 + 14307 - 14292 - 130*z**3
+Svar: -161*z**3 - z**2 + 15
+
+Samla termerna i 136 + 135 + 146 - 553 - 3*p**2 + 133
+Svar: -3*p**2 - 3
+
+Samla termerna i 27*w - 17*w - 14*w - 2*w**2 + 18*w - 14*w
+Svaret är: -2*w**2
+
+Samla termerna i -5 - 56471*x**3 + 5 + 0 + 56459*x**3
+Svar: -12*x**3
+
+Samla termerna i -786713*c**2 - 786715*c**2 + 1573429*c**2 - 17*c
+Svaret är: c**2 - 17*c
+
+Samla termerna i 194*w**3 + 228*w**2 - 507*w**2 + 258*w**2 - w
+Svar: 194*w**3 - 21*w**2 - w
+
+Samla termerna i 70 - 93 + 21 + 130*o
+Svar: 130*o - 2
+
+Samla termerna i -14*g**3 + 30*g - 11 + 374*g + 8*g**3 + 7*g**3 + 9
+Svaret är: g**3 + 404*g - 2
+
+Samla termerna i -538*m + 1809*m + 2 - 981*m
+Svaret är: 290*m + 2
+
+Samla termerna i w - 2293397345 + 2293397345
+Svaret är: w
+
+Samla termerna i -20*i + 378 + 51*i + 28*i - 378
+Svar: 59*i
+
+Samla termerna i 657*l**3 - 24*l - 22*l**3 - 636*l**3
+Svar: -l**3 - 24*l
+
+Samla termerna i -1 + 1223*i - 4878*i + 1 + 1209*i + 1230*i + 1214*i
+Svar: -2*i
+
+Samla termerna i 16942*y**3 - y**2 + 16923*y**3 + y**2 - 50908*y**3 + 16962*y**3
+Svaret är: -81*y**3
+
+Samla termerna i 74*c**3 + 18*c**2 - 4*c**2 - 115*c**3 - 15*c**2 - 76*c**3
+Svar: -117*c**3 - c**2
+
+Samla termerna i -5*s + 10*s - 22*s**2 - 20*s - 52*s
+Svar: -22*s**2 - 67*s
+
+Samla termerna i 302343 + 97*t**2 - 151172 - 151171
+Svaret är: 97*t**2
+
+Samla termerna i 6129 - 12233 - 4*x**2 + 6101
+Svar: -4*x**2 - 3
+
+Samla termerna i 4*z**3 - 211357 + 105774 + 105583
+Svar: 4*z**3
+
+Samla termerna i -5257 + 10528 - 5266 + 28*z - 19*z
+Svar: 9*z + 5
+
+Samla termerna i -72*w**2 + 6*w**3 + 72*w**2 + 11*w**3 + w**3
+Svar: 18*w**3
+
+Samla termerna i 4123*x**3 - 176 - 56 + 232
+Svaret är: 4123*x**3
+
+Samla termerna i 1422*v**3 + 1719 - 859 - 860 + 1416*v**3 - 4255*v**3 + 1416*v**3
+Svar: -v**3
+
+Samla termerna i -202 + 10 + 118*w**3 + 95 + 97
+Svaret är: 118*w**3
+
+Samla termerna i 89066*v - 44179*v - 43974*v
+Svaret är: 913*v
+
+Samla termerna i 358*p + 318*p + 3 - 7 + 14 - 11
+Svaret är: 676*p - 1
+
+Samla termerna i 33*b - 124*b + 47 + 60 + 93*b
+Svaret är: 2*b + 107
+
+Samla termerna i 30828*y**2 + 0 - 232873*y**2 + 0 - 1
+Svar: -202045*y**2 - 1
+
+Samla termerna i -5*x**2 + 858*x**3 + 6*x**2 + 814*x**3 - x**2
+Svar: 1672*x**3
+
+Samla termerna i -2*q + 97*q**3 + 2*q - 419*q**2 + q - 106*q**3
+Svaret är: -9*q**3 - 419*q**2 + q
+
+Samla termerna i 5*w - 25*w + 2 - 3 + 27*w - 58*w
+Svar: -51*w - 1
+
+Samla termerna i 113*a - 2 - 18*a - 25*a - 18*a - 35*a
+Svar: 17*a - 2
+
+Samla termerna i 51*z - 51*z - 943705*z**2
+Svaret är: -943705*z**2
+
+Samla termerna i 86*q**2 + 121*q**2 + 104*q**2 + 112*q**2 - 532*q**2 + 107*q**2
+Svar: -2*q**2
+
+Samla termerna i 301 - 1177 + 300 - 32*t**3 + 301 + 275
+Svar: -32*t**3
+
+Samla termerna i 2075415*p**2 - 10*p - 2*p**3 - 2075415*p**2
+Svaret är: -2*p**3 - 10*p
+
+Samla termerna i -79*l - 1743 + 152*l - 78*l
+Svar: -5*l - 1743
+
+Samla termerna i -14*f + 12*f + 5*f**2 - 17*f + 5*f + 2*f
+Svar: 5*f**2 - 12*f
+
+Samla termerna i 712690*q**2 + 8 - 8
+Svar: 712690*q**2
+
+Samla termerna i 9495 - 2*s - 9495 - 5*s - 5*s**3 + 7*s
+Svaret är: -5*s**3
+
+Samla termerna i -54 + 282501025*c + 54 - 282501027*c
+Svar: -2*c
+
+Samla termerna i 114*o**3 + 75770 - 62*o**3 - 75770 - 43*o**3
+Svar: 9*o**3
+
+Samla termerna i -56*u**3 - 88*u**3 + 52 - 7 - 45 + 12*u**3
+Svar: -132*u**3
+
+Samla termerna i -1379158*q + 2758321*q - 1379167*q
+Svaret är: -4*q
+
+Samla termerna i 1708725 - 1708725 + 567*h**2
+Svaret är: 567*h**2
+
+Samla termerna i 1 + 41689*w - 41677*w - 1
+Svar: 12*w
+
+Samla termerna i 3667 + 1191 + v**2 - 2*v**2 - 19*v**2
+Svar: 4858 - 20*v**2
+
+Samla termerna i -30*j**3 - 42*j**3 + 4759*j - 4759*j - 90*j**3
+Svaret är: -162*j**3
+
+Samla termerna i 1511*l**2 + 14867*l**2 - 15389*l + 15389*l
+Svaret är: 16378*l**2
+
+Samla termerna i 484*c**3 + 318*c**3 + 314*c**3 - 423*c**3
+Svar: 693*c**3
+
+Samla termerna i -41*g**2 + 46*g**2 - 22*g**2 - 108*g**2 + 35*g**2
+Svaret är: -90*g**2
+
+Samla termerna i -55399*m + 113824*m - 58427*m
+Svaret är: -2*m
+
+Samla termerna i -1052622*x + 27*x**3 - 1052622*x + 2105259*x
+Svar: 27*x**3 + 15*x
+
+Samla termerna i 1995*p - 1633*p + 1721*p + 5016*p + 2891*p
+Svar: 9990*p
+
+Samla termerna i -2*l**2 - 44*l + 2*l**2 + 1740*l**3 - 29 - 1738*l**3
+Svar: 2*l**3 - 44*l - 29
+
+Samla termerna i -u + 282423*u**3 + u - 281446*u**3
+Svaret är: 977*u**3
+
+Samla termerna i -1 + 1 + 32450176*c**2 - 32450169*c**2
+Svar: 7*c**2
+
+Samla termerna i -11*n**3 - 9*n**3 - n**3 - 3 - 8*n**3 - 96*n**2 + 33*n**3
+Svaret är: 4*n**3 - 96*n**2 - 3
+
+Samla termerna i 25*j**2 + 4*j - 51*j**3 - 39*j**3 + 80*j**3 - 25*j**2
+Svar: -10*j**3 + 4*j
+
+Samla termerna i -164*r**2 - 156*r**2 - 170*r**2 - 169*r**2 - 171*r**2 + 809*r**2
+Svaret är: -21*r**2
+
+Samla termerna i -664*q - 154 + 56 + 50 + 48
+Svaret är: -664*q
+
+Samla termerna i 109*z - 66*z + 13114*z**2 - 43*z
+Svaret är: 13114*z**2
+
+Samla termerna i 1339*t + 1344*t + 1320*t - 6746*t + 1350*t + 1353*t
+Svaret är: -40*t
+
+Samla termerna i 3*x + 754 + 142*x**2 - 754 - 3*x - 129*x**2
+Svar: 13*x**2
+
+Samla termerna i 24*r - 417*r**2 + 26*r - 114*r**2 - 50*r
+Svar: -531*r**2
+
+Samla termerna i 168*a**2 - 604*a**2 + 156*a**2 + 307*a**2
+Svaret är: 27*a**2
+
+Samla termerna i -54275*y**2 + 108881*y**2 - 54600*y**2
+Svaret är: 6*y**2
+
+Samla termerna i 182*l + 96*l + 639*l**3 - 29*l
+Svar: 639*l**3 + 249*l
+
+Samla termerna i 4 - 4 + 1091*i**2 + 996*i**2 - 2028*i**2
+Svaret är: 59*i**2
+
+Samla termerna i 384*h**3 + 57*h**3 - 87*h**3 - 6*h**2
+Svar: 354*h**3 - 6*h**2
+
+Samla termerna i -39*a - 33*a - 36*a - 39*a + 208*a - 44*a
+Svar: 17*a
+
+Samla termerna i 3*h**3 + 181*h**2 - 181*h**2 - 15*h**3 - 25*h
+Svaret är: -12*h**3 - 25*h
+
+Samla termerna i -4 + 9 - 5 + 5650*g
+Svaret är: 5650*g
+
+Samla termerna i -1 + 183*g**3 - 2 - 1 + 90*g**3
+Svaret är: 273*g**3 - 4
+
+Samla termerna i -2 - 136799*g + 3 + 9408*g
+Svaret är: 1 - 127391*g
+
+Samla termerna i 42*j - 5317 + 20*j - 21*j + 5317
+Svaret är: 41*j
+
+Samla termerna i -15 + 15 + 1873*x + 14997*x + 1162*x
+Svar: 18032*x
+
+Samla termerna i 6 + 14754*k + 73167*k - 6
+Svaret är: 87921*k
+
+Samla termerna i 73*q + 68*q + 35*q - 207*q + 77*q
+Svaret är: 46*q
+
+Samla termerna i -255 - 257 + 1002 - 178*g**2 - 245 - 245
+Svaret är: -178*g**2
+
+Samla termerna i 745*s**2 - 184*s**2 + 285*s**2 + 19*s**2 + 711*s**2
+Svaret är: 1576*s**2
+
+Samla termerna i 2*y**2 - 5162*y**3 + 54 + 59 + 5163*y**3
+Svar: y**3 + 2*y**2 + 113
+
+Samla termerna i -636*z**3 - 335*z**3 - 15317019*z**2 + 15317019*z**2
+Svaret är: -971*z**3
+
+Samla termerna i 70*g + 0*g**2 + 147*g + 93*g - 2*g**2 - 2*g**2
+Svar: -4*g**2 + 310*g
+
+Samla termerna i 3 - 374*h - 526*h - 3 + 1053*h
+Svaret är: 153*h
+
+Samla termerna i -16397*v**3 + 1 + 304*v**3 - 13 + 12
+Svar: -16093*v**3
+
+Samla termerna i -25*n**3 + 629202*n**2 + 48*n**3 + 27*n**3 - 629202*n**2
+Svaret är: 50*n**3
+
+Samla termerna i 139 + 2453*a**2 - 139 + 1542*a**2
+Svar: 3995*a**2
+
+Samla termerna i -131 + 109*h**2 + 15*h + 39 + 50 + 42
+Svar: 109*h**2 + 15*h
+
+Samla termerna i 2*m + 1544602 + 1543986 - 3088588
+Svaret är: 2*m
+
+Samla termerna i -3598618 + 3598618 - 8*m**2
+Svar: -8*m**2
+
+Samla termerna i 2031*d**2 - 6550*d**2 + 1 + 2257*d**2 - 1 + 2263*d**2
+Svaret är: d**2
+
+Samla termerna i 950*r + 932*r - 989*r + 6*r**3 - 893*r
+Svaret är: 6*r**3
+
+Samla termerna i -10 - 8*s - 11 - 10 + 36 - 6
+Svar: -8*s - 1
+
+Samla termerna i -867 - 3333*u + 434 - 2446*u + 433
+Svaret är: -5779*u
+
+Samla termerna i 119*x**2 - 12*x - x**3 + 99*x**2 - 8*x
+Svaret är: -x**3 + 218*x**2 - 20*x
+

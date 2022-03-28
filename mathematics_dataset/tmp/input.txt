@@ -1,0 +1,7 @@
+Solve {equations}. ### Lös {equations}.
+Find the value of {variable} in {equations}. ### Bestäm värdet av {variable} i {equations}.
+What is {variable} in {equations}? ### Vad är {variable} i {equations}?
+Solve {equations} and find the value of {variable}. ### Lös {equations} och bestäm värdet av {variable}.
+Let {equations} and find what {variable} equals to. ### Låt {equations} och bestäm vad {variable} är lika med.
+What is the value of {variable} for {equations} to hold true? ### Vad är värdet på {variable} för att {equations} ska stämma?
+Solve for {variable} for {equations} to hold true. ### Bestäm värdet på {variable} så att {equations} stämmer.

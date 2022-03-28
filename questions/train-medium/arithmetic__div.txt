@@ -1,6 +1,90 @@
-Beräkna 2 dividerat med -77815.
--2/77815
-Vad är 24048 dividerat med -87?
--8016/29
--34828 dividerat med 6
--17414/3
+Beräkna -17318 dividerat med 2474.
+Svar: -7
+
+Dividera -61870 med -6187.
+Svar: 10
+
+Vad är -293 dividerat med 160?
+Svar: -293/160
+
+Dividera 126618 med 141.
+Svaret är: 898
+
+Dividera 6602 med -29.
+Svar: -6602/29
+
+Dividera -33334 med 2381.
+Svar: -14
+
+-30174 dividerat med 32
+Svaret är: -15087/16
+
+-165 dividerat med 4855
+Svaret är: -33/971
+
+Beräkna -25014 dividerat med -8338.
+Svaret är: 3
+
+Vad är 43740 dividerat med -30?
+Svar: -1458
+
+Vad är -3 dividerat med -674642?
+Svar: 3/674642
+
+-2197800 dividerat med 66
+Svar: -33300
+
+Vad är 3364 dividerat med 29?
+Svaret är: 116
+
+Vad är 109718 dividerat med -2?
+Svaret är: -54859
+
+Dividera -281 med 69.
+Svar: -281/69
+
+Vad är -2835 dividerat med -567?
+Svar: 5
+
+Beräkna -119072 dividerat med -14884.
+Svaret är: 8
+
+Vad är 7877 dividerat med -5?
+Svaret är: -7877/5
+
+Vad är -49956 dividerat med 4?
+Svar: -12489
+
+Dividera -6506 med -3253.
+Svaret är: 2
+
+Vad är -27826 dividerat med 24?
+Svar: -13913/12
+
+11 dividerat med 19130
+Svaret är: 11/19130
+
+44964 dividerat med 14988
+Svaret är: 3
+
+Dividera -3 med -61368.
+Svar: 1/20456
+
+Dividera -3 med 14037.
+Svaret är: -1/4679
+
+Vad är 11518 dividerat med 13?
+Svaret är: 886
+
+Vad är -4 dividerat med -153421?
+Svaret är: 4/153421
+
+Beräkna -214 dividerat med 21542.
+Svar: -107/10771
+
+464423 dividerat med -5
+Svaret är: -464423/5
+
+473760 dividerat med 3
+Svaret är: 157920
+

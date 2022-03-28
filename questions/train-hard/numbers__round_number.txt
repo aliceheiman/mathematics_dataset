@@ -1,6 +1,90 @@
-Avrunda 0.0120791553 till 6 decimaler.
-0.012079
-Vad är -1189338.25 avrundat till det närmsta 100000?
--1200000
-Avrunda -0.01680139872 till 6 decimaler.
--0.016801
+Vad är -0.085278801 avrundat till tre decimaler?
+Svaret är: -0.085
+
+Avrunda 1.22781498 till 4 decimaler.
+Svaret är: 1.2278
+
+Avrunda 203388.3679 till det närmsta 10.
+Svaret är: 203390
+
+Avrunda 0.00675510979 till 3 decimaler.
+Svaret är: 0.007
+
+Vad är 0.84788296 avrundat till tre decimaler?
+Svar: 0.848
+
+Vad är -55606988.9 avrundat till det närmsta miljontalet?
+Svar: -56000000
+
+Vad är -3236.1711 avrundat till det närmsta 1000?
+Svaret är: -3000
+
+Vad är 0.0270430712 avrundat till 2 decimaler?
+Svar: 0.03
+
+Vad är 185251104 avrundat till det närmsta 1000000?
+Svar: 185000000
+
+Vad är -0.00008369277877 avrundat till 5 decimaler?
+Svar: -0.00008
+
+Vad är -48748.35 avrundat till det närmsta 100?
+Svar: -48700
+
+Vad är -11708.6597 avrundat till det närmsta 1000?
+Svaret är: -12000
+
+Avrunda 844720 till det närmsta 100000.
+Svar: 800000
+
+Avrunda 11.6191888 till tre decimaler.
+Svar: 11.619
+
+Avrunda -0.76833451 till 2 decimaler.
+Svaret är: -0.77
+
+Avrunda -255972.8245 till det närmsta 100.
+Svaret är: -256000
+
+Vad är 0.0000207771741 avrundat till 7 decimaler?
+Svar: 0.0000208
+
+Avrunda 0.510521439 till 3 decimaler.
+Svar: 0.511
+
+Vad är 0.000106746533 avrundat till 6 decimaler?
+Svar: 0.000107
+
+Avrunda 0.0000341870188 till 5 decimaler.
+Svar: 0.00003
+
+Vad är -142.2798949 avrundat till noll decimaler?
+Svar: -142
+
+Vad är -1685783.958 avrundat till det närmsta hundratalet?
+Svar: -1685800
+
+Avrunda -4544.20411 till det närmsta 100.
+Svar: -4500
+
+Avrunda 2046434 till det närmsta 10000.
+Svaret är: 2050000
+
+Avrunda 5701.15993 till det närmsta tusentalet.
+Svar: 6000
+
+Vad är -1520702.976 avrundat till det närmsta 10?
+Svaret är: -1520700
+
+Avrunda -0.000096577219 till 6 decimaler.
+Svaret är: -0.000097
+
+Vad är 22.3886173 avrundat till 3 decimaler?
+Svaret är: 22.389
+
+Vad är 625001.54 avrundat till det närmsta hundratusentalet?
+Svar: 600000
+
+Vad är 66630.8967 avrundat till det närmsta tusentalet?
+Svar: 67000
+

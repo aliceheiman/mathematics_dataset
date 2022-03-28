@@ -1,6 +1,90 @@
-Låt u(d) vara tredjederivatan av -d**5/60 + 9*d**4/8 + 32*d**3/3 - 4246*d**2 + 2*d. Ange u(29).
-6
-Låt d(f) vara tredjederivatan av f**5/30 + 23*f**4/8 + 17*f**3/3 - 932*f**2. Beräkna d(-34).
-0
-Låt h(f) = -25 + 7*f - 6346*f**3 + 6345*f**3 - 7*f**2 - 3*f. Bestäm h(-8).
-7
+Antag att -2*a - 3*a + 20 = 0. Låt b vara 13 - a - 1 - 4. Låt k(j) = -6 - 2*j**2 + j**3 - 7*j**2 + 7*j**2 - j**2 - 3*j. Ange k(b).
+Svar: -2
+
+Låt y(m) = 2*m**2 - 41*m + 6. Antag att -90*a - 366 = -2256. Ange y(a).
+Svar: 27
+
+Låt a(d) = 8*d - 22. Antag att 2*h + 66*o - 70*o = 30, 3*h = -2*o + 5. Vad är a(h)?
+Svaret är: 18
+
+Låt y(h) = -h**2 + 59*h + 1568. Låt d vara y(79). Låt c(g) = g**3 + 12*g**2 - 3*g - 46. Ange c(d).
+Svaret är: -10
+
+Låt q(i) vara förstaderivatan av 27*i**2/2 + 188*i + 2803. Vad är q(-7)?
+Svar: -1
+
+Låt w = 410 + -417. Låt n(s) = 6*s + 12. Låt x(y) = 5*y + 11. Låt p(b) = -3*n(b) + 4*x(b). Ange p(w).
+Svaret är: -6
+
+Låt g(m) = -3*m**2 - 14*m + 12. Låt z(n) = -3 + 1 - 2 + 5*n + n**2. Låt o(i) = 6*g(i) + 17*z(i). Antag att l - 6*q = -10*q, l = 5*q + 9. Vad är o(l)?
+Svaret är: -8
+
+Låt u(z) = 13*z**3 - 37*z**2 - 54*z + 43. Låt t(i) = 7*i**3 - 19*i**2 - 28*i + 21. Låt b(w) = -11*t(w) + 6*u(w). Bestäm b(14).
+Svaret är: -1
+
+Låt f(l) = 43 - 39*l. Låt b vara 245/50 + -5 - 55/(-150)*3. Vad är f(b)?
+Svar: 4
+
+Låt f(t) = 4*t + 2. Låt r(a) = 5*a + 6. Antag att 0 = -h + 215 - 210. Låt n(k) = h*f(k) - 2*r(k). Vad är n(2)?
+Svaret är: 18
+
+Låt p(s) = 32*s + 10. Låt u(i) = -74*i - 23. Låt n(g) = 14*p(g) + 6*u(g). Antag att -16 = -j + 5*j. Ange n(j).
+Svaret är: -14
+
+Låt q = -1 + 3. Antag att -5*z = -q*f - 3*z + 58, 0 = 2*f + 4*z - 40. Låt c(y) = y + 3*y - 5*y - 28 + f. Bestäm c(4).
+Svar: -6
+
+Låt v(u) vara andraderivatan av u**4/12 - 5*u**3/6 - 5*u**2 - 92*u - 24. Antag att -y - 24 = -5*y. Bestäm v(y).
+Svar: -4
+
+Antag att -3*l - 20 = -5. Låt o(n) = 6*n + 22. Låt s(h) = 2*h + 7. Låt a(b) = 3*o(b) - 8*s(b). Låt j(p) = -2*p - 11. Låt y(m) = 7*a(m) + 6*j(m). Vad är y(l)?
+Svar: -6
+
+Låt k(x) = 7*x + 4. Låt m(q) = -6*q - 3. Låt b(l) = -5*k(l) - 6*m(l). Antag att 17*t - 3648 = -2*t. Antag att -3*v = -35*v + t. Bestäm b(v).
+Svaret är: 4
+
+Låt i = -317 + 402. Antag att 88*n = i*n. Låt t(h) = h**2 - h - 40. Ange t(n).
+Svaret är: -40
+
+Antag att 230*t + 207*t - 167*t + 1350 = 0. Låt g(q) = 2*q**3 + 12*q**2 + 5*q - 31. Ange g(t).
+Svar: -6
+
+Antag att 5 = -0*p + p - 2*a, 2*p = -5*a + 19. Låt l(f) vara tredjederivatan av -f**5/60 + f**4/6 + 4*f**3/3 + 17996*f**2. Vad är l(p)?
+Svaret är: -13
+
+Låt k(i) vara andraderivatan av -37*i**4/12 - 2*i**3/3 - 10*i - 194. Beräkna k(-2).
+Svar: -140
+
+Låt c(u) = -12*u**2 - 2*u + 45. Låt o(g) = 3*g**2 - 11. Låt x(y) = -2*c(y) - 9*o(y). Låt r vara x(3). Låt t(b) = b**3 + 5*b**2 - 6*b. Ange t(r).
+Svar: 0
+
+Låt r(u) = u**2 - 12*u + 24. Låt c = -86 + 100. Antag att 4*f - 26 - c = 0. Ange r(f).
+Svaret är: 4
+
+Låt l(t) = 5*t**2 + 15*t - 14. Låt g(k) = 18*k**2 + 63*k - 43. Låt o(h) = 2*g(h) - 7*l(h). Bestäm o(-11).
+Svaret är: -98
+
+Låt h(s) = 1 - 105*s**2 + 51*s**2 - 2*s - s**3 + 53*s**2. Låt m(t) = 5*t**3 + 9*t**2 + 6*t - 1. Låt o(w) = 6*h(w) + m(w). Vad är o(4)?
+Svar: -35
+
+Låt z(r) vara andraderivatan av 2/3*r**3 + 0 + 1/2*r**2 - 20*r. Antag att v = 2*v + 3*h + 19, v - 5*h - 21 = 0. Bestäm z(v).
+Svar: -15
+
+Låt h(r) = r**3 - 20*r**2 + 3*r. Låt a vara (-272)/(-14) - 52/(-91). Bestäm h(a).
+Svar: 60
+
+Antag att -2 = 4*g + 2. Låt y(t) = t**3 - 4*t**2 - 1. Låt h(p) = 11 - 6 - 5*p**2 + p - 2 - 4 + 2*p**3. Låt c(m) = 2*h(m) - 3*y(m). Beräkna c(g).
+Svaret är: 0
+
+Antag att 0 = 3*z + 2*o - 19, -3*z + o - 6 = -2*o. Låt d(q) = q**3 + 6*q**2 - 3 - 7*q**3 - 2*q + 5*q**z - q**2. Bestäm d(4).
+Svar: 5
+
+Låt o(g) = 9*g**2 + 14*g - 27. Låt k(p) = 13*p**2 + 22*p - 40. Låt t(u) = 5*k(u) - 7*o(u). Ange t(-7).
+Svar: 3
+
+Låt g = 3419/600 - 418/75. Låt x(w) vara tredjederivatan av 0*w - 19*w**2 + 1/60*w**5 + g*w**4 - 5/6*w**3 + 0. Beräkna x(-4).
+Svaret är: -1
+
+Låt q(a) = a**3 - 8*a**2 + 3*a - 14. Låt z vara (-216)/90*(60/(-8) + 5). Beräkna q(z).
+Svar: -68
+

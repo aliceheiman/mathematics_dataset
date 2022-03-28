@@ -1,6 +1,90 @@
-Vad är nästa term i 17, 31, 55, 89?
-133
-Vad kommer näst: 40, 73, 104, 133?
-160
-Vad kommer näst: 23, 20, 27, 50, 95, 168?
-275
+Vad kommer näst: 154, 131, 108, 85, 62?
+Svaret är: 39
+
+Vad kommer näst: -1924, -1926, -1928?
+Svaret är: -1930
+
+Vad kommer näst: -4, 6, 24, 56, 108?
+Svar: 186
+
+Vad kommer näst: -25, -63, -125, -211?
+Svaret är: -321
+
+Vad kommer näst i -36, -34, -32?
+Svaret är: -30
+
+Vad är nästa term i 92, 94, 86, 62, 16, -58, -166?
+Svaret är: -314
+
+Vad kommer näst: -92, -381, -862, -1535, -2400, -3457?
+Svar: -4706
+
+Vad kommer näst i -1175, -9396, -31707, -75152, -146775, -253620, -402731?
+Svaret är: -601152
+
+Vad kommer näst: 19, 11, -7, -41, -97, -181?
+Svar: -299
+
+Vad kommer näst i -38, -79, -122, -167, -214?
+Svar: -263
+
+Vad kommer näst: 4, 41, 104, 193, 308, 449?
+Svar: 616
+
+Vad är nästa term i 1, 6, 11, 16, 21, 26?
+Svar: 31
+
+Vad kommer näst i -41, -50, -81, -146, -257, -426, -665, -986?
+Svar: -1401
+
+Vad kommer näst i 44, 177, 398, 707, 1104, 1589?
+Svaret är: 2162
+
+Vad kommer näst: -120, -122, -124, -126, -128, -130?
+Svar: -132
+
+Vad kommer näst: 465, 929, 1395, 1863, 2333?
+Svaret är: 2805
+
+Vad är nästa term i 644, 643, 642, 641, 640, 639?
+Svaret är: 638
+
+Vad kommer näst i 5, -407, -1093, -2053, -3287, -4795?
+Svar: -6577
+
+Vad kommer näst i -5359, -10714, -16067, -21418, -26767, -32114, -37459?
+Svaret är: -42802
+
+Vad kommer näst i -330, -326, -322, -318?
+Svar: -314
+
+Vad kommer näst: -132, -20, 274, 840, 1768, 3148, 5070, 7624?
+Svar: 10900
+
+Vad kommer näst i 1221, 1200, 1157, 1086, 981?
+Svaret är: 836
+
+Vad kommer näst: 26, 46, 68, 92?
+Svar: 118
+
+Vad kommer näst: 612, 624, 640, 660, 684, 712?
+Svar: 744
+
+Vad är nästa term i 236, 235, 234, 233?
+Svar: 232
+
+Vad kommer näst: 1, -24, -85, -200, -387, -664, -1049, -1560?
+Svaret är: -2215
+
+Vad kommer näst: 65, 54, 43?
+Svaret är: 32
+
+Vad kommer näst i -102, -203, -304, -405, -506?
+Svar: -607
+
+Vad kommer näst i 22, 103, 238, 427, 670, 967?
+Svar: 1318
+
+Vad kommer näst: -84, -277, -598, -1047, -1624?
+Svaret är: -2329
+

@@ -1,20 +1,300 @@
-I bas 2, vad är 101010010111 + 1010110110?
-110101001101
-I bas 3, vad är -111 - -1212102202011?
-1212102201200
-I bas 4, vad är -1 + 102032313112?
-102032313111
-I bas 7, vad är -4445 + -12163?
--16641
-I bas 4, vad är -23 - 12100100230?
--12100100313
-I bas 3, vad är 120 - -10002212002?
-10002212122
-I bas 13, vad är -c88 + 151c?
-564
-I bas 14, vad är 4947 + 4a1?
-5008
-I bas 9, vad är 263 + -46231?
--45857
-I bas 14, vad är -294a5d + 2?
--294a5b
+I bas 12, vad är -1357b - -44a?
+Svar: -13131
+
+I bas 9, vad är -5 + 4125636?
+Svaret är: 4125631
+
+I bas 16, vad är 1d41 - -824?
+Svaret är: 2565
+
+I bas 13, vad är 24 - 67058?
+Svaret är: -67034
+
+I bas 14, vad är -16 - -8a22d?
+Svar: 8a217
+
+I bas 10, vad är -1710673 - 2?
+Svaret är: -1710675
+
+I bas 5, vad är -22341230122 - 1?
+Svaret är: -22341230123
+
+I bas 5, vad är 3 + 123143000?
+Svar: 123143003
+
+I bas 3, vad är 1012011002 + 100220?
+Svar: 1012111222
+
+I bas 16, vad är -5 - -1e0be5?
+Svar: 1e0be0
+
+I bas 4, vad är -10 + 2123000120?
+Svaret är: 2123000110
+
+I bas 8, vad är 116022 - -317?
+Svar: 116341
+
+I bas 14, vad är -1767 + -1d4?
+Svar: -195b
+
+I bas 15, vad är 502b - 32?
+Svaret är: 4ee9
+
+I bas 2, vad är 1101 + 1010001001101100001?
+Svar: 1010001001101101110
+
+I bas 2, vad är -100000100 - -10010001111001111?
+Svar: 10010001011001011
+
+I bas 8, vad är -141 + 154343?
+Svaret är: 154202
+
+I bas 7, vad är -144145 - -211?
+Svaret är: -143634
+
+I bas 7, vad är -2 + -12366544?
+Svaret är: -12366546
+
+I bas 6, vad är -24114304 - -22?
+Svar: -24114242
+
+I bas 5, vad är 14103 + -140112?
+Svaret är: -121004
+
+I bas 5, vad är 11104 - 113002?
+Svaret är: -101343
+
+I bas 3, vad är 21 - 11100122021020?
+Svar: -11100122020222
+
+I bas 15, vad är -189da + 2b?
+Svar: -189ae
+
+I bas 6, vad är 14253210 + 101?
+Svaret är: 14253311
+
+I bas 12, vad är 541 - -114b0?
+Svar: 11a31
+
+I bas 9, vad är -222212 - 144?
+Svaret är: -222356
+
+I bas 6, vad är 4 - 44125141?
+Svaret är: -44125133
+
+I bas 7, vad är 264620 + 111?
+Svar: 265031
+
+I bas 16, vad är 5ed3 + 3?
+Svar: 5ed6
+
+I bas 5, vad är -1214312 + 202?
+Svar: -1214110
+
+I bas 7, vad är -140 + 51022?
+Svar: 50552
+
+I bas 10, vad är 75 + 24351?
+Svaret är: 24426
+
+I bas 3, vad är -10 - -1020122102000?
+Svaret är: 1020122101220
+
+I bas 11, vad är 1585052 + 0?
+Svar: 1585052
+
+I bas 3, vad är 201020210100010 - 12?
+Svar: 201020210022221
+
+I bas 12, vad är -6 - -73505b?
+Svaret är: 735055
+
+I bas 7, vad är 40 - 365506?
+Svaret är: -365436
+
+I bas 10, vad är 403794 - 16?
+Svar: 403778
+
+I bas 2, vad är -111001000000100000 + 1010?
+Svar: -111001000000010110
+
+I bas 3, vad är 12011112001 - 1221?
+Svaret är: 12011110010
+
+I bas 11, vad är 3 + -556670?
+Svar: -556668
+
+I bas 10, vad är -5 - -3672801?
+Svar: 3672796
+
+I bas 15, vad är 2684097 - -4?
+Svar: 268409b
+
+I bas 5, vad är 11442244 - -112?
+Svar: 11442411
+
+I bas 7, vad är 33 + -645626?
+Svaret är: -645563
+
+I bas 15, vad är a - 1272aa?
+Svar: -1272a0
+
+I bas 6, vad är 244014 - 1024?
+Svar: 242550
+
+I bas 2, vad är -1111 + -10100001101101010010?
+Svaret är: -10100001101101100001
+
+I bas 16, vad är 199edfc + 1?
+Svaret är: 199edfd
+
+I bas 16, vad är -94 - 4764?
+Svaret är: -47f8
+
+I bas 10, vad är -1932170 + -1?
+Svaret är: -1932171
+
+I bas 9, vad är -1875 - -2370?
+Svaret är: 384
+
+I bas 3, vad är 1001 - -2220210210?
+Svar: 2220211211
+
+I bas 5, vad är 204142423 - 10?
+Svar: 204142413
+
+I bas 5, vad är -1132042 - -10211?
+Svaret är: -1121331
+
+I bas 4, vad är -21021110 - -3300?
+Svar: -21011210
+
+I bas 3, vad är 1101 + -120102012111?
+Svar: -120102011010
+
+I bas 16, vad är -51538 + -7?
+Svar: -5153f
+
+I bas 15, vad är -103b + -63d?
+Svaret är: -1679
+
+I bas 14, vad är 0 + 59c86c?
+Svar: 59c86c
+
+I bas 16, vad är -179 + 1d75?
+Svaret är: 1bfc
+
+I bas 16, vad är -e + 14c22?
+Svaret är: 14c14
+
+I bas 6, vad är -12 + 24102235?
+Svaret är: 24102223
+
+I bas 10, vad är -389533 + -36?
+Svaret är: -389569
+
+I bas 12, vad är 17 + 1a27a0?
+Svaret är: 1a27b7
+
+I bas 2, vad är 111 + -1001010001111010110?
+Svar: -1001010001111001111
+
+I bas 12, vad är -405027b - -3?
+Svar: -4050278
+
+I bas 9, vad är -57468480 - 1?
+Svaret är: -57468481
+
+I bas 16, vad är 19a46 - -16?
+Svaret är: 19a5c
+
+I bas 2, vad är 0 + 1101000011011000110011?
+Svar: 1101000011011000110011
+
+I bas 10, vad är 1029811 + -4?
+Svar: 1029807
+
+I bas 8, vad är 7667 - -752?
+Svar: 10641
+
+I bas 10, vad är 13 + -48567?
+Svaret är: -48554
+
+I bas 5, vad är 3402 - -11033?
+Svaret är: 14440
+
+I bas 16, vad är 4 - -3f971e?
+Svar: 3f9722
+
+I bas 8, vad är 214 - -44074?
+Svar: 44310
+
+I bas 8, vad är 2 + -15306721?
+Svaret är: -15306717
+
+I bas 5, vad är 141242 - -3314?
+Svar: 200111
+
+I bas 4, vad är -21103 - -1133110?
+Svar: 1112001
+
+I bas 10, vad är -35 - 217174?
+Svaret är: -217209
+
+I bas 13, vad är -5 - -150aca?
+Svaret är: 150ac5
+
+I bas 10, vad är -537 - 25507?
+Svaret är: -26044
+
+I bas 15, vad är -3 - 50db3e?
+Svaret är: -50db42
+
+I bas 3, vad är -1202220 + 12112112?
+Svaret är: 10202122
+
+I bas 9, vad är 16706383 - 4?
+Svaret är: 16706378
+
+I bas 5, vad är -3 + 320402002?
+Svaret är: 320401444
+
+I bas 15, vad är 116 + 2d4e?
+Svaret är: 2e65
+
+I bas 14, vad är 2191941 - -3?
+Svar: 2191944
+
+I bas 4, vad är 10 - -100213212?
+Svar: 100213222
+
+I bas 5, vad är -2102 - -442144?
+Svaret är: 440042
+
+I bas 7, vad är -1030530 + -12?
+Svar: -1030542
+
+I bas 11, vad är 12 + -a033a?
+Svaret är: -a0328
+
+I bas 9, vad är 3 - 3376774?
+Svar: -3376771
+
+I bas 3, vad är 21100222100220 - 12?
+Svaret är: 21100222100201
+
+I bas 8, vad är -2415 + -35714?
+Svaret är: -40331
+
+I bas 13, vad är 5112 + 474?
+Svaret är: 5586
+
+I bas 9, vad är 1172138 - 22?
+Svar: 1172116
+
+I bas 15, vad är -7031d + 42?
+Svar: -702cb
+
+I bas 14, vad är 25698 - 69?
+Svaret är: 2562d
+

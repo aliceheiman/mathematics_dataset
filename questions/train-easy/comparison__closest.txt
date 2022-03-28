@@ -1,6 +1,90 @@
-Vad är det närmaste till 2 i 4, -3, 107/6?
-4
-Vad är det närmaste till 0 i -34, 0.2, -3, 5?
-0.2
-Vilket är det närmaste till -3/4?  (a) 0.4  (b) 5  (c) -0.5  (d) 0.5
-c
+Vilket är det närmaste till -1/5?  (a) 0.6  (b) 1/6  (c) 7  (d) -2
+Svar: b
+
+Vad är det närmaste till -3/5 i -5, 11/13, 1/3?
+Svaret är: 1/3
+
+Vilket är det närmaste till -0.1?  (a) 74  (b) -2/15  (c) 3
+Svar: b
+
+Vad är det närmaste till -2/5 i 8, -1, -5, -0.5?
+Svar: -0.5
+
+Vilket är det närmaste till 5?  (a) -0.27  (b) -1/2  (c) 0
+Svar: c
+
+Vilket är det närmaste till -2?  (a) -4/3  (b) 0.4  (c) 0.09  (d) 0.2
+Svar: a
+
+Vilket är det närmaste till 1/2?  (a) 4  (b) 11  (c) 0.2
+Svar: c
+
+Vad är det närmaste till -0.8 i 0.4, -5, -0.6, 2/11?
+Svar: -0.6
+
+Vilket är det närmaste till -1/3?  (a) 2/7  (b) 0  (c) -48
+Svaret är: b
+
+Vilket är det närmaste till -0.1?  (a) -0.08  (b) -4  (c) 0.2  (d) 0.029
+Svar: a
+
+Vad är det närmaste till 2 i 4, -2/7, 5, 0.3?
+Svar: 0.3
+
+Vilket är det närmaste till -1?  (a) 2  (b) 0.06  (c) 0.14  (d) 0.4
+Svar: b
+
+Vad är det närmaste till 12 i 4/5, 0.1, 66?
+Svaret är: 4/5
+
+Vad är det närmaste till 1 i -5/4, -27, 3?
+Svaret är: 3
+
+Vilket är det närmaste till 5?  (a) 0.3  (b) -0.5  (c) -4  (d) 0
+Svaret är: a
+
+Vilket är det närmaste till 3?  (a) -0.3  (b) 5  (c) 0.3
+Svaret är: b
+
+Vilket är det närmaste till -2/163?  (a) -0.2  (b) 1  (c) -2/9  (d) -4
+Svar: a
+
+Vad är det närmaste till -1 i -0.3, 10, 1/9?
+Svaret är: -0.3
+
+Vilket är det närmaste till 0?  (a) -10  (b) -1/9  (c) -4
+Svar: b
+
+Vad är det närmaste till 2 i -4, 0, 1, -2?
+Svar: 1
+
+Vad är det närmaste till 1 i 0.7, 3, 0.27?
+Svaret är: 0.7
+
+Vilket är det närmaste till -1?  (a) -4  (b) 3/13  (c) 6
+Svar: b
+
+Vilket är det närmaste till 2?  (a) -0.03  (b) -4/33  (c) 4/3
+Svaret är: c
+
+Vad är det närmaste till 3 i 0.2, 3/40, -5?
+Svaret är: 0.2
+
+Vad är det närmaste till -0.1 i -19, -2/9, 5?
+Svaret är: -2/9
+
+Vad är det närmaste till -6 i 31, 0.1, 4?
+Svar: 0.1
+
+Vad är det närmaste till -2/5 i 2/5, -0.5, 3, 1/3?
+Svaret är: -0.5
+
+Vilket är det närmaste till -0.1?  (a) -3/5  (b) -0.2  (c) -9/4
+Svar: b
+
+Vad är det närmaste till 0.4 i 0.3, 0, -3?
+Svar: 0.3
+
+Vilket är det närmaste till 1?  (a) 0.1  (b) 274  (c) -3/5
+Svaret är: a
+

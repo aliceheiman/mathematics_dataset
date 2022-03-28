@@ -1,6 +1,90 @@
-Konvertera 2.4732546us till minuter.
-0.00000004122091
-Vad är 0.5556987km i nanometer?
-555698700000
-Hur många milligram finns det i tjugo-nio femtedelar gram?
-5800
+Vad är 27/2 av 1 gram i milligram?
+Svar: 13500
+
+Vad är tretton femtedelar av 1 milligram i mikrogram?
+Svaret är: 2600
+
+Hur många milliliter finns det i sex femtedelar liter?
+Svar: 1200
+
+Vad är femtio-sju femtedelar av 1 årtusende i år?
+Svaret är: 11400
+
+Hur många meter finns det i 3/50 kilometer?
+Svar: 60
+
+Konvertera 2109.817nm till mikrometer.
+Svaret är: 2.109817
+
+Hur många centimeter finns det i 2.088093km?
+Svar: 208809.3
+
+Hur många milliliter finns det i femtio-två femtedelar liter?
+Svar: 10400
+
+Hur många minuter finns det i 2/45 vecka?
+Svar: 448
+
+Vad är 731.3886ug i ton?
+Svaret är: 0.0000000007313886
+
+Konvertera 76.074903s till timmar.
+Svaret är: 0.0211319175
+
+Hur många timmar finns det i tjugo-ett fjärdedelar vecka?
+Svar: 882
+
+Hur många milliliter finns det i 51.1281l?
+Svaret är: 51128.1
+
+Hur många gram finns det i 13/4 kilogram?
+Svaret är: 3250
+
+Hur många månader finns det i 64/3 år?
+Svaret är: 256
+
+Vad är sex femtedelar av 1 liter i milliliter?
+Svar: 1200
+
+Vad är 3/25 av 1 liter i milliliter?
+Svar: 120
+
+Vad är 5842.42 liter i milliliter?
+Svar: 5842420
+
+Vad är 18/5 av 1 århundrade i månader?
+Svaret är: 4320
+
+Hur många gram finns det i 72/5 kilogram?
+Svaret är: 14400
+
+Vad är 89304.11 årtionden i månader?
+Svaret är: 10716493.2
+
+Vad är 0.9332218 årtusenden i årtionden?
+Svar: 93.32218
+
+Hur många meter finns det i 3.18689km?
+Svaret är: 3186.89
+
+Vad är sex femtedelar av 1 kilogram i gram?
+Svaret är: 1200
+
+Konvertera 7.04079 årtusenden till århundraden.
+Svar: 70.4079
+
+Vad är 0.2523241 årtusenden i århundraden?
+Svar: 2.523241
+
+Vad är 3/5 av 1 mikrosekund i nanosekunder?
+Svar: 600
+
+Vad är 1/5 av 1 kilometer i meter?
+Svaret är: 200
+
+Konvertera 55462.48 gram till nanogram.
+Svar: 55462480000000
+
+Vad är 650478.4s i mikrosekund?
+Svaret är: 650478400000
+

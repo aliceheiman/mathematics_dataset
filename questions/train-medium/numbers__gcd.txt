@@ -1,6 +1,90 @@
-Beräkna den största gemensamma faktorn till 575 och 7705.
-115
-Vilken är den största gemensamma faktorn till 324 och 36300?
-12
-Beräkna den största gemensamma delaren till 6 och 1329.
-3
+Vilken är den största gemensamma faktorn till 554155 och 70?
+Svaret är: 35
+
+Vilken är den största gemensamma faktorn till 12540 och 27060?
+Svar: 660
+
+Vilken är den största gemensamma delaren till 46969 och 65?
+Svar: 13
+
+Beräkna den största gemensamma faktorn till 22 och 113520.
+Svaret är: 22
+
+Beräkna den största gemensamma faktorn till 745 och 710.
+Svar: 5
+
+Beräkna den största gemensamma delaren till 7296 och 704520.
+Svaret är: 456
+
+Vilken är den största gemensamma faktorn till 2220 och 180?
+Svaret är: 60
+
+Vilken är den största gemensamma faktorn till 3913 och 108661?
+Svar: 301
+
+Vilken är den största gemensamma faktorn till 7618 och 12662?
+Svar: 26
+
+Vilken är den största gemensamma delaren till 1120 och 245?
+Svaret är: 35
+
+Vilken är den största gemensamma faktorn till 2214 och 656?
+Svar: 82
+
+Vilken är den största gemensamma faktorn till 780 och 171180?
+Svar: 60
+
+Vilken är den största gemensamma faktorn till 23184 och 15408?
+Svaret är: 144
+
+Vilken är den största gemensamma faktorn till 7482 och 1634?
+Svaret är: 86
+
+Vilken är den största gemensamma delaren till 1666 och 164052?
+Svaret är: 98
+
+Vilken är den största gemensamma delaren till 1977 och 861?
+Svar: 3
+
+Vilken är den största gemensamma delaren till 7392 och 1188?
+Svaret är: 132
+
+Beräkna den största gemensamma delaren till 69972 och 816.
+Svaret är: 204
+
+Vilken är den största gemensamma faktorn till 10 och 78565?
+Svar: 5
+
+Beräkna den största gemensamma faktorn till 3162 och 696694.
+Svaret är: 1054
+
+Vilken är den största gemensamma faktorn till 912 och 112518?
+Svaret är: 114
+
+Vilken är den största gemensamma delaren till 13640 och 3960?
+Svar: 440
+
+Vilken är den största gemensamma delaren till 30772 och 3454?
+Svaret är: 314
+
+Vilken är den största gemensamma delaren till 5508540 och 1080?
+Svar: 540
+
+Beräkna den största gemensamma faktorn till 296 och 1935248.
+Svaret är: 296
+
+Vilken är den största gemensamma delaren till 6222 och 1632?
+Svaret är: 102
+
+Vilken är den största gemensamma faktorn till 120695 och 14101?
+Svaret är: 239
+
+Vilken är den största gemensamma faktorn till 4121 och 99855?
+Svar: 317
+
+Vilken är den största gemensamma faktorn till 31620 och 4029?
+Svar: 51
+
+Beräkna den största gemensamma delaren till 4361 och 178.
+Svaret är: 89
+

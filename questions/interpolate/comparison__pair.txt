@@ -1,20 +1,300 @@
-Which is smaller: 3 or 2331490/13?
-3
-Which is smaller: -587/682 or -1?
--1
-Which is greater: 1 or -103/27980?
-1
-Är 2/8935583 mindre än 0?
-False
-Är 13026769 < 13026767?
-False
-Which is greater: -1872/45065 or 0?
-0
-Är 129266 <= 129260?
-False
-Är -18948341/5 >= -3789668?
-False
-Which is smaller: 1657 or 1305?
-1305
-Which is bigger: 1 or -4914/13687?
-1
+Which is bigger: -92/10275 or 1?
+Svaret är: 1
+
+Which is smaller: -14324 or -692?
+Svar: -14324
+
+Which is smaller: -26037 or -26012?
+Svaret är: -26037
+
+Är -377064 <= 18/13?
+Svaret är: True
+
+Är -669078 < -669078?
+Svaret är: False
+
+Är -2 större än eller lika med 39.38831?
+Svar: False
+
+Which is smaller: -4634380 or 1/6?
+Svar: -4634380
+
+Which is smaller: 95/173 or 0.031?
+Svaret är: 0.031
+
+Är -8990398 större än -8990395?
+Svar: False
+
+Är -6093 < -6078?
+Svar: True
+
+Är 0 <= 17/1224529?
+Svar: True
+
+Är 0 och -518/54795 icke lika?
+Svar: True
+
+Är 23140093/5 som minst 4628019?
+Svar: False
+
+Är 283663 minst lika mycket som -5?
+Svaret är: True
+
+Är 0.613461 mindre än eller lika med 6/7?
+Svar: True
+
+Which is smaller: 8374 or 6444?
+Svaret är: 6444
+
+Är -2/101602417 <= -1?
+Svar: False
+
+Which is greater: -0.32026 or 595?
+Svaret är: 595
+
+Har -156216 och -0.026 samma värde?
+Svar: False
+
+Är 74481 större än 74382?
+Svaret är: True
+
+Which is smaller: -11/1429532 or 0?
+Svaret är: -11/1429532
+
+Är 0 lika med 1/15169295?
+Svar: False
+
+Är -13/5 större än eller lika med -0.567381?
+Svaret är: False
+
+Är 42 och 69668 lika?
+Svar: False
+
+Which is greater: 3/14413895 or 1?
+Svaret är: 1
+
+Är -2761 som minst -2743?
+Svar: False
+
+Which is greater: 267898 or 267935?
+Svar: 267935
+
+Är 0.0589 <= 9963/2?
+Svar: True
+
+Är 5 mindre än eller lika med -539936?
+Svaret är: False
+
+Är 192433 större än eller lika med 4425984/23?
+Svaret är: False
+
+Which is smaller: 147832 or 25?
+Svaret är: 25
+
+Which is smaller: 5.947 or 4.09?
+Svar: 4.09
+
+Which is bigger: 3052726/7 or 436103?
+Svaret är: 3052726/7
+
+Which is smaller: -1.6 or 282986?
+Svaret är: -1.6
+
+Which is bigger: -535387 or -535399?
+Svar: -535387
+
+Är -9176 != -14/31?
+Svar: True
+
+Which is greater: -1 or 285/62749?
+Svaret är: 285/62749
+
+Which is smaller: -9/1622777 or -1?
+Svaret är: -1
+
+Är -1 högst lika mycket som -26/931119?
+Svar: True
+
+Which is greater: -2/23684819 or 0?
+Svaret är: 0
+
+Är 87 minst lika mycket som -1.61383?
+Svar: True
+
+Which is smaller: -97222 or -97225?
+Svar: -97225
+
+Är -188 större än 1494?
+Svar: False
+
+Är -1605122 minst lika mycket som -1605107?
+Svaret är: False
+
+Är 100 >= 685?
+Svaret är: False
+
+Which is smaller: -13919 or -13063?
+Svaret är: -13919
+
+Är -7592615 mindre än eller lika med -7592615?
+Svaret är: True
+
+Which is greater: -33687149 or -1?
+Svar: -1
+
+Är -300/23441 mindre än -0.1?
+Svaret är: False
+
+Är 3/5 och 185785 icke lika?
+Svar: True
+
+Which is smaller: -2 or -2572957?
+Svaret är: -2572957
+
+Är 0 = 1037/29454?
+Svar: False
+
+Which is greater: -547951 or -547948?
+Svaret är: -547948
+
+Är 15.4 mindre än 1336?
+Svaret är: True
+
+Which is bigger: 2/9 or -7516559?
+Svar: 2/9
+
+Which is smaller: -212 or -54564?
+Svar: -54564
+
+Which is bigger: 9463 or 444789/47?
+Svar: 444789/47
+
+Är 5/2781146 > 1?
+Svaret är: False
+
+Which is bigger: 36/741679 or 0.1?
+Svar: 0.1
+
+Har -24/1753211 och -1 olika värden?
+Svaret är: True
+
+Which is bigger: 3.36 or -1648?
+Svar: 3.36
+
+Which is greater: 0.41 or 184898?
+Svaret är: 184898
+
+Är 39.5 minst lika mycket som 2646?
+Svaret är: False
+
+Which is greater: 2 or -53/447?
+Svaret är: 2
+
+Är -12 inte lika med -5533/442?
+Svar: True
+
+Which is bigger: 19/3 or 103/81?
+Svaret är: 19/3
+
+Är 145205 < 93?
+Svar: False
+
+Which is smaller: 1189417/20 or 59472?
+Svar: 1189417/20
+
+Är 3/20672711 lika med -1?
+Svaret är: False
+
+Är -44/1310029 minst lika mycket som 0?
+Svaret är: False
+
+Which is bigger: 687836 or -6?
+Svar: 687836
+
+Which is smaller: -3952104/5 or -790421?
+Svar: -790421
+
+Which is smaller: -11215 or 847?
+Svaret är: -11215
+
+Which is greater: 77760 or 1010862/13?
+Svar: 77760
+
+Är 12/8432695 större än -1?
+Svar: True
+
+Är 9020616 högst lika mycket som 9020616?
+Svaret är: True
+
+Är 17610 mindre än 158501/9?
+Svar: True
+
+Är -94790/37 och -2561 icke lika?
+Svaret är: True
+
+Har 5/10821359 och 0 samma värde?
+Svaret är: False
+
+Är 1240888 mindre än -17?
+Svar: False
+
+Är -63506 mindre än eller lika med -63574?
+Svar: False
+
+Är -386982/17 större än eller lika med -22763?
+Svar: False
+
+Är -0.30410946 större än -1?
+Svaret är: True
+
+Which is bigger: -210.3 or -64/107?
+Svar: -64/107
+
+Which is greater: -7391 or -703?
+Svaret är: -703
+
+Är 3542536 > -2?
+Svaret är: True
+
+Är -1 != 36/1321709?
+Svaret är: True
+
+Which is smaller: 45.9 or -21/4015?
+Svar: -21/4015
+
+Är 0.018 större än -51311?
+Svar: True
+
+Är 1768 och -5733 skilda?
+Svar: True
+
+Är -13483 som mest -14261?
+Svaret är: False
+
+Which is bigger: -38/3 or 7542?
+Svar: 7542
+
+Which is bigger: 2401565 or 16810954/7?
+Svar: 2401565
+
+Which is bigger: 3954875 or -4?
+Svaret är: 3954875
+
+Which is bigger: -3 or -6018?
+Svaret är: -3
+
+Är -5 större än eller lika med 3077215?
+Svar: False
+
+Är 1338098 lika med -8?
+Svar: False
+
+Which is smaller: -369997 or -369996?
+Svar: -369997
+
+Which is smaller: 3595 or 8.48?
+Svaret är: 8.48
+
+Är -17833580 större än eller lika med -17833578?
+Svaret är: False
+

@@ -1,6 +1,90 @@
--131 (bas 5) till bas 14
--2d
-3 (bas 5) till bas 7
-3
-Vad är 103 (bas 6) i bas 12?
-33
+Konvertera 25 (bas 6) till bas 2.
+Svaret är: 10001
+
+Vad är 132 (bas 5) i bas 2?
+Svar: 101010
+
+-10 (bas 3) till bas 6
+Svar: -3
+
+1 (bas 5) till bas 3
+Svar: 1
+
+-12 (bas 8) till bas 16
+Svaret är: -a
+
+-30 (bas 6) till bas 15
+Svar: -13
+
+Vad är 160 (bas 7) i bas 12?
+Svaret är: 77
+
+Vad är -c8 (bas 14) i bas 12?
+Svar: -128
+
+Konvertera -4 (bas 11) till bas 13.
+Svar: -4
+
+-2 (bas 15) till bas 8
+Svar: -2
+
+Konvertera 13 (bas 6) till bas 8.
+Svar: 11
+
+1232 (bas 4) till bas 10
+Svar: 110
+
+2 (bas 3) till bas 8
+Svaret är: 2
+
+Vad är -231 (bas 4) i bas 13?
+Svaret är: -36
+
+Konvertera -9 (bas 11) till bas 6.
+Svaret är: -13
+
+-13 (bas 12) till bas 3
+Svaret är: -120
+
+Vad är -4e (bas 16) i bas 5?
+Svaret är: -303
+
+-11 (bas 6) till bas 15
+Svar: -7
+
+Konvertera 241 (bas 7) till bas 3.
+Svaret är: 11201
+
+Vad är 1 (bas 15) i bas 10?
+Svaret är: 1
+
+Konvertera 344 (bas 8) till bas 5.
+Svaret är: 1403
+
+Konvertera -27 (bas 11) till bas 7.
+Svar: -41
+
+Konvertera 11 (bas 2) till bas 6.
+Svar: 3
+
+-100100 (bas 2) till bas 8
+Svaret är: -44
+
+2 (bas 13) till bas 7
+Svar: 2
+
+Vad är -107 (bas 12) i bas 15?
+Svaret är: -a1
+
+Vad är -60 (bas 8) i bas 10?
+Svar: -48
+
+Vad är 23 (bas 5) i bas 6?
+Svaret är: 21
+
+Konvertera -104 (bas 5) till bas 2.
+Svar: -11101
+
+Konvertera -26 (bas 9) till bas 10.
+Svar: -24
+

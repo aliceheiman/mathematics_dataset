@@ -1,6 +1,90 @@
-Antag att 0 = -16*c + 18*c - 5*o - 1866, 4644 = 5*c - 2*o. Vilken är den största gemensamma faktorn till 348 och c?
-116
-Antag att -2*m + 6238 - 2076 = 4*a, -4*a + 4113 = -5*m. Vilken är den största gemensamma delaren till a och 183?
-61
-Antag att -p - 20*i - 5 = -22*i, 0 = 4*p - 2*i - 10. Låt h vara (-1 + p)*(-7)/28*-46. Beräkna den största gemensamma delaren till h och 506.
-46
+Antag att -11*d = 780 - 6918. Beräkna den största gemensamma delaren till 414 och d.
+Svar: 18
+
+Antag att r + 34 - 37 = 0. Antag att w = 5*l + 113, r*w + 0*w - 303 = 3*l. Vilken är den största gemensamma faktorn till 147 och w?
+Svaret är: 49
+
+Antag att 141*v = -136*v + 265*v + 91560. Vilken är den största gemensamma delaren till 70 och v?
+Svaret är: 70
+
+Låt k = 17755 + -17131. Vilken är den största gemensamma delaren till k och 6?
+Svaret är: 6
+
+Antag att 0 = 68*q - 21935 - 74761. Beräkna den största gemensamma faktorn till 9638 och q.
+Svaret är: 158
+
+Låt w vara (-370)/1295 - (1 + (-4769)/7). Beräkna den största gemensamma faktorn till 3910 och w.
+Svar: 170
+
+Antag att 305*d - 3888 = 299*d. Vilken är den största gemensamma delaren till d och 792?
+Svaret är: 72
+
+Låt n vara 1016/36 - (-22)/(-99). Låt g = n - -108. Beräkna den största gemensamma faktorn till g och 16.
+Svar: 8
+
+Antag att 43 = -193*u + 3517. Vilken är den största gemensamma faktorn till 2007 och u?
+Svar: 9
+
+Antag att -4*g + 5*y = -7*g + 10, 2*g = y - 2. Antag att -243 = -5*l + 2*b, g = 7*b - 11*b + 4. Vilken är den största gemensamma delaren till 7 och l?
+Svaret är: 7
+
+Antag att 19*r + 50 = 24*r. Låt t vara r/35 - 300/(-28). Beräkna den största gemensamma delaren till 627 och t.
+Svaret är: 11
+
+Antag att -26 = 2*o - 92. Låt t vara 29799/258*2*1. Beräkna den största gemensamma faktorn till t och o.
+Svaret är: 33
+
+Antag att 2*u - 5 = 1. Antag att 0 = u*z - 149 - 7. Antag att -3*j + z = 2*p, -2*p - 31 + 3 = -2*j. Beräkna den största gemensamma faktorn till 8 och j.
+Svar: 8
+
+Låt r(w) = -w**2 + 61*w - 486. Låt u vara r(51). Vilken är den största gemensamma faktorn till 5736 och u?
+Svar: 24
+
+Låt w(l) = -213*l - 7407. Låt p vara w(-35). Beräkna den största gemensamma delaren till p och 1446.
+Svaret är: 6
+
+Låt t vara (-8)/(-28) - (-328)/28. Låt b(v) = v**3 - 14*v**2 + 27*v - 16. Låt x vara b(t). Vilken är den största gemensamma delaren till 380 och x?
+Svaret är: 20
+
+Låt l = 898 - -217. Beräkna den största gemensamma delaren till 223 och l.
+Svar: 223
+
+Låt f(n) = -2*n**2 + 39*n - 112. Låt g vara f(11). Vilken är den största gemensamma delaren till g och 123?
+Svar: 3
+
+Låt s(c) = 10*c**2 - 24*c - 29. Låt t vara s(8). Låt k = t + -405. Vilken är den största gemensamma faktorn till k och 203?
+Svar: 7
+
+Låt d = -178 + 185. Antag att 0 = -h + d*x - 4*x, 4*x = 5*h - 22. Beräkna den största gemensamma delaren till h och 81.
+Svaret är: 3
+
+Låt f = 16119 - 16092. Vilken är den största gemensamma faktorn till 111 och f?
+Svaret är: 3
+
+Antag att 16*w - 6*w - 1200 = 0. Antag att -3*x + v + 258 = 0, 0 = -6*v + 2*v. Låt s = -38 + x. Vilken är den största gemensamma delaren till w och s?
+Svar: 24
+
+Låt b(r) = 8*r**2 - 8*r + 3. Låt g vara b(5). Antag att 45*k - 282 = 42*k. Låt s = g - k. Beräkna den största gemensamma faktorn till s och 23.
+Svaret är: 23
+
+Låt k = 134 - 132. Antag att -635 = -k*v - 617. Vilken är den största gemensamma faktorn till 72 och v?
+Svaret är: 9
+
+Låt d = 111257 - 58597. Vilken är den största gemensamma faktorn till d och 20?
+Svaret är: 20
+
+Låt f vara ((-27)/18)/(12/(-80)). Låt o vara (-48)/120 - (-104)/f. Beräkna den största gemensamma faktorn till o och 10.
+Svaret är: 10
+
+Låt a = -29 + 113. Antag att 16*m = 13*m + 9. Låt o vara 21 + -4 + -8 + m. Vilken är den största gemensamma faktorn till o och a?
+Svar: 12
+
+Låt u vara ((-5)/(100/96))/((-17693)/2210 + 8). Beräkna den största gemensamma delaren till 561 och u.
+Svar: 51
+
+Låt n = -94 + -217. Låt r = n - -317. Beräkna den största gemensamma faktorn till r och 30.
+Svaret är: 6
+
+Låt o = 827 - 1571. Låt a vara (45/60)/((14/o)/(-7)). Vilken är den största gemensamma faktorn till 9 och a?
+Svaret är: 9
+

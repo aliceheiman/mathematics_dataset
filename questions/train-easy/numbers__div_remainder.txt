@@ -1,6 +1,90 @@
-Beräkna resten då 405 delas med 55.
-20
-Vad är resten då 4413 delas med 46?
-43
-Beräkna resten då 2247 delas med 25.
-22
+Beräkna resten då 226 delas med 37.
+Svar: 4
+
+Beräkna resten då 357 delas med 72.
+Svaret är: 69
+
+Beräkna resten då 532 delas med 65.
+Svar: 12
+
+Beräkna resten då 773 delas med 105.
+Svar: 38
+
+Vad är resten då 41 delas med 12?
+Svar: 5
+
+Vad är resten då 207 delas med 71?
+Svaret är: 65
+
+Vad är resten då 5276 delas med 203?
+Svaret är: 201
+
+Vad är resten då 532 delas med 91?
+Svar: 77
+
+Vad är resten då 16 delas med 2?
+Svar: 0
+
+Vad är resten då 1258 delas med 133?
+Svaret är: 61
+
+Beräkna resten då 1991 delas med 397.
+Svar: 6
+
+Vad är resten då 599 delas med 75?
+Svaret är: 74
+
+Beräkna resten då 365 delas med 12.
+Svar: 5
+
+Vad är resten då 1406 delas med 64?
+Svaret är: 62
+
+Beräkna resten då 7 delas med 7.
+Svaret är: 0
+
+Vad är resten då 536 delas med 101?
+Svaret är: 31
+
+Vad är resten då 1682 delas med 189?
+Svar: 170
+
+Vad är resten då 251 delas med 26?
+Svar: 17
+
+Beräkna resten då 34 delas med 34.
+Svar: 0
+
+Vad är resten då 740 delas med 57?
+Svar: 56
+
+Vad är resten då 25298 delas med 44?
+Svar: 42
+
+Vad är resten då 425 delas med 107?
+Svar: 104
+
+Vad är resten då 187 delas med 80?
+Svaret är: 27
+
+Vad är resten då 3535 delas med 161?
+Svar: 154
+
+Vad är resten då 261 delas med 88?
+Svar: 85
+
+Beräkna resten då 13 delas med 9.
+Svar: 4
+
+Beräkna resten då 5992 delas med 2996.
+Svaret är: 0
+
+Beräkna resten då 199 delas med 89.
+Svar: 21
+
+Beräkna resten då 442 delas med 438.
+Svar: 4
+
+Vad är resten då 132 delas med 19?
+Svaret är: 18
+

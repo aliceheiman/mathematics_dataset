@@ -1,20 +1,300 @@
-Faktorisera 2/9*z**2 + 74/9*z + 0.
-2*z*(z + 37)/9
-Låt v(c) vara andraderivatan av c**4/72 + 11*c**3/18 + 121*c**2/12 - c + 63. Faktorisera v(t).
-(t + 11)**2/6
-Låt y(v) vara andraderivatan av -20*v + 0*v**2 - 1/10*v**5 + 1/42*v**7 + 0*v**3 + 1 + 1/30*v**6 + 0*v**4. Lös y(j) = 0 för j.
--2, 0, 1
-Antag att -2*r = -5*o - 24, 42 - 46 = o. Låt c(h) vara förstaderivatan av 0*h + 1/9*h**4 + 3 + 8/27*h**3 + 2/9*h**r. Faktorisera c(n).
-4*n*(n + 1)**2/9
-Vad är v i 32/5*v - 24/5*v**2 - 28/5*v**3 + 24/5*v**4 + 0 - 4/5*v**5 = 0?
--1, 0, 1, 2, 4
-Låt j(q) = 9*q**2 - 4*q. Låt m(v) = 0 + 0 + v**2. Låt z = 1609 - 1604. Låt y(s) = z*m(s) - j(s). Faktorisera y(d).
--4*d*(d - 1)
-Låt 3*t**3 - 4*t**2 + 8*t**2 - 26*t**2 + 61*t**2 - 144*t = 0. Beräkna t.
--16, 0, 3
-Bestäm o, givet att -21*o**5 - 18*o**2 - 1343*o**4 + 1253*o**4 - 75*o**3 - 23*o**3 + 11*o**3 = 0.
--3, -1, -2/7, 0
-Låt x(t) vara andraderivatan av 2*t**7/21 - 4*t**6/5 + t**5 + 3*t + 156. Faktorisera x(i).
-4*i**3*(i - 5)*(i - 1)
-Låt g(m) = 10*m**4 - 39*m**3 + 39*m**2 + 6*m + 2. Låt z(n) = -52*n**4 + 194*n**3 - 200*n**2 - 30*n - 11. Låt y(c) = -22*g(c) - 4*z(c). Låt y(v) = 0. Beräkna v.
--1/6, 0, 1, 6
+Låt j(i) vara förstaderivatan av -i**6/150 - 3*i**5/25 + 7*i**4/10 - 22*i**3/15 - 77*i**2/2 - 6. Låt r(x) vara andraderivatan av j(x). Faktorisera r(p).
+Svaret är: -4*(p - 1)**2*(p + 11)/5
+
+Lös 37377 - 2*f - 37359 - 15*f - f**2 = 0 för f.
+Svar: -18, 1
+
+Antag att 33*b - 21*b = 22*b. Låt u(k) vara tredjederivatan av 1/10*k**5 + b*k**4 + 0 - 4/3*k**3 + 0*k - 1/60*k**6 - k**2. Antag att u(w) = 0. Vad är w?
+Svar: -1, 2
+
+Låt d(w) = 6453 - 2151*w. Låt k vara d(3). Faktorisera k*r - 24 - 2/9*r**3 + 2*r**2.
+Svaret är: -2*(r - 6)**2*(r + 3)/9
+
+Låt k(f) vara andraderivatan av 4/15*f**4 - 2/105*f**7 + 0 + 0*f**2 - 2/15*f**3 - 4*f + 8/75*f**6 - 6/25*f**5. Faktorisera k(d).
+Svaret är: -4*d*(d - 1)**4/5
+
+Låt b(w) vara tredjederivatan av -w**6/30 + 13*w**5/3 + w**4/6 - 130*w**3/3 - 235*w**2 - 3*w. Bestäm a, givet att b(a) = 0.
+Svar: -1, 1, 65
+
+Låt r = 230 + -222. Antag att 415*p = 419*p - r. Bestäm g så att -1/5*g**p - 9/5 - 6/5*g = 0.
+Svaret är: -3
+
+Låt s(b) = b**3 + 25*b**2 + 17*b + 19. Låt r vara s(-24). Låt l = r - 185. Lös -1 - 3/2*p + p**l = 0.
+Svar: -1/2, 2
+
+Låt d(n) = 3*n**3 + 216*n**2 + n + 72. Låt a vara d(-72). Låt u(g) vara andraderivatan av -5*g + a - 1/63*g**3 + 1/126*g**4 - 2/21*g**2. Faktorisera u(w).
+Svaret är: 2*(w - 2)*(w + 1)/21
+
+Låt l vara 100/26 - ((-744)/104 - -7). Låt p(g) vara andraderivatan av -6*g - 1/80*g**5 + 0 - 1/6*g**l + 0*g**2 - 2/3*g**3. Bestäm c så att p(c) = 0.
+Svar: -4, 0
+
+Låt v(s) vara förstaderivatan av 16*s + 3/2*s**2 - 1/4*s**4 - 6 + 1/2*s**3 - 3/20*s**5. Låt h(r) vara förstaderivatan av v(r). Bestäm a, givet att h(a) = 0.
+Svar: -1, 1
+
+Låt j(n) vara förstaderivatan av n**6/80 + n**5/40 - 31*n**2/2 - 58. Låt d(o) vara andraderivatan av j(o). Lös d(r) = 0.
+Svar: -1, 0
+
+Låt f = -85775 + 85775. Låt l = 55/26 - 8/13. Faktorisera -l*n**2 + 0 + f*n.
+Svar: -3*n**2/2
+
+Antag att -2*q + 3*q = 2. Antag att -q + 10 = 4*v. Vad är x i -221 + 221 + 5*x**v + 5*x = 0?
+Svaret är: -1, 0
+
+Antag att -4076 = -549*o - 572*o + 102*o. Bestäm a så att 1/4*a - 5/2*a**o + 0 + 5/2*a**2 - 25/4*a**5 + 6*a**3 = 0.
+Svar: -1, -1/5, 0, 1
+
+Låt z(v) vara förstaderivatan av v**3 + 6*v**2 - 1603. Låt z(a) = 0. Vad är a?
+Svar: -4, 0
+
+Låt j(f) = -f**2. Låt t(g) = -10 - 9 + 6 - 7. Låt d(x) = 5*j(x) - t(x). Faktorisera d(m).
+Svar: -5*(m - 2)*(m + 2)
+
+Låt i(n) vara förstaderivatan av 0*n - n**3 + 3/4*n**4 - 3*n**2 - 51. Lös i(b) = 0.
+Svar: -1, 0, 2
+
+Låt i(p) vara förstaderivatan av p**4/4 + 4*p**3/3 + 1008. Faktorisera i(a).
+Svar: a**2*(a + 4)
+
+Låt t(r) vara tredjederivatan av -r**7/525 - 2*r**6/75 - 11*r**5/150 + r**4/3 + 1159*r**2. Faktorisera t(c).
+Svar: -2*c*(c - 1)*(c + 4)*(c + 5)/5
+
+Antag att -k = -4*g - 3 + 1, 3*g = -5*k - 36. Låt w vara 2/(-15)*18/(k + 0). Bestäm p, givet att 2/5*p**2 - w + 0*p = 0.
+Svar: -1, 1
+
+Låt m vara (13 + -27 + 14)/(-1) + 3. Faktorisera 4/9*y + 4/9*y**m + 8/9*y**2 + 0.
+Svaret är: 4*y*(y + 1)**2/9
+
+Låt n(h) vara andraderivatan av h**6/2700 + h**5/75 - 13*h**4/180 + 19*h**3/6 + 42*h. Låt c(r) vara andraderivatan av n(r). Faktorisera c(l).
+Svar: 2*(l - 1)*(l + 13)/15
+
+Antag att 0 = -10*w + 15*w - w - 8. Låt q(t) vara förstaderivatan av 3 - 5/3*t**3 - 5/4*t**4 + 0*t + 5*t**w. Vad är x i q(x) = 0?
+Svaret är: -2, 0, 1
+
+Antag att -634*i = -47*i - 1174. Bestäm n, givet att -26/19*n**3 + 12/19*n**i + 0*n - 52/19*n**4 + 0 - 14/19*n**5 = 0.
+Svaret är: -3, -1, 0, 2/7
+
+Låt j(l) = -l**4 + 4*l + 145*l**2 - 145*l**2 + 2*l**3. Låt y(g) = -g**3. Låt q(w) = -j(w) - 5*y(w). Faktorisera q(u).
+Svaret är: u*(u - 1)*(u + 2)**2
+
+Låt d vara ((-158)/(-10) + (-22)/(-110))/(-2). Låt r vara d/120*5*(-15 - 0). Vad är v i 0 - 1/6*v**r + 1/2*v**2 + 1/3*v - 1/2*v**4 - 1/6*v**3 = 0?
+Svar: -2, -1, 0, 1
+
+Låt r(n) vara förstaderivatan av 3*n**4/20 - 49*n**3/5 + 441*n**2/2 - 9261*n/5 - 73. Faktorisera r(i).
+Svar: 3*(i - 21)**2*(i - 7)/5
+
+Antag att -395*v + 771 + 19 = 0. Antag att 1/2*f + 1/2*f**3 + 0 - f**v = 0. Vad är f.
+Svar: 0, 1
+
+Antag att 0 = -5*n + 125 - 115. Faktorisera -5*r**4 + 2*r**4 - r**2 + r**3 - 2*r**n + 5*r**3.
+Svaret är: -3*r**2*(r - 1)**2
+
+Låt k(o) vara andraderivatan av o**6/1260 - o**5/210 + o**4/84 - 17*o**3/2 + 37*o. Låt b(v) vara andraderivatan av k(v). Faktorisera b(j).
+Svar: 2*(j - 1)**2/7
+
+Låt -730 - 110*a**2 + 752*a - 420 + 5*a**3 + 86*a + 567*a - 150*a**2 = 0. Vad är a?
+Svar: 1, 5, 46
+
+Låt z(x) = 52*x**4 - 72*x**3 + 28*x**2 + 4. Låt q(n) = 53*n**4 - 73*n**3 + 30*n**2 + 5. Låt t(f) = -4*q(f) + 5*z(f). Faktorisera t(h).
+Svar: 4*h**2*(h - 1)*(12*h - 5)
+
+Låt q = 457749/5 + -91545. Bestäm p, givet att 4/5*p**4 + 48/5*p**2 + q*p**3 + 0 + 32/5*p = 0.
+Svar: -2, 0
+
+Låt z vara 0/((-2)/(3*(-5)/30)). Bestäm j så att -5*j - 10*j**2 + 4 + 11*j**2 + z*j = 0.
+Svaret är: 1, 4
+
+Låt d(w) vara andraderivatan av -1 - 1/24*w**4 + w + 7/12*w**3 - 3/2*w**2. Bestäm g så att d(g) = 0.
+Svaret är: 1, 6
+
+Låt x(m) vara förstaderivatan av -9*m**3 + 13*m**2 + m - 177. Faktorisera x(j).
+Svaret är: -(j - 1)*(27*j + 1)
+
+Låt m(q) vara tredjederivatan av -q**8/1344 - 19*q**7/420 - 3*q**6/20 + q**5/120 + 73*q**4/96 + 3*q**3/2 + 769*q**2. Bestäm v så att m(v) = 0.
+Svaret är: -36, -1, 1
+
+Låt h(g) = -g**3 - 7*g**2 - 6*g - 12. Låt r(l) = -3*l**3 - 21*l**2 - 13*l - 36. Låt x(k) = 14*h(k) - 4*r(k). Faktorisera x(j).
+Svar: -2*(j + 2)**2*(j + 3)
+
+Låt q(h) vara förstaderivatan av -49*h**6/15 + 16814*h**5/25 + 1818*h**4/5 - 8264*h**3/15 + 688*h**2/5 - 1061. Lös q(k) = 0.
+Svaret är: -1, 0, 2/7, 172
+
+Låt n(w) vara förstaderivatan av -3*w**4/4 - 18*w**3 - 99*w**2/2 - 48*w + 614. Bestäm j, givet att n(j) = 0.
+Svar: -16, -1
+
+Låt x = -5/6372 - -12799/70092. Bestäm q, givet att 92/11*q - 1058/11 - x*q**2 = 0.
+Svaret är: 23
+
+Låt p vara ((-4)/24*20)/(4/(-6)). Faktorisera p*o**5 - 4*o**2 + 11*o**2 - 2*o - 12*o**4 + 0*o**2 - 3*o**3 + 5*o**4.
+Svaret är: o*(o - 1)**2*(o + 1)*(5*o - 2)
+
+Låt v(o) = 4*o**2 - 7*o**2 - 27 - 29 + 2*o**2 - 12*o. Låt m(p) = 2*p**2 + 25*p + 114. Låt d(i) = 4*m(i) + 7*v(i). Faktorisera d(x).
+Svaret är: (x + 8)**2
+
+Låt k(a) = -a**3 + 5*a**2 - 5*a + 6. Låt c vara k(4). Låt z vara (((-42)/27)/(4/(-8)))/1. Lös -z*d - 20/9*d**c - 8/9 = 0.
+Svaret är: -1, -2/5
+
+Låt v(o) vara tredjederivatan av -1/12*o**4 + 11/30*o**5 - o**2 + 21*o + 0 - 11/3*o**3 + 1/60*o**6. Bestäm l så att v(l) = 0.
+Svar: -11, -1, 1
+
+Faktorisera -2/11*n**2 - 18/11 + 12/11*n.
+Svar: -2*(n - 3)**2/11
+
+Antag att 12*s - 10 - 50 = 0. Antag att -10 - 7 = -z - 3*o, 5*z = o + s. Låt 4/7 - 10/7*w**z - 6/7*w = 0. Vad är w?
+Svaret är: -1, 2/5
+
+Låt c(d) vara förstaderivatan av 0*d - 1/6*d**4 + 2/3*d**2 - 2/9*d**3 - 4. Bestäm u, givet att c(u) = 0.
+Svaret är: -2, 0, 1
+
+Faktorisera -1/3*o**3 - 143/3*o + 8*o**2 + 0.
+Svaret är: -o*(o - 13)*(o - 11)/3
+
+Låt h = -4864 + 4864. Låt v(r) vara förstaderivatan av h*r + 1/5*r**2 - 3 - 2/5*r**3. Faktorisera v(n).
+Svaret är: -2*n*(3*n - 1)/5
+
+Antag att 0 = 154*p - 158*p - i + 2, p + 9*i = -52. Bestäm t så att 0 - 1/5*t**p - 2*t = 0.
+Svar: -10, 0
+
+Faktorisera -37*h**2 + 280*h + 10*h**2 + 9*h**2 + 8*h**2 + 576 + 6*h**2.
+Svaret är: -4*(h - 72)*(h + 2)
+
+Antag att 4*m + 30 = 218. Låt o = m + -37. Faktorisera 12*v**4 + 92*v**2 + 48*v**3 - 38*v**2 + o*v**2 + v**5.
+Svaret är: v**2*(v + 4)**3
+
+Låt g vara ((-10)/(-45))/((-165)/(-9) - -5). Låt v(h) vara tredjederivatan av g*h**5 + 0*h - 1/21*h**4 - 8*h**2 - 2/7*h**3 + 0. Faktorisera v(t).
+Svar: 4*(t - 3)*(t + 1)/7
+
+Låt t vara (-935)/380 + (0 - -4). Låt f = -3/76 + t. Faktorisera -3/2*l**2 + 3 + f*l.
+Svaret är: -3*(l - 2)*(l + 1)/2
+
+Låt b = -549 + 552. Låt d(c) vara förstaderivatan av -2/27*c**b + 4 + 1/6*c**4 + 0*c - 4/9*c**2. Faktorisera d(a).
+Svar: 2*a*(a + 1)*(3*a - 4)/9
+
+Låt v vara (-14)/(-6) + -2 + (-637)/21. Låt p vara (v/(-50) - 14/20)*-5. Faktorisera 0*g**2 + p + 3/4*g - 1/4*g**3.
+Svar: -(g - 2)*(g + 1)**2/4
+
+Låt y vara (-5)/(-4) - (-215)/20. Låt h vara ((-7)/y)/(35/(-280)). Faktorisera 32/3*j**2 + 0 + 8/3*j + h*j**3.
+Svaret är: 2*j*(j + 2)*(7*j + 2)/3
+
+Låt c(w) vara förstaderivatan av -8*w**5/15 + 31*w**4/6 - 40*w**3/3 + 23*w**2/3 + 20*w/3 - 1011. Låt c(t) = 0. Vad är t?
+Svaret är: -1/4, 1, 2, 5
+
+Låt g vara ((-1 + -1)/1)/(-699 + -16). Låt p = 1424/2145 + g. Faktorisera 0 + 2/9*r**2 + 0*r + p*r**4 + 2/3*r**3 + 2/9*r**5.
+Svar: 2*r**2*(r + 1)**3/9
+
+Låt h = 3695 + -96069/26. Låt g(o) vara förstaderivatan av -4/39*o**3 - 5 + h*o**4 + 0*o + 2/65*o**5 + 0*o**2. Faktorisera g(y).
+Svaret är: 2*y**2*(y - 1)*(y + 2)/13
+
+Låt r(z) vara tredjederivatan av -z**6/40 - 9*z**5/20 + 19*z**4/2 + 42*z**3 + 1357*z**2 + 1. Låt r(n) = 0. Vad är n?
+Svaret är: -14, -1, 6
+
+Låt z(u) = u**3 + 10*u**2 + 3*u + 26. Låt j vara z(-11). Låt q = -383/3 - j. Bestäm t, givet att q - 25/6*t**3 + 5/2*t**2 - 17/6*t**4 + 13/6*t + 2*t**5 = 0.
+Svar: -1, -1/3, -1/4, 1, 2
+
+Låt x(p) vara förstaderivatan av 3*p**4/20 - 12*p**3/5 + 87*p**2/10 - 54*p/5 + 1134. Faktorisera x(o).
+Svaret är: 3*(o - 9)*(o - 2)*(o - 1)/5
+
+Låt y(j) = j**2 - 4*j + 4. Låt x(b) = 1 - b. Låt a(o) = -3*x(o) + y(o). Låt z(l) = 5 + 3 - 2*l**2 + 4*l**2 - 5*l. Låt v(u) = 5*a(u) - z(u). Faktorisera v(r).
+Svaret är: 3*(r - 1)*(r + 1)
+
+Låt r = 160782/442211 + 2/40201. Faktorisera 0 + 2/11*k**4 + 6/11*k**3 + r*k**2 + 0*k.
+Svaret är: 2*k**2*(k + 1)*(k + 2)/11
+
+Låt n(p) = 2*p**4 + 81*p**3 - 85*p**2 - 81*p + 83. Låt t(o) = -2*o**4 - 80*o**3 + 84*o**2 + 80*o - 82. Låt y(m) = 4*n(m) + 6*t(m). Bestäm b så att y(b) = 0.
+Svaret är: -40, -1, 1
+
+Låt o vara ((-17)/(-119))/(24/96). Faktorisera 2/21*a**4 - o*a**2 + 16/21*a + 0 - 2/7*a**3.
+Svar: 2*a*(a - 4)*(a - 1)*(a + 2)/21
+
+Låt t(n) = n**3 - 22*n**2 - 51*n + 72. Låt m(c) = -c**3 - 6*c**2 + 40*c + 24. Låt l vara m(-10). Låt d vara t(l). Bestäm w, givet att d - 3/7*w + 3/7*w**2 = 0.
+Svaret är: 0, 1
+
+Låt q(s) = -48*s**3 - 149*s**2 + 98*s + 251. Låt n(f) = 22*f**3 + 74*f**2 - 50*f - 126. Låt v(w) = -13*n(w) - 6*q(w). Bestäm z så att v(z) = 0.
+Svaret är: -1, 2, 33
+
+Antag att 0*a = -4*g - 4*a + 724, -2*a + 185 = g. Faktorisera g*z + 37 - 213*z - 4*z**2 + 5 - 2.
+Svar: -4*(z - 1)*(z + 10)
+
+Låt m(h) vara förstaderivatan av -4 - 7/5*h + 1/15*h**3 + 3/5*h**2. Antag att m(j) = 0. Vad är j?
+Svar: -7, 1
+
+Antag att 92 = -8*f + 31*f. Faktorisera -4*q**f + 8*q**2 + 3*q**4 + 2*q**4 - 148*q - 5*q**3 + 144*q.
+Svaret är: q*(q - 2)**2*(q - 1)
+
+Låt h = 150 - 148. Faktorisera 12*a**4 + 27*a**3 + 6*a**2 + 12*a - a**2 - 9*a + 13*a**h.
+Svar: 3*a*(a + 1)**2*(4*a + 1)
+
+Faktorisera 8680*j + j**4 + 2344*j**2 + 19600 - 3931*j**2 - 62*j**3 + 2268*j**2.
+Svar: (j - 35)**2*(j + 4)**2
+
+Låt g(s) vara förstaderivatan av s**6/120 + s**5/60 - s**4/6 - 2*s**3/3 + 3*s**2/2 - s - 73. Låt z(r) vara andraderivatan av g(r). Bestäm w, givet att z(w) = 0.
+Svar: -2, -1, 2
+
+Antag att x - 5*l = -16, -4*x - 9672*l = -9669*l - 28. Faktorisera -18/5*k + 3/5*k**x + 0 + 33/5*k**2 - 18/5*k**3.
+Svaret är: 3*k*(k - 3)*(k - 2)*(k - 1)/5
+
+Låt c vara (4/(-6))/(4/(-18)). Låt g vara c*-1*(-5 - -4). Antag att 3*s**2 - 9 - s + 4*s + g = 0. Vad är s.
+Svar: -2, 1
+
+Låt k(b) = b**3 - b**2 + 5*b + 4. Låt y vara k(0). Vad är z i -12*z**y - 3*z**2 - z**2 + 4*z**5 + 34*z**3 - 14*z**3 - 8*z**3 = 0?
+Svaret är: 0, 1
+
+Antag att -15*a = -6 - 54. Faktorisera 15*y**2 + 5*y**a + 6*y + 2*y**3 + 9*y**3 + 4*y**3 - y.
+Svar: 5*y*(y + 1)**3
+
+Låt v = -59 - -63. Lös -166*r**2 + 170*r**2 - 1 + 1 + r**4 + v*r**3 = 0 för r.
+Svaret är: -2, 0
+
+Låt u(m) vara tredjederivatan av 3*m**6/20 + 43*m**5/30 - 5*m**4/6 + 1166*m**2. Bestäm o så att u(o) = 0.
+Svaret är: -5, 0, 2/9
+
+Låt y(h) = -3*h**4 + 41*h**3 - 139*h**2 + 157*h - 62. Låt i(q) = q**4 - 2*q**3 - 2*q**2 + q - 1. Låt z(r) = 2*i(r) - y(r). Bestäm x så att z(x) = 0.
+Svar: 1, 3, 4
+
+Låt l = 138 - 98. Låt t vara ((384/l)/(-12))/(-2 - -1). Faktorisera -2/5*a**2 + t*a + 6/5.
+Svaret är: -2*(a - 3)*(a + 1)/5
+
+Låt 63/2*s - 1/4*s**2 - 3969/4 = 0. Vad är s?
+Svar: 63
+
+Låt c = -2466 - -2469. Låt t(f) vara andraderivatan av 1/2*f**4 + f**c + 3/40*f**5 + 0*f**2 - 5*f + 0. Låt t(a) = 0. Vad är a?
+Svaret är: -2, 0
+
+Låt j vara ((-399)/(-792) + ((-410)/(-55) - 8))*-4. Vad är d i -3/2*d - 7/6*d**3 + 4*d**4 + 8/3*d**5 - j - 23/6*d**2 = 0?
+Svar: -1, -1/4, 1
+
+Låt z(u) vara andraderivatan av u**5/10 - 55*u**4 + 12100*u**3 - 1331000*u**2 - 117*u. Faktorisera z(p).
+Svaret är: 2*(p - 110)**3
+
+Låt r(o) = -7*o**2 + o - 3. Låt v(t) = -6*t**2 - 4. Låt m(u) = -4*r(u) + 3*v(u). Låt p(q) = -q**3 - 11*q**2 + 3*q. Låt y(h) = 6*m(h) + 4*p(h). Faktorisera y(a).
+Svaret är: -4*a*(a - 3)*(a - 1)
+
+Låt t(c) = 114 - 38*c. Låt o vara t(3). Bestäm h, givet att 9/2*h**4 + 0 - 3/4*h**5 + o*h - 27/4*h**3 + 3*h**2 = 0.
+Svar: 0, 1, 4
+
+Låt z = 76633 + -842825/11. Låt -z*u**2 - 2/11*u**3 - 24334/11 - 3174/11*u = 0. Beräkna u.
+Svaret är: -23
+
+Antag att 3/4*f**2 - 9*f + 24 = 0. Vad är f.
+Svar: 4, 8
+
+Lös 36 + 361707*y**2 + 3*y**3 - 6 - 361719*y**2 - 21*y = 0 för y.
+Svaret är: -2, 1, 5
+
+Antag att -8*x = -28 - 60. Låt n vara x + 4 + -2 - 4. Faktorisera 0*h**3 - 7*h**4 + n*h - 17 - 16*h**2 + 14*h**3 + h**4 + h**5 + 15.
+Svaret är: (h - 2)*(h - 1)**4
+
+Låt l(w) = -9*w**2 + 2115*w - 948. Låt p(u) = -35*u**2 + 8459*u - 3809. Låt y(n) = -25*l(n) + 6*p(n). Faktorisera y(v).
+Svaret är: 3*(v - 141)*(5*v - 2)
+
+Låt z vara (-100)/(-30)*3/2. Låt y(h) = 15*h**2 - 2*h + z*h - 16*h**2. Låt u(x) = -4*x**2 + 13*x. Låt o(j) = 2*u(j) - 9*y(j). Faktorisera o(i).
+Svaret är: i*(i - 1)
+
+Antag att 3*r = 3382*o - 3386*o - 44, -4*r = -4*o - 44. Bestäm a så att -3/4*a**2 - 1/4*a**3 + a + r = 0.
+Svar: -4, 0, 1
+
+Låt c(b) vara andraderivatan av -1/2*b**4 - 6/11*b**3 + 3*b + 0*b**2 - 9/55*b**5 - 1/55*b**6 + 0. Antag att c(n) = 0. Vad är n.
+Svar: -3, -2, -1, 0
+
+Antag att 93 = 4*a + a - p, -2*a + 42 = -2*p. Lös 54*r - 93 - 24*r + a - 3*r**2 = 0.
+Svaret är: 5
+

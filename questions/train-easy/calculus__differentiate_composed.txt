@@ -1,6 +1,90 @@
-Derivera -2*g**4 - 6 + 2 + 3 + 13*g**4 med avseende på g.
-44*g**3
-Antag att 4*d + 44 = -0*d. Låt x = d - -16. Vad är tredjederivatan av -2*g**5 - 4*g**5 - g**2 + x*g**5 med avseende på g?
--60*g**2
-Bestäm tredjederivatan av -24*t**3 - 19*t**2 - 27*t**3 + 11*t**3 - 7*t**3 med avseende på t.
--282
+Låt k(p) vara förstaderivatan av 0*p**3 + 0*p**4 - 2 - 1/5*p**5 + 0*p**2 - 7*p. Derivera k(l) med avseende på l.
+Svaret är: -4*l**3
+
+Vad är andraderivatan av 16 + 7 - 37 + 12 - 11*f + 6*f**2 - 3*f**4 med avseende på f?
+Svaret är: 12 - 36*f**2
+
+Låt g(i) vara andraderivatan av 0*i**3 - 1/28*i**8 + 0*i**6 + 0*i**5 + 0*i**7 + 4*i + 0 - 1/12*i**4 + 0*i**2. Vad är tredjederivatan av g(u) med avseende på u?
+Svar: -240*u**3
+
+Antag att 4*r + 2 = 10. Vad är andraderivatan av -8 + 8 + 3*w - 2*w**r med avseende på w?
+Svar: -4
+
+Låt i vara 15/21 - (-4)/14. Låt j(m) vara förstaderivatan av i + 2/3*m**3 + 0*m + 3/2*m**2. Vad är andraderivatan av j(g) med avseende på g?
+Svar: 4
+
+Derivera 27 - 51 + 19 - p med avseende på p.
+Svar: -1
+
+Vad är andraderivatan av -17*t**2 + t + 31*t**2 - 12*t**2 med avseende på t?
+Svaret är: 4
+
+Låt v(u) vara tredjederivatan av 7*u**4/24 - 2*u**3/3 - 14*u**2. Derivera v(d) med avseende på d.
+Svar: 7
+
+Vad är tredjederivatan av -5*b**6 - b**4 + b**4 - b**2 + 0*b**4 med avseende på b?
+Svar: -600*b**3
+
+Vad är förstaderivatan av 7 - 3*z - 2*z - 4 med avseende på z?
+Svar: -5
+
+Antag att 0 = 4*t - 10 - 10. Bestäm förstaderivatan av -1 + 3*b + b - 4*b + t*b med avseende på b.
+Svar: 5
+
+Låt g(b) vara andraderivatan av -b**7/7 - b**3/3 - 7*b. Vad är andraderivatan av g(z) med avseende på z?
+Svar: -120*z**3
+
+Låt x(g) = -7*g**4 - 3*g**2 + 3*g + 11. Låt j(b) = b**2 - b - 1. Låt l(o) = -3*j(o) - x(o). Derivera l(y) med avseende på y.
+Svar: 28*y**3
+
+Låt k(n) vara andraderivatan av -2*n**5/15 - 2*n**3/3 - 3*n**2/2 + n. Låt b(q) vara förstaderivatan av k(q). Derivera b(x) med avseende på x.
+Svar: -16*x
+
+Låt h(m) vara förstaderivatan av 0*m**4 - 4*m**2 + 0*m**3 - 1/5*m**5 - 7 + 0*m. Vad är andraderivatan av h(s) med avseende på s?
+Svar: -12*s**2
+
+Vad är andraderivatan av -4*k**5 - 28*k - 16*k**3 + 29*k**3 - 13*k**3 med avseende på k?
+Svar: -80*k**3
+
+Låt x(b) = -b**5 + b**3 - b + 1. Låt o(i) = -3*i**5 + 2*i**3 - 5*i**2 - 2*i + 2. Låt j(h) = -o(h) + 2*x(h). Vad är tredjederivatan av j(q) med avseende på q?
+Svar: 60*q**2
+
+Låt n(h) vara tredjederivatan av h**5/10 - h**3/2 + 7*h**2. Derivera n(w) med avseende på w.
+Svar: 12*w
+
+Låt i = -29 + 89/3. Låt n(k) vara förstaderivatan av 0*k + i*k**3 + 0*k**4 + 0*k**2 + 1 + 0*k**5 - 1/6*k**6. Vad är tredjederivatan av n(o) med avseende på o?
+Svar: -60*o**2
+
+Låt t(v) vara tredjederivatan av 19*v**6/60 + 7*v**4/24 - 55*v**2. Bestäm andraderivatan av t(q) med avseende på q.
+Svaret är: 228*q
+
+Derivera i**3 - 3 + 4*i**3 + 4*i**4 - 5*i**3 med avseende på i.
+Svaret är: 16*i**3
+
+Låt o(d) = -d**2 - 2*d. Låt f(k) = 41*k**2 + 13*k - 11. Låt q(n) = f(n) + 6*o(n). Bestäm andraderivatan av q(z) med avseende på z.
+Svaret är: 70
+
+Vad är tredjederivatan av 5*l**2 - 6*l**3 + 2*l**2 - 6*l**2 + 3*l**2 med avseende på l?
+Svaret är: -36
+
+Låt z(g) vara tredjederivatan av -11*g**6/120 - g**3/3 + 5*g**2. Bestäm förstaderivatan av z(q) med avseende på q.
+Svaret är: -33*q**2
+
+Antag att 9 = -5*n - 31. Låt y(d) = -17*d**2 - 8*d + 14. Låt a(o) = -6*o**2 - 3*o + 5. Låt f(k) = n*a(k) + 3*y(k). Derivera f(s) med avseende på s.
+Svaret är: -6*s
+
+Låt q(r) = 10 - 3*r - 5 + 0*r. Låt a = -29 + 21. Låt z(n) = -n**2 + 8*n - 14. Låt t(c) = a*q(c) - 3*z(c). Bestäm förstaderivatan av t(o) med avseende på o.
+Svaret är: 6*o
+
+Låt c(a) = -a - 7. Låt u vara c(-12). Låt h(m) vara förstaderivatan av 0*m**4 + 2 + 1/5*m**u + m + 0*m**2 + 0*m**3. Derivera h(x) med avseende på x.
+Svar: 4*x**3
+
+Låt k(u) vara tredjederivatan av 11*u**6/120 + 3*u**3/2 - 7*u**2. Vad är förstaderivatan av k(t) med avseende på t?
+Svar: 33*t**2
+
+Låt k(w) = -7*w**3 + 4*w**2 - 2*w. Låt x(d) = -13*d**3 + 7*d**2 - 4*d. Låt c(y) = -7*k(y) + 4*x(y). Vad är andraderivatan av c(o) med avseende på o?
+Svar: -18*o
+
+Låt a(m) = m**3 - 8*m**2 - m + 11. Låt p vara a(8). Antag att -p*b - 2*f - 7 = 0, 16 = -4*b - 0*b - 4*f. Derivera 0 - 2*n**3 + b + 1 med avseende på n.
+Svar: -6*n**2
+

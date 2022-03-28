@@ -1,6 +1,90 @@
-Omordna (-k + 3*k - k)*(2 - 2 - 2*k) - 12*k + 3*k**2 - 12*k + 23*k till b*k**2 + z*k + i och ange b.
-1
-Omordna (-7 + 0 + 3)*(-4 + 2 - i + 7) till formen g + w*i och ange w.
-4
-Uttryck (2*n**3 - 2*n**3 + n**3)*(-4*n + n + 4*n)*(3 + 7 - 1) som q*n + y*n**2 + f + m*n**4 + b*n**3 och ange m.
-9
+Uttryck -2*a + 5*a**2 + 19*a**3 - 9*a**3 - 5*a - 11*a**3 som h*a + k*a**2 + x*a**3 + f och ange h.
+Svaret är: -7
+
+Omordna (-h + h - h)*(0 - 4 + 6) - 1 - h + 1 - h - 2*h + 2*h + 0*h + 3*h - h - h + 2*h - 6*h till formen c*h + k och ange c.
+Svar: -7
+
+Omordna (2*t**2 + t**2 - t**2)*(6*t + 2*t - 3*t + (2*t + 2*t - 3*t)*(1 - 4 + 1) - 4*t - 3*t + 5*t) till u*t**2 + m + l*t**3 + q*t och ange l.
+Svaret är: 2
+
+Omordna -t**2 - 2*t**2 + 2 + t**2 + 3*t**2 till formen q*t**2 + j*t + r och ange r.
+Svaret är: 2
+
+Omordna (-2*l + 3 - 3)*(0 - 3 - 1) till f + z*l och ange z.
+Svaret är: 8
+
+Uttryck ((0 - 2 + 5)*(2 + 2 + 0) + 2 - 1 - 2)*(0*i - i + 0*i) på formen z*i + g och ange z.
+Svaret är: -11
+
+Omordna 13 + 2*q + 36*q**2 - 3*q - 37*q**2 till j*q + t*q**2 + i och ange j.
+Svar: -1
+
+Uttryck 46 - 46 - 4*i + (-4 + 1 + 2)*(2*i + 1 - 1) + (i - 2*i - 2*i)*(1 - 2 - 2) + 1 - 1 - i på formen g + t*i och ange g.
+Svaret är: 0
+
+Uttryck 0*y**4 - 6*y**3 + 4*y**3 + 2*y - 3*y**4 + 3*y på formen u*y**4 + g + t*y**3 + d*y + n*y**2 och ange n.
+Svar: 0
+
+Omordna (-2*n**2 + n - n)*(4 - 173*n - 3 + 183*n) till x*n + z + y*n**3 + m*n**2 och ange y.
+Svar: -20
+
+Omordna (y**2 - y**2 + 2*y**2)*(-23*y + 30*y**2 + 23*y) till formen o*y**3 + q*y + z*y**2 + r*y**4 + a och ange r.
+Svar: 60
+
+Uttryck -162*h**2 - 578*h + 578*h på formen m*h + a*h**2 + n och ange a.
+Svar: -162
+
+Uttryck a**3 - a**3 + 2*a**3 + 17*a**2 - 17*a**2 + 9*a**3 + 0 + 0 + 2*a**3 + (1 - 2*a**2 - 1)*(-2 + 2 - 2*a) som k + f*a + l*a**3 + x*a**2 och ange l.
+Svar: 17
+
+Uttryck (4*a**2 - 3*a**2 - 5*a**2)*(2 + 3 + 0) - 3*a**2 + 2*a**2 - 2*a**2 på formen p*a + u*a**2 + n och ange u.
+Svaret är: -23
+
+Uttryck (-11*o - 13*o + 11*o + 0*o + o - 2*o + (-1 - 2*o + 1)*(-2 + 1 + 0))*(o**2 + 2*o - 2*o) på formen z*o**2 + a*o + b + v*o**3 och ange v.
+Svar: -12
+
+Uttryck (-15 - 16*b + 15)*(-b + 4*b - 2*b) på formen o*b**2 + p*b + t och ange o.
+Svar: -16
+
+Uttryck (-3 + 1 + 0)*(388 - 388 - 44*o) som y*o + q och ange y.
+Svaret är: 88
+
+Uttryck -2*m**3 + 2 - 8*m**2 + 10*m**3 - 4*m**3 som o*m**3 + l*m + u*m**2 + k och ange l.
+Svar: 0
+
+Omordna 136*v + 3*v**2 + 6 + 141*v - 279*v - 6*v**2 till k*v**2 + x + f*v och ange x.
+Svaret är: 6
+
+Omordna (-5*p**2 - 3*p**2 + 6*p**2)*(17*p**2 - 1 + 2 - 15*p**2) till formen d*p**2 + w + q*p + i*p**3 + h*p**4 och ange h.
+Svaret är: -4
+
+Uttryck 6 - 6 - 2*i**3 - 2*i**3 + 2*i**3 + i**3 + (3 - 3 - 2*i)*(-2*i**2 + 3*i**2 + 0*i**2) + 2*i**3 - 3*i**3 - 2*i**3 som g*i + d*i**2 + w + j*i**3 och ange j.
+Svar: -6
+
+Uttryck (-19303 + 19303 + 36*q)*(q - 5*q + 3*q) - 2*q**2 + 4*q**2 + q**2 på formen b*q + u + c*q**2 och ange c.
+Svaret är: -33
+
+Uttryck (80 + 5 - 12)*(2*x - 5*x + 2*x) på formen n + i*x och ange i.
+Svar: -73
+
+Omordna (-5*i**4 - 4*i**4 + 2*i**4)*(1 + 1 - 1 + (4 + 0 - 6)*(-5 + 0 + 3) + 1 - 3 + 1) till formen x*i**2 + f + u*i**3 + b*i**4 + v*i och ange b.
+Svar: -28
+
+Uttryck d + d - d + 8*d på formen r + y*d och ange y.
+Svaret är: 9
+
+Uttryck -27*t + 0*t - 6*t på formen g + o*t och ange o.
+Svar: -33
+
+Omordna -3*r**2 + 68*r**3 + 2*r**2 - 112*r**3 till formen p*r**2 + a*r + m*r**3 + f och ange p.
+Svar: -1
+
+Omordna 7*l - 9*l + 52*l till formen o + p*l och ange p.
+Svar: 50
+
+Omordna -6*x**3 - 2*x**3 + 7 + 3*x**3 - 5 - x till formen f*x**2 + j*x + m*x**3 + y och ange j.
+Svar: -1
+
+Omordna (0*b - b - 2*b)*((-3 + 3 + 3)*(0 - 4 + 2) + 0 - 1 + 3 + (4 - 2 - 1)*(-1 + 2 - 3)) till y + m*b och ange m.
+Svar: 18
+

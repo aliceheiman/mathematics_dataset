@@ -1,6 +1,90 @@
-Vad är 6079 upphöjt i 1/2, till det närmsta heltalet?
-78
-Vad är den sjunde roten av 1883 till det närmsta heltalet?
-3
-Vad är 37 upphöjt i 1/6, till det närmsta heltalet?
-2
+Vad är den fjärde roten av 2186 till det närmsta heltalet?
+Svaret är: 7
+
+Vad är 2602 upphöjt i 1/8, till det närmsta heltalet?
+Svaret är: 3
+
+Vad är kubikroten av 4000 till det närmsta heltalet?
+Svaret är: 16
+
+Vad är 161 upphöjt i 1/3, till det närmsta heltalet?
+Svar: 5
+
+Vad är 4880 upphöjt i 1/4, till det närmsta heltalet?
+Svaret är: 8
+
+Vad är kubikroten av 1770 till det närmsta heltalet?
+Svaret är: 12
+
+Vad är 50096 upphöjt i 1/2, till det närmsta heltalet?
+Svar: 224
+
+Vad är den tionde roten av 5543 till det närmsta heltalet?
+Svar: 2
+
+Vad är 393 upphöjt i 1/2, till det närmsta heltalet?
+Svaret är: 20
+
+Vad är den tredje roten av 4478 till det närmsta heltalet?
+Svaret är: 16
+
+Vad är 2805 upphöjt i 1/2, till det närmsta heltalet?
+Svar: 53
+
+Vad är kvadratroten av 22360 till det närmsta heltalet?
+Svaret är: 150
+
+Vad är den tredje roten av 100261 till det närmsta heltalet?
+Svaret är: 46
+
+Vad är 17311 upphöjt i 1/4, till det närmsta heltalet?
+Svar: 11
+
+Vad är kubikroten av 9169 till det närmsta heltalet?
+Svaret är: 21
+
+Vad är den åttonde roten av 28132 till det närmsta heltalet?
+Svar: 4
+
+Vad är 605 upphöjt i 1/5, till det närmsta heltalet?
+Svaret är: 4
+
+Vad är den sjätte roten av 981 till det närmsta heltalet?
+Svar: 3
+
+Vad är den sjätte roten av 6439 till det närmsta heltalet?
+Svar: 4
+
+Vad är 652 upphöjt i 1/3, till det närmsta heltalet?
+Svaret är: 9
+
+Vad är kvadratroten av 8368 till det närmsta heltalet?
+Svaret är: 91
+
+Vad är 2234 upphöjt i 1/2, till det närmsta heltalet?
+Svaret är: 47
+
+Vad är 1719 upphöjt i 1/5, till det närmsta heltalet?
+Svaret är: 4
+
+Vad är 472 upphöjt i 1/3, till det närmsta heltalet?
+Svar: 8
+
+Vad är kubikroten av 18546 till det närmsta heltalet?
+Svar: 26
+
+Vad är den tredje roten av 19430 till det närmsta heltalet?
+Svaret är: 27
+
+Vad är den tredje roten av 9599 till det närmsta heltalet?
+Svaret är: 21
+
+Vad är 33447 upphöjt i 1/8, till det närmsta heltalet?
+Svar: 4
+
+Vad är 1365 upphöjt i 1/7, till det närmsta heltalet?
+Svar: 3
+
+Vad är 3059 upphöjt i 1/3, till det närmsta heltalet?
+Svaret är: 15
+

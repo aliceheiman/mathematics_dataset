@@ -1,20 +1,300 @@
-Låt s(m) = -m**3 + 12*m**2 + 2388*m + 944. Bestäm s(-43).
--45
-Låt b(w) = 69955 - 311*w. Ange b(225).
--20
-Låt j(c) = -7*c**3 - 36*c**2 + 17*c + 70. Beräkna j(-7).
-588
-Låt u(c) = 510*c - 27582. Ange u(54).
--42
-Låt p(m) = 10*m**2 + 151*m + 315. Ange p(-17).
-638
-Låt q(m) = 7804 - 363*m. Ange q(21).
-181
-Låt d(i) = -10*i**3 - 8*i**2 + 26*i. Ange d(4).
--664
-Låt a(w) = -47*w**3 - 24722*w**2. Vad är a(-526)?
-0
-Låt v(h) = -2*h**3 - 27*h**2 + 345*h - 179. Ange v(8).
--171
-Låt b(z) = -21462*z - 107312. Ange b(-5).
--2
+Låt j(s) = 63020 - 2516*s. Bestäm j(25).
+Svaret är: 120
+
+Låt p(k) = -14*k**2 - 157*k - 316. Beräkna p(-8).
+Svar: 44
+
+Låt a(d) = 2*d**2 - 450*d + 1827. Beräkna a(4).
+Svar: 59
+
+Låt h(b) = 12*b**3 - 850*b**2 - 144*b + 133. Bestäm h(71).
+Svar: -9
+
+Låt a(f) = -2440*f**2 - 212282*f - 174. Beräkna a(-87).
+Svar: 0
+
+Låt y(r) = r**2 - 55*r + 1147. Ange y(46).
+Svar: 733
+
+Låt o(t) = 1748*t - 22764. Ange o(13).
+Svaret är: -40
+
+Låt p(d) = -d**3 + 39*d**2 + 68*d + 1011. Vad är p(41)?
+Svar: 437
+
+Låt a(o) = -149428*o - 896567. Ange a(-6).
+Svaret är: 1
+
+Låt i(a) = 25*a**2 + 25*a - 271. Beräkna i(7).
+Svaret är: 1129
+
+Låt y(g) = -1759*g**2 - 12320*g - 2. Beräkna y(-7).
+Svaret är: 47
+
+Låt k(g) = 11*g**2 - 124*g - 120. Ange k(15).
+Svar: 495
+
+Låt c(a) = -517*a - 65672. Bestäm c(-127).
+Svar: -13
+
+Låt q(a) = 22*a**2 + 487*a - 2209. Ange q(-26).
+Svar: 1
+
+Låt u(g) = -g**2 - 1429*g - 162995. Beräkna u(-125).
+Svar: 5
+
+Låt r(x) = 7*x**2 - 188*x + 8. Bestäm r(26).
+Svaret är: -148
+
+Låt p(i) = -105*i - 13271. Ange p(-127).
+Svar: 64
+
+Låt p(q) = -q**3 + 34*q**2 + 238*q - 1. Bestäm p(40).
+Svar: -81
+
+Låt c(b) = 180*b**2 + 7920*b - 21. Ange c(-44).
+Svar: -21
+
+Låt t(x) = -15*x**2 + 283*x + 72. Beräkna t(19).
+Svar: 34
+
+Låt v(o) = o**2 + 90*o + 3. Ange v(8).
+Svar: 787
+
+Låt u(z) = -z**2 - 1248*z + 3731. Vad är u(3)?
+Svaret är: -22
+
+Låt s(l) = 3*l**3 - 238*l**2 + 4615*l - 690. Ange s(46).
+Svaret är: 0
+
+Låt i(t) = 7*t**2 - 430*t - 8036. Vad är i(-15)?
+Svaret är: -11
+
+Låt x(u) = u**3 + 62*u**2 + 118*u - 76. Bestäm x(-60).
+Svaret är: 44
+
+Låt f(t) = -t**3 - 48*t**2 + 5212*t + 1188. Ange f(-100).
+Svaret är: -12
+
+Låt d(k) = 204*k**3 - 225*k**2 + 17*k + 3. Ange d(1).
+Svaret är: -1
+
+Låt w(x) = -x**2 - 7319*x - 60. Vad är w(0)?
+Svaret är: -60
+
+Låt c(z) = -z**3 - 67*z**2 + 2*z - 166. Vad är c(-67)?
+Svaret är: -300
+
+Låt y(c) = -108*c**3 + 5048*c**2 + 1318*c - 104. Ange y(47).
+Svaret är: -10
+
+Låt w(m) = -2*m**2 - 80*m - 70. Vad är w(-18)?
+Svar: 722
+
+Låt n(u) = u**3 + 57*u**2 + 219*u + 109. Vad är n(-53)?
+Svar: -262
+
+Låt t(g) = -2*g**3 - 12*g**2 - 6*g - 215. Vad är t(0)?
+Svaret är: -215
+
+Låt d(y) = 2*y**2 + 1146*y + 66927. Beräkna d(-507).
+Svaret är: 3
+
+Låt j(m) = -12*m**2 + 24*m + 287. Vad är j(-7)?
+Svaret är: -469
+
+Låt t(r) = -r**3 + 23*r**2 + 421*r - 94. Ange t(35).
+Svaret är: -59
+
+Låt i(w) = w**3 - 30*w**2 + 65*w + 23. Bestäm i(28).
+Svar: 275
+
+Låt y(r) = 90588 - 90579*r. Vad är y(1)?
+Svar: 9
+
+Låt z(i) = 5*i**3 - 522*i**2 + 301*i - 9678. Ange z(104).
+Svar: -6
+
+Låt u(i) = 4*i**3 - 289*i**2 - 459*i - 4383. Bestäm u(74).
+Svaret är: -17
+
+Låt i(t) = 2083*t - 83284. Vad är i(40)?
+Svar: 36
+
+Låt n(c) = -c**2 - 157*c + 1173. Beräkna n(-164).
+Svaret är: 25
+
+Låt w(b) = -b**3 - 42*b**2 - 402*b + 51. Beräkna w(-22).
+Svaret är: -785
+
+Låt c(g) = 4045*g**2 + 4030*g - 4. Ange c(-1).
+Svaret är: 11
+
+Låt m(y) = 111*y**3 + 558*y**2 - 73. Bestäm m(-5).
+Svaret är: 2
+
+Låt l(f) = 2*f**3 + 88*f**2 + 668*f - 415. Beräkna l(-34).
+Svar: -7
+
+Låt l(z) = -z**3 - 287*z**2 + 1175*z + 3191. Beräkna l(-291).
+Svaret är: -10
+
+Låt g(k) = -2*k**2 - 218*k - 4708. Beräkna g(-31).
+Svar: 128
+
+Låt o(x) = 61*x**3 + x**2 - 130*x - 269. Bestäm o(-2).
+Svaret är: -493
+
+Låt x(f) = 4*f**2 - 79*f - 562. Bestäm x(26).
+Svar: 88
+
+Låt f(i) = 9*i**3 - 277*i**2 - 63*i + 72. Ange f(31).
+Svaret är: 41
+
+Låt o(h) = 9444*h + 122773. Vad är o(-13)?
+Svaret är: 1
+
+Låt t(s) = -425*s - 5721. Vad är t(-14)?
+Svaret är: 229
+
+Låt c(r) = 5615*r + 174062. Bestäm c(-31).
+Svar: -3
+
+Låt q(z) = -z**3 + 50*z**2 + 151*z - 36. Vad är q(-3)?
+Svar: -12
+
+Låt q(t) = 152*t - 396. Beräkna q(-6).
+Svar: -1308
+
+Låt n(l) = 3*l**2 + 17*l + 1451. Beräkna n(0).
+Svar: 1451
+
+Låt k(n) = -n**2 + 27*n - 525. Ange k(17).
+Svaret är: -355
+
+Låt f(m) = -64*m**2 - 76*m - 163. Ange f(-4).
+Svaret är: -883
+
+Låt s(t) = -t**3 + 12*t**2 + 314*t - 38. Beräkna s(-15).
+Svar: 1327
+
+Låt l(h) = 528*h - 23224. Ange l(44).
+Svar: 8
+
+Låt n(b) = 2567 - 97*b. Beräkna n(21).
+Svaret är: 530
+
+Låt k(y) = 418*y + 5413. Ange k(-13).
+Svar: -21
+
+Låt u(n) = -15*n**2 - 66*n - 454. Ange u(-6).
+Svar: -598
+
+Låt m(h) = h**3 - 4*h**2 + 49*h - 363. Ange m(6).
+Svar: 3
+
+Låt p(b) = -557*b**2 + 1119*b + 1. Ange p(2).
+Svar: 11
+
+Låt q(x) = -x**2 + 343*x + 122. Vad är q(0)?
+Svaret är: 122
+
+Låt s(b) = 2*b**3 - 16*b**2 + 36*b - 12. Ange s(5).
+Svar: 18
+
+Låt w(c) = c**3 - 6*c**2 + 13*c - 240. Vad är w(6)?
+Svaret är: -162
+
+Låt k(d) = d**2 + 67*d - 1324. Bestäm k(20).
+Svar: 416
+
+Låt i(n) = -n**3 - 27*n**2 - 763*n - 6468. Ange i(-11).
+Svaret är: -11
+
+Låt v(n) = -33*n**2 - 17*n - 32. Bestäm v(-2).
+Svar: -130
+
+Låt k(i) = 16*i**2 - 4647*i - 2565. Bestäm k(291).
+Svar: 54
+
+Låt v(g) = -5*g**3 - 8*g**2 + 11*g - 55. Bestäm v(6).
+Svar: -1357
+
+Låt c(u) = -2*u**3 + 22*u**2 + 1177*u - 1116. Bestäm c(30).
+Svaret är: -6
+
+Låt c(j) = -20826*j - 20857. Vad är c(-1)?
+Svar: -31
+
+Låt t(i) = -4*i**3 + 33*i**2 + 35*i - 221. Vad är t(8)?
+Svar: 123
+
+Låt j(r) = 2*r**3 + 111*r**2 - 1021*r - 32. Ange j(8).
+Svar: -72
+
+Låt j(u) = -9031*u - 54215. Vad är j(-6)?
+Svaret är: -29
+
+Låt b(g) = -g**2 - 127*g - 1030. Ange b(-115).
+Svaret är: 350
+
+Låt v(t) = 23512*t - 446733. Bestäm v(19).
+Svaret är: -5
+
+Låt p(k) = 4 - 13739*k. Bestäm p(0).
+Svar: 4
+
+Låt w(q) = 23*q**3 - 61*q**2 - 123*q - 13. Ange w(-2).
+Svar: -195
+
+Låt s(n) = -n**3 - 40*n**2 - 400*n - 786. Ange s(-12).
+Svar: -18
+
+Låt b(t) = -10*t**2 - 526*t + 2929. Beräkna b(5).
+Svar: 49
+
+Låt w(s) = -166*s**3 + 2*s**2 + 6*s + 4. Ange w(-1).
+Svar: 166
+
+Låt w(y) = 251*y + 6895. Beräkna w(-27).
+Svaret är: 118
+
+Låt o(n) = 444*n + 1776. Bestäm o(-4).
+Svar: 0
+
+Låt o(x) = 3604*x - 50456. Ange o(14).
+Svaret är: 0
+
+Låt t(z) = 25*z**2 + 308*z - 610. Vad är t(2)?
+Svaret är: 106
+
+Låt s(v) = 1203 - 178*v. Bestäm s(9).
+Svar: -399
+
+Låt d(a) = 37*a - 1085. Vad är d(29)?
+Svaret är: -12
+
+Låt w(r) = -7*r**2 - 100*r - 345. Beräkna w(-9).
+Svaret är: -12
+
+Låt o(u) = -4*u**2 - 47*u + 326. Bestäm o(14).
+Svaret är: -1116
+
+Låt k(f) = 20686 - 735*f. Vad är k(28)?
+Svar: 106
+
+Låt v(r) = 119117*r - 357348. Bestäm v(3).
+Svar: 3
+
+Låt z(q) = 4652*q - 27869. Beräkna z(6).
+Svar: 43
+
+Låt r(o) = -o**2 + 1517*o - 262271. Beräkna r(199).
+Svar: 11
+
+Låt d(t) = t**2 - 330*t + 1943. Vad är d(6)?
+Svar: -1
+
+Låt n(w) = 8667 - 115*w. Ange n(77).
+Svar: -188
+

@@ -1,6 +1,90 @@
-Beräkna sannolikheten att sekvensen är efcu då fyra bokstäver väljs utan återsättning från {u: 1, e: 1, q: 2, f: 2, c: 1}.
-1/420
-Två bokstäver väljs utan återsättning från usllllllluuwi. Ange sannolikheten att sekvensen är sw.
-1/156
-Tre bokstäver väljs utan återsättning från {n: 4, p: 9, i: 3}. Vad är sannolikheten att sekvensen är ini?
-1/140
+Beräkna sannolikheten att sekvensen är imh då tre bokstäver väljs utan återsättning från mjbimivh.
+Svar: 1/84
+
+Beräkna sannolikheten att sekvensen är vse då tre bokstäver väljs utan återsättning från evssseevgseveggeg.
+Svar: 3/170
+
+Vad är sannolikheten att sekvensen är ak då två bokstäver väljs utan återsättning från dkhnnaa?
+Svaret är: 1/21
+
+Två bokstäver väljs utan återsättning från {t: 11, o: 1, r: 3}. Vad är sannolikheten att sekvensen är to?
+Svar: 11/210
+
+Vad är sannolikheten att sekvensen är gdgd då fyra bokstäver väljs utan återsättning från {g: 2, d: 2}?
+Svar: 1/6
+
+Två bokstäver väljs utan återsättning från offbybmhmbfff. Ange sannolikheten att sekvensen är of.
+Svaret är: 5/156
+
+Vad är sannolikheten att sekvensen är vo då två bokstäver väljs utan återsättning från ovooovbv?
+Svaret är: 3/14
+
+Vad är sannolikheten att sekvensen är pppp då fyra bokstäver väljs utan återsättning från {p: 4, q: 14}?
+Svaret är: 1/3060
+
+Fyra bokstäver väljs utan återsättning från raaarad. Ange sannolikheten att sekvensen är aaad.
+Svaret är: 1/35
+
+Fyra bokstäver väljs utan återsättning från {j: 1, k: 8, b: 1, p: 2, h: 2}. Ange sannolikheten att sekvensen är pkph.
+Svar: 4/3003
+
+Beräkna sannolikheten att sekvensen är rrg då tre bokstäver väljs utan återsättning från {g: 4, w: 2, m: 2, r: 2, k: 7}.
+Svaret är: 1/510
+
+Vad är sannolikheten att sekvensen är fq då två bokstäver väljs utan återsättning från ffqhffqfffqffq?
+Svaret är: 18/91
+
+Två bokstäver väljs utan återsättning från {c: 4, m: 7, p: 1, a: 2}. Ange sannolikheten att sekvensen är cc.
+Svar: 6/91
+
+Vad är sannolikheten att sekvensen är ws då två bokstäver väljs utan återsättning från {y: 3, w: 1, s: 1}?
+Svar: 1/20
+
+Två bokstäver väljs utan återsättning från wmbwmmowxrww. Ange sannolikheten att sekvensen är bo.
+Svar: 1/132
+
+Två bokstäver väljs utan återsättning från {g: 13, j: 5}. Vad är sannolikheten att sekvensen är jg?
+Svar: 65/306
+
+Fyra bokstäver väljs utan återsättning från ooozzzooozozoozzzozo. Vad är sannolikheten att sekvensen är ozzz?
+Svaret är: 77/1615
+
+Två bokstäver väljs utan återsättning från cdcndtlkk. Vad är sannolikheten att sekvensen är kc?
+Svaret är: 1/18
+
+Beräkna sannolikheten att sekvensen är gr då två bokstäver väljs utan återsättning från {r: 3, g: 2}.
+Svaret är: 3/10
+
+Tre bokstäver väljs utan återsättning från {x: 5}. Ange sannolikheten att sekvensen är xxx.
+Svaret är: 1
+
+Beräkna sannolikheten att sekvensen är xxxz då fyra bokstäver väljs utan återsättning från {v: 6, z: 3, x: 8}.
+Svaret är: 3/170
+
+Beräkna sannolikheten att sekvensen är fwwi då fyra bokstäver väljs utan återsättning från {i: 5, p: 4, f: 1, j: 3, w: 5}.
+Svar: 5/3672
+
+Vad är sannolikheten att sekvensen är avad då fyra bokstäver väljs utan återsättning från {f: 1, y: 1, a: 2, d: 2, i: 1, v: 2}?
+Svar: 1/378
+
+Fyra bokstäver väljs utan återsättning från bbbbbbbblbbbb. Vad är sannolikheten att sekvensen är bblb?
+Svar: 1/13
+
+Två bokstäver väljs utan återsättning från {t: 11, k: 6, e: 1}. Ange sannolikheten att sekvensen är kk.
+Svar: 5/51
+
+Fyra bokstäver väljs utan återsättning från yacpyppaay. Ange sannolikheten att sekvensen är aaca.
+Svar: 1/840
+
+Två bokstäver väljs utan återsättning från {s: 1, b: 2, d: 1, c: 1, p: 1, n: 1}. Vad är sannolikheten att sekvensen är ds?
+Svaret är: 1/42
+
+Två bokstäver väljs utan återsättning från ulururrruuruu. Ange sannolikheten att sekvensen är ul.
+Svar: 7/156
+
+Tre bokstäver väljs utan återsättning från {a: 4, v: 7}. Vad är sannolikheten att sekvensen är ava?
+Svar: 14/165
+
+Beräkna sannolikheten att sekvensen är sis då tre bokstäver väljs utan återsättning från iyimiyiisyryiysi.
+Svar: 1/240
+

@@ -1,6 +1,90 @@
-Avrunda -22251 till det närmsta 10000.
--20000
-Vad är 10679500 avrundat till det närmsta hundratusentalet?
-10700000
-Avrunda 0.007742 till fyra decimaler.
-0.0077
+Avrunda -1.453 till 2 decimaler.
+Svaret är: -1.45
+
+Avrunda 8496 till det närmsta 100.
+Svar: 8500
+
+Vad är -0.00002152 avrundat till 6 decimaler?
+Svaret är: -0.000022
+
+Avrunda 0.099728 till 2 decimaler.
+Svaret är: 0.1
+
+Avrunda -0.0002968 till fem decimaler.
+Svaret är: -0.0003
+
+Avrunda 0.67775 till två decimaler.
+Svar: 0.68
+
+Vad är 296.72 avrundat till det närmsta heltalet?
+Svar: 297
+
+Vad är -28.01 avrundat till 0 decimaler?
+Svaret är: -28
+
+Avrunda 6322 till det närmsta tiotalet.
+Svar: 6320
+
+Vad är -729810000 avrundat till det närmsta 1000000?
+Svar: -730000000
+
+Vad är 184040 avrundat till det närmsta tiotusentalet?
+Svaret är: 180000
+
+Avrunda 20934 till det närmsta tusentalet.
+Svar: 21000
+
+Avrunda 0.005708 till 3 decimaler.
+Svaret är: 0.006
+
+Vad är -0.00002686 avrundat till sex decimaler?
+Svar: -0.000027
+
+Avrunda 1156000 till det närmsta 100000.
+Svar: 1200000
+
+Vad är 0.0035252 avrundat till fyra decimaler?
+Svar: 0.0035
+
+Vad är -315.4 avrundat till det närmsta tiotalet?
+Svar: -320
+
+Avrunda 0.00045861 till 4 decimaler.
+Svar: 0.0005
+
+Avrunda 168.7 till det närmsta tiotalet.
+Svar: 170
+
+Vad är -0.047 avrundat till ett decimal?
+Svaret är: 0
+
+Vad är 2136000 avrundat till det närmsta hundratusentalet?
+Svar: 2100000
+
+Avrunda 293.72 till det närmsta 10.
+Svar: 290
+
+Vad är 124800000 avrundat till det närmsta miljontalet?
+Svar: 125000000
+
+Avrunda 2561300 till det närmsta 100000.
+Svar: 2600000
+
+Avrunda -2797 till det närmsta tusentalet.
+Svaret är: -3000
+
+Vad är -0.0365 avrundat till två decimaler?
+Svar: -0.04
+
+Avrunda -0.00000199453 till sju decimaler.
+Svaret är: -0.000002
+
+Avrunda 0.018618 till 3 decimaler.
+Svar: 0.019
+
+Vad är -0.001081 avrundat till 4 decimaler?
+Svar: -0.0011
+
+Vad är -0.0005195 avrundat till fyra decimaler?
+Svar: -0.0005
+

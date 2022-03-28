@@ -1,20 +1,300 @@
-Vad är det femte minsta värdet i -1, 568, -11/5, -3, 2, 1/2, -40/11, -0.05, -5?
--1
-Vad är det andra största värdet i -1.08, -0.313, -3, -0.3, -6, -1, -2/3, -1/4, 2/15, 3?
-2/15
-Vilket är det sjätte största värdet?  (a) 2/19  (b) 0.5  (c) 0.1  (d) -1/3  (e) 26  (f) 1/4  (g) -2  (h) -20  (i) 0  (j) -131.04
-i
-Vad är det tredje minsta värdet i -24, 0.1, -1, 0.5, 13.5, 0.2, 33, -3, -2/11, -5?
--3
-Vad är det tionde minsta värdet i -1451, -0.3, 0.2, -5, 0.3, -10, 0.1, 1, -4/7, 5/6?
-1
-Vad är det åttonde minsta värdet i -3/2, 5, -4, -0.3, 2, -17322, -24, -2/13, -127/3?
-2
-Vilket är det andra största värdet?  (a) 0.1  (b) -2  (c) 20  (d) -4  (e) -533  (f) 1  (g) -5/9  (h) -10  (i) 3  (j) -2/21
-i
-Vad är det sjunde största värdet i 272, -2, 3/5, 0.02, 4, -7.5, 22, -4, 3, 6?
-0.02
-Vilket är det sjätte minsta värdet?  (a) 18.5  (b) -2/7  (c) -37/3  (d) -4  (e) -0.01  (f) -5  (g) 3/7  (h) 3/31  (i) -3  (j) 2/13
-e
-Vilket är det tredje största värdet?  (a) -1/2  (b) 5/3  (c) 0.17  (d) -2/5  (e) 24  (f) 0.1  (g) -6/5  (h) -3  (i) 63
-b
+Vilket är det sjätte minsta värdet?  (a) -2/5  (b) -290  (c) 0.1  (d) 0  (e) -3.5  (f) -1/3  (g) 5  (h) -1/7  (i) -0.3  (j) -3/5
+Svar: i
+
+Vad är det åttonde minsta värdet i -1/2878, -2, -0.1, -1.3, -0.2, -22, -0.5, -4, 2/5?
+Svaret är: -1/2878
+
+Vad är det minsta värdet i -4/3, -2/19, -18/7, -3/4, 5, 4, 1, 0.1, 0.4, 13?
+Svaret är: -18/7
+
+Vad är det tionde minsta värdet i 0, 2, -87/26, 23.7, 1.3, -0.4, -1/10, 0.2, -2/11, -2/13?
+Svaret är: 23.7
+
+Vad är det sjätte största värdet i 47, 4, -1/5, 0.4, 3/8, 1/4, -15, 842, 5?
+Svaret är: 3/8
+
+Vad är det sjunde största värdet i -1/4, -10, -1, 143, 0.2, 1/4, -9, -0.1, -55?
+Svar: -9
+
+Vad är det åttonde största värdet i 0.3, 1424, 2/7, 1/2, 0.4, -1, -4/29, -12/11, -5, -26?
+Svar: -12/11
+
+Vilket är det femte största värdet?  (a) 12  (b) 1/5  (c) -13  (d) 4  (e) 65  (f) -1/2  (g) 1/31  (h) -5  (i) 0.1  (j) 3
+Svar: b
+
+Vad är det minsta värdet i -1/6, -0.035, 2, -1, 5, -5, 129, 3/7, -4, 11/3?
+Svaret är: -5
+
+Vad är det sjätte största värdet i 0.16953, 0.02, -2, 4/7, 0.3, 2/5, 7, -0.04, -0.2?
+Svar: 0.02
+
+Vilket är det sjätte största värdet?  (a) -0.3  (b) -16  (c) 5  (d) 0  (e) 1/3  (f) 4  (g) 3/773  (h) -2  (i) 137  (j) -3
+Svar: d
+
+Vilket är det sjätte största värdet?  (a) -5  (b) 3/2  (c) -4  (d) -4/7  (e) 28133  (f) 0.1  (g) 0.2  (h) 13  (i) 44
+Svaret är: f
+
+Vad är det fjärde minsta värdet i 204017, -5, -0.01, -3/2, -3, 2/5, -7, 2, -3/5, 27?
+Svaret är: -3/2
+
+Vilket är det nionde minsta värdet?  (a) -5  (b) 0.4  (c) 11/18  (d) -1/7  (e) 8  (f) -6/11  (g) -0.1  (h) -0.016  (i) 2/13
+Svar: e
+
+Vilket är det andra största värdet?  (a) -0.5  (b) -2  (c) -20  (d) -149555  (e) -1  (f) 1  (g) 1/3  (h) 4  (i) 5
+Svar: h
+
+Vilket är det andra minsta värdet?  (a) -0.2  (b) 544  (c) -12/5  (d) -12  (e) 8  (f) 0.5  (g) 0.3  (h) -0.4  (i) -3/2
+Svaret är: c
+
+Vilket är det nionde största värdet?  (a) -4  (b) 4  (c) 2/3  (d) -0.04  (e) -1/10  (f) -44.91  (g) -1/195  (h) 0.4  (i) -0.5
+Svaret är: f
+
+Vad är det femte minsta värdet i 6/7, 3/7, -5/2, -2/9, -1/2, -384, -109, -0.1, -2, 18?
+Svaret är: -1/2
+
+Vilket är det femte minsta värdet?  (a) -3/5  (b) -1  (c) -2/5  (d) 3/5  (e) -5  (f) -2/9  (g) 0  (h) -4/5  (i) -484  (j) -4
+Svaret är: h
+
+Vad är det nionde största värdet i 4, 1, -5, -1, -19, 382, -1/7, 0.09, 1/42, -0.1?
+Svaret är: -5
+
+Vilket är det tredje minsta värdet?  (a) 0  (b) -0.1  (c) 4/7  (d) -34  (e) -2/5  (f) -0.02  (g) -0.583  (h) 0.4  (i) -2/3  (j) 4
+Svaret är: g
+
+Vilket är det sjunde största värdet?  (a) -5121  (b) -1/3  (c) -1  (d) 2  (e) -1/354  (f) -2  (g) 2/3  (h) -3/5  (i) 5  (j) -4
+Svar: c
+
+Vilket är det åttonde minsta värdet?  (a) 0  (b) -58/3  (c) 7  (d) -0.1  (e) 2/9  (f) -2/21  (g) 0.4  (h) -2104  (i) -3
+Svar: g
+
+Vad är det femte minsta värdet i -2/7, -2/61, 11, -1/8, 0.4, -4, 4, -1/3, -48?
+Svar: -1/8
+
+Vad är det nionde minsta värdet i 18, 2/5, -24.3, -730, -0.1, -1, -0.2, 3/5, -3/2, -5?
+Svaret är: 3/5
+
+Vilket är det fjärde minsta värdet?  (a) 2/15  (b) -2.4  (c) -4  (d) -0.09  (e) -5  (f) 0.2  (g) -1.04  (h) 3  (i) 0.3
+Svaret är: g
+
+Vilket är det åttonde största värdet?  (a) 4  (b) -3  (c) 2/13  (d) -5  (e) -2  (f) -2.3  (g) 0.01  (h) 2/461  (i) -2/15  (j) -0.2
+Svaret är: f
+
+Vad är det sjunde minsta värdet i -6, 2, 20, -144/5, 1, 4, 0.2, 3, -4?
+Svar: 3
+
+Vad är det sjunde minsta värdet i 3/7, -5, 2/17, 5, -2.5, -0.1, -1/18, 10, -0.2, 279?
+Svar: 3/7
+
+Vilket är det femte största värdet?  (a) 0.02  (b) -2/11  (c) -3  (d) -5  (e) -4  (f) 3  (g) -1  (h) -2  (i) 114  (j) 234/5
+Svar: b
+
+Vad är det sjunde minsta värdet i -1, 2, 0.2, -10, -4761, 4, -3, -375/7, 2/9, 0.4?
+Svar: 2/9
+
+Vad är det sjunde största värdet i -82, 0.09, -1, -0.2, -2/13, 3, -3/5, -0.3, 57089?
+Svaret är: -3/5
+
+Vilket är det fjärde minsta värdet?  (a) -0.15  (b) 0.3  (c) 3  (d) -0.1  (e) 939  (f) 1  (g) -0.4  (h) 0.4  (i) -2  (j) -4.1
+Svaret är: a
+
+Vilket är det femte största värdet?  (a) 2  (b) -105  (c) -1/2  (d) -1/6  (e) -2  (f) -0.8  (g) 0  (h) 0.2  (i) -2/653
+Svar: d
+
+Vilket är det tionde minsta värdet?  (a) -0.03  (b) 5  (c) 39  (d) -34  (e) 15  (f) 0.2  (g) -4  (h) 3/2  (i) -1/6  (j) 4
+Svar: c
+
+Vad är det nionde minsta värdet i 2/3, -0.1, -285, 95, -2/5, 2, 0, -3, 0.022?
+Svar: 95
+
+Vad är det fjärde största värdet i 0, 5, -5, 1, 0.92, -3, 4, 4/15, 381, 3/5?
+Svaret är: 1
+
+Vad är det sjätte minsta värdet i 2, 0.4, 29, -6, 4/7, 15635, 0.1, 1/2, -3, -0.1?
+Svar: 1/2
+
+Vilket är det fjärde minsta värdet?  (a) -4  (b) -13  (c) 120  (d) 2.296  (e) 6  (f) 0.2  (g) -0.4  (h) -0.1  (i) -5  (j) -1/5
+Svar: g
+
+Vad är det nionde största värdet i 5, 2/19, -6, -1, 6.4, -0.4, 185, 0.2, 2/5, 8?
+Svaret är: -1
+
+Vilket är det sjätte största värdet?  (a) 1/36  (b) -1234  (c) 5  (d) 2  (e) -0.06  (f) 21  (g) 1  (h) -0.3  (i) 3/8
+Svar: a
+
+Vad är det nionde minsta värdet i 0, -1/5, -0.1, 0.03, 1/7, 134, -22, 4/5, -3/8?
+Svar: 134
+
+Vilket är det största värdet?  (a) 3/17  (b) -4  (c) -0.5  (d) 0.4  (e) 0.1  (f) -14  (g) -2  (h) 11518  (i) 0
+Svar: h
+
+Vad är det åttonde största värdet i -4, 10, -6, -258, 0, 1/7, -5, 2, 5/61, 3?
+Svaret är: -5
+
+Vad är det sjunde största värdet i 0.07, 2/5, -4, -8, -3, 0, -0.1, 20, -52/799, 0.5?
+Svaret är: -0.1
+
+Vad är det fjärde största värdet i -4, -277, 26, 1/8, -0.3, 0, -0.5, -0.1, 0.024?
+Svaret är: 0
+
+Vilket är det tionde minsta värdet?  (a) 0.5  (b) 0  (c) 3  (d) -18  (e) -3  (f) 0.04  (g) -2164  (h) 0.09  (i) -0.14  (j) -2
+Svar: c
+
+Vad är det tredje största värdet i -1, 0.3, 0.1, 3/1449814, 2/9, -7, 5, 4, -0.2, 1?
+Svaret är: 1
+
+Vad är det fjärde minsta värdet i 2, 5, -57, -2/7, -3, 1/8, -13, 2/7, -516/13, -0.4?
+Svaret är: -3
+
+Vad är det nionde största värdet i 0.2, -2, -1/3, -1/4169, -14, 0, -1, 4, -5, -39?
+Svar: -14
+
+Vilket är det nionde minsta värdet?  (a) 1/70  (b) 0  (c) 3  (d) 34  (e) 1  (f) 2  (g) -0.06  (h) 19  (i) 0.06  (j) 15
+Svaret är: h
+
+Vad är det femte minsta värdet i -28, -2/7, 0.12, 43954, 2, -3, 2/5, 0.5, 5?
+Svar: 2/5
+
+Vad är det största värdet i 0, 0.1, 2/1511, -30, 0.4, -3, 1/3, -38, 4, 5?
+Svaret är: 5
+
+Vilket är det femte minsta värdet?  (a) 2/7  (b) 3  (c) 13  (d) -5  (e) 5  (f) -3  (g) 0.3  (h) 1/3  (i) 734  (j) 8
+Svar: h
+
+Vad är det sjunde största värdet i -2, 0.1, -1, -2/3729, 2, -0.11, 4, 0.2, -61?
+Svar: -1
+
+Vad är det nionde minsta värdet i 0.4, 1/4, 0.039, 4/7, 16, -15/26, -3, -5/4, 3, 0.3?
+Svar: 3
+
+Vad är det åttonde minsta värdet i 0.2, 0.1, 4, 68/49, 1/2, -5, 0.09, -0.1, -175/3?
+Svar: 68/49
+
+Vad är det sjätte minsta värdet i -2, 0.2, -736, 7, -0.5, 3/389, -4, -0.4, -3, -1?
+Svaret är: -0.5
+
+Vad är det sjunde största värdet i 56, -1/4, -1/8, -3, 0, 1, 1437, -2/5, -4?
+Svar: -2/5
+
+Vilket är det största värdet?  (a) -5  (b) 0.217  (c) 1/2  (d) -1  (e) 0  (f) 5  (g) -1/11  (h) -3/5  (i) -13/30
+Svar: f
+
+Vilket är det femte minsta värdet?  (a) -2/5  (b) 0.05  (c) 1  (d) 3841  (e) 0.2  (f) -0.1  (g) 5  (h) -1/6  (i) -2
+Svaret är: b
+
+Vilket är det andra största värdet?  (a) 2  (b) 76  (c) -0.3  (d) 0  (e) 1/6  (f) -0.0644  (g) 3  (h) -2/9  (i) 2/9  (j) 6
+Svar: j
+
+Vilket är det fjärde minsta värdet?  (a) 33  (b) 7  (c) -1/8  (d) -13  (e) 8  (f) 11  (g) 1/3  (h) 4  (i) -2/11
+Svar: g
+
+Vilket är det sjunde minsta värdet?  (a) 0  (b) -4  (c) -0.4  (d) -0.026951  (e) 5  (f) 47  (g) -13  (h) -5  (i) 3  (j) -0.5
+Svar: a
+
+Vad är det tredje minsta värdet i 0.4, -3, -4, 14215629, -3/2, -0.1, 0.3, 1/6, -5?
+Svaret är: -3
+
+Vad är det tredje största värdet i -6, -1/2, 4/3, 3, -4/7, -8, 5, 2/15, 47, -3?
+Svar: 3
+
+Vad är det största värdet i -0.4, -7, 0.1, -2, 5/4, -608, -3/5, 116, -2/15, -0.3?
+Svar: 116
+
+Vilket är det största värdet?  (a) 0  (b) 196  (c) 5  (d) -3/4  (e) -0.1  (f) 1/2  (g) 3/127  (h) 3  (i) 2/5  (j) -3/7
+Svaret är: b
+
+Vad är det tredje minsta värdet i 3, 1/4, -1/13, -4, -0.1, 1455, -2/11, -4/9, -390/23, -1?
+Svaret är: -1
+
+Vad är det minsta värdet i -6, 217/5333, -2, 3, -2.1, 0.4, -3, -5/4, -3/2?
+Svaret är: -6
+
+Vilket är det femte största värdet?  (a) -2  (b) -8/9  (c) -11  (d) 0.4  (e) 0.711  (f) -1/3  (g) -9  (h) -1/4  (i) 2/15  (j) -0.2
+Svaret är: h
+
+Vilket är det sjätte minsta värdet?  (a) 2/5  (b) 303.467  (c) 1/12  (d) -0.5  (e) 1  (f) -3  (g) 4  (h) -0.2  (i) 13
+Svar: e
+
+Vad är det fjärde största värdet i 2, -3/5, -59, 59, -24, -1, 6, -3, 1?
+Svaret är: 1
+
+Vad är det nionde största värdet i 4, 3, -2, -6, -578, 0.5, 2/9, 1/451, 1, 10?
+Svar: -6
+
+Vilket är det nionde största värdet?  (a) 0.3  (b) -6/5  (c) 0  (d) 0.1  (e) 0.09  (f) -37  (g) 1481  (h) 2  (i) 0.2  (j) 12
+Svaret är: b
+
+Vilket är det största värdet?  (a) 0  (b) 2  (c) -0.118  (d) 0.5  (e) -1  (f) 53  (g) 2/3  (h) 1  (i) -3  (j) -17
+Svar: f
+
+Vad är det femte största värdet i 1, 4, 0.07, 64, 3/5, 2/11, -11, -12, -0.018?
+Svaret är: 2/11
+
+Vilket är det åttonde minsta värdet?  (a) 3/8  (b) -3  (c) 3/7  (d) -5  (e) 2/15  (f) -2  (g) 15  (h) -12  (i) 4  (j) 0.3
+Svaret är: c
+
+Vad är det åttonde minsta värdet i 0, 5, -2, 13, -0.3, 890, -5, -5/3, 5118?
+Svar: 890
+
+Vilket är det tionde största värdet?  (a) 0  (b) -3  (c) -1493  (d) -1.6  (e) -8  (f) -0.1  (g) -1/4  (h) 2  (i) -4  (j) -1.2
+Svar: c
+
+Vilket är det nionde största värdet?  (a) -6  (b) -4  (c) -0.3  (d) -2/553  (e) 2  (f) -1  (g) 5  (h) 1  (i) 4  (j) -202
+Svaret är: a
+
+Vilket är det minsta värdet?  (a) 61416  (b) -0.3  (c) 0  (d) -0.037  (e) -0.4  (f) -3/4  (g) -0.1  (h) 0.1  (i) -0.5
+Svaret är: f
+
+Vilket är det sjätte största värdet?  (a) -5  (b) 110  (c) 0  (d) -1/4  (e) 3/4  (f) 0.4  (g) -3  (h) 2/11  (i) -30  (j) -4/177
+Svaret är: j
+
+Vad är det åttonde minsta värdet i 3, 12, 1/2, -2/15, 6, -0.4, 2/9, -1/5, 0.4, 451?
+Svaret är: 6
+
+Vad är det fjärde minsta värdet i -2/69, 0.3, -27, 0.4, 45, 2/7, -2, 99, 2/23, 2?
+Svaret är: 2/23
+
+Vad är det tredje största värdet i 2, -0.05, -2, 4, 1/5, 778, 0, 1, 64?
+Svar: 4
+
+Vad är det tredje minsta värdet i 3, -4, 6/139, 4, 1/9, -531, 0.4, 3/7, 1, -0.5?
+Svar: -0.5
+
+Vad är det största värdet i -2, 0.052, 0.1, -0.1, -3, 0.3, -1/30, 3, -41, -8/7?
+Svar: 3
+
+Vad är det tionde minsta värdet i 744, 13, 0.07, -1, -1/9, -4, 6, -1/2, 0, -3/7?
+Svar: 744
+
+Vad är det sjunde största värdet i -2, 4835, 0.1, 16/7, 0.041, 0.9, -1, -2/11, 5?
+Svaret är: -2/11
+
+Vilket är det femte största värdet?  (a) -70  (b) 0.1  (c) -2/7  (d) -630403  (e) -4  (f) -3/8  (g) 4  (h) -5  (i) 1  (j) -2/13
+Svaret är: c
+
+Vilket är det tredje största värdet?  (a) -3  (b) 9  (c) 0  (d) 8  (e) -10  (f) -4  (g) 1/5  (h) -5  (i) -45  (j) 0.3
+Svar: j
+
+Vilket är det sjätte största värdet?  (a) 2/3  (b) -13/2  (c) -68  (d) -0.4  (e) 5  (f) 3/5  (g) 3  (h) -1  (i) 2/33  (j) -0.5
+Svaret är: d
+
+Vad är det tionde största värdet i -163, 2, 1, 8, -19/3, -0.2, 3, 0.5, 4, 113?
+Svar: -163
+
+Vilket är det tredje största värdet?  (a) -3  (b) 3/4  (c) -2  (d) 258  (e) -50  (f) -5  (g) 2.6  (h) -4  (i) -0.2  (j) 120
+Svaret är: g
+
+Vad är det åttonde största värdet i 38, -0.07, -524/9, -2/5, -4/7, -1/7, 5, 3, -3?
+Svar: -3
+
+Vad är det tionde minsta värdet i -2, -1/77, -3, -16, 11, -0.3, -27, -0.4, -2/7, 1?
+Svar: 11
+
+Vilket är det fjärde största värdet?  (a) -0.5  (b) 1350  (c) 0  (d) 2/9  (e) 0.4  (f) 0.2  (g) 0.5  (h) -2  (i) 1.9  (j) -4
+Svaret är: e
+
+Vilket är det andra minsta värdet?  (a) 0.3  (b) -0.4  (c) -3  (d) 5  (e) -0.02  (f) -1/3  (g) 0.1  (h) 37725  (i) 0.2  (j) -9
+Svaret är: c
+
+Vad är det femte minsta värdet i 5, 2/19, 7, 3, -786, 1.3, -0.042, -4, -0.01?
+Svar: 2/19
+

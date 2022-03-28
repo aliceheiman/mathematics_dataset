@@ -1,20 +1,300 @@
-Är 47713451 primtal?
-False
-Är 330548521 ett primtal?
-False
-Är 1772109523 ett sammansatt tal?
-False
-Är 685436069 ett sammansatt tal?
-False
-Är 1177979807 ett sammansatt tal?
-False
-Är 411999967 sammansatt?
-True
-Är 898630043 ett primtal?
-False
-Är 648668591 sammansatt?
-False
-Är 1478568341 sammansatt?
-True
-Är 360185503 ett primtal?
-False
+Är 3540491341 sammansatt?
+Svar: True
+
+Är 548863111 primtal?
+Svar: True
+
+Är 1039109059 ett primtal?
+Svar: True
+
+Är 158698493 ett primtal?
+Svar: False
+
+Är 1296215699 primtal?
+Svaret är: False
+
+Är 1291311731 ett primtal?
+Svaret är: True
+
+Är 60205787 primtal?
+Svar: False
+
+Är 2110107937 ett sammansatt tal?
+Svaret är: True
+
+Är 1589983937 primtal?
+Svaret är: True
+
+Är 1860564833 primtal?
+Svar: False
+
+Är 47565727 ett primtal?
+Svaret är: False
+
+Är 129047349 sammansatt?
+Svaret är: True
+
+Är 853585769 ett primtal?
+Svaret är: True
+
+Är 995009497 primtal?
+Svaret är: True
+
+Är 247363901 primtal?
+Svar: False
+
+Är 20920693 sammansatt?
+Svaret är: True
+
+Är 88498801 sammansatt?
+Svaret är: False
+
+Är 8795070527 primtal?
+Svaret är: True
+
+Är 233908621 sammansatt?
+Svar: False
+
+Är 180151723 sammansatt?
+Svar: False
+
+Är 646763003 ett primtal?
+Svaret är: True
+
+Är 3571578473 primtal?
+Svar: True
+
+Är 6343730609 ett primtal?
+Svaret är: True
+
+Är 147533147 sammansatt?
+Svaret är: True
+
+Är 285851873 ett primtal?
+Svaret är: False
+
+Är 85535089 ett primtal?
+Svaret är: False
+
+Är 2311873649 primtal?
+Svar: False
+
+Är 194518963 ett primtal?
+Svar: False
+
+Är 429492691 primtal?
+Svar: False
+
+Är 802405243 ett primtal?
+Svar: False
+
+Är 1736658461 ett primtal?
+Svar: True
+
+Är 212069323 ett primtal?
+Svar: True
+
+Är 40210073 ett primtal?
+Svar: False
+
+Är 370629227 sammansatt?
+Svar: False
+
+Är 1288611671 ett sammansatt tal?
+Svar: True
+
+Är 1143973657 sammansatt?
+Svaret är: True
+
+Är 38618881 ett primtal?
+Svar: False
+
+Är 16167961 ett primtal?
+Svar: True
+
+Är 11263420501 sammansatt?
+Svaret är: False
+
+Är 480377446 primtal?
+Svar: False
+
+Är 119396411 ett primtal?
+Svar: True
+
+Är 53301109 sammansatt?
+Svaret är: True
+
+Är 780506239 ett sammansatt tal?
+Svar: False
+
+Är 1503318967 ett primtal?
+Svaret är: True
+
+Är 207863473 ett primtal?
+Svar: True
+
+Är 1974774391 ett sammansatt tal?
+Svaret är: False
+
+Är 540772373 sammansatt?
+Svar: True
+
+Är 2332847767 ett sammansatt tal?
+Svar: False
+
+Är 34388677 ett primtal?
+Svaret är: True
+
+Är 143869361 ett primtal?
+Svar: True
+
+Är 339099217 primtal?
+Svar: False
+
+Är 712574123 sammansatt?
+Svaret är: True
+
+Är 120906119 ett sammansatt tal?
+Svaret är: False
+
+Är 542761433 ett sammansatt tal?
+Svar: False
+
+Är 372355647 primtal?
+Svaret är: False
+
+Är 525696583 ett primtal?
+Svaret är: False
+
+Är 2070709 sammansatt?
+Svaret är: False
+
+Är 152829119 sammansatt?
+Svar: True
+
+Är 1817253938 ett sammansatt tal?
+Svaret är: True
+
+Är 397087147 sammansatt?
+Svar: False
+
+Är 184569789 ett sammansatt tal?
+Svar: True
+
+Är 272698499 primtal?
+Svar: True
+
+Är 738688343 ett sammansatt tal?
+Svar: False
+
+Är 292766939 ett primtal?
+Svar: True
+
+Är 102479114 sammansatt?
+Svaret är: True
+
+Är 1733899339 ett sammansatt tal?
+Svar: False
+
+Är 620307587 primtal?
+Svar: True
+
+Är 429894217 ett primtal?
+Svar: False
+
+Är 233774591 sammansatt?
+Svaret är: True
+
+Är 1275894493 sammansatt?
+Svar: True
+
+Är 747510542 ett sammansatt tal?
+Svaret är: True
+
+Är 739799549 ett sammansatt tal?
+Svar: True
+
+Är 3366811639 primtal?
+Svaret är: False
+
+Är 828275269 ett primtal?
+Svar: True
+
+Är 127677959 sammansatt?
+Svar: False
+
+Är 1050131253 ett primtal?
+Svaret är: False
+
+Är 938961151 primtal?
+Svaret är: True
+
+Är 180529789 ett primtal?
+Svaret är: False
+
+Är 604802323 primtal?
+Svaret är: True
+
+Är 459888238 ett primtal?
+Svaret är: False
+
+Är 3220677301 ett sammansatt tal?
+Svar: False
+
+Är 3004159681 ett sammansatt tal?
+Svaret är: False
+
+Är 81056867 ett primtal?
+Svar: False
+
+Är 1900009693 primtal?
+Svar: False
+
+Är 103475731 ett primtal?
+Svaret är: False
+
+Är 237960381 primtal?
+Svar: False
+
+Är 3591678317 ett sammansatt tal?
+Svaret är: False
+
+Är 437635079 sammansatt?
+Svaret är: True
+
+Är 1416567811 ett primtal?
+Svar: False
+
+Är 120861181 sammansatt?
+Svaret är: True
+
+Är 1149547057 primtal?
+Svaret är: True
+
+Är 546137513 primtal?
+Svar: False
+
+Är 558910591 ett primtal?
+Svaret är: False
+
+Är 810207023 ett primtal?
+Svar: True
+
+Är 437754371 sammansatt?
+Svaret är: False
+
+Är 38081267 ett primtal?
+Svaret är: False
+
+Är 4363810855 primtal?
+Svaret är: False
+
+Är 545378387 sammansatt?
+Svar: False
+
+Är 2721311903 sammansatt?
+Svaret är: False
+
+Är 2179007933 sammansatt?
+Svar: True
+

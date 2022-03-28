@@ -1,6 +1,90 @@
-Låt j(u) vara andraderivatan av -u + 13/12*u**4 + 0*u**3 - 2*u**2 + 0. Låt k(b) = 1 - 4*b**2. Beräkna -2*j(l) - 7*k(l).
-2*l**2 + 1
-Låt i(z) = 3*z + 6. Låt r(m) = 4*m + 7. Låt j(y) = -y**3 + 4*y**2 - 5*y + 2. Antag att 20 = 4*a, 0 = 2*d - 2*a + 4. Låt h vara j(d). Bestäm h*r(w) + 5*i(w).
-2 - w
-Antag att 4*v + 0*l = -2*l - 20, 3*v + 18 = -3*l. Låt j(g) = g**2 + g - 1. Låt a(k) = -k**3 + 4*k**2 + 5*k - 2. Vad är v*j(z) + a(z)?
--z**3 + z + 2
+Antag att -2 = 4*d - 2*f, 0 = d - 2*f - 1 - 0. Låt r(g) = -6*g**2 + 5*g + 5. Låt p(l) = -l**2 + l + 1. Bestäm d*r(y) + 5*p(y).
+Svar: y**2
+
+Låt v(m) = -m**2 + 6*m - 4. Låt s vara v(5). Låt n(y) = -5*y - 1. Låt t(k) = -1. Låt h(r) = r - 1. Låt l(q) = h(q) - t(q). Beräkna s*n(b) + 3*l(b).
+Svar: -2*b - 1
+
+Låt n(u) = -u**3 + u**2 - u + 1. Låt d(f) = -f**3 + 9*f**2 - 3*f + 6. Låt r(t) = -d(t) + 6*n(t). Låt l(h) = 9*h**3 + 5*h**2 + 5*h. Vad är 3*l(v) + 5*r(v)?
+Svaret är: 2*v**3
+
+Låt h(q) = 1 - 2*q. Låt z(b) vara andraderivatan av 2*b**3/3 - b**2 - 3*b. Ange 5*h(l) + 3*z(l).
+Svar: 2*l - 1
+
+Låt s(f) = -2 - 2 + 17*f + 0 - 8*f + 13*f**2. Låt d(q) = 3*q**2 + 7*q - 1. Låt h(v) = -v. Låt r(g) = -d(g) - 5*h(g). Vad är -18*r(t) - 4*s(t)?
+Svaret är: 2*t**2 - 2
+
+Låt k(o) = 12*o**3 - o**2 - o. Låt f(x) = -11*x**3 + x**2 + x. Vad är 2*f(g) + 3*k(g)?
+Svar: 14*g**3 - g**2 - g
+
+Låt q(i) = i**2 - 2*i. Låt t(f) = f**2 - 4*f**2 - 10*f + 7*f**2. Ange 11*q(v) - 2*t(v).
+Svar: 3*v**2 - 2*v
+
+Låt x(p) = 3 - 10*p. Låt z(j) = 9*j - 4. Vad är 6*x(h) + 7*z(h)?
+Svar: 3*h - 10
+
+Låt l(m) = -7*m**3 + 5*m**2 - 9*m - 7. Låt n(v) = v**3 - v**2 + 1. Låt w(b) = 3*b**3 - 4*b**2 - 4*b + 3. Låt p(f) = 6*n(f) - w(f). Bestäm 4*l(k) + 9*p(k).
+Svaret är: -k**3 + 2*k**2 - 1
+
+Låt u(s) vara förstaderivatan av 13*s + 3*s**2 - 3 - 4*s**2 - s**2. Låt g(k) = 9 - 3*k. Vad är -7*g(h) + 5*u(h)?
+Svar: h + 2
+
+Låt f(o) = o + 4. Låt i(t) = 3*t + 11. Beräkna -11*f(u) + 4*i(u).
+Svaret är: u
+
+Låt u(t) = 4*t**2 - 2*t + 7. Antag att 3*m = -m + 3*n + 8, 0 = -2*m - n + 14. Låt o(l) = 18 - 24 - 3*l**2 + 2*l + 0*l**2. Vad är m*u(y) + 6*o(y)?
+Svar: 2*y**2 + 2*y - 1
+
+Låt f(l) = -6*l. Låt a(g) = 5*g - 1. Vad är 3*a(y) + 2*f(y)?
+Svaret är: 3*y - 3
+
+Låt h = -24 - -38. Låt d(w) = -6 - h - 14*w + 0. Låt v(k) = 5*k + 7. Låt r(c) = c**3 - 4*c**2 - 3*c + 6. Låt q vara r(4). Beräkna q*d(g) - 17*v(g).
+Svaret är: 1 - g
+
+Låt g(x) = -32*x. Låt k(s) = s. Vad är 3*g(r) + 48*k(r)?
+Svaret är: -48*r
+
+Låt m(x) = -5*x**2 + 8*x - 6. Låt u(y) = -y**2 + 2*y + 1. Ange m(k) - 4*u(k).
+Svar: -k**2 - 10
+
+Låt q(h) = -3*h - 21. Låt d(j) = -1. Vad är 42*d(s) - 2*q(s)?
+Svaret är: 6*s
+
+Låt v(h) = -3*h - 81. Låt r(a) = -a - 20. Beräkna -9*r(c) + 2*v(c).
+Svaret är: 3*c + 18
+
+Låt c(t) = 11*t - 15. Antag att q + q = 4*p - 6, -q = 3*p - 12. Låt b(x) = -p - 2 - 2*x + 7*x - 2. Bestäm 13*b(g) - 6*c(g).
+Svar: -g - 1
+
+Låt c(j) = j**2 - j. Låt p = 14 - 12. Låt n(r) = -108*r + 3*r**p - r**2 + 104*r. Bestäm -4*c(y) + n(y).
+Svaret är: -2*y**2
+
+Låt i(l) = 2*l**2 + 7*l - 2. Låt q(s) = -s**2 - s. Bestäm i(g) + 3*q(g).
+Svaret är: -g**2 + 4*g - 2
+
+Låt b(y) = -y**2 - y - 1. Låt v(c) = 1. Antag att -r + 4 = 3*n - 0*n, -r = -4*n + 10. Beräkna n*b(o) + 4*v(o).
+Svaret är: -2*o**2 - 2*o + 2
+
+Antag att 0 = z + 3*z - 8. Antag att -q - 4*c = -7*c + 2, -4*c = -z*q. Låt r(y) = 4 - 9*y. Låt m = -1 + -6. Låt g(x) = 2 - 5*x. Bestäm m*g(w) + q*r(w).
+Svar: 2 - w
+
+Låt u(y) = 3 - 13*y. Låt b(t) = 2 - 7*t. Beräkna 7*b(a) - 4*u(a).
+Svar: 3*a + 2
+
+Låt q(m) = 3*m - 4. Låt i(y) = 3*y - 3. Beräkna -5*i(d) + 4*q(d).
+Svaret är: -3*d - 1
+
+Låt o(f) = 8*f**2 + 6*f + 13. Låt r(h) = 15*h**2 + 12*h + 25. Låt g(c) = -11*o(c) + 6*r(c). Låt a(z) = z**2 + 3*z + 4. Ange -7*a(s) + 4*g(s).
+Svar: s**2 + 3*s
+
+Låt v(b) = 3*b - 3. Låt l(m) = 4 - 4*m. Låt d = -22 - -26. Ange d*l(j) + 5*v(j).
+Svaret är: 1 - j
+
+Låt w(o) = o. Låt r(z) = 4*z + 2. Ange -r(k) + 12*w(k).
+Svar: 8*k - 2
+
+Låt v(s) = 4*s - 11. Låt q(n) = n. Låt m(r) = -q(r) + v(r). Låt g(p) = 4 - p. Låt c = -164 + 172. Bestäm c*g(t) + 3*m(t).
+Svaret är: t - 1
+
+Antag att 3*u = t + 5, 0*u - 4*u + 24 = 3*t. Låt p(c) = 2*c**2 + 2*c - 4. Låt s(z) = -3*z**2 + 3*z + z**2 + 4*z**2 - 4 - 1. Beräkna t*s(y) - 5*p(y).
+Svaret är: -2*y**2 + 2*y
+

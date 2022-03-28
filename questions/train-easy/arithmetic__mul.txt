@@ -1,6 +1,90 @@
-Multiplicera -1.21 och -4.
-4.84
-Vad är -25.33 gånger -1?
-25.33
-Vad är 3.3 gånger -1.9?
--6.27
+-52.4 gånger 13
+Svaret är: -681.2
+
+Beräkna 5*65.
+Svar: 325
+
+Räkna ut 1.5 * 250.
+Svar: 375
+
+Vad är 0.65 gånger -0.64?
+Svaret är: -0.416
+
+Vad är produkten av 269.1 och -0.1?
+Svaret är: -26.91
+
+-0.0374*5
+Svaret är: -0.187
+
+Multiplicera -25 och -0.9.
+Svaret är: 22.5
+
+-22.1*-0.1
+Svar: 2.21
+
+2.12 * 0.4
+Svar: 0.848
+
+Räkna ut 0.2 * 0.024.
+Svar: 0.0048
+
+-1.96 gånger -6
+Svaret är: 11.76
+
+Räkna ut 0.234 * 3.
+Svaret är: 0.702
+
+Räkna ut -13.262 * 3.
+Svaret är: -39.786
+
+Vad är produkten av -0.193 och -4.4?
+Svar: 0.8492
+
+-0.4*-1.24
+Svaret är: 0.496
+
+Räkna ut 0.13 * 40.
+Svaret är: 5.2
+
+Beräkna -3*-583.
+Svar: 1749
+
+Multiplicera -245 och 0.5.
+Svaret är: -122.5
+
+1148 gånger -0.2
+Svar: -229.6
+
+0.2 * 0.507
+Svaret är: 0.1014
+
+Produkten av 3134 och 3.
+Svaret är: 9402
+
+Räkna ut 1.3 * -0.28.
+Svaret är: -0.364
+
+0.5 * -63
+Svar: -31.5
+
+Produkten av 0.09 och 1.
+Svar: 0.09
+
+15.5*0.02
+Svar: 0.31
+
+Produkten av 19 och 14.23.
+Svar: 270.37
+
+Produkten av 69 och 36.
+Svaret är: 2484
+
+-2153*-1
+Svar: 2153
+
+Räkna ut 1.385 * -5.
+Svaret är: -6.925
+
+Multiplicera 149 och -4.
+Svar: -596
+

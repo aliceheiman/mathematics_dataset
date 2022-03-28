@@ -1,6 +1,90 @@
-Beräkna resten då 207962 delas med 5.
-2
-Beräkna resten då 11983998 delas med 308.
-26
-Vad är resten då 8540468 delas med 2846818?
-14
+Beräkna resten då 9272 delas med 13.
+Svar: 3
+
+Vad är resten då 605250 delas med 1796?
+Svar: 1794
+
+Vad är resten då 506181 delas med 4047?
+Svar: 306
+
+Vad är resten då 509802 delas med 1101?
+Svaret är: 39
+
+Beräkna resten då 3316224 delas med 300.
+Svaret är: 24
+
+Vad är resten då 310264 delas med 2703?
+Svaret är: 2122
+
+Beräkna resten då 104735 delas med 330.
+Svaret är: 125
+
+Vad är resten då 9308073 delas med 354?
+Svar: 351
+
+Vad är resten då 33526501 delas med 2235098?
+Svaret är: 31
+
+Vad är resten då 891078 delas med 71?
+Svar: 28
+
+Vad är resten då 8654526 delas med 865451?
+Svaret är: 16
+
+Beräkna resten då 81381 delas med 27102.
+Svar: 75
+
+Beräkna resten då 3722284 delas med 679.
+Svar: 6
+
+Beräkna resten då 114175406 delas med 1076.
+Svar: 1046
+
+Vad är resten då 1289018 delas med 282?
+Svaret är: 278
+
+Beräkna resten då 50516 delas med 25257.
+Svar: 2
+
+Beräkna resten då 9875963 delas med 6887.
+Svar: 5
+
+Beräkna resten då 37946189 delas med 54.
+Svaret är: 11
+
+Vad är resten då 278832079 delas med 3160?
+Svaret är: 3159
+
+Vad är resten då 2493026 delas med 5653?
+Svaret är: 53
+
+Beräkna resten då 222229282 delas med 429.
+Svar: 418
+
+Vad är resten då 20128516 delas med 43?
+Svar: 1
+
+Beräkna resten då 36232316 delas med 160.
+Svar: 156
+
+Vad är resten då 808890 delas med 886?
+Svaret är: 858
+
+Beräkna resten då 24223285 delas med 13.
+Svar: 8
+
+Beräkna resten då 986727 delas med 487.
+Svar: 65
+
+Vad är resten då 377033 delas med 1008?
+Svaret är: 41
+
+Beräkna resten då 10287052 delas med 36.
+Svaret är: 16
+
+Beräkna resten då 881492 delas med 51827.
+Svar: 433
+
+Beräkna resten då 15880926 delas med 7.
+Svar: 5
+

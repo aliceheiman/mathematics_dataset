@@ -1,20 +1,300 @@
-Sätt 1, -3, 5559, 4, 0, 5, -1, 3, 2 i minskande ordning.
-5559, 5, 4, 3, 2, 1, 0, -1, -3
-Sortera -1, 3, 6, 8, 2, 41, 1, 0, 21 i minskande ordning.
-41, 21, 8, 6, 3, 2, 1, 0, -1
-Sätt 2, 5, 7435, 4, 3, 0, -1, -5, 6 i minskande ordning.
-7435, 6, 5, 4, 3, 2, 0, -1, -5
-Sortera 55, -6, 5, 4, -5, 8, -4, -3, 2.
--6, -5, -4, -3, 2, 4, 5, 8, 55
-Sortera 17, 29, 2, 0, 4, -5, -2, -1, 8 i stigande ordning.
--5, -2, -1, 0, 2, 4, 8, 17, 29
-Sortera 5, -57, 2, -30, 66, 1, 6, 0, 3 i minskande ordning.
-66, 6, 5, 3, 2, 1, 0, -30, -57
-Sätt 3, 4, 1, -5, 10, 2, 7, -610, 8 i avtagande ordning.
-10, 8, 7, 4, 3, 2, 1, -5, -610
-Sortera -6, 80, 3, 2, 5, 4, 25, 21, -2 i avtagande ordning.
-80, 25, 21, 5, 4, 3, 2, -2, -6
-Sätt 9, -3, -4, 2, -5, 3, -1, 8, 4 i stigande ordning.
--5, -4, -3, -1, 2, 3, 4, 8, 9
-Sortera 73, 6, 0, 2, -1, -2, 21, 3, -3 i stigande ordning.
--3, -2, -1, 0, 2, 3, 6, 21, 73
+Sortera 3, 48, 1, 71, 5, -3, 4, 2, 515 i minskande ordning.
+Svaret är: 515, 71, 48, 5, 4, 3, 2, 1, -3
+
+Sortera 9, -8, 4, -1, 6, 69, 218, 1, 5 i stigande ordning.
+Svar: -8, -1, 1, 4, 5, 6, 9, 69, 218
+
+Sortera -53, 1, -1, 6, 5, 3, -3, 4, 32 i avtagande ordning.
+Svar: 32, 6, 5, 4, 3, 1, -1, -3, -53
+
+Sätt -3, 0, 19, -1, 2, 5, 3, 39, -6 i stigande ordning.
+Svaret är: -6, -3, -1, 0, 2, 3, 5, 19, 39
+
+Sortera 67, 1, 5, -5, 0, 88, -2, -1, 2 i stigande ordning.
+Svaret är: -5, -2, -1, 0, 1, 2, 5, 67, 88
+
+Sätt 26, -19, 0, 5, 2, 6, -5, 38, 1 i avtagande ordning.
+Svar: 38, 26, 6, 5, 2, 1, 0, -5, -19
+
+Sortera 0, 1, 14, -4, 4, 96, 3, 58, 5 i avtagande ordning.
+Svaret är: 96, 58, 14, 5, 4, 3, 1, 0, -4
+
+Sortera -1, 88, 2, 78, 9, -5, 3, -4, 1 i växande ordning.
+Svar: -5, -4, -1, 1, 2, 3, 9, 78, 88
+
+Sätt 42, -23, 3, 17, 2, 4, 96, 0, 1 i avtagande ordning.
+Svaret är: 96, 42, 17, 4, 3, 2, 1, 0, -23
+
+Sortera 5, 20, 2, -5, 7, 3, -2, 0, -76.
+Svar: -76, -5, -2, 0, 2, 3, 5, 7, 20
+
+Sätt 0, 83, 3, -1, 155, 1, 4, 5, -5 i minskande ordning.
+Svaret är: 155, 83, 5, 4, 3, 1, 0, -1, -5
+
+Sätt 6, 5, 1, 2, -23, 0, 28, 21, 4 i stigande ordning.
+Svar: -23, 0, 1, 2, 4, 5, 6, 21, 28
+
+Sortera 2, -8, 0, 9, -1, -7, 13, -2, 3.
+Svaret är: -8, -7, -2, -1, 0, 2, 3, 9, 13
+
+Sätt -1, 0, -8, 5, 4, 8, 122, 2, 78 i avtagande ordning.
+Svaret är: 122, 78, 8, 5, 4, 2, 0, -1, -8
+
+Sätt -2, 3, 22, 5, 4, 6, 217, -5, 7 i minskande ordning.
+Svaret är: 217, 22, 7, 6, 5, 4, 3, -2, -5
+
+Sortera 98, 3, 14, 4, 38, 2, 0, 1, -4.
+Svar: -4, 0, 1, 2, 3, 4, 14, 38, 98
+
+Sätt 1, 6, 0, -7, 5, 74, 7, -5, 172 i avtagande ordning.
+Svaret är: 172, 74, 7, 6, 5, 1, 0, -5, -7
+
+Sortera 2, 22, 1, 4, -5, 5, -91, -3, 9 i stigande ordning.
+Svaret är: -91, -5, -3, 1, 2, 4, 5, 9, 22
+
+Sortera -2, 3, 14, 2, 70, 4, 49, 1, 5 i växande ordning.
+Svaret är: -2, 1, 2, 3, 4, 5, 14, 49, 70
+
+Sortera 8, 4, 42, -1, 82, 107, 2, 0, 5 i minskande ordning.
+Svar: 107, 82, 42, 8, 5, 4, 2, 0, -1
+
+Sätt -29, 2, 17, 15, 5, 6, 25, 7, 4 i avtagande ordning.
+Svar: 25, 17, 15, 7, 6, 5, 4, 2, -29
+
+Sätt 10, 3, 15, 9, -5, -1, 0, 7, 80 i avtagande ordning.
+Svar: 80, 15, 10, 9, 7, 3, 0, -1, -5
+
+Sätt -5, 4, 3, 2, -7, 1, 5, 7, -26 i avtagande ordning.
+Svaret är: 7, 5, 4, 3, 2, 1, -5, -7, -26
+
+Sätt 4, 195, 34, -1, 0, 43, 5, 1, 2 i växande ordning.
+Svar: -1, 0, 1, 2, 4, 5, 34, 43, 195
+
+Sätt 25, 1, -4, 9, 3, 14, 5, 30, -1 i avtagande ordning.
+Svar: 30, 25, 14, 9, 5, 3, 1, -1, -4
+
+Sortera 1, 2, 7, -5, 3, 18, 0, -3, 367 i avtagande ordning.
+Svaret är: 367, 18, 7, 3, 2, 1, 0, -3, -5
+
+Sätt 420, 2, 4, 6, 33, 28, -4, 7, 3 i minskande ordning.
+Svaret är: 420, 33, 28, 7, 6, 4, 3, 2, -4
+
+Sortera 9, 0, -2, 253, 5, 8, 25, 1, -1 i minskande ordning.
+Svaret är: 253, 25, 9, 8, 5, 1, 0, -1, -2
+
+Sätt 55, 4, 2, -3, 0, 10, 5, 3, 457 i avtagande ordning.
+Svar: 457, 55, 10, 5, 4, 3, 2, 0, -3
+
+Sortera -7, 4, 17, 5, 55, 8, 58, 1, -4.
+Svar: -7, -4, 1, 4, 5, 8, 17, 55, 58
+
+Sortera -11, -2, 7, 8, 2, 0, 20, 3, 5 i stigande ordning.
+Svar: -11, -2, 0, 2, 3, 5, 7, 8, 20
+
+Sortera -4, 4, 18, 5, -3, 1, 3, 2, -6 i stigande ordning.
+Svaret är: -6, -4, -3, 1, 2, 3, 4, 5, 18
+
+Sortera 38, -3, -4, 9, -5, -6, 5, 3, 1 i avtagande ordning.
+Svar: 38, 9, 5, 3, 1, -3, -4, -5, -6
+
+Sortera 4, 8, 150, -2, 33, 2, 1, 3, -5 i avtagande ordning.
+Svar: 150, 33, 8, 4, 3, 2, 1, -2, -5
+
+Sortera 11, 187, 4, 6, 5, 0, -4, 1, 12 i minskande ordning.
+Svaret är: 187, 12, 11, 6, 5, 4, 1, 0, -4
+
+Sortera -3, -5, 4, 7, 33, 17, -1, 3, 2.
+Svar: -5, -3, -1, 2, 3, 4, 7, 17, 33
+
+Sätt 9, 4, -29, 6, 3, 96, 0, 2, -10 i växande ordning.
+Svaret är: -29, -10, 0, 2, 3, 4, 6, 9, 96
+
+Sortera 0, 7, 10, -1, 18, 4, 6, 600, 9.
+Svar: -1, 0, 4, 6, 7, 9, 10, 18, 600
+
+Sätt 4, 3, -3, 30, 316, -9, 8, 1, 0 i stigande ordning.
+Svar: -9, -3, 0, 1, 3, 4, 8, 30, 316
+
+Sätt 6, 48, -8, 34, 73, 1, 2, 4, -2 i stigande ordning.
+Svar: -8, -2, 1, 2, 4, 6, 34, 48, 73
+
+Sortera 1, 537, 0, -3, -5, 8, 6, 3, 2 i växande ordning.
+Svaret är: -5, -3, 0, 1, 2, 3, 6, 8, 537
+
+Sätt 3, 8, 7, -4, 1, -9, 31, -3, 10 i stigande ordning.
+Svar: -9, -4, -3, 1, 3, 7, 8, 10, 31
+
+Sortera -1, -2, 0, 9, -7, 1, 98, 8, 3.
+Svar: -7, -2, -1, 0, 1, 3, 8, 9, 98
+
+Sätt 3, 5, 4, -2, -8, 14, 568, 6, 7 i minskande ordning.
+Svaret är: 568, 14, 7, 6, 5, 4, 3, -2, -8
+
+Sätt 8506, 9, 1, 3, 2, 10, 34, 0, 5 i växande ordning.
+Svaret är: 0, 1, 2, 3, 5, 9, 10, 34, 8506
+
+Sortera -683, -5, 0, 8, 1, 3, 74, 5, 2 i avtagande ordning.
+Svaret är: 74, 8, 5, 3, 2, 1, 0, -5, -683
+
+Sätt 3, -3, 14, 5, 62, -1, 4, 0, 23 i minskande ordning.
+Svaret är: 62, 23, 14, 5, 4, 3, 0, -1, -3
+
+Sortera 0, 2, 19, 11, 4, 3, 44, 1, 6 i avtagande ordning.
+Svaret är: 44, 19, 11, 6, 4, 3, 2, 1, 0
+
+Sortera 1, 2, -6, 33, 0, 701, 5, 4, -9.
+Svar: -9, -6, 0, 1, 2, 4, 5, 33, 701
+
+Sätt 0, 14, -2, 3, 8, -4, 1, 9, 138 i minskande ordning.
+Svaret är: 138, 14, 9, 8, 3, 1, 0, -2, -4
+
+Sortera 3, -19, 5, 1, 2, 4, 9, 96, 49.
+Svar: -19, 1, 2, 3, 4, 5, 9, 49, 96
+
+Sortera 5, 1, -4, 784, 16, 4, -9, 9, 3 i stigande ordning.
+Svar: -9, -4, 1, 3, 4, 5, 9, 16, 784
+
+Sortera 9, 1, 36, 3, 5, 0, -4, 4, 148 i minskande ordning.
+Svar: 148, 36, 9, 5, 4, 3, 1, 0, -4
+
+Sortera 3, 0, 2, -4, 4, 5, 1, 64, 48.
+Svaret är: -4, 0, 1, 2, 3, 4, 5, 48, 64
+
+Sortera 9, 2, 370, 0, 40, 5, -2, 6, -1 i växande ordning.
+Svar: -2, -1, 0, 2, 5, 6, 9, 40, 370
+
+Sätt 3, 6, 1, 0, -7, -1, 5, 1904, 2 i växande ordning.
+Svaret är: -7, -1, 0, 1, 2, 3, 5, 6, 1904
+
+Sortera 19, 16, 5, 0, 3, 2, -9, -2, 57 i avtagande ordning.
+Svar: 57, 19, 16, 5, 3, 2, 0, -2, -9
+
+Sortera 22, 210, 14, -5, 3, 4, 0, 2, 5 i minskande ordning.
+Svaret är: 210, 22, 14, 5, 4, 3, 2, 0, -5
+
+Sortera -7, 10, 3, -5, 5, 2, 0, 8, -3.
+Svaret är: -7, -5, -3, 0, 2, 3, 5, 8, 10
+
+Sätt 3, -5, 5, 27, 7, 4, -4, 16, 11 i avtagande ordning.
+Svaret är: 27, 16, 11, 7, 5, 4, 3, -4, -5
+
+Sätt 2, -5, 68, 4, 739, 22, 0, 3, 5 i växande ordning.
+Svaret är: -5, 0, 2, 3, 4, 5, 22, 68, 739
+
+Sortera 6, 5, 1, 3, 2, 8, 678, 0, -1 i minskande ordning.
+Svaret är: 678, 8, 6, 5, 3, 2, 1, 0, -1
+
+Sortera 1, 22, -6, 36, 27, -5, 8, 0, 5 i minskande ordning.
+Svaret är: 36, 27, 22, 8, 5, 1, 0, -5, -6
+
+Sätt 4, 0, 3, 31, 570, 26, -5, 6, 2 i minskande ordning.
+Svar: 570, 31, 26, 6, 4, 3, 2, 0, -5
+
+Sortera 3, 1, 6, 7, 2, -2, -59, -4, -9 i avtagande ordning.
+Svaret är: 7, 6, 3, 2, 1, -2, -4, -9, -59
+
+Sortera 4, 2, -5, 14, 3, 1, -4, 782, 5 i stigande ordning.
+Svar: -5, -4, 1, 2, 3, 4, 5, 14, 782
+
+Sätt 308, 5, 4, 12, 24, -3, 0, 1, 8 i avtagande ordning.
+Svar: 308, 24, 12, 8, 5, 4, 1, 0, -3
+
+Sätt 5, 14, 38, 1, 0, 3, 2, 24, 18 i växande ordning.
+Svar: 0, 1, 2, 3, 5, 14, 18, 24, 38
+
+Sätt -1, -6, -9, -2, 5, 12, 1, 0, 6 i minskande ordning.
+Svaret är: 12, 6, 5, 1, 0, -1, -2, -6, -9
+
+Sätt 48, 80, -4, 4, -6, 15, 1, 7, 8 i växande ordning.
+Svaret är: -6, -4, 1, 4, 7, 8, 15, 48, 80
+
+Sortera 9, 3, -1, 19, 58, 10, 2, -4, 1 i minskande ordning.
+Svar: 58, 19, 10, 9, 3, 2, 1, -1, -4
+
+Sätt 43, 5, -4, -3, 12, 4, 8, -1, 9 i växande ordning.
+Svaret är: -4, -3, -1, 4, 5, 8, 9, 12, 43
+
+Sortera 5, 9, -1, 2, -6, 274, -3, 4, 6 i avtagande ordning.
+Svaret är: 274, 9, 6, 5, 4, 2, -1, -3, -6
+
+Sortera 8, 6, 107, 2, 61, -3, 12, 5, 4 i avtagande ordning.
+Svar: 107, 61, 12, 8, 6, 5, 4, 2, -3
+
+Sortera 6, 2, 39, 0, -25, 3, 19, 16, 4.
+Svar: -25, 0, 2, 3, 4, 6, 16, 19, 39
+
+Sortera 31, 1, -3, -4, 2, 0, 4, -99, 5 i minskande ordning.
+Svar: 31, 5, 4, 2, 1, 0, -3, -4, -99
+
+Sortera -6, 8, 4, 3, 15, 62, -3, -2, 1 i avtagande ordning.
+Svaret är: 62, 15, 8, 4, 3, 1, -2, -3, -6
+
+Sätt 1, 26, -4, 9, -2, 0, 23, 8, 10 i avtagande ordning.
+Svar: 26, 23, 10, 9, 8, 1, 0, -2, -4
+
+Sortera 292, 294, -1, 3, 8, 5, 0, 4, 2 i avtagande ordning.
+Svar: 294, 292, 8, 5, 4, 3, 2, 0, -1
+
+Sätt 5, 282, 7, 21, -8, -1, 9, 3, 0 i växande ordning.
+Svaret är: -8, -1, 0, 3, 5, 7, 9, 21, 282
+
+Sortera -1, -37, 3, 1, 0, 5, -2, 8, -8.
+Svar: -37, -8, -2, -1, 0, 1, 3, 5, 8
+
+Sortera -1, 0, 2, 4, -6, 6, 3, 7, 85.
+Svar: -6, -1, 0, 2, 3, 4, 6, 7, 85
+
+Sortera -3, 7, 4, 5, 1, -51, 0, 3, 43 i avtagande ordning.
+Svaret är: 43, 7, 5, 4, 3, 1, 0, -3, -51
+
+Sätt 3, 0, 2, 9, 338, 4, 1, 8, -2 i avtagande ordning.
+Svar: 338, 9, 8, 4, 3, 2, 1, 0, -2
+
+Sortera -11, 18, 2, -2, 7, 6, 47, 0, 1 i avtagande ordning.
+Svar: 47, 18, 7, 6, 2, 1, 0, -2, -11
+
+Sätt -5, -9, 5, 7, 9, 29, 1, -7, -3 i minskande ordning.
+Svaret är: 29, 9, 7, 5, 1, -3, -5, -7, -9
+
+Sätt 2, 6, 5, 26, -1, 3, 4, 23, 79 i stigande ordning.
+Svar: -1, 2, 3, 4, 5, 6, 23, 26, 79
+
+Sätt 5, 3, -1, 8, -3, 2, 26, -6, 29 i minskande ordning.
+Svar: 29, 26, 8, 5, 3, 2, -1, -3, -6
+
+Sätt 5, -2, -3, 4, 5006, 2, 0, 8, 3 i avtagande ordning.
+Svaret är: 5006, 8, 5, 4, 3, 2, 0, -2, -3
+
+Sortera -3, 4, 15, -1, 7, 5, 1, 58, -5 i avtagande ordning.
+Svar: 58, 15, 7, 5, 4, 1, -1, -3, -5
+
+Sortera 6, 8, 1, 16, 2, -4, -96, 12, 5 i avtagande ordning.
+Svaret är: 16, 12, 8, 6, 5, 2, 1, -4, -96
+
+Sortera -2, 67, 3, 19, 0, 58, 1, 5, 10.
+Svaret är: -2, 0, 1, 3, 5, 10, 19, 58, 67
+
+Sätt 7, -1, 5, 71, -9, 2, -2, 0, 13 i stigande ordning.
+Svaret är: -9, -2, -1, 0, 2, 5, 7, 13, 71
+
+Sortera 1, -22, 4, 50, 7, 2, 5, 15, -1 i stigande ordning.
+Svaret är: -22, -1, 1, 2, 4, 5, 7, 15, 50
+
+Sätt 1, -2, -23, 7, 9, -3, 90, 5, 3 i minskande ordning.
+Svaret är: 90, 9, 7, 5, 3, 1, -2, -3, -23
+
+Sätt 1, 11, -5, 66, 2, 9, -1, 5, 46 i växande ordning.
+Svaret är: -5, -1, 1, 2, 5, 9, 11, 46, 66
+
+Sortera 7, 2, 0, -4, 1, 37, -6, -2, -3.
+Svaret är: -6, -4, -3, -2, 0, 1, 2, 7, 37
+
+Sortera 16, 1, 5, 55, 12, 8, 0, -8, 59 i växande ordning.
+Svar: -8, 0, 1, 5, 8, 12, 16, 55, 59
+
+Sortera 6, 8, 38, 609, 4, 3, -1, 2, -3 i avtagande ordning.
+Svaret är: 609, 38, 8, 6, 4, 3, 2, -1, -3
+
+Sätt -1, 22, 5, 0, 4, 9, 6, 58, 3 i växande ordning.
+Svar: -1, 0, 3, 4, 5, 6, 9, 22, 58
+

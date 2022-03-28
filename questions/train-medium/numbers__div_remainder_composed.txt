@@ -1,6 +1,90 @@
-Antag att -44 = -5*b + t + t, -t = 2*b - 23. Beräkna resten då -78*(-2 + (-3)/(-2)) delas med b.
-9
-Antag att -90 = -3*v + v. Antag att 5*t + 16 = 5*u - 4*u, -2*u - 4*t = -32. Beräkna resten då v delas med u.
-13
-Antag att 5*c + 160 = -0*c + 5*i, -3*c - 91 = 2*i. Låt v = c + 65. Vad är resten då v delas med 0/5 - (-1 + -8)?
-7
+Låt r(t) = -8*t. Antag att 23*m - 78 = 17*m. Antag att 16*i = m*i + 15. Vad är resten då r(-1) delas med i?
+Svaret är: 3
+
+Låt g(o) = -2*o**2 + 66*o + 7. Beräkna resten då g(29) delas med 40.
+Svaret är: 39
+
+Låt g(i) = 2*i - 18. Antag att -19*o + 15*o + 64 = 0. Låt z vara g(o). Låt v = 43 - z. Beräkna resten då v delas med 16.
+Svaret är: 13
+
+Antag att 4*m - 2*i - 52 = 0, 2*i - 52 = -3*m - 3*i. Vad är resten då 25 delas med m?
+Svaret är: 11
+
+Vad är resten då 58 delas med ((-15)/(150/(-10)))/(2/10)?
+Svaret är: 3
+
+Antag att -2*j - 2*j + 12 = 0. Låt u(k) = 2 + 34*k - 31*k + j. Beräkna resten då 41 delas med u(3).
+Svar: 13
+
+Låt y(i) = -i**3 + 5*i**2 + 2. Låt q vara y(5). Antag att -12 = -5*p + 3*m + 78, 5*p - 90 = -q*m. Vad är resten då 19 delas med (-6)/p - (-32)/6?
+Svar: 4
+
+Låt a(j) = -j**2 + 12*j - 7. Låt y = -49 + 54. Beräkna resten då a(y) delas med 8.
+Svar: 4
+
+Låt z(i) = -66*i**3 - 4*i**2 - 5*i - 1. Vad är resten då z(-2) delas med 25?
+Svar: 21
+
+Låt h vara 2/(0 - -1) - -2. Låt k vara 2/2*-7*(-648)/378. Antag att h*s + 0 = k. Vad är resten då 10 delas med s?
+Svar: 1
+
+Låt c(s) = 2*s**2 - 5*s + 74. Låt a = 31 - 11. Beräkna resten då c(5) delas med a.
+Svar: 19
+
+Låt u = -1 - -11. Beräkna resten då 14/77 - (951/(-33) - 0) delas med u.
+Svar: 9
+
+Beräkna resten då 585 delas med 4 - (12 - 30 - 11).
+Svaret är: 24
+
+Vad är resten då 5 + 91 + 6 - -3 delas med 11?
+Svar: 6
+
+Låt c vara 2/(-3)*3/2. Beräkna resten då 65 delas med -30*c/2 + 2/1.
+Svar: 14
+
+Låt s vara ((-6)/(-5))/((-2)/(-40)). Antag att 3*u = -3*u + s. Antag att -3*i + 4*i + 88 = 5*k, k - 10 = u*i. Beräkna resten då 71 delas med k.
+Svar: 17
+
+Låt j vara 14/(-10) + 1 + 347/5. Antag att 5*p - j = -4*l, 4*p + 5*l + 24 = 72. Vad är resten då p delas med 11?
+Svar: 6
+
+Låt r(t) = 2*t**2 - 7*t. Låt c vara r(8). Låt s vara (-16)/6*c/(-4). Låt p = -21 + s. Beräkna resten då 78 delas med p.
+Svaret är: 24
+
+Antag att 2*w = -2*m + 36, 4*m - 55 - 33 = -5*w. Antag att 5*i - 32 = -3*o + 4*o, -6 = -2*o. Låt y(d) = d**3 - 6*d**2 - 3. Vad är resten då y(i) delas med w?
+Svar: 14
+
+Låt i = 815 + -807. Beräkna resten då 780 delas med i.
+Svaret är: 4
+
+Låt i = 213 + -193. Beräkna resten då 272 delas med i.
+Svaret är: 12
+
+Antag att 10 = 3*k + 2*k. Låt m vara k + 39/3*-1. Låt r = 21 + m. Beräkna resten då 49 delas med r.
+Svaret är: 9
+
+Låt m(z) = -z**2 - 8*z - 2. Låt c vara m(-8). Låt h = c - -3. Låt k(u) = -u**3 + 2*u**2 + 6*u - 11. Beräkna resten då h delas med k(2).
+Svaret är: 0
+
+Låt g(s) = 18*s**2 - 5*s + 8. Låt k(o) = 1. Låt w(u) = g(u) - 4*k(u). Vad är resten då w(1) delas med 5?
+Svaret är: 2
+
+Låt g(t) = 1 - t. Låt d vara g(4). Låt z vara d/4 + 567/(-28). Beräkna resten då 31 delas med 228/21 + (-3)/z.
+Svaret är: 9
+
+Låt t vara ((1 + 9)*-1)/(-1). Antag att 0*p = 5*p - t. Antag att 2*q = 10, -3*m - p*q = 9 - 58. Beräkna resten då m delas med 7.
+Svar: 6
+
+Låt w vara 940/18 + 16/(-72). Antag att -2*o = -6*o - w. Beräkna resten då 30 delas med (3 - o) + (1 - 1).
+Svaret är: 14
+
+Låt b(o) = -o**2 - 14*o + 12. Vad är resten då b(-5) delas med 30?
+Svaret är: 27
+
+Låt p vara 81/15 - (-18)/30. Låt z(a) = -2*a**3 + 11*a**2 + 7*a + 8. Vad är resten då 26 delas med z(p)?
+Svar: 12
+
+Låt u(d) vara andraderivatan av d**5/20 + 5*d**4/12 - d**3/2 - 7*d**2/2 - 2*d. Låt s vara u(-5). Låt c = s - -8. Vad är resten då c delas med 6?
+Svar: 4
+

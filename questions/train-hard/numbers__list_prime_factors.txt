@@ -1,6 +1,90 @@
-Vilka är primtalsfaktorerna till 142206545?
-5, 13, 19, 113, 1019
-Lista primtalsfaktorerna till 190758488.
-2, 23844811
-Vilka är primtalsfaktorerna till 773612629?
-773612629
+Vilka är primtalsfaktorerna till 293896283?
+Svaret är: 151, 719, 2707
+
+Lista primtalsfaktorerna till 471356431.
+Svaret är: 7, 13, 37, 2857
+
+Vilka är primtalsfaktorerna till 2275384?
+Svar: 2, 284423
+
+Vilka är primtalsfaktorerna till 1092496877?
+Svaret är: 1092496877
+
+Vilka är primtalsfaktorerna till 175183830?
+Svaret är: 2, 3, 5, 281, 2309
+
+Vilka är primtalsfaktorerna till 50726974?
+Svar: 2, 29, 31, 89, 317
+
+Lista primtalsfaktorerna till 196125333.
+Svar: 3, 65375111
+
+Vilka är primtalsfaktorerna till 122224412?
+Svaret är: 2, 89, 343327
+
+Vilka är primtalsfaktorerna till 19808632?
+Svar: 2, 2476079
+
+Vilka är primtalsfaktorerna till 14214463?
+Svaret är: 14214463
+
+Lista primtalsfaktorerna till 392917004.
+Svaret är: 2, 23, 4270837
+
+Lista primtalsfaktorerna till 816444454.
+Svaret är: 2, 7, 107, 545023
+
+Lista primtalsfaktorerna till 60865451.
+Svaret är: 2503, 24317
+
+Vilka är primtalsfaktorerna till 82911058?
+Svaret är: 2, 29, 1109, 1289
+
+Lista primtalsfaktorerna till 140745035.
+Svaret är: 5, 191, 147377
+
+Lista primtalsfaktorerna till 333654960.
+Svaret är: 2, 3, 5, 197, 7057
+
+Vilka är primtalsfaktorerna till 141378874?
+Svaret är: 2, 7, 13, 79, 9833
+
+Vilka är primtalsfaktorerna till 15009153?
+Svar: 3, 29, 172519
+
+Vilka är primtalsfaktorerna till 2502207078?
+Svaret är: 2, 3, 7, 331, 179989
+
+Lista primtalsfaktorerna till 45416254.
+Svar: 2, 13, 1746779
+
+Lista primtalsfaktorerna till 627885519.
+Svar: 3, 877, 238649
+
+Lista primtalsfaktorerna till 53006590.
+Svaret är: 2, 5, 7, 13, 31, 1879
+
+Lista primtalsfaktorerna till 629740344.
+Svaret är: 2, 3, 2447, 10723
+
+Vilka är primtalsfaktorerna till 480410290?
+Svar: 2, 5, 48041029
+
+Lista primtalsfaktorerna till 1972627856.
+Svaret är: 2, 123289241
+
+Lista primtalsfaktorerna till 5523356864.
+Svar: 2, 86302451
+
+Vilka är primtalsfaktorerna till 2787055731?
+Svaret är: 3, 1553, 199403
+
+Vilka är primtalsfaktorerna till 842145291?
+Svaret är: 3, 13, 59, 121997
+
+Lista primtalsfaktorerna till 540045260.
+Svaret är: 2, 5, 27002263
+
+Vilka är primtalsfaktorerna till 188435722?
+Svaret är: 2, 1061, 88801
+

@@ -1,6 +1,90 @@
-Låt r(s) = 17*s + 52. Låt p vara r(-4). Låt m vara (-4)/(-50)*((-92)/p + -7). Vilket är det närmaste till 4?  (a) -7  (b) m  (c) 4
-c
-Låt d = 14.31 + -12.31. Vad är det närmaste till d i -0.3, 0.4, 80/13?
-0.4
-Låt h = -13/20 + 3/20. Låt z vara 12/285*170/68. Vilket är det närmaste till z?  (a) 1/2  (b) h  (c) -2
-a
+Låt y vara (-4)/18 - 1700/612. Låt r = -106 + 106.4. Vad är det närmaste till y i r, -2/11, 2/25?
+Svar: -2/11
+
+Låt q vara 13/15 - (-2 - -3). Låt f = 67064.1 + -67064. Vad är det närmaste till -3/2 i q, f, -0.5?
+Svaret är: -0.5
+
+Låt r = -0.017 - -2.217. Låt w = 34.8 + r. Låt h = w - 43. Vilket är det närmaste till 1?  (a) -2/3  (b) 1  (c) h
+Svar: b
+
+Låt j = -5/2876 - -5827/43140. Vad är det närmaste till 1.2 i 5, -4, j, 2?
+Svaret är: 2
+
+Låt l vara (416/128)/((-148)/(-32) - 4) + -5. Vad är det närmaste till -11/5 i 1/3, 2, -44, l?
+Svar: l
+
+Låt g = 9 - 7. Låt n vara 7*472/392 + -8. Vad är det närmaste till g i 2, -4/7, n?
+Svar: 2
+
+Låt j vara (-26)/42 + 4/12. Låt g = 206.9 - 202. Låt f = -5 + g. Vilket är det närmaste till f?  (a) j  (b) 2  (c) 4
+Svar: a
+
+Låt q(b) = 7 - 4*b. Låt s vara q(7). Låt v vara s/154*8/(-6). Låt o = -0.148 + -0.152. Vad är det närmaste till 1/4 i v, o, -4?
+Svar: v
+
+Antag att 165*j = -4*r + 166*j - 13, 2*r = 4*j - 24. Vad är det närmaste till -2/3 i -202, r, 15?
+Svaret är: r
+
+Låt p(n) = 21*n - 189. Låt o vara p(9). Låt x = -0.8 + 0.9. Vad är det närmaste till x i -0.01, o, -3/7?
+Svar: o
+
+Låt p = 8.5 - 5.5. Låt k = 329 + -329. Låt n vara (-2)/4 + 2/(-4). Vilket är det närmaste till n?  (a) 0.1  (b) k  (c) p
+Svar: b
+
+Låt o(v) = 351*v - 1752. Låt z vara o(5). Vad är det närmaste till 0.415 i 0.4, z, 5?
+Svar: 0.4
+
+Låt h = 2/1579 - 3176/14211. Vilket är det närmaste till -0.05?  (a) -5  (b) -0.2  (c) h
+Svaret är: b
+
+Låt v = 6 + 25. Låt d = v - 9. Låt u vara (3 + d/(-6))/(-1). Vilket är det närmaste till u?  (a) -2/3  (b) 2/15  (c) -0.2
+Svar: b
+
+Låt p = 304.27 + -304.77. Vad är det närmaste till 4/3 i 1, -0.13, -5, p?
+Svaret är: 1
+
+Låt s vara 7 - 42/6 - (-2)/4. Vilket är det närmaste till 1/20?  (a) -0.1  (b) s  (c) 2/9  (d) -0.3
+Svar: a
+
+Låt g = -3210.8 - -3211. Låt p = -0.279 - -1.079. Vad är det närmaste till 5 i g, -4, p?
+Svaret är: p
+
+Låt u = -450.1 - -450. Låt l = -1.5 + 2. Vad är det närmaste till -2 i 5, u, l?
+Svar: u
+
+Låt z vara -33*2 - (72/9 + -6). Låt l vara (-42)/z + (-14)/119. Vad är det närmaste till -0.06 i 10, l, -5?
+Svar: l
+
+Låt p = 2.3 - 2.7. Låt i = p - 0. Låt n = 79 + -74. Vad är det närmaste till i i 0.4, n, -2/19?
+Svar: -2/19
+
+Låt g = 0.033 - 20.933. Låt p = -20.8 - g. Antag att -4 = -k + 5*k. Vilket är det närmaste till p?  (a) k  (b) 0.14  (c) -2/13
+Svar: b
+
+Låt s = 43 - 42.994. Låt j = -0.114 - s. Låt m = j + -2.88. Vad är det närmaste till m i -3, 5, -5?
+Svaret är: -3
+
+Låt g = -3 - -2. Låt z = -5871.1 + 5643. Låt j = 228 + z. Vilket är det närmaste till j?  (a) 1/5  (b) -7  (c) g
+Svaret är: a
+
+Låt y = -102951 - -102946. Låt o = 115/2 + -56. Låt r = 19 + -29. Vad är det närmaste till 1 i r, y, o?
+Svar: o
+
+Låt i = -2/23 - 17/69. Låt o vara ((-30)/12)/((-8)/20). Låt g = 467/76 - o. Vad är det närmaste till i i g, 1, 2?
+Svaret är: g
+
+Låt r = -23 - -28. Låt n = 6063.1 + -6063. Låt t = 8 + -7.7. Vilket är det närmaste till n?  (a) t  (b) -20  (c) r
+Svaret är: a
+
+Låt n = -133 + 134. Låt l = 3 + -12. Låt k = l + 11. Vad är det närmaste till 2 i n, 0.1, k?
+Svaret är: k
+
+Låt y = -1067/16647 + 7/93. Låt z = y - 589/4654. Låt f = z + 7/26. Vilket är det närmaste till -1?  (a) 2  (b) f  (c) 5
+Svaret är: b
+
+Låt d(o) = 2*o**3 - 7*o**2 - 54*o - 11. Låt k vara d(-4). Vad är det närmaste till k i -5, 1/3, 5, -0.2?
+Svaret är: -5
+
+Låt b = 4.5 - 2.7. Låt l = 1.1 - b. Vad är det närmaste till 1 i 5, 2, l?
+Svar: 2
+

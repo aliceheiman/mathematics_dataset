@@ -1,0 +1,7 @@
+lang.l.translate("Solve {equations}."),
+lang.l.translate("Find the value of {variable} in {equations}."),
+lang.l.translate("What is {variable} in {equations}?"),
+lang.l.translate("Solve {equations} and find the value of {variable}."),
+lang.l.translate("Let {equations} and find what {variable} equals to."),
+lang.l.translate("What is the value of {variable} for {equations} to hold true?"),
+lang.l.translate("Solve for {variable} for {equations} to hold true."),

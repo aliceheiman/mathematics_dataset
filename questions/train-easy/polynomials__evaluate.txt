@@ -1,6 +1,90 @@
-Låt k(s) = 17 - s. Vad är k(15)?
-2
-Låt x(t) = -t**3 - 2*t**2 + 4*t + 13. Bestäm x(-3).
-10
-Låt b(n) = -28*n**3 + 3*n + 3. Bestäm b(-1).
-28
+Låt y(n) = -20*n - 34. Beräkna y(-5).
+Svaret är: 66
+
+Låt i(y) = -y**3 - 35*y**2 + 39*y + 100. Beräkna i(-36).
+Svar: -8
+
+Låt g(h) = -h**2 - 9*h - 10. Beräkna g(-8).
+Svar: -2
+
+Låt o(u) = u**3 + 6*u**2 + 6*u + 1. Vad är o(-1)?
+Svar: 0
+
+Låt k(u) = -4*u**2 - 7*u - 15. Ange k(5).
+Svar: -150
+
+Låt o(g) = -g**3 - 20*g**2 - 20*g + 15. Ange o(-19).
+Svaret är: 34
+
+Låt s(v) = -v**3 - v**2 + 4. Ange s(3).
+Svaret är: -32
+
+Låt s(u) = u - 9. Beräkna s(13).
+Svaret är: 4
+
+Låt h(i) = i**3 + 2*i + 2. Vad är h(-4)?
+Svar: -70
+
+Låt d(m) = m**2 - 14*m + 42. Bestäm d(7).
+Svaret är: -7
+
+Låt z(l) = -l**3 + 2*l**2 - 3*l - 132. Bestäm z(0).
+Svar: -132
+
+Låt t(c) = -c**2 - 3*c - 2. Bestäm t(-2).
+Svaret är: 0
+
+Låt l(a) = 5*a + 3. Ange l(-23).
+Svar: -112
+
+Låt j(k) = k**3 + 16*k**2 + 23*k + 9. Bestäm j(-14).
+Svar: 79
+
+Låt i(q) = q - 11. Beräkna i(4).
+Svar: -7
+
+Låt r(i) = 2*i**2 - 4*i - 4. Ange r(2).
+Svar: -4
+
+Låt w(j) = 4*j**2 - 15*j - 32. Ange w(6).
+Svar: 22
+
+Låt q(g) = g**3 + 26*g**2 + 49*g + 33. Beräkna q(-24).
+Svar: 9
+
+Låt c(d) = 2*d**2 - 10*d + 7. Bestäm c(4).
+Svaret är: -1
+
+Låt q(m) = -14*m - 1. Beräkna q(-5).
+Svar: 69
+
+Låt y(b) = -b**3 + 8*b**2 - b + 4. Ange y(8).
+Svaret är: -4
+
+Låt o(b) = b**2 + 12*b + 35. Vad är o(-5)?
+Svaret är: 0
+
+Låt p(l) = l**3 + 17*l**2 + 21*l + 42. Ange p(-16).
+Svar: -38
+
+Låt b(u) = 11 - u. Bestäm b(16).
+Svar: -5
+
+Låt s(v) = 3*v - 37. Vad är s(15)?
+Svar: 8
+
+Låt x(l) = l**3 + 6*l**2 + 5*l + 11. Vad är x(-5)?
+Svar: 11
+
+Låt z(o) = o**2 + 2*o - 165. Ange z(0).
+Svar: -165
+
+Låt t(w) = 25*w + 5. Ange t(1).
+Svar: 30
+
+Låt g(b) = -b**2 + 2*b + 5. Bestäm g(-4).
+Svaret är: -19
+
+Låt y(i) = 111 - 13*i. Bestäm y(12).
+Svar: -45
+

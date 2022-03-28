@@ -1,20 +1,300 @@
-Låt n(u) = 1362 - 1217*u. Låt t(x) = -x**2. Beräkna n(t(s)).
-1217*s**2 + 1362
-Låt u(v) = 7 - 62*v. Låt r(t) = 19*t - 2. Låt k(f) = 9*r(f) + 2*u(f). Låt q(o) = -3*o**2. Ange q(k(d)).
--6627*d**2 + 1128*d - 48
-Låt m(b) = -158*b - 12. Låt i(v) = 69*v**2 + 7*v. Vad är m(i(g))?
--10902*g**2 - 1106*g - 12
-Låt u(p) = -3*p**2 + 13 - 10 - 10. Låt o(d) vara tredjederivatan av -d**5/30 - 2*d**3/3 - d**2. Låt t(x) = -7*o(x) + 4*u(x). Låt w(v) = 13*v**2. Vad är t(w(j))?
-338*j**4
-Antag att 151*h = 157*h - 12. Låt s(y) = -12315*y + 12315*y + 8*y**h. Låt n(j) = -j. Beräkna n(s(o)).
--8*o**2
-Låt s(m) = -m**2 - 71*m. Låt k(q) vara tredjederivatan av -q**5/60 - 33*q**2 + 6. Ange s(k(g)).
--g**4 + 71*g**2
-Låt z(k) = 2*k - 7*k**2 - 4*k**2 + 5*k + 7*k**2. Låt y(m) = 9*m**2 - 2*m + 1. Låt w(n) = 37*n**2 - 8*n + 4. Låt j(i) = -w(i) + 4*y(i). Ange z(j(q)).
--4*q**4 - 7*q**2
-Låt s(w) vara tredjederivatan av w**4/8 - 3*w**2 - 361*w - 2. Låt a(h) vara förstaderivatan av 2 - 3*h**2. Ange a(s(l)).
--18*l
-Låt o(c) = c + 3. Låt n(y) = 32576 - 2*y. Ange n(o(k)).
-32570 - 2*k
-Låt p(z) vara andraderivatan av -29*z**4/4 + 2*z + 114. Låt g(i) = 7*i. Beräkna p(g(k)).
--4263*k**2
+Låt c(n) = 12*n**2 - 3*n - 21. Låt s(f) = -f - 7. Låt u(j) = -2*c(j) + 6*s(j). Låt q(w) = 6*w. Bestäm u(q(t)).
+Svar: -864*t**2
+
+Låt f(o) = -6*o. Låt c(n) = 18225*n - 19. Beräkna f(c(v)).
+Svaret är: 114 - 109350*v
+
+Låt n(r) = 210 - r. Låt l(a) = -122*a. Ange l(n(i)).
+Svar: 122*i - 25620
+
+Låt d(v) = -397*v**2 - 1. Låt f(y) = 13*y**2 - 2*y + 46. Beräkna f(d(n)).
+Svaret är: 2048917*n**4 + 11116*n**2 + 61
+
+Antag att 12 = 146*h - 143*h. Låt u(l) = -h*l + 20*l - 9*l - 9*l. Låt q(p) = p**2 - 15*p. Vad är u(q(o))?
+Svar: -2*o**2 + 30*o
+
+Låt u(y) = -32*y**2. Låt r vara 2 + 0/(-2) + 760/4. Antag att -3*q = -0*q - r. Låt c(p) = -64*p + q*p + 2*p**2. Vad är c(u(k))?
+Svar: 2048*k**4
+
+Låt k(z) vara andraderivatan av -z**3/3 + 38*z**2 - 239*z. Låt a(h) = 8*h. Bestäm a(k(r)).
+Svar: 608 - 16*r
+
+Låt b(m) = 70*m. Låt p(g) = -2*g**2 + 19230*g. Vad är p(b(z))?
+Svaret är: -9800*z**2 + 1346100*z
+
+Låt p = 195 + -134. Låt q(j) = 62*j - 123*j - 13*j**2 + p*j. Låt g(o) = -3*o. Bestäm g(q(w)).
+Svar: 39*w**2
+
+Låt b(n) = 684*n + 2. Låt k(p) = p - 95. Ange k(b(i)).
+Svar: 684*i - 93
+
+Antag att 3*o - 8*o - 533 = -2*q, 5*q + o - 1373 = 0. Låt r(y) = -3*y**2 - q*y + 274*y. Låt c(f) = 41*f**2. Bestäm c(r(p)).
+Svaret är: 369*p**4
+
+Antag att 1699*c - 1679*c = 60. Låt a(f) vara andraderivatan av 0 + 1/4*f**4 + 0*f**c + 0*f**2 + 17*f. Låt u(s) = -s**2. Ange a(u(t)).
+Svaret är: 3*t**4
+
+Låt o(h) = -3*h + h - 5*h. Låt x(f) vara förstaderivatan av 0*f - 1/2*f**2 + 35. Ange x(o(p)).
+Svaret är: 7*p
+
+Låt x(h) vara andraderivatan av 0*h**4 - 13/2*h**2 + 0 + 1/30*h**5 + 7*h + 0*h**3. Låt j(z) vara förstaderivatan av x(z). Låt o(u) = 2*u. Ange o(j(v)).
+Svaret är: 4*v**2
+
+Låt o(m) = -10*m**2. Antag att 3*j - 3*q - 29 = q, 4*j = -5*q - 13. Låt t(z) = -7*z + z - j*z. Beräkna o(t(p)).
+Svaret är: -810*p**2
+
+Låt f(b) = -12*b**2. Låt x(o) = 253*o**2 - 5*o - 15. Låt i(c) = 4681*c**2 - 93*c - 279. Låt u(r) = 5*i(r) - 93*x(r). Vad är u(f(w))?
+Svaret är: -17856*w**4
+
+Låt h(k) = -k**2. Låt x(p) = -8758036*p. Ange h(x(t)).
+Svaret är: -76703194577296*t**2
+
+Låt c(w) = -w**2 - 4*w + 4. Låt u(b) = 9*b**2 + 33*b - 33. Låt a(z) = 33*c(z) + 4*u(z). Låt n(f) vara andraderivatan av -7*f**3/3 + 14*f + 9. Beräkna n(a(d)).
+Svar: -42*d**2
+
+Låt n(z) = 9 - 94*z - 9 + 118*z. Låt v(w) = 4*w + 9. Låt a(d) = 7*d + 15. Låt h(l) = 3*a(l) - 5*v(l). Beräkna n(h(g)).
+Svaret är: 24*g
+
+Låt g(n) vara andraderivatan av 203*n**4/12 - 147*n. Låt r(y) = 4*y**2. Vad är g(r(a))?
+Svar: 3248*a**4
+
+Låt z(l) vara förstaderivatan av 146*l**3/3 - 499. Låt m(b) = -2*b**2. Beräkna m(z(f)).
+Svaret är: -42632*f**4
+
+Antag att 4*n = 35 + 41. Låt m(v) = -20 - n + 4*v**2 + 39 + 9*v. Låt r(k) = -2*k**2. Beräkna m(r(z)).
+Svaret är: 16*z**4 - 18*z**2
+
+Låt h(s) = 32*s**2. Antag att -c = -422 + 421. Låt l(t) = -35*t - c + 36*t + 1. Beräkna l(h(d)).
+Svar: 32*d**2
+
+Låt j(v) = 35*v. Antag att 8*w = 4*w - 4, 103 = 3*h - 4*w. Låt y(l) = 31 + h - 64 - l. Ange j(y(p)).
+Svaret är: -35*p
+
+Låt p(l) = -7463376*l. Låt m(b) = -3*b**2. Bestäm m(p(o)).
+Svar: -167105943952128*o**2
+
+Antag att -2*u - 508 = -6*u. Låt x(m) = -127 + m + u. Låt z(i) = -24*i - 3. Låt b(g) = -120*g - 16. Låt n(d) = -3*b(d) + 16*z(d). Bestäm x(n(w)).
+Svar: -24*w
+
+Låt t(g) = -6*g**2. Låt q(r) vara andraderivatan av -r**3/2 + r + 562. Vad är q(t(h))?
+Svar: 18*h**2
+
+Låt l(s) = 4*s. Låt z = -11 + 22. Låt a(b) = -13*b**2 + 28*b**2 - z*b**2. Ange a(l(t)).
+Svar: 64*t**2
+
+Låt f(a) = -a - 8. Låt q(y) = -17*y - 152. Låt k(j) = -76*f(j) + 4*q(j). Låt i(r) = 2*r**2. Beräkna i(k(x)).
+Svaret är: 128*x**2
+
+Låt x(v) vara andraderivatan av -133*v**3/6 + v**2/2 - 542*v. Låt o(z) = 2*z**2. Beräkna o(x(u)).
+Svar: 35378*u**2 - 532*u + 2
+
+Låt l(h) = -110*h**2. Låt r(v) = -4*v - 3. Låt s(c) = 14*c + 9. Låt d(m) = -3*r(m) - s(m). Ange d(l(g)).
+Svar: 220*g**2
+
+Låt g(b) = b. Antag att -48*s + 23*s = -24*s. Låt m(l) vara förstaderivatan av -10 + s*l + 0*l**2 + 7/3*l**3. Vad är m(g(a))?
+Svar: 7*a**2
+
+Låt j(z) = 5 - 2*z**2. Låt u(v) vara andraderivatan av v**4/4 + 831*v. Ange j(u(g)).
+Svaret är: 5 - 18*g**4
+
+Låt u(j) vara tredjederivatan av 8*j + 0*j**3 + 1/60*j**5 - j**2 + 0*j**4 + 0. Låt b(g) = -14*g. Bestäm u(b(l)).
+Svar: 196*l**2
+
+Låt c(l) = -45*l. Låt p(b) = 384611*b. Beräkna p(c(h)).
+Svar: -17307495*h
+
+Antag att 10*t - 78 = -3*t. Låt u(p) = -9*p + 20*p - 4*p - t*p. Låt o(w) vara andraderivatan av 4*w**3/3 + w. Ange u(o(a)).
+Svar: 8*a
+
+Låt a(n) = -4073609*n. Låt f(s) = -4*s. Vad är a(f(p))?
+Svaret är: 16294436*p
+
+Låt q(m) vara tredjederivatan av m**4/12 + 23*m**3/6 - 35*m**2 - 5. Låt p(v) = 22*v. Vad är q(p(i))?
+Svaret är: 44*i + 23
+
+Låt t(i) vara andraderivatan av -490*i**3 + 283*i + 1. Låt l(v) = -v. Beräkna t(l(o)).
+Svaret är: 2940*o
+
+Låt s(d) = 3*d - d - 2*d + 2*d. Låt a(w) = -2*w**2 - 2*w**2 + 71*w**2 + 23*w**2 - w**2. Vad är s(a(g))?
+Svaret är: 178*g**2
+
+Låt v(b) = -6*b. Låt f(r) vara tredjederivatan av 17*r**7/2520 - 17*r**4/12 - r**2 + 2*r. Låt g(x) vara andraderivatan av f(x). Beräkna g(v(c)).
+Svaret är: 612*c**2
+
+Låt p(x) = -2*x. Låt c(n) = 16 - 177*n. Låt y(b) = 5 - 3*b. Låt z vara y(-2). Låt s(i) = 3 - 36*i. Låt h(k) = z*s(k) - 2*c(k). Ange h(p(f)).
+Svaret är: 84*f + 1
+
+Låt k(p) = 5*p**2 + 10*p. Låt r(n) vara andraderivatan av 7*n**4/12 - n + 488. Vad är r(k(q))?
+Svar: 175*q**4 + 700*q**3 + 700*q**2
+
+Antag att 0 = 19*d - 22*d + 6. Antag att d*m = 3*m - 180. Låt x(u) = 88*u + 92*u - m*u + u**2. Låt p(b) = -b. Beräkna x(p(a)).
+Svaret är: a**2
+
+Låt d(l) = -2*l. Låt v(g) vara andraderivatan av 8*g**3/3 + 3*g**2/2 - 321*g. Ange d(v(i)).
+Svaret är: -32*i - 6
+
+Låt k(h) = 9*h**2. Låt d(c) vara andraderivatan av -7*c**5/60 - 75*c**2/2 - 6*c - 7. Låt i(s) vara förstaderivatan av d(s). Beräkna k(i(f)).
+Svar: 441*f**4
+
+Låt k(y) = 10*y**2 + 75. Låt x(r) = 19*r**2 + 151. Låt b(g) = 7*k(g) - 3*x(g). Låt o(f) vara förstaderivatan av b(f). Låt z(n) = -2*n**2. Bestäm o(z(d)).
+Svar: -52*d**2
+
+Låt s(g) = -53*g. Låt l(m) = 9*m + 80. Låt c(w) = 28*w + 256. Låt r(o) = 5*c(o) - 16*l(o). Bestäm r(s(i)).
+Svaret är: 212*i
+
+Låt t(u) = -26*u. Låt k(q) vara förstaderivatan av -q**6/360 - 22*q**3/3 - q**2 - 58. Låt o(z) vara tredjederivatan av k(z). Bestäm t(o(x)).
+Svaret är: 26*x**2
+
+Låt w(j) = 42*j - 15530. Låt f(s) = -4*s**2. Vad är w(f(y))?
+Svar: -168*y**2 - 15530
+
+Låt z(c) = 12*c**2. Låt i(u) = -u**2 + 48*u + u**2 - 20*u - 31*u - 6*u**2. Vad är z(i(g))?
+Svaret är: 432*g**4 + 432*g**3 + 108*g**2
+
+Låt g(h) = -3*h. Antag att 25 = -3*c + 25. Antag att 4*v - 5 = p + 2*p, 4*v + p - 25 = c. Låt m(r) = v*r - 5*r - 6*r. Vad är m(g(u))?
+Svaret är: 18*u
+
+Låt g(s) = 5 - 26*s. Låt l(f) = -62*f**2 - 5*f. Låt i(k) = -99*k**2 - 8*k. Låt v(z) = 5*i(z) - 8*l(z). Beräkna v(g(m)).
+Svar: 676*m**2 - 260*m + 25
+
+Låt w(f) = 15*f - 8. Låt l vara w(1). Låt o(s) = -15*s + l*s - 2*s - 33*s. Låt h(c) = -4*c. Ange h(o(g)).
+Svaret är: 172*g
+
+Låt t(k) vara tredjederivatan av -k**4/12 + 2*k**2. Antag att 2*z - i = 17, -3*z + i = -2*i - 18. Låt l(d) = -z*d + 11*d + 13*d**2 - 14*d**2. Bestäm t(l(r)).
+Svar: 2*r**2
+
+Låt i(c) = 21*c**2. Låt q(b) = 138044*b**2. Vad är q(i(m))?
+Svar: 60877404*m**4
+
+Låt s(w) = 13*w**2 + 19*w**2 + 20*w**2 - 72*w**2 + 18*w**2 + w**2. Antag att 4 = -i + 3*i. Låt j(b) = 14*b + i - 2. Vad är s(j(l))?
+Svar: -196*l**2
+
+Låt s = 2937 - 2936. Låt f(t) vara förstaderivatan av 0*t - 1/3*t**3 + 0*t**2 + s. Låt r(w) = 11*w**2. Beräkna f(r(k)).
+Svaret är: -121*k**4
+
+Låt s(r) = 2*r**2. Låt l(z) = 3*z**2 + 4143567*z. Vad är l(s(g))?
+Svar: 12*g**4 + 8287134*g**2
+
+Låt w(p) = -4*p. Låt y vara w(-1). Antag att o - 5*q - 21 = 3*o, 2*o - y*q - 24 = 0. Låt d(h) = -7*h**2 - 3*h**2 + 46*h**o. Låt r(z) = -z. Beräkna r(d(f)).
+Svaret är: -36*f**2
+
+Låt p(f) = -f**2 + 4*f + 2. Låt x(d) = -5*d**2 + 22*d + 11. Låt w(y) = 11*p(y) - 2*x(y). Låt l(i) = -2*i + 6*i + 7*i - 7*i. Vad är w(l(c))?
+Svaret är: -16*c**2
+
+Låt t(q) = -13 + 5 - 6*q - 14 + 7*q + 0. Låt x(s) = 12*s. Ange x(t(f)).
+Svaret är: 12*f - 264
+
+Låt w = -180 - -184. Låt d(h) = 667 + w*h - 667. Låt f(q) = 18*q. Ange d(f(c)).
+Svaret är: 72*c
+
+Låt a(v) = -112*v**2. Låt s(x) = -x**3 - 13*x**2 - 32*x - 15. Låt k vara s(-10). Låt c(z) = 62 - 62 - 6*z**2 + k*z**2. Vad är a(c(u))?
+Svar: -112*u**4
+
+Låt a vara 2/((-8)/(-20)) - -1033. Låt j(v) = -1038*v + a*v + v**2. Låt d(q) = q**2 - 5*q. Vad är j(d(k))?
+Svaret är: k**4 - 10*k**3 + 25*k**2
+
+Låt w(t) = -19360*t. Låt l(y) = 715*y**2. Beräkna w(l(p)).
+Svaret är: -13842400*p**2
+
+Antag att 9*a - 4*a = 50. Låt z(p) = -a*p + p - 8*p - 6*p. Låt o(j) = -16*j**2 - 6*j + 6. Låt g(d) = -3*d**2 - d + 1. Låt k(c) = 6*g(c) - o(c). Beräkna k(z(f)).
+Svar: -1058*f**2
+
+Låt s(z) = 3*z**2. Låt d(x) = -4*x - 16*x + 12628 - 6*x - 12634 - 5*x. Vad är d(s(l))?
+Svar: -93*l**2 - 6
+
+Låt f(a) vara andraderivatan av -a**3/3 - 2*a. Låt q(l) = -35007254 - 4*l**2 - 2*l + 35007254. Ange f(q(p)).
+Svar: 8*p**2 + 4*p
+
+Låt a(s) = 4*s**2. Låt q = 157 + -152. Låt t(r) = 14*r - 2*r + 15*r + q*r. Ange a(t(k)).
+Svaret är: 4096*k**2
+
+Låt k(s) = 42 - 8*s**2. Låt w(d) = 7*d**2 - 35. Låt c(u) = 5*k(u) + 6*w(u). Låt l(t) = 2 - 2379*t. Bestäm c(l(n)).
+Svar: 11319282*n**2 - 19032*n + 8
+
+Låt l(x) = -2*x - 5. Låt b(t) = -16477*t**2. Beräkna l(b(o)).
+Svar: 32954*o**2 - 5
+
+Låt u(y) = -2*y**2. Låt n(f) = 9*f - 13. Låt d vara n(6). Låt k = 42 - d. Låt r(p) = -5 + k + 4 + 43*p**2. Vad är u(r(m))?
+Svar: -3698*m**4
+
+Låt d(j) = -120*j. Låt r(y) = 1 - 2*y. Låt g(a) = 12 - 18*a. Låt l(w) = g(w) - 12*r(w). Bestäm d(l(n)).
+Svar: -720*n
+
+Låt i(h) = 2*h. Låt u(f) = 109*f + 323. Låt y(x) = -12*x - 36. Låt g(s) = -2*u(s) - 19*y(s). Bestäm g(i(z)).
+Svaret är: 20*z + 38
+
+Låt d(n) = -6*n**2. Låt r(y) = -20*y - 87 + 38*y - 17*y + 83. Ange d(r(a)).
+Svaret är: -6*a**2 + 48*a - 96
+
+Låt z(j) = -6*j**2 + 3*j. Låt u(h) vara andraderivatan av 5*h**4/6 - 9*h - 80. Bestäm u(z(y)).
+Svar: 360*y**4 - 360*y**3 + 90*y**2
+
+Antag att -3*x = -6*x - 6, -3*x - 6 = -2*i. Låt q(w) = 2*w**2 + i*w**2 + 3*w**2. Låt z(b) vara förstaderivatan av -5*b**2/2 - 75. Bestäm q(z(m)).
+Svar: 125*m**2
+
+Låt r(z) = 15428553*z. Låt y(u) = -2*u**2. Beräkna y(r(p)).
+Svar: -476080495347618*p**2
+
+Låt g(w) = 1 - 5*w**2. Låt i(f) = -1136*f. Bestäm g(i(c)).
+Svaret är: 1 - 6452480*c**2
+
+Låt t(l) vara förstaderivatan av 7*l**4/12 + 13*l**2/2 - 2*l + 16. Låt z(r) vara andraderivatan av t(r). Låt x(n) = n**2. Ange x(z(o)).
+Svar: 196*o**2
+
+Låt b(r) = -148*r**2 + r. Låt p(f) = 18568*f**2. Bestäm b(p(j)).
+Svaret är: -51026052352*j**4 + 18568*j**2
+
+Låt g(w) vara tredjederivatan av 127*w**5/10 - 98*w**2. Låt c(y) = -y. Beräkna g(c(b)).
+Svar: 762*b**2
+
+Låt r(y) = -569*y. Låt l(h) vara andraderivatan av h**4/12 + 997*h + 2. Bestäm r(l(p)).
+Svaret är: -569*p**2
+
+Låt g(s) = -183*s**2. Låt i(f) = -2*f**2 + 51*f - 196. Beräkna i(g(o)).
+Svaret är: -66978*o**4 - 9333*o**2 - 196
+
+Låt c(p) = -112576*p. Låt w(d) = -33*d**2 + d. Ange c(w(n)).
+Svaret är: 3715008*n**2 - 112576*n
+
+Låt b(h) = 3*h - 4. Låt o(r) = 5*r - 7. Låt n(v) = 7*b(v) - 4*o(v). Låt a(i) = -460*i**2 + 283*i**2 + 192*i**2. Vad är n(a(s))?
+Svar: 15*s**2
+
+Låt f(q) = 12*q. Låt i(h) = 72*h - 72*h - 135*h**2 - 1 + 1. Vad är i(f(y))?
+Svar: -19440*y**2
+
+Låt b(t) = -t**3 + 13*t**2 + 10*t. Låt w vara b(-1). Låt k(q) vara andraderivatan av 0*q**3 + 0 - 16*q + 7/12*q**w + 0*q**2. Låt p(n) = n. Beräkna p(k(u)).
+Svar: 7*u**2
+
+Låt t(h) = 13*h**2. Låt n(i) = -34*i + 8*i - 22*i - 3 + 3 + 1. Bestäm n(t(c)).
+Svaret är: 1 - 624*c**2
+
+Låt p(d) = -52*d**2. Låt q(a) = -187*a + 374*a - 188*a. Vad är q(p(t))?
+Svaret är: 52*t**2
+
+Låt f(h) = -21*h - 15. Låt l = -32 + 36. Låt z(k) = 3*k + 2. Låt g(d) = l*f(d) + 30*z(d). Låt i(v) vara tredjederivatan av -v**4/12 + 22*v**2. Beräkna g(i(s)).
+Svar: -12*s
+
+Låt x(s) vara andraderivatan av 0*s**2 + 0*s**3 - 1/12*s**4 + 0 + 2*s. Låt g(a) = 5*a + 4. Låt b(l) = -198*l - 162. Låt y(k) = -4*b(k) - 162*g(k). Ange x(y(u)).
+Svaret är: -324*u**2
+
+Låt j(d) = 58*d. Låt b(x) = 252074*x**2. Beräkna b(j(o)).
+Svar: 847976936*o**2
+
+Låt c(u) = 2*u. Låt p(w) = 3514424*w - 2. Bestäm p(c(o)).
+Svar: 7028848*o - 2
+
+Låt m(p) = p**2. Låt k(w) vara förstaderivatan av -9/2*w**2 - 54 - 3*w. Bestäm k(m(f)).
+Svaret är: -9*f**2 - 3
+
+Låt t(h) vara andraderivatan av 8*h**3/3 - h. Låt y(v) = -52861 + 52861 - v. Ange y(t(p)).
+Svaret är: -16*p
+
+Låt n(l) = 54*l. Låt s(c) vara tredjederivatan av 0*c**4 + 0*c**3 + 8 + 5*c**2 + 0*c - 1/60*c**5. Beräkna s(n(o)).
+Svar: -2916*o**2
+
+Antag att -4*h + 1061 = -5*a, 4*h - 3*a = -0*h + 1059. Låt k(s) = h*s**2 + s - s - 247*s**2. Låt n(m) = 2*m**2. Ange k(n(c)).
+Svaret är: 68*c**4
+
+Låt x(l) vara andraderivatan av 491*l**3/6 - 806*l + 2. Låt c(s) = -s**2. Beräkna c(x(o)).
+Svaret är: -241081*o**2
+

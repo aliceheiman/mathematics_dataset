@@ -1,6 +1,90 @@
-Förenkla (w**(2/7)*w/(w/w**(-11)*w))**(2/135) förutsatt att w är positiv.
-w**(-164/945)
-Förenkla v**(2/7)*v*v/(v*v**(-5/2))*v**(-3/5)*v/v**(2/5) förutsatt att v är positiv.
-v**(53/14)
-Förenkla (u**14*u)**(-19/4) förutsatt att u är positiv.
-u**(-285/4)
+Förenkla (p/(((p/((p/p**(-22))/p))/p)/p))/(p/((p/p**(-14/3))/p)) förutsatt att p är positiv.
+Svar: p**(83/3)
+
+Förenkla (h/(h/((h*h**(25/3)*h)/h)))/h**(-14/9) förutsatt att h är positiv.
+Svar: h**(98/9)
+
+Förenkla ((h/(h**(-1/2)/h))/((h/((h/h**(-1/5))/h))/h))**(-6/23) förutsatt att h är positiv.
+Svar: h**(-81/115)
+
+Förenkla (b/(b/(b/b**(-7))))/((b*b/(b*b**(-14))*b)/b) förutsatt att b är positiv.
+Svar: b**(-7)
+
+Förenkla (z/(z**(-1/4)*z))**17/((z/(z/z**(5/3)))/z**(-2)) förutsatt att z är positiv.
+Svar: z**(7/12)
+
+Förenkla r*r**(-2)*(((r*r/(r*r*r**(-1/3)*r)*r*r)/r)/r)/r förutsatt att r är positiv.
+Svaret är: r**(-8/3)
+
+Förenkla ((f*f**(-2)*f*f)**(4/15))**(-13/2) förutsatt att f är positiv.
+Svar: f**(-26/15)
+
+Förenkla (g**1/g)**(-28)*(g/(g/((g/g**(2/9))/g)))/(g*g**(-4)) förutsatt att g är positiv.
+Svaret är: g**(25/9)
+
+Förenkla (v*v*v**3)**7 förutsatt att v är positiv.
+Svar: v**35
+
+Förenkla ((c/((c**(-2/3)/c)/c))/c)**(-3/8)*c*((c/(c**(-6/7)/c))/c)/c*c**(-3) förutsatt att c är positiv.
+Svaret är: c**(-15/7)
+
+Förenkla ((v*v*v*v*(v*v**(2/7))/v)**48)**(2/55) förutsatt att v är positiv.
+Svaret är: v**(576/77)
+
+Förenkla (c*c/(c/((c/((c**(1/5)*c)/c))/c))*c*(c/(c*c**(-5)))/c*c*c)/((c*c*c**(-5/6)*c)/c*c*((c**1/c*c*c)/c)/c) förutsatt att c är positiv.
+Svaret är: c**(169/30)
+
+Förenkla c*c/(c**(2/41)*c*c)*c**35 förutsatt att c är positiv.
+Svaret är: c**(1433/41)
+
+Förenkla (x*((x*x**(1/4))/x*x)/x*x*x*x)**(-5) förutsatt att x är positiv.
+Svar: x**(-85/4)
+
+Förenkla a**3*a*a**(5/6)*a**(5/6)/a*a*a*a**(3/5)*a förutsatt att a är positiv.
+Svaret är: a**(124/15)
+
+Förenkla r**(-1/3)*r*(r*r/(r**8*r)*r*r)/r förutsatt att r är positiv.
+Svaret är: r**(-16/3)
+
+Förenkla ((p/(p*p*p*p**(1/5)*p)*p)/((p/p**5)/p*p))/(p*p/p**5*p*p**(-1)/p) förutsatt att p är positiv.
+Svaret är: p**(29/5)
+
+Förenkla b**(-2/3)/b*(b*b*b*b**6/b*b*b*b)/b*(b*b*b**1)**(-5) förutsatt att b är positiv.
+Svar: b**(-20/3)
+
+Förenkla (o/(o**6*o)*(o*o/o**2)/o)/(o**(6/11)*o/(o/o**(-1/7))*o) förutsatt att o är positiv.
+Svaret är: o**(-647/77)
+
+Förenkla ((t/((t*t/t**(-2/5)*t)/t))/t)**(-29)/((t/(t/(t/(t*t**(1/4)))))/t)**(-1/33) förutsatt att t är positiv.
+Svar: t**(45911/660)
+
+Förenkla r**(1/8)*r/r**14 förutsatt att r är positiv.
+Svaret är: r**(-103/8)
+
+Förenkla (j**(-9)*j/(j*j**16))**(-15) förutsatt att j är positiv.
+Svar: j**375
+
+Förenkla g**(-4/15)*g**(-5/7) förutsatt att g är positiv.
+Svar: g**(-103/105)
+
+Förenkla (o/(o**(-6)*o)*(o**(-19)/o*o*o)/o)**(2/9) förutsatt att o är positiv.
+Svaret är: o**(-26/9)
+
+Förenkla (t*t*t*t**1/t*t**7)**(-1/14) förutsatt att t är positiv.
+Svar: t**(-5/7)
+
+Förenkla ((n/n**(1/2))/n)**(2/5)*n**(1/7)*n**1 förutsatt att n är positiv.
+Svar: n**(33/35)
+
+Förenkla ((j**(1/7)/j)/j)**(-11) förutsatt att j är positiv.
+Svar: j**(143/7)
+
+Förenkla p**(4/11)*p*p**(-3) förutsatt att p är positiv.
+Svar: p**(-18/11)
+
+Förenkla b/(b**(8/5)*b)*b**(-15) förutsatt att b är positiv.
+Svaret är: b**(-83/5)
+
+Förenkla (d/(d**0/d))**28 förutsatt att d är positiv.
+Svaret är: d**56
+

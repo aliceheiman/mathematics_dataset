@@ -1,20 +1,300 @@
-Sortera -5571142, 1, 3 i avtagande ordning.
-3, 1, -5571142
-Sätt 5, -4, -1, 6, 4, -173443 i avtagande ordning.
-6, 5, 4, -1, -4, -173443
-Sätt 5/3, 400, 2/9, 2/913 i växande ordning.
-2/913, 2/9, 5/3, 400
-Sätt -2, 1/6, 9.934, 10/9 i minskande ordning.
-9.934, 10/9, 1/6, -2
-Sortera 36324, 0, -4, -39 i växande ordning.
--39, -4, 0, 36324
-Sätt 1/17, -0.5, 2/9, 12336/5, 4 i minskande ordning.
-12336/5, 4, 2/9, 1/17, -0.5
-Sortera 463, 3, 1, -46 i stigande ordning.
--46, 1, 3, 463
-Sortera 1/6, 3, 1, 0, -11/2, -25, 0.12 i avtagande ordning.
-3, 1, 1/6, 0.12, 0, -11/2, -25
-Sätt 8, 0.4, 3, -1384, 16 i växande ordning.
--1384, 0.4, 3, 8, 16
-Sätt -4, 18, 5, 3, 397 i växande ordning.
--4, 3, 5, 18, 397
+Sortera -6, 709, -2/5, -0.07, -2 i minskande ordning.
+Svar: 709, -0.07, -2/5, -2, -6
+
+Sortera 4, -7, 56, -26, 1 i stigande ordning.
+Svaret är: -26, -7, 1, 4, 56
+
+Sätt -1, 32, 110, -2, -2/13 i minskande ordning.
+Svaret är: 110, 32, -2/13, -1, -2
+
+Sortera 4, -3, -4, -143, -665 i avtagande ordning.
+Svaret är: 4, -3, -4, -143, -665
+
+Sortera 0, 1, -1, 8469.
+Svar: -1, 0, 1, 8469
+
+Sortera 7, 1, 3, -18998, 8 i avtagande ordning.
+Svar: 8, 7, 3, 1, -18998
+
+Sätt -10, 4, 5, 30514 i avtagande ordning.
+Svar: 30514, 5, 4, -10
+
+Sortera -2, -4, 30, 5, 14, -5, 23 i avtagande ordning.
+Svaret är: 30, 23, 14, 5, -2, -4, -5
+
+Sätt -338, -2, -60, -5, -4, 5, 3 i stigande ordning.
+Svaret är: -338, -60, -5, -4, -2, 3, 5
+
+Sortera -2, 4, -4, 3, 2, -666 i stigande ordning.
+Svaret är: -666, -4, -2, 2, 3, 4
+
+Sortera 5, -1, 1, 0, 2014, 32, 4 i avtagande ordning.
+Svar: 2014, 32, 5, 4, 1, 0, -1
+
+Sortera 5, -1, -73, 3, 4, 171 i stigande ordning.
+Svar: -73, -1, 3, 4, 5, 171
+
+Sortera -3, 2962, 5, -12 i växande ordning.
+Svaret är: -12, -3, 5, 2962
+
+Sortera -2, 2, -49, -4, -32, -39 i växande ordning.
+Svar: -49, -39, -32, -4, -2, 2
+
+Sortera 1, 5, -62, -51, 3, -4 i minskande ordning.
+Svaret är: 5, 3, 1, -4, -51, -62
+
+Sätt -2/31299, -0.04, -3, 0.4 i stigande ordning.
+Svaret är: -3, -0.04, -2/31299, 0.4
+
+Sortera -154, 906, -1.
+Svar: -154, -1, 906
+
+Sortera -140, 10, -114, -2, -3 i minskande ordning.
+Svaret är: 10, -2, -3, -114, -140
+
+Sätt -8, 5, 18/5, -9769 i växande ordning.
+Svar: -9769, -8, 18/5, 5
+
+Sätt 0.5, 566829, -0.1 i avtagande ordning.
+Svar: 566829, 0.5, -0.1
+
+Sortera -2, 169, 2, -1, 1, -4, -24 i stigande ordning.
+Svaret är: -24, -4, -2, -1, 1, 2, 169
+
+Sortera -5, 14, -2, 5, -2/19655.
+Svaret är: -5, -2, -2/19655, 5, 14
+
+Sätt 0.6, 0.4, 3721/33 i minskande ordning.
+Svaret är: 3721/33, 0.6, 0.4
+
+Sätt -1, -16, 329, -3, 3 i stigande ordning.
+Svar: -16, -3, -1, 3, 329
+
+Sätt -171, 609, 23 i avtagande ordning.
+Svar: 609, 23, -171
+
+Sortera -50, 2, -4, 67, -21 i minskande ordning.
+Svar: 67, 2, -4, -21, -50
+
+Sortera -5, -6, -8, 6883.
+Svar: -8, -6, -5, 6883
+
+Sortera 174, -16394, -4 i växande ordning.
+Svar: -16394, -4, 174
+
+Sätt -46575, -4, -12 i avtagande ordning.
+Svar: -4, -12, -46575
+
+Sätt 1/374, -40, 3/2 i växande ordning.
+Svaret är: -40, 1/374, 3/2
+
+Sortera 32, -1, 2, 10, 0.9, 4, -2 i minskande ordning.
+Svaret är: 32, 10, 4, 2, 0.9, -1, -2
+
+Sortera 5, -2773812, -5, 1.
+Svar: -2773812, -5, 1, 5
+
+Sortera 2176, 0, -5, 139, -3 i stigande ordning.
+Svaret är: -5, -3, 0, 139, 2176
+
+Sätt 0.02, -4/5, -46, -1/2, 46 i minskande ordning.
+Svaret är: 46, 0.02, -1/2, -4/5, -46
+
+Sätt -3, 1013479, -4, 3, 0 i avtagande ordning.
+Svar: 1013479, 3, 0, -3, -4
+
+Sortera 2, -57, -19392.
+Svaret är: -19392, -57, 2
+
+Sätt 2/91325, 5/7, 3/4, 1 i minskande ordning.
+Svaret är: 1, 3/4, 5/7, 2/91325
+
+Sortera -8, 2/9, -5/4, 10576, 0.3.
+Svaret är: -8, -5/4, 2/9, 0.3, 10576
+
+Sortera 13401, -4, -16, 3.
+Svaret är: -16, -4, 3, 13401
+
+Sätt 7632, -2, 1/1523 i växande ordning.
+Svar: -2, 1/1523, 7632
+
+Sortera -1117, -3, -977, -2.
+Svar: -1117, -977, -3, -2
+
+Sortera 124945, -2, -4 i växande ordning.
+Svar: -4, -2, 124945
+
+Sortera -12, 1, 30, -2, -22, -1.
+Svar: -22, -12, -2, -1, 1, 30
+
+Sortera 11966, 1, 13, 4 i minskande ordning.
+Svaret är: 11966, 13, 4, 1
+
+Sortera -35, -50, 2, 109 i minskande ordning.
+Svaret är: 109, 2, -35, -50
+
+Sortera 5, 4, -120, 3, -13, 0, -3 i växande ordning.
+Svaret är: -120, -13, -3, 0, 3, 4, 5
+
+Sätt 1/6, 2/7, -0.6, 24506 i avtagande ordning.
+Svaret är: 24506, 2/7, 1/6, -0.6
+
+Sortera -5, 0.02, -3, -11758/19 i stigande ordning.
+Svaret är: -11758/19, -5, -3, 0.02
+
+Sätt 1/3, 66, -3, 3, 8, 129 i avtagande ordning.
+Svar: 129, 66, 8, 3, 1/3, -3
+
+Sätt -1/4, 0.15201, 3/16 i avtagande ordning.
+Svar: 3/16, 0.15201, -1/4
+
+Sortera 186, 84, -12, 14.
+Svar: -12, 14, 84, 186
+
+Sortera -0.14, 335, 0.4, -5/4, 4, 6/13 i stigande ordning.
+Svaret är: -5/4, -0.14, 0.4, 6/13, 4, 335
+
+Sätt 3, -3, 1, 733, -4, 6 i stigande ordning.
+Svaret är: -4, -3, 1, 3, 6, 733
+
+Sortera 17, -5, 2278, -6, 2, -3 i stigande ordning.
+Svar: -6, -5, -3, 2, 17, 2278
+
+Sortera 85, 4, -10672, 2.
+Svaret är: -10672, 2, 4, 85
+
+Sortera 224, 0, -92, -22, -3 i avtagande ordning.
+Svaret är: 224, 0, -3, -22, -92
+
+Sätt 2/7, -13, -3, 1/274, 0.05, -2 i växande ordning.
+Svar: -13, -3, -2, 1/274, 0.05, 2/7
+
+Sortera 719, -3, 2, -5, -4, 17 i minskande ordning.
+Svar: 719, 17, 2, -3, -4, -5
+
+Sätt -2, 4, -8799, -59 i växande ordning.
+Svar: -8799, -59, -2, 4
+
+Sortera 118, -48, 45, 1 i avtagande ordning.
+Svar: 118, 45, 1, -48
+
+Sätt -47, 4, -1, -7, 38 i avtagande ordning.
+Svar: 38, 4, -1, -7, -47
+
+Sätt 187, 2, -770, -4, -1, 4, 1 i stigande ordning.
+Svar: -770, -4, -1, 1, 2, 4, 187
+
+Sätt 4, 42, 150, -2, -18, 1 i avtagande ordning.
+Svaret är: 150, 42, 4, 1, -2, -18
+
+Sortera -1852, -2.242, -2/23, 0.5.
+Svar: -1852, -2.242, -2/23, 0.5
+
+Sortera -2/45, 2, -1/4, -92.
+Svar: -92, -1/4, -2/45, 2
+
+Sortera 3572, -0.13, -51.
+Svar: -51, -0.13, 3572
+
+Sätt -70, 2, 5, -4, 77, 1 i avtagande ordning.
+Svaret är: 77, 5, 2, 1, -4, -70
+
+Sortera -1, 5, 0, 58346 i växande ordning.
+Svar: -1, 0, 5, 58346
+
+Sätt 587, 3.7, -2/3, -0.03 i avtagande ordning.
+Svaret är: 587, 3.7, -0.03, -2/3
+
+Sortera 408002, -4, 1.
+Svar: -4, 1, 408002
+
+Sätt -5830579, -2/5, -0.1 i minskande ordning.
+Svar: -0.1, -2/5, -5830579
+
+Sätt 1/5, 8, 171964 i avtagande ordning.
+Svaret är: 171964, 8, 1/5
+
+Sätt 3, 25/4, 0.07, 7.5, -5 i stigande ordning.
+Svar: -5, 0.07, 3, 25/4, 7.5
+
+Sortera 1129, -4, 2, -6, -3, -2, 4 i minskande ordning.
+Svaret är: 1129, 4, 2, -2, -3, -4, -6
+
+Sätt -1/4, 4, -10, 233, -1/16 i minskande ordning.
+Svar: 233, 4, -1/16, -1/4, -10
+
+Sortera 2, 12/11, 0.4, -2, 0.1, -139 i växande ordning.
+Svar: -139, -2, 0.1, 0.4, 12/11, 2
+
+Sortera -299, -35, 1, 3, -80 i stigande ordning.
+Svar: -299, -80, -35, 1, 3
+
+Sätt 4673, -7, -4, -106 i minskande ordning.
+Svaret är: 4673, -4, -7, -106
+
+Sätt -415, 0, 51, 10, -5 i avtagande ordning.
+Svaret är: 51, 10, 0, -5, -415
+
+Sätt 0, -1, -352, -0.05, 1, 19 i avtagande ordning.
+Svaret är: 19, 1, 0, -0.05, -1, -352
+
+Sätt 581, -293, -11 i stigande ordning.
+Svaret är: -293, -11, 581
+
+Sortera -3, 0, -231, -1, -8, 28 i minskande ordning.
+Svaret är: 28, 0, -1, -3, -8, -231
+
+Sätt -33, -4, -4994, 0, -3 i stigande ordning.
+Svaret är: -4994, -33, -4, -3, 0
+
+Sortera 133, -30, -346 i växande ordning.
+Svaret är: -346, -30, 133
+
+Sätt -11, 5139, 214 i avtagande ordning.
+Svaret är: 5139, 214, -11
+
+Sortera 2/7, 1, 0, 10.1, -1, 6 i växande ordning.
+Svar: -1, 0, 2/7, 1, 6, 10.1
+
+Sortera 71, -3, -2, -58, -5, 8.
+Svaret är: -58, -5, -3, -2, 8, 71
+
+Sortera 118, -4, 3, -12, 2.
+Svar: -12, -4, 2, 3, 118
+
+Sortera 8, -1792, -4, -169 i växande ordning.
+Svar: -1792, -169, -4, 8
+
+Sätt -2, 4, 6, -5, 22, 3, -565 i minskande ordning.
+Svar: 22, 6, 4, 3, -2, -5, -565
+
+Sortera 3, 4, -381, 1, 0, 406 i avtagande ordning.
+Svaret är: 406, 4, 3, 1, 0, -381
+
+Sortera -1846, -1, -2288.
+Svaret är: -2288, -1846, -1
+
+Sortera -60, -55, 3, -29, 5.
+Svaret är: -60, -55, -29, 3, 5
+
+Sätt -14, -5, -4, -800, 4, -1 i avtagande ordning.
+Svar: 4, -1, -4, -5, -14, -800
+
+Sätt -9335, 2/5, 652/9 i avtagande ordning.
+Svaret är: 652/9, 2/5, -9335
+
+Sortera -32179, 0.8, -16 i växande ordning.
+Svar: -32179, -16, 0.8
+
+Sortera -17, -3, 6, 5, 22, 93.
+Svar: -17, -3, 5, 6, 22, 93
+
+Sortera 1, 9, -1, -4, 21639, 0 i växande ordning.
+Svar: -4, -1, 0, 1, 9, 21639
+
+Sätt 3/5, -1/5, 0, 27, 1/5, -19 i avtagande ordning.
+Svaret är: 27, 3/5, 1/5, 0, -1/5, -19
+
+Sätt -2/57, -0.2, 2/3, -29, -1/9, 6 i minskande ordning.
+Svaret är: 6, 2/3, -2/57, -1/9, -0.2, -29
+

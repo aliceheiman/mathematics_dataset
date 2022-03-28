@@ -1,6 +1,90 @@
-Vad är det närmaste till -3/7 i 30277, 0.2, 0.8?
-0.2
-Vad är det närmaste till -4 i -3, -0.4, -388, 5, -243/7?
--3
-Vilket är det närmaste till -4/3?  (a) -2/5  (b) -8/53  (c) -19  (d) -10/29  (e) -5
-a
+Vilket är det närmaste till -40/511?  (a) -0.1  (b) 12  (c) -0.09  (d) 3/4
+Svar: c
+
+Vad är det närmaste till -17/10 i 1, 0.05, 202, -0.2, -2/15?
+Svaret är: -0.2
+
+Vad är det närmaste till 1/4 i 70, 21/29, -0.2, 10?
+Svar: -0.2
+
+Vad är det närmaste till 7/6 i 4, 1, 5337, -12, -0.2?
+Svaret är: 1
+
+Vad är det närmaste till 707/5 i -0.048, -106, -1/8?
+Svaret är: -0.048
+
+Vilket är det närmaste till -15?  (a) 301  (b) -7/3  (c) -920
+Svar: b
+
+Vad är det närmaste till -224 i 100, -2/9, 0.1, 2?
+Svar: -2/9
+
+Vilket är det närmaste till 2/5?  (a) 136/9  (b) 0  (c) 0.117
+Svar: c
+
+Vad är det närmaste till -0.1 i 1, -8306, 0.4, 2/111?
+Svaret är: 2/111
+
+Vilket är det närmaste till -11256/97?  (a) 4  (b) 1  (c) 5
+Svaret är: b
+
+Vilket är det närmaste till 179?  (a) 0.71  (b) 11  (c) 3  (d) -2/3  (e) -1  (f) 1
+Svaret är: b
+
+Vilket är det närmaste till -2/3111?  (a) -14.1  (b) 0.8  (c) -18
+Svaret är: b
+
+Vad är det närmaste till -0.19 i 0, 0.19, -6.61?
+Svaret är: 0
+
+Vad är det närmaste till 5989167/4 i 0.4, 4, -5?
+Svaret är: 4
+
+Vad är det närmaste till 2 i 1629466, -2, -0.1?
+Svaret är: -0.1
+
+Vad är det närmaste till -0.169 i 1.37, 1, -56?
+Svaret är: 1
+
+Vad är det närmaste till 3 i -3, 153, -2/7, -1, -48?
+Svaret är: -2/7
+
+Vad är det närmaste till 0.2 i -0.4, -1/9, -1/13, -2/9, -83, -1.1?
+Svaret är: -1/13
+
+Vad är det närmaste till -0.04386909 i 3/8, -0.2, -3?
+Svar: -0.2
+
+Vad är det närmaste till -1 i -7/142, -3/2, 0.2, -0.03, 2/11?
+Svar: -3/2
+
+Vad är det närmaste till -0.1133 i -0.01, 10/29, -4/5?
+Svaret är: -0.01
+
+Vilket är det närmaste till 3/43?  (a) -25  (b) 52  (c) -5
+Svar: c
+
+Vad är det närmaste till -37 i 58, -46.8, 2, 0.6?
+Svar: -46.8
+
+Vilket är det närmaste till 1?  (a) -81  (b) -2/13  (c) 0.2  (d) -6150  (e) -0.1
+Svaret är: c
+
+Vad är det närmaste till 10282 i 0, -2/15, 2, -0.4, -3?
+Svar: 2
+
+Vilket är det närmaste till 1?  (a) 0  (b) 3  (c) -2  (d) -8/121  (e) 12
+Svaret är: a
+
+Vilket är det närmaste till -0.2?  (a) 2/4367  (b) -7/2  (c) 188  (d) -4
+Svaret är: a
+
+Vad är det närmaste till -1/5 i -5, 0, -1, 2316405?
+Svar: 0
+
+Vilket är det närmaste till -138?  (a) -2/7  (b) 0.3  (c) 65/3  (d) 0.6
+Svaret är: a
+
+Vad är det närmaste till 4981/139 i 0.2, 0.3, 2/15, 0?
+Svar: 0.3
+

@@ -1,6 +1,90 @@
-Hur många milliliter finns det i trettio-två femtedelar liter?
-6400
-Hur många årtusenden finns det i 31850.97 årtionden?
-318.5097
-Hur många gram finns det i 0.3024872 milligram?
-0.0003024872
+Vad är 4/3 av 1 timme i minuter?
+Svar: 80
+
+Vad är sjutton fjärdedelar av 1 kilometer i meter?
+Svaret är: 4250
+
+Hur många minuter finns det i tio sjundedelar vecka?
+Svaret är: 14400
+
+Hur många meter finns det i 0.8495933 millimeter?
+Svar: 0.0008495933
+
+Hur många årtionden finns det i 17/2 århundrade?
+Svar: 85
+
+Vad är 479485.3 mikrogram i ton?
+Svar: 0.0000004794853
+
+Vad är 69.90031 mikrometer i centimeter?
+Svaret är: 0.006990031
+
+Vad är 30/7 av 1 vecka i dagar?
+Svaret är: 30
+
+Vad är 199417.5 kilogram i gram?
+Svaret är: 199417500
+
+Vad är 77103.35 milliliter i liter?
+Svar: 77.10335
+
+Vad är 13/4 av 1 århundrade i månader?
+Svaret är: 3900
+
+Hur många årtionden finns det i sjutton halvor årtusende?
+Svaret är: 850
+
+Vad är 1/10 av 1 dag i sekunder?
+Svar: 8640
+
+Hur många månader finns det i elva halvor årtionde?
+Svar: 660
+
+Vad är fyra tredjedelar av 1 århundrade i månader?
+Svar: 1600
+
+Hur många minuter finns det i fyrtio-två femtedelar timme?
+Svar: 504
+
+Konvertera 95309.11 centimeter till millimeter.
+Svar: 953091.1
+
+Hur många ton finns det i 117.2754ng?
+Svar: 0.0000000000001172754
+
+Konvertera 20.98388 milliliter till liter.
+Svar: 0.02098388
+
+Hur många kilogram finns det i 7784.52g?
+Svaret är: 7.78452
+
+Hur många mikrometer finns det i 18/5 millimeter?
+Svar: 3600
+
+Hur många timmar finns det i sjutton sjättedelar vecka?
+Svar: 476
+
+Konvertera 3991.31 årtusenden till år.
+Svar: 3991310
+
+Hur många nanometer finns det i fyrtio-åtta femtedelar mikrometer?
+Svaret är: 9600
+
+Vad är 5/4 av 1 århundrade i månader?
+Svar: 1500
+
+Vad är tre tiondelar av 1 liter i milliliter?
+Svaret är: 300
+
+Hur många millimeter finns det i ett tiondel kilometer?
+Svar: 100000
+
+Vad är 6/5 av 1 gram i milligram?
+Svar: 1200
+
+Vad är 0.2850015mg i mikrogram?
+Svar: 285.0015
+
+Hur många mikrogram finns det i 3/40 gram?
+Svaret är: 75000
+

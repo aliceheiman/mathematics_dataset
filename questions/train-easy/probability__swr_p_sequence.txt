@@ -1,6 +1,90 @@
-Fyra bokstäver väljs utan återsättning från {u: 3, q: 4, v: 4}. Ange sannolikheten att sekvensen är vqvu.
-1/55
-Beräkna sannolikheten att sekvensen är zdd då tre bokstäver väljs utan återsättning från {d: 3, z: 15}.
-5/272
-Beräkna sannolikheten att sekvensen är riw då tre bokstäver väljs utan återsättning från iriirewwiirwzr.
-5/182
+Vad är sannolikheten att sekvensen är rrr då tre bokstäver väljs utan återsättning från rrrrrrrrr?
+Svar: 1
+
+Tre bokstäver väljs utan återsättning från {g: 4, w: 1, p: 4, c: 1, b: 1}. Vad är sannolikheten att sekvensen är gpp?
+Svar: 8/165
+
+Tre bokstäver väljs utan återsättning från ixitxdj. Ange sannolikheten att sekvensen är jxt.
+Svar: 1/105
+
+Beräkna sannolikheten att sekvensen är ah då två bokstäver väljs utan återsättning från {g: 1, m: 1, a: 3, h: 2}.
+Svar: 1/7
+
+Beräkna sannolikheten att sekvensen är eeve då fyra bokstäver väljs utan återsättning från ezvvzvzveevz.
+Svar: 1/396
+
+Fyra bokstäver väljs utan återsättning från {v: 2, m: 3, b: 3, g: 1, i: 1, a: 2}. Ange sannolikheten att sekvensen är vagi.
+Svar: 1/2970
+
+Fyra bokstäver väljs utan återsättning från kmkbbbkqbkkkkbbk. Ange sannolikheten att sekvensen är bkmq.
+Svaret är: 1/910
+
+Beräkna sannolikheten att sekvensen är dbbb då fyra bokstäver väljs utan återsättning från {d: 1, b: 3}.
+Svaret är: 1/4
+
+Vad är sannolikheten att sekvensen är ww då två bokstäver väljs utan återsättning från wrw?
+Svar: 1/3
+
+Tre bokstäver väljs utan återsättning från ppppaapnaapaapappnn. Vad är sannolikheten att sekvensen är npp?
+Svaret är: 12/323
+
+Beräkna sannolikheten att sekvensen är wjww då fyra bokstäver väljs utan återsättning från wjjjjjwwwjjxjjjjw.
+Svaret är: 11/952
+
+Två bokstäver väljs utan återsättning från jiissiniiiqn. Ange sannolikheten att sekvensen är is.
+Svaret är: 1/11
+
+Vad är sannolikheten att sekvensen är kts då tre bokstäver väljs utan återsättning från {w: 1, c: 1, s: 1, k: 1, l: 2, t: 1}?
+Svaret är: 1/210
+
+Fyra bokstäver väljs utan återsättning från xtxxxboyxxytbxybp. Ange sannolikheten att sekvensen är yxxy.
+Svar: 3/680
+
+Beräkna sannolikheten att sekvensen är wr då två bokstäver väljs utan återsättning från {z: 2, r: 1, w: 2}.
+Svar: 1/10
+
+Vad är sannolikheten att sekvensen är jxgx då fyra bokstäver väljs utan återsättning från kxxuxxkgjbxjb?
+Svaret är: 1/429
+
+Tre bokstäver väljs utan återsättning från okkkqdommkm. Ange sannolikheten att sekvensen är kmd.
+Svar: 2/165
+
+Beräkna sannolikheten att sekvensen är gwrv då fyra bokstäver väljs utan återsättning från {y: 1, v: 1, g: 1, w: 2, n: 1, r: 1}.
+Svar: 1/420
+
+Två bokstäver väljs utan återsättning från {o: 1, z: 1, x: 4, m: 7}. Ange sannolikheten att sekvensen är xo.
+Svar: 1/39
+
+Vad är sannolikheten att sekvensen är uuf då tre bokstäver väljs utan återsättning från {f: 2, b: 2, u: 5}?
+Svaret är: 5/63
+
+Vad är sannolikheten att sekvensen är mllm då fyra bokstäver väljs utan återsättning från lmmlmlllmmllmmlmlm?
+Svar: 6/85
+
+Beräkna sannolikheten att sekvensen är hoq då tre bokstäver väljs utan återsättning från {o: 1, q: 10, j: 3, h: 4, b: 1}.
+Svar: 20/2907
+
+Två bokstäver väljs utan återsättning från pnkopjttktjp. Ange sannolikheten att sekvensen är kj.
+Svar: 1/33
+
+Beräkna sannolikheten att sekvensen är qrqq då fyra bokstäver väljs utan återsättning från qrqqqqqqqqqrrqqqrq.
+Svaret är: 91/765
+
+Vad är sannolikheten att sekvensen är ltwk då fyra bokstäver väljs utan återsättning från {k: 1, t: 1, c: 1, w: 2, l: 1, d: 1}?
+Svar: 1/420
+
+Tre bokstäver väljs utan återsättning från {i: 9, l: 2, r: 2}. Ange sannolikheten att sekvensen är rrl.
+Svaret är: 1/429
+
+Tre bokstäver väljs utan återsättning från ooxeoyooyooooxxocoo. Ange sannolikheten att sekvensen är oex.
+Svar: 2/323
+
+Två bokstäver väljs utan återsättning från {g: 2, m: 4, a: 3, k: 8}. Vad är sannolikheten att sekvensen är mg?
+Svaret är: 1/34
+
+Vad är sannolikheten att sekvensen är dmib då fyra bokstäver väljs utan återsättning från {m: 2, i: 2, d: 1, b: 6}?
+Svar: 1/330
+
+Vad är sannolikheten att sekvensen är llyl då fyra bokstäver väljs utan återsättning från yllllylllyy?
+Svar: 7/66
+

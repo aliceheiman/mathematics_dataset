@@ -1,6 +1,90 @@
-Lista primtalsfaktorerna till 1643338.
-2, 571, 1439
-Vilka är primtalsfaktorerna till 7598680?
-2, 5, 189967
-Vilka är primtalsfaktorerna till 17232797?
-823, 20939
+Lista primtalsfaktorerna till 33371.
+Svaret är: 13, 17, 151
+
+Lista primtalsfaktorerna till 152664.
+Svaret är: 2, 3, 6361
+
+Lista primtalsfaktorerna till 20797002.
+Svaret är: 2, 3, 29, 39841
+
+Vilka är primtalsfaktorerna till 56132?
+Svar: 2, 14033
+
+Lista primtalsfaktorerna till 145964.
+Svaret är: 2, 7, 13, 401
+
+Vilka är primtalsfaktorerna till 6389647?
+Svaret är: 11, 52807
+
+Vilka är primtalsfaktorerna till 3170122?
+Svar: 2, 31, 51131
+
+Vilka är primtalsfaktorerna till 1796559?
+Svaret är: 3, 598853
+
+Vilka är primtalsfaktorerna till 511558?
+Svaret är: 2, 137, 1867
+
+Lista primtalsfaktorerna till 10151810.
+Svar: 2, 5, 233, 4357
+
+Lista primtalsfaktorerna till 2804501.
+Svaret är: 7, 400643
+
+Vilka är primtalsfaktorerna till 2640765?
+Svaret är: 3, 5, 176051
+
+Vilka är primtalsfaktorerna till 13987085?
+Svaret är: 5, 7, 167, 2393
+
+Vilka är primtalsfaktorerna till 3882098?
+Svar: 2, 11, 176459
+
+Lista primtalsfaktorerna till 1310402.
+Svar: 2, 23, 61, 467
+
+Vilka är primtalsfaktorerna till 27905?
+Svaret är: 5, 5581
+
+Lista primtalsfaktorerna till 44774.
+Svaret är: 2, 61, 367
+
+Vilka är primtalsfaktorerna till 13900182?
+Svaret är: 2, 3, 2316697
+
+Vilka är primtalsfaktorerna till 171864?
+Svar: 2, 3, 7, 11, 31
+
+Lista primtalsfaktorerna till 13215631.
+Svaret är: 11, 13, 7109
+
+Lista primtalsfaktorerna till 248139.
+Svaret är: 3, 79, 349
+
+Vilka är primtalsfaktorerna till 506022?
+Svaret är: 2, 3, 11, 17, 41
+
+Lista primtalsfaktorerna till 7324113.
+Svaret är: 3, 37, 65983
+
+Vilka är primtalsfaktorerna till 1275572?
+Svaret är: 2, 347, 919
+
+Lista primtalsfaktorerna till 86761.
+Svaret är: 53, 1637
+
+Vilka är primtalsfaktorerna till 1214347?
+Svaret är: 19, 63913
+
+Vilka är primtalsfaktorerna till 3688284?
+Svaret är: 2, 3, 293, 1049
+
+Lista primtalsfaktorerna till 516034.
+Svaret är: 2, 67, 3851
+
+Vilka är primtalsfaktorerna till 1149091?
+Svar: 557, 2063
+
+Vilka är primtalsfaktorerna till 155574?
+Svar: 2, 3, 43, 67
+

@@ -1,6 +1,90 @@
-Lös 5*a + 203 - 168 = 5*u, 2*a + 22 = -2*a + 3*u för a.
--1
-Lös 139*r = 4*w + 141*r + 4, 3*w - 4*r - 52 = 0 för w.
-4
-Lös 257*o + 20 = m + 258*o, 0 = 3*m - 2*o + 20 för m.
-4
+Lös 18 = -f + 6*d, -8*f - 20*d + 18*d = -12*f + 16 för f.
+Svaret är: 6
+
+Lös 2*q = -3*l + 5, -3819*q + 3818*q - 4*l = -15 för q.
+Svaret är: -5
+
+Lös -3*q + 4*p + 3 = 0, 10 - 22 = q + 3*p för q.
+Svaret är: -3
+
+Lös 0 = -5*y - 2*t - 10, 0 = 3*y + 4*t + 206 - 172 för y.
+Svar: 2
+
+Lös c - 4*l + 1924 = 956 + 958, 4*c = l - 25 för c.
+Svar: -6
+
+Lös 3*y = 5*f + 35, -3*f = y + 215 - 180 för f.
+Svar: -10
+
+Lös 3*m - 33 = 0, 2*k + 181*m + 12 = 183*m för k.
+Svaret är: 5
+
+Lös -75*n + 1 = x - 73*n, 4*x = -4*n + 8 för x.
+Svar: 3
+
+Lös -129 + 145 = -4*j + 5*h, -5*h = 2*j + 8 för j.
+Svaret är: -4
+
+Lös 5*f - 3*u - 53 = 0, 0 = -4*f + 330*u - 160*u - 164*u + 46 för f.
+Svar: 10
+
+Lös 0 = -i - 3*p - 20 + 37, 4*i + 2 = 2*p för i.
+Svaret är: 2
+
+Lös -144 = -4*p + 3*n - 179, 0 = p + 4*n + 4 för p.
+Svar: -8
+
+Lös 2*r = 2*i + 30, 3*i + 21 = -r - 12 för i.
+Svaret är: -12
+
+Lös 0*t - a = -t, 0*a + 2*a = 3*t - 3 för t.
+Svaret är: 3
+
+Lös -k - 3461*v + 3457*v = 8, 2*k + 10 = -2*v för k.
+Svaret är: -4
+
+Lös -2*f - 24 = -2*g, -18*f = 3*g - 22*f - 47 för g.
+Svar: 1
+
+Lös -2*b = 5*y + 41, -82*y + 1 = 2*b - 83*y för b.
+Svaret är: -3
+
+Lös -3*z + 2*x = 7, 186*z - 186*z - 3*x - 3 = 0 för z.
+Svar: -3
+
+Lös 0 = -2457*l + 2453*l - 3*q - 23, -5*q = l + 10 för l.
+Svar: -5
+
+Lös 4*c - 7*f + 4 = 0, 171*c + f + 2 = 172*c för c.
+Svar: 6
+
+Lös 39 = -4*b + 4*a - 37, -4*b - 17*a = 76 för b.
+Svar: -19
+
+Lös 6*a + 3*i = 3*a, a - 16 = 3*i för a.
+Svar: 4
+
+Lös 0 = -3856*x + 3855*x - 3*v + 49, v = 18 för x.
+Svaret är: -5
+
+Lös -12*f + 17*f + 5 = -2*v, 1 = -9*v - f för v.
+Svaret är: 0
+
+Lös -2*h = -5*p - 53, -9*p + 5*p + 32*h + 21 = -3*p för p.
+Svaret är: -11
+
+Lös 35 = 3*g - 5*d, -9*g + 180 = -4*d + 119 för g.
+Svar: 5
+
+Lös -2*g = -5*h + 1, -903*g + 58 = 2*h - 899*g för h.
+Svaret är: 5
+
+Lös -3*r + 4*f = -0*f - 408 + 413, -3*f = -6*r för r.
+Svar: 1
+
+Lös -6*b + 4*o - 35 = -61, -5*b = -4*o - 21 för b.
+Svaret är: 5
+
+Lös 0 = 3*a - x + 11, -2*x + 6 = -167*a + 165*a för a.
+Svaret är: -4
+

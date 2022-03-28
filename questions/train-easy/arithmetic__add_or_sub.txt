@@ -1,6 +1,90 @@
-Vad är avståndet mellan -17 och -0.129?
-16.871
-Vad är 0.321 ta bort -104?
-104.321
-Räkna ut 0.054 + 26.2936.
-26.3476
+Summan av 4 och -1133.8.
+Svar: -1129.8
+
+-0.013 - -1049
+Svar: 1048.987
+
+Vad är 1.574 plus 0.3?
+Svaret är: 1.874
+
+Lägg ihop 455.9 och -0.7.
+Svaret är: 455.2
+
+Beräkna 0.06 - -2678711.
+Svar: 2678711.06
+
+Beräkna 0 + 48.22.
+Svar: 48.22
+
+Summan av 0.03 och 398.
+Svaret är: 398.03
+
+Addera 1616.12 och -4.
+Svaret är: 1612.12
+
+Lägg ihop 0.1 och -0.0837.
+Svar: 0.0163
+
+Vad är -0.1 - -628?
+Svaret är: 627.9
+
+75360.7 - -1
+Svar: 75361.7
+
+Beräkna -1675 - 10.8.
+Svaret är: -1685.8
+
+Vad är -4 ta bort -79.83?
+Svar: 75.83
+
+Summera 5 och 2197.
+Svar: 2202
+
+Vad är -156 - -19?
+Svar: -137
+
+Vad är 0.3 - 11077?
+Svar: -11076.7
+
+Vad är -111.0554 minus -2?
+Svaret är: -109.0554
+
+Subtrahera 4 från -1206689.
+Svar: -1206693
+
+Vad är 15 plus -2882?
+Svar: -2867
+
+Lägg ihop -0.07 och -33.
+Svaret är: -33.07
+
+Räkna ut -0.009 - -2.271.
+Svar: 2.262
+
+Vad är avståndet mellan 0.14 och -50?
+Svar: 50.14
+
+Summera -4.9 och -1.95.
+Svaret är: -6.85
+
+Vad är skillnaden mellan -2 och 393056?
+Svar: 393058
+
+Vad är 584.269 plus 3?
+Svar: 587.269
+
+-0.85 - 4.76
+Svaret är: -5.61
+
+Summan av 8.82 och -13.
+Svar: -4.18
+
+Vad är 0.067 mindre än -1043?
+Svaret är: -1043.067
+
+Summera 2 och 21205.
+Svar: 21207
+
+Vad är 9 minus 344?
+Svaret är: -335
+

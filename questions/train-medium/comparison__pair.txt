@@ -1,6 +1,90 @@
-Är -13878/215 och -65 icke lika?
-True
-Är -1 högst lika mycket som -23/1790?
-True
-Är 1 >= 2/146883?
-True
+Har 878 och 0.81 samma värde?
+Svaret är: False
+
+Which is bigger: 2562712 or 1/4?
+Svar: 2562712
+
+Är -0.1 och 335627 olika?
+Svaret är: True
+
+Är 31535/6 mindre än 5255?
+Svaret är: False
+
+Är 1/130880 minst lika mycket som 1?
+Svar: False
+
+Which is greater: -4 or -358.78?
+Svaret är: -4
+
+Är -12894/5 mindre än -2578?
+Svaret är: True
+
+Which is smaller: 1 or 2/540331?
+Svar: 2/540331
+
+Which is smaller: -4.58211 or -1?
+Svar: -4.58211
+
+Which is greater: 2/863 or 2/269?
+Svaret är: 2/269
+
+Är -12/7 större än -252/139?
+Svar: True
+
+Which is bigger: 8.345 or -0.07?
+Svaret är: 8.345
+
+Är 796 lika med 801?
+Svar: False
+
+Which is bigger: 0 or 8/182969?
+Svar: 8/182969
+
+Är 2.44 != 12/11?
+Svaret är: True
+
+Which is smaller: 8 or 0.04573?
+Svar: 0.04573
+
+Är 1 mindre än -1/10963377?
+Svaret är: False
+
+Är -3 <= 1946/9?
+Svar: True
+
+Which is smaller: 0 or 1/39257?
+Svar: 0
+
+Which is bigger: 681/109 or 1/3?
+Svar: 681/109
+
+Which is bigger: 250/867 or -1?
+Svaret är: 250/867
+
+Which is smaller: -1/683 or 15?
+Svaret är: -1/683
+
+Är 2/7 högst lika mycket som -1421/4?
+Svar: False
+
+Which is greater: 313754/5 or 62750?
+Svar: 313754/5
+
+Är 241 != 397?
+Svaret är: True
+
+Which is bigger: -1989 or -2045?
+Svaret är: -1989
+
+Which is bigger: -2725809 or 0?
+Svaret är: 0
+
+Är -47 >= -1.075?
+Svar: False
+
+Har 1663513 och 1663512 samma värde?
+Svaret är: False
+
+Är 1284192 != 1284191?
+Svar: True
+

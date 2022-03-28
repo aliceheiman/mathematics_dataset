@@ -1,6 +1,90 @@
-Antag att -2*z - 5*y = -146, 5*z + 5*y = 397 - 62. Vilken är den största gemensamma faktorn till 7 och z?
-7
-Låt m vara 2/9 - 3484/(-117). Vilken är den största gemensamma delaren till 30 och m?
-30
-Låt y(g) = g**3 + 4*g**2 + 5*g + 2. Låt w vara y(-3). Låt f vara (3/w)/((-1)/(-12)). Låt s = f + 13. Beräkna den största gemensamma faktorn till s och 1.
-1
+Låt j(p) = p**2 - p - 9. Antag att 2*i - 1 = -13. Låt y vara j(i). Beräkna den största gemensamma delaren till 22 och y.
+Svar: 11
+
+Antag att 228 + 17 = 5*r - 5*x, -151 = -3*r + 4*x. Antag att -3*u + 232 - 55 = 0. Låt m = -41 + u. Vilken är den största gemensamma delaren till m och r?
+Svaret är: 9
+
+Låt s(m) = m + 5. Låt c vara s(9). Beräkna den största gemensamma delaren till 7 och c.
+Svaret är: 7
+
+Låt u(o) = 3 - 5*o**2. Låt j vara u(5). Låt c vara (-3)/15 + j/(-10). Vilken är den största gemensamma delaren till c och 48?
+Svar: 12
+
+Låt u = -15 + 29. Vilken är den största gemensamma faktorn till u och 14?
+Svaret är: 14
+
+Låt t = 1 - -9. Låt a(m) = -m - 5. Låt y vara a(-7). Vilken är den största gemensamma delaren till t och y?
+Svaret är: 2
+
+Antag att -17 = m - 51. Antag att 2*p = n + 86, 0 = -3*p + 5*n + 81 + m. Beräkna den största gemensamma faktorn till 5 och p.
+Svar: 5
+
+Antag att -j = -4*j - 6. Låt g = j - -7. Beräkna den största gemensamma faktorn till 2 och g.
+Svaret är: 1
+
+Låt b = 96 + -74. Beräkna den största gemensamma faktorn till 22 och b.
+Svaret är: 22
+
+Låt a = 36 - 24. Låt c(r) = r**2 + 7*r - 7. Låt b vara c(-8). Låt t vara (b/(-3))/(2/(-12)). Vilken är den största gemensamma faktorn till a och t?
+Svaret är: 2
+
+Låt m(z) = z**3 - 3*z**2 + 11. Låt n vara m(3). Vilken är den största gemensamma faktorn till 88 och n?
+Svaret är: 11
+
+Låt z = -11 + 15. Låt y = z + -5. Låt o = 7 + y. Beräkna den största gemensamma faktorn till 30 och o.
+Svaret är: 6
+
+Låt s(h) vara förstaderivatan av -h**2/2 + 6*h + 2. Låt o vara s(4). Låt r vara (144/o)/(0 - -1). Vilken är den största gemensamma delaren till 9 och r?
+Svar: 9
+
+Låt j = 5 - 2. Antag att -2*b + j*b = -2*i + 14, 4*b + 10 = 3*i. Beräkna den största gemensamma delaren till i och 48.
+Svar: 6
+
+Antag att 0 = s - 1, -2*m + 64 - 13 = -3*s. Antag att 5*o + 4*d = d + 3, 4*o = 4*d + 28. Beräkna den största gemensamma delaren till o och m.
+Svaret är: 3
+
+Antag att 47 = 2*c + 9. Vilken är den största gemensamma delaren till 76 och c?
+Svar: 19
+
+Antag att 0*l - 4*l = -p - 15, 4*l - 3*p = 21. Antag att 236 + 202 = 4*v - 2*c, -l*v + 334 = 4*c. Beräkna den största gemensamma faktorn till 10 och v.
+Svaret är: 10
+
+Antag att 4*y = 7*y - 6. Låt c vara (-72)/((-9)/3)*y. Låt s(q) = -120*q**3. Låt d vara s(-1). Vilken är den största gemensamma faktorn till c och d?
+Svar: 24
+
+Antag att b = 4*k - 340, b + b = 0. Beräkna den största gemensamma faktorn till 34 och k.
+Svaret är: 17
+
+Låt f(d) = d**3 - 8*d**2 + 17*d - 6. Låt a vara f(7). Vilken är den största gemensamma delaren till 8 och a?
+Svar: 8
+
+Låt m(b) = -7*b**3 + b**2 + b + 1. Låt d vara m(-1). Vilken är den största gemensamma faktorn till d och 20?
+Svar: 4
+
+Låt u(y) = -y**3 + y**2 + y + 30. Låt g vara u(0). Låt p(z) = z**2 - 11*z + 8. Låt a vara p(12). Vilken är den största gemensamma faktorn till g och a?
+Svar: 10
+
+Låt v(y) = 24*y**2 + y + 1. Låt l vara v(-1). Antag att 2*c - 14 = l. Låt h = -22 - -41. Vilken är den största gemensamma delaren till c och h?
+Svar: 19
+
+Låt b(n) = n**3 - 7*n**2 + 12*n - 2. Låt o vara b(5). Beräkna den största gemensamma faktorn till 2 och o.
+Svaret är: 2
+
+Antag att -3*y + 25 = -5. Beräkna den största gemensamma faktorn till 40 och y.
+Svar: 10
+
+Låt s = -1 + 4. Antag att -3*h + 3*o + 1 = -2, 0 = -s*o + 3. Låt n vara ((-2)/(-5))/((-2)/(-40)). Beräkna den största gemensamma delaren till h och n.
+Svar: 2
+
+Antag att -4*z + 2*x + 536 = 0, 5*x + 395 = -0*z + 3*z. Beräkna den största gemensamma faktorn till 15 och z.
+Svar: 15
+
+Antag att -9*f = -11*f + 46. Låt r = f - 11. Vilken är den största gemensamma faktorn till r och 18?
+Svar: 6
+
+Låt o(q) = 10 - 4*q. Låt v vara o(0). Vilken är den största gemensamma delaren till 25 och v?
+Svaret är: 5
+
+Låt m = 75 + -40. Antag att 0 = -4*y + 4, 3*j + 5*y + 16 = 6*j. Beräkna den största gemensamma faktorn till m och j.
+Svar: 7
+

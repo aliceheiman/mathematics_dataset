@@ -1,6 +1,90 @@
-Vad är tiotalssiffran i 512?
-1
-Vad är hundratalssiffran i 7284?
-2
-Vad är entalssiffran i 2670?
-0
+Vad är hundratalssiffran i 260?
+Svar: 2
+
+Vad är entalssiffran i 104404?
+Svar: 4
+
+Vad är entalssiffran i 50585?
+Svaret är: 5
+
+Vad är tiotalssiffran i 1176?
+Svar: 7
+
+Vad är tiotusentalssiffran i 20199?
+Svar: 2
+
+Vad är tusentalssiffran i 42881?
+Svaret är: 2
+
+Vad är tiotalssiffran i 3109?
+Svar: 0
+
+Vad är tiotalssiffran i 883?
+Svar: 8
+
+Vad är entalssiffran i 1143?
+Svar: 3
+
+Vad är entalssiffran i 1866?
+Svaret är: 6
+
+Vad är tiotalssiffran i 8935?
+Svar: 3
+
+Vad är entalssiffran i 4554?
+Svar: 4
+
+Vad är tiotalssiffran i 4855?
+Svar: 5
+
+Vad är tiotalssiffran i 25789?
+Svar: 8
+
+Vad är tiotalssiffran i 4999?
+Svar: 9
+
+Vad är hundratalssiffran i 1483?
+Svaret är: 4
+
+Vad är tiotalssiffran i 89732?
+Svaret är: 3
+
+Vad är tusentalssiffran i 2408?
+Svar: 2
+
+Vad är tiotalssiffran i 77019?
+Svar: 1
+
+Vad är entalssiffran i 967?
+Svaret är: 7
+
+Vad är tusentalssiffran i 1014?
+Svaret är: 1
+
+Vad är hundratalssiffran i 6413?
+Svar: 4
+
+Vad är hundratalssiffran i 5720?
+Svar: 7
+
+Vad är tiotalssiffran i 901?
+Svaret är: 0
+
+Vad är hundratalssiffran i 7118?
+Svar: 1
+
+Vad är tiotusentalssiffran i 43909?
+Svar: 4
+
+Vad är tusentalssiffran i 7810?
+Svaret är: 7
+
+Vad är hundratalssiffran i 1076?
+Svar: 0
+
+Vad är tiotalssiffran i 16472?
+Svaret är: 7
+
+Vad är tusentalssiffran i 18969?
+Svaret är: 8
+

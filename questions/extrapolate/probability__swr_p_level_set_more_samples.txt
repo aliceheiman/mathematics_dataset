@@ -1,20 +1,300 @@
-Beräkna sannolikheten att välja 5 o då fem bokstäver väljs utan återsättning från foeoooo.
-1/21
-Beräkna sannolikheten att välja 4 b and 1 d då fem bokstäver väljs utan återsättning från {b: 9, w: 8, d: 1}.
-1/68
-Fem bokstäver väljs utan återsättning från wkwwwknwkwnne. Ange sannolikheten att välja 2 n and 3 k.
-1/429
-Fem bokstäver väljs utan återsättning från hhcwhhtcqhqcqqhcthhc. Vad är sannolikheten att välja 2 t, 1 q and 2 h?
-7/969
-Fem bokstäver väljs utan återsättning från yyyiiiyicci. Ange sannolikheten att välja 1 y and 4 i.
-10/231
-Fem bokstäver väljs utan återsättning från {w: 1, i: 4, o: 2, n: 2, p: 1}. Vad är sannolikheten att välja 3 i, 1 n and 1 o?
-4/63
-Fem bokstäver väljs utan återsättning från xoeqqxnekqnq. Vad är sannolikheten att välja 1 k, 2 n, 1 e and 1 x?
-1/198
-Fem bokstäver väljs utan återsättning från gnfggffqqufqgruf. Vad är sannolikheten att välja 1 q and 4 g?
-1/1456
-Beräkna sannolikheten att välja 3 q and 2 r då fem bokstäver väljs utan återsättning från {q: 5, r: 5}.
-25/63
-Vad är sannolikheten att välja 3 j and 2 n då fem bokstäver väljs utan återsättning från {j: 3, y: 4, n: 2}?
-1/126
+Fem bokstäver väljs utan återsättning från {d: 2, b: 8, a: 4}. Ange sannolikheten att välja 2 a, 1 b and 2 d.
+Svar: 24/1001
+
+Vad är sannolikheten att välja 2 y and 3 k då fem bokstäver väljs utan återsättning från kkyykkkkkkykk?
+Svaret är: 40/143
+
+Fem bokstäver väljs utan återsättning från {s: 7, b: 9, q: 1}. Vad är sannolikheten att välja 2 s and 3 q?
+Svar: 0
+
+Beräkna sannolikheten att välja 3 q, 1 h and 1 m då fem bokstäver väljs utan återsättning från {m: 1, x: 1, q: 3, h: 2, f: 2}.
+Svaret är: 1/63
+
+Vad är sannolikheten att välja 5 l då fem bokstäver väljs utan återsättning från {l: 11, i: 5}?
+Svaret är: 11/104
+
+Beräkna sannolikheten att välja 2 o and 3 d då fem bokstäver väljs utan återsättning från {d: 4, o: 2, f: 6}.
+Svar: 1/198
+
+Beräkna sannolikheten att välja 1 q and 4 n då fem bokstäver väljs utan återsättning från {n: 10, q: 2, m: 3, a: 1}.
+Svar: 5/52
+
+Fem bokstäver väljs utan återsättning från {n: 4, b: 9, i: 2, d: 2}. Vad är sannolikheten att välja 4 n and 1 d?
+Svaret är: 1/3094
+
+Beräkna sannolikheten att välja 1 e, 2 o, 1 s and 1 p då fem bokstäver väljs utan återsättning från {s: 2, j: 3, e: 5, o: 2, p: 1}.
+Svaret är: 10/1287
+
+Beräkna sannolikheten att välja 1 k, 1 d and 3 e då fem bokstäver väljs utan återsättning från {e: 3, d: 4, k: 3, b: 3}.
+Svar: 4/429
+
+Fem bokstäver väljs utan återsättning från slvsbsrvsslsdsb. Ange sannolikheten att välja 2 l, 1 d, 1 v and 1 r.
+Svar: 2/3003
+
+Vad är sannolikheten att välja 2 v, 2 k and 1 d då fem bokstäver väljs utan återsättning från dkuupvukussvu?
+Svar: 1/1287
+
+Fem bokstäver väljs utan återsättning från dddudpupiieedgeg. Ange sannolikheten att välja 1 p, 1 u, 1 i and 2 e.
+Svar: 1/182
+
+Fem bokstäver väljs utan återsättning från {k: 3, h: 10}. Vad är sannolikheten att välja 3 k and 2 h?
+Svar: 5/143
+
+Beräkna sannolikheten att välja 2 b and 3 z då fem bokstäver väljs utan återsättning från zzzbzzzzzzbozzz.
+Svar: 20/273
+
+Fem bokstäver väljs utan återsättning från irmmramirdadairmm. Vad är sannolikheten att välja 1 r, 1 m and 3 a?
+Svar: 5/1547
+
+Fem bokstäver väljs utan återsättning från {k: 1, h: 5, g: 1, q: 1, l: 4, a: 3}. Vad är sannolikheten att välja 1 h, 1 l and 3 k?
+Svaret är: 0
+
+Fem bokstäver väljs utan återsättning från lccllclcl. Ange sannolikheten att välja 3 c and 2 l.
+Svar: 20/63
+
+Fem bokstäver väljs utan återsättning från {d: 2, y: 1, a: 2, x: 1, p: 2, q: 2}. Vad är sannolikheten att välja 2 q, 1 d and 2 p?
+Svaret är: 1/126
+
+Beräkna sannolikheten att välja 2 j and 3 m då fem bokstäver väljs utan återsättning från {j: 7, m: 4}.
+Svar: 2/11
+
+Vad är sannolikheten att välja 1 p, 1 c and 3 t då fem bokstäver väljs utan återsättning från {t: 5, p: 12, c: 2}?
+Svaret är: 20/969
+
+Fem bokstäver väljs utan återsättning från {c: 4, a: 3, i: 1}. Ange sannolikheten att välja 1 a and 4 c.
+Svar: 3/56
+
+Fem bokstäver väljs utan återsättning från {l: 6, o: 5, u: 4, v: 3}. Vad är sannolikheten att välja 1 v and 4 o?
+Svaret är: 5/2856
+
+Beräkna sannolikheten att välja 1 f, 2 b and 2 h då fem bokstäver väljs utan återsättning från {h: 3, f: 5, b: 10}.
+Svaret är: 75/952
+
+Beräkna sannolikheten att välja 1 t, 3 x and 1 q då fem bokstäver väljs utan återsättning från {n: 1, b: 2, t: 2, q: 3, m: 1, x: 1}.
+Svar: 0
+
+Fem bokstäver väljs utan återsättning från sbbiqqbibfisnbif. Ange sannolikheten att välja 1 b, 3 i and 1 f.
+Svaret är: 5/546
+
+Fem bokstäver väljs utan återsättning från {s: 2, b: 2, q: 1, u: 2}. Vad är sannolikheten att välja 2 u, 2 s and 1 b?
+Svar: 2/21
+
+Fem bokstäver väljs utan återsättning från owwooonwoww. Vad är sannolikheten att välja 1 n and 4 w?
+Svaret är: 5/462
+
+Fem bokstäver väljs utan återsättning från qqszbssezbqsb. Ange sannolikheten att välja 3 s and 2 b.
+Svaret är: 4/429
+
+Fem bokstäver väljs utan återsättning från {u: 6, p: 6, n: 1}. Vad är sannolikheten att välja 3 p, 1 n and 1 u?
+Svaret är: 40/429
+
+Fem bokstäver väljs utan återsättning från vvvlhkvkkvvvl. Ange sannolikheten att välja 1 k, 1 h and 3 v.
+Svaret är: 35/429
+
+Fem bokstäver väljs utan återsättning från {i: 5, z: 1, r: 11}. Ange sannolikheten att välja 1 i, 2 z and 2 r.
+Svaret är: 0
+
+Beräkna sannolikheten att välja 1 d, 1 u, 2 t and 1 n då fem bokstäver väljs utan återsättning från {u: 2, t: 3, y: 6, m: 3, n: 2, d: 1}.
+Svar: 3/1547
+
+Fem bokstäver väljs utan återsättning från {u: 4, m: 12}. Ange sannolikheten att välja 1 m and 4 u.
+Svar: 1/364
+
+Beräkna sannolikheten att välja 2 a and 3 u då fem bokstäver väljs utan återsättning från uaaejyauyauajeejeea.
+Svar: 5/3876
+
+Fem bokstäver väljs utan återsättning från {z: 3, w: 4, o: 9}. Vad är sannolikheten att välja 3 w and 2 o?
+Svar: 3/91
+
+Beräkna sannolikheten att välja 4 n and 1 e då fem bokstäver väljs utan återsättning från {q: 1, n: 4, s: 10, r: 2, k: 1, e: 1}.
+Svaret är: 1/11628
+
+Fem bokstäver väljs utan återsättning från ttttttttitttttt. Vad är sannolikheten att välja 1 i and 4 t?
+Svar: 1/3
+
+Vad är sannolikheten att välja 1 k, 1 j, 1 n and 2 z då fem bokstäver väljs utan återsättning från nknnkzzzkznjkknznk?
+Svar: 5/119
+
+Fem bokstäver väljs utan återsättning från mmmcmttt. Ange sannolikheten att välja 1 t, 3 m and 1 c.
+Svaret är: 3/14
+
+Fem bokstäver väljs utan återsättning från {u: 3, k: 2, s: 2, t: 1, e: 2}. Vad är sannolikheten att välja 1 k, 2 e and 2 s?
+Svar: 1/126
+
+Fem bokstäver väljs utan återsättning från {z: 2, y: 3, k: 5, e: 1, i: 4, u: 3}. Vad är sannolikheten att välja 1 y, 2 k and 2 z?
+Svar: 5/1428
+
+Beräkna sannolikheten att välja 5 r då fem bokstäver väljs utan återsättning från rreoeerereoeeeoerer.
+Svaret är: 1/1938
+
+Fem bokstäver väljs utan återsättning från {r: 5, b: 6}. Vad är sannolikheten att välja 4 r and 1 b?
+Svaret är: 5/77
+
+Beräkna sannolikheten att välja 1 h, 3 g and 1 r då fem bokstäver väljs utan återsättning från ggsrgrsshtsggr.
+Svar: 15/1001
+
+Beräkna sannolikheten att välja 1 m, 1 w, 2 c and 1 n då fem bokstäver väljs utan återsättning från {m: 2, w: 3, n: 5, k: 2, c: 2}.
+Svaret är: 15/1001
+
+Vad är sannolikheten att välja 4 m and 1 k då fem bokstäver väljs utan återsättning från mmuumummumkummmum?
+Svar: 15/442
+
+Fem bokstäver väljs utan återsättning från {z: 6, f: 1, v: 1, k: 2, p: 4, b: 2}. Vad är sannolikheten att välja 1 z and 4 p?
+Svaret är: 1/728
+
+Beräkna sannolikheten att välja 3 e, 1 c and 1 i då fem bokstäver väljs utan återsättning från {i: 4, e: 3, c: 5}.
+Svaret är: 5/198
+
+Fem bokstäver väljs utan återsättning från zxyzxzxxy. Vad är sannolikheten att välja 2 z and 3 x?
+Svar: 2/21
+
+Vad är sannolikheten att välja 2 x, 1 i, 1 p and 1 f då fem bokstäver väljs utan återsättning från zfzrfrizpzixzxxzfiz?
+Svar: 3/1292
+
+Fem bokstäver väljs utan återsättning från vauuruoobuuaruourrbb. Ange sannolikheten att välja 1 v, 2 r and 2 o.
+Svaret är: 3/2584
+
+Fem bokstäver väljs utan återsättning från ddrrddrkkrrdadd. Ange sannolikheten att välja 1 k and 4 d.
+Svar: 10/429
+
+Vad är sannolikheten att välja 1 e, 2 u and 2 s då fem bokstäver väljs utan återsättning från {e: 6, u: 2, s: 1, m: 1}?
+Svar: 0
+
+Beräkna sannolikheten att välja 2 o, 2 m and 1 u då fem bokstäver väljs utan återsättning från uuuuoomuumuuuuuur.
+Svaret är: 3/1547
+
+Beräkna sannolikheten att välja 1 v, 2 m, 1 p and 1 y då fem bokstäver väljs utan återsättning från {m: 3, t: 1, w: 1, v: 3, y: 1, p: 1}.
+Svar: 1/28
+
+Vad är sannolikheten att välja 3 g and 2 j då fem bokstäver väljs utan återsättning från {g: 6, j: 4}?
+Svaret är: 10/21
+
+Beräkna sannolikheten att välja 4 d and 1 x då fem bokstäver väljs utan återsättning från dvvvvvxvdvvvdvvdxxdv.
+Svaret är: 5/5168
+
+Fem bokstäver väljs utan återsättning från wwwcwkkwvkwwwwaccw. Vad är sannolikheten att välja 2 c, 1 k, 1 a and 1 w?
+Svaret är: 5/476
+
+Beräkna sannolikheten att välja 2 h and 3 l då fem bokstäver väljs utan återsättning från lzhlzlzhh.
+Svaret är: 1/42
+
+Beräkna sannolikheten att välja 2 y, 2 u and 1 l då fem bokstäver väljs utan återsättning från uyuulylluuuu.
+Svaret är: 7/88
+
+Fem bokstäver väljs utan återsättning från {e: 1, l: 1, w: 2, o: 1, b: 2, p: 1}. Vad är sannolikheten att välja 2 b, 1 p, 1 o and 1 w?
+Svar: 1/28
+
+Beräkna sannolikheten att välja 3 h and 2 x då fem bokstäver väljs utan återsättning från xhhhxhxwhxhkxhx.
+Svaret är: 25/143
+
+Fem bokstäver väljs utan återsättning från {u: 2, c: 1, h: 4, v: 1, e: 4}. Vad är sannolikheten att välja 2 u, 2 e and 1 h?
+Svaret är: 1/33
+
+Fem bokstäver väljs utan återsättning från {p: 1, v: 4, u: 1}. Vad är sannolikheten att välja 1 p, 3 v and 1 u?
+Svaret är: 2/3
+
+Beräkna sannolikheten att välja 1 h, 2 d and 2 w då fem bokstäver väljs utan återsättning från rrddhrwrrrdjrrwd.
+Svar: 1/728
+
+Fem bokstäver väljs utan återsättning från {b: 7, k: 4, m: 5}. Vad är sannolikheten att välja 2 b and 3 m?
+Svaret är: 5/104
+
+Fem bokstäver väljs utan återsättning från {j: 4, l: 3, f: 1, q: 3, p: 6, m: 2}. Vad är sannolikheten att välja 1 m, 1 f and 3 p?
+Svaret är: 10/2907
+
+Fem bokstäver väljs utan återsättning från vjvvvvqvv. Ange sannolikheten att välja 5 v.
+Svaret är: 1/6
+
+Vad är sannolikheten att välja 2 a, 1 k, 1 l and 1 y då fem bokstäver väljs utan återsättning från kkakykaakyltyylata?
+Svaret är: 50/1071
+
+Fem bokstäver väljs utan återsättning från {y: 4, n: 1, s: 8, q: 3, e: 1}. Vad är sannolikheten att välja 5 s?
+Svaret är: 2/221
+
+Fem bokstäver väljs utan återsättning från ayayvvyyapvvvvv. Vad är sannolikheten att välja 2 a, 1 p and 2 v?
+Svaret är: 3/143
+
+Vad är sannolikheten att välja 5 v då fem bokstäver väljs utan återsättning från okbrkvjvjvkvokvvr?
+Svar: 3/3094
+
+Fem bokstäver väljs utan återsättning från {w: 4, m: 7}. Ange sannolikheten att välja 5 m.
+Svaret är: 1/22
+
+Fem bokstäver väljs utan återsättning från {m: 5, c: 2, a: 2}. Ange sannolikheten att välja 2 c, 1 a and 2 m.
+Svaret är: 10/63
+
+Fem bokstäver väljs utan återsättning från rrtrtwkwrkwtrk. Ange sannolikheten att välja 1 r, 3 t and 1 k.
+Svaret är: 15/2002
+
+Vad är sannolikheten att välja 4 h and 1 i då fem bokstäver väljs utan återsättning från {i: 3, h: 4}?
+Svar: 1/7
+
+Fem bokstäver väljs utan återsättning från jjcjcqfffxfqcqjcf. Vad är sannolikheten att välja 1 q, 3 c and 1 x?
+Svaret är: 3/1547
+
+Beräkna sannolikheten att välja 5 y då fem bokstäver väljs utan återsättning från {y: 7}.
+Svaret är: 1
+
+Beräkna sannolikheten att välja 2 d and 3 x då fem bokstäver väljs utan återsättning från dxxxxxdxxd.
+Svar: 5/12
+
+Fem bokstäver väljs utan återsättning från mqqqmqqmmqmmq. Ange sannolikheten att välja 2 m and 3 q.
+Svar: 175/429
+
+Fem bokstäver väljs utan återsättning från {e: 2, i: 1, v: 2, t: 1, y: 1, j: 4}. Vad är sannolikheten att välja 1 v, 1 y, 2 e and 1 i?
+Svar: 1/231
+
+Fem bokstäver väljs utan återsättning från jgjggggvggjjjvgvvvg. Vad är sannolikheten att välja 1 g, 2 v and 2 j?
+Svar: 25/323
+
+Beräkna sannolikheten att välja 1 y and 4 l då fem bokstäver väljs utan återsättning från {l: 6, y: 7}.
+Svar: 35/429
+
+Beräkna sannolikheten att välja 1 f, 1 p, 1 u and 2 h då fem bokstäver väljs utan återsättning från hphfhfffhhfhhuhufff.
+Svar: 112/2907
+
+Fem bokstäver väljs utan återsättning från {b: 6, z: 2}. Ange sannolikheten att välja 2 z and 3 b.
+Svaret är: 5/14
+
+Fem bokstäver väljs utan återsättning från fyyyeyynyfneeeey. Vad är sannolikheten att välja 3 y and 2 f?
+Svaret är: 5/624
+
+Vad är sannolikheten att välja 1 f, 1 i, 1 j and 2 r då fem bokstäver väljs utan återsättning från {i: 3, m: 1, j: 1, f: 1, r: 5}?
+Svaret är: 5/77
+
+Beräkna sannolikheten att välja 1 k, 1 t, 1 a, 1 g and 1 l då fem bokstäver väljs utan återsättning från alqaqttatatkg.
+Svar: 16/1287
+
+Fem bokstäver väljs utan återsättning från {j: 12, r: 2, h: 1}. Vad är sannolikheten att välja 1 h, 2 j and 2 r?
+Svar: 2/91
+
+Beräkna sannolikheten att välja 2 i, 2 y and 1 f då fem bokstäver väljs utan återsättning från yfffiyffyfiff.
+Svar: 8/429
+
+Fem bokstäver väljs utan återsättning från totttt. Vad är sannolikheten att välja 1 o and 4 t?
+Svar: 5/6
+
+Fem bokstäver väljs utan återsättning från ccswwcqqqwsssccsssc. Ange sannolikheten att välja 1 q and 4 s.
+Svaret är: 35/3876
+
+Fem bokstäver väljs utan återsättning från {v: 7, m: 7, j: 4}. Vad är sannolikheten att välja 2 m, 2 j and 1 v?
+Svar: 7/68
+
+Vad är sannolikheten att välja 1 p and 4 o då fem bokstäver väljs utan återsättning från {p: 13, o: 7}?
+Svaret är: 455/15504
+
+Fem bokstäver väljs utan återsättning från {t: 4, c: 6, b: 3, j: 1, x: 1, g: 1}. Vad är sannolikheten att välja 1 c, 1 j, 1 g and 2 b?
+Svaret är: 3/728
+
+Fem bokstäver väljs utan återsättning från {s: 6, u: 4}. Ange sannolikheten att välja 2 u and 3 s.
+Svaret är: 10/21
+
+Fem bokstäver väljs utan återsättning från bmlzabboaoooozoozobm. Vad är sannolikheten att välja 1 l, 2 o and 2 m?
+Svaret är: 7/3876
+
+Vad är sannolikheten att välja 5 y då fem bokstäver väljs utan återsättning från tyttyyqqqlyyqycl?
+Svaret är: 1/728
+
+Fem bokstäver väljs utan återsättning från {o: 1, n: 2, v: 2, t: 1, k: 1, i: 3}. Vad är sannolikheten att välja 2 i, 1 k and 2 n?
+Svar: 1/84
+
