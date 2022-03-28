@@ -16,9 +16,10 @@ for line in contents:
         continue
 
     eng, lang = line.split(" ### ")
-    statements.append(f'lang.l.translate("{eng}"),')
+    statements.append(f"'{eng}',")
 
 statements = "\n".join(statements)
+statements = "lang.l.parse([" + statements + "])"
 
 pyperclip.copy(statements)
 print("Language statements copied to clipboard.")

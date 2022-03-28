@@ -180,16 +180,13 @@ def polynomial_roots(value, sample_args, context=None):
         template = random.choice(
             lang.l.parse(
                 [
-                    "Let {equality}. What is {variable}?",
-                    "Let {equality}. Calculate {variable}.",
-                    "Suppose {equality}. What is {variable}?",
-                    "Suppose {equality}. Calculate {variable}.",
+                    "[Let, Suppose, Given] {equality}. What is {variable}?",
+                    "[Let, Suppose, Given] {equality}. [Calculate, Compute, Find] {variable}.",
                     "What is {variable} in {equality}?",
                     "Solve {equality} for {variable}.",
                     "Find {variable} such that {equality}.",
-                    "Find {variable}, given that {equality}.",
-                    "Determine {variable} so that {equality}.",
-                    "Determine {variable}, given that {equality}.",
+                    "[Find, Determine] {variable}, given that {equality}.",
+                    "[Find, Determine] {variable} so that {equality}.",
                     "Solve {equality}.",
                 ]
             )
@@ -212,9 +209,8 @@ def polynomial_roots(value, sample_args, context=None):
                     "Factor {expression} as fully as possible.",
                     "Factor the following polynomial {expression}.",
                     "Take the expression {expression} and factor it.",
-                    "Write {expression} as a product of factors.",
                     "Convert {expression} into a product of factors.",
-                    "Rewrite {expression} as a product of factors.",
+                    "[Write, Rewrite] {expression} as a product of factors.",
                 ]
             )
         )
@@ -355,8 +351,7 @@ def sequence_next_term(min_entropy, max_entropy):
             [
                 "What is next in {sequence}?",
                 "What comes next: {sequence}?",
-                "What is the next term in {sequence}?",
-                "What is the next item in {sequence}?",
+                "What is the next [term, item, element] in {sequence}?",
                 "Following the pattern in {sequence}, what comes next?",
                 "Continue {sequence} and give the next term.",
                 "Take the sequence {sequence}. What comes next?",

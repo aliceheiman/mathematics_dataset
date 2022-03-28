@@ -1,25 +1,21 @@
 ### MODULES
 
 # Algebra
-Let {equality}. What is {variable}? ### Låt {equality}. Vad är {variable}?
-Let {equality}. Calculate {variable}. ### Låt {equality}. Beräkna {variable}.
-Suppose {equality}. What is {variable}? ### Antag att {equality}. Vad är {variable}?
-Suppose {equality}. Calculate {variable}. ### Antag att {equality}. Vad är {variable}.
+[Let, Suppose, Given] {equality}. What is {variable}? ### [Låt, Givet att] {equality}. Vad är {variable}?
+[Let, Suppose, Given] {equality}. [Calculate, Compute, Find] {variable}. ### [Låt, Givet att] {equality}. [Beräkna, Hitta värdet på] {variable}.
 What is {variable} in {equality}? ### Vad är {variable} i {equality}?
 Solve {equality} for {variable}. ### Lös {equality} för {variable}.
 Find {variable} such that {equality}. ### Bestäm {variable} så att {equality}.
-Find {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
-Determine {variable} so that {equality}. ### Bestäm {variable} så att {equality}.
-Determine {variable}, given that {equality}. ### Bestäm {variable}, givet att {equality}.
+[Find, Determine] {variable}, given that {equality}. ### [Hitta värdet på, Bestäm] {variable}, givet att {equality}.
+[Find, Determine] {variable} so that {equality}. ### [Hitta värdet på, Bestäm] {variable} så att {equality}.
 Solve {equality}. ### Lös {equality}.
 
 Factor {expression}. ### Faktorisera {expression}.
 Factor {expression} as fully as possible. ### Faktorisera {expression} så långt som möjligt.
 Factor the following polynomial {expression}. ### Faktorisera följande polynom {expression}.
 Take the expression {expression} and factor it. ### Ta uttrycket {expression} och faktorisera det.
-Write {expression} as a product of factors. ### Skriv {expression} som en produkt av faktorer.
 Convert {expression} into a product of factors. ### Omvandla {expression} till en produkt av faktorer.
-Rewrite {expression} as a product of factors. ### Skriv om {expression} till en produkt av faktorer.
+[Write, Rewrite] {expression} as a product of factors. ### [Skriv, Skriv om] {expression} som en produkt av faktorer.
 
 Solve {equations} for {variable}. ### Lös {equations} för {variable}.
 Solve {equations}. ### Lös {equations}.
@@ -34,12 +30,11 @@ Suppose {equations}. ### Antag att {equations}.
 
 What is next in {sequence}? ### Vad kommer näst i {sequence}?
 What comes next: {sequence}? ### Vad kommer näst: {sequence}?
-What is the next term in {sequence}? ### Vad är nästa term i {sequence}?
-What is the next item in {sequence}? ### Vad är nästa element i {sequence}?
+What is the next [term, item, element] in {sequence}? ### Vad är nästa [term, element] i {sequence}?
 Following the pattern in {sequence}, what comes next? ### Genom att fortsätta mönstret i {sequence}, vad kommer näst?
 Continue {sequence} and give the next term. ### Fortsätt på {sequence} och ge nästa term.
 Take the sequence {sequence}. What comes next? ### Betrakta sekvensen {sequence}. Vad kommer näst?
-Take the sequence {sequence}. What is the next term? ### Betrakta sekvensen {sequencen}. Vad är nästa term?
+Take the sequence {sequence}. What is the next term? ### Betrakta sekvensen {sequence}. Vad är nästa term?
 
 What is the {variable}'th term of {sequence}? ### Vilken är den {variable}:te termen i {sequence}?
 Take the sequence {sequence}. What is the {variable}'th term? ### Betrakta sekvensen {sequence}. Vad är den {variable}:te termen?
