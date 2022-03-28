@@ -15,6 +15,7 @@
 import os
 import sys
 import re
+import itertools
 
 
 class Lang:
@@ -75,31 +76,10 @@ class Lang:
         Args:
             template (string): a template strings. Converts "[Synonym1, Synonym2] ..." into separate list items.
 
+        Returns:
+            templates (array): a list of generated template strings from the original.
+
         """
-
-        def combine(current_selection, synonym_list):
-            """_summary_
-
-            Args:
-                current_selection (array): array of picked synonyms.
-                synonym_list (array): synonyms to be picked
-
-            Returns:
-                _type_: _description_
-            """
-
-            # Base cases
-            if len(synonym_list) == 0:
-                return current_selection
-
-            # If choices left, pop of the first choice list
-            choices = synonym_list[0]
-            synonym_list = synonym_list[1:]
-
-            # Go through every synonym in the choices list and keep on combining
-            for choice in choices:
-                current_selection.append(choice)
-                combine(current_selection, synonym_list)
 
         templates = []
 
@@ -110,9 +90,23 @@ class Lang:
             synonyms = [m[1:-1].split(", ") for m in matches]
 
             # Create every possible combination from the words
-            combinations = combine([], synonyms)
+            combinations = list(itertools.product(*synonyms))
+
+            # Substitute every match with the correct synonym
+            for combination in combinations:
+
+                # Make a new template
+                new_template = template
+
+                # Replace the synonym match block with every word combination
+                for match_block, word in zip(matches, combination):
+                    new_template = new_template.replace(match_block, word)
+
+                # Add new template to templates
+                templates.append(new_template)
 
         else:
+            # No synonyms, just return the original template
             templates.append(template)
 
         return templates
@@ -123,24 +117,25 @@ class Lang:
         Args:
             templates (array): a list of template strings. Converts "[Synonym1, Synonym2] ..." into separate list items.
 
-            Example template: Compute 5 times 5. ### Beräkna 5 gånger 5.
         """
 
+        # Store all templates
         all_templates = []
 
+        # Go through all provided templates
         for template in templates:
 
-            # Template
-            if "[" in template and "]" in template:
-                # Get synonyms enclosed in brackets from english and translation
-                eng_synonyms, lang_synonyms = re.findall("\[.*?\]", template)
+            # Translate template
+            translation = self.translate(template)
 
-                # Go through each item in each block
-                eng_block = eng_synonyms[1:-1].split(", ")
-                lang_block = lang_synonyms[1:-1].split(", ")
+            # Parse synonyms
+            translations = self.parse_synonyms(translation)
 
-                for eng_syn, lang_syn in zip(eng_block, lang_block):
-                    new_template = template.replace(eng_block)
+            # Add to all templates
+            all_templates.append(translations)
+
+        # Return
+        return all_templates
 
 
 def init_translation(language="en"):
