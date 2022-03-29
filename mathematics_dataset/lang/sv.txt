@@ -144,27 +144,29 @@ What is the derivative of {eq}? ### Vad är derivatan av {eq}?
 Let {fn}({variables}) be the {nth} derivative of {eq}. ### Låt {fn}({variables}) vara {nth}derivatan av {eq}.
 
 # Comparisons
-Which is bigger: {left} or {right}?' ### Vilken är större: {left} eller {right}?'
-Which is greater: {left} or {right}?' ### Vilken är större: {left} eller {right}?'
-Which is smaller: {left} or {right}?' ### Vilken är mindre: {left} eller {right}?'
+Which is [bigger, greater, larger]: {left} or {right}? ### Vilken är större: {left} eller {right}?
+[Between, Of, Comparing] {left} and {right}, which is [bigger, greater, larger]? ### [Mellan, Jämför] {left} och {right}, vilken är större?
+Is {left} or {right} [bigger, greater, larger]? ### Är {left} eller {right} störst?
+Comparing {left} and {right}, which has the [biggest, greatest, largest] value? ### Jämför {left} och {right}, vilken har det [största, högsta] värdet?
+
+Which is smaller: {left} or {right}? ### Vilken är mindre: {left} eller {right}?
+[Between, Of, Comparing] {left} and {right}, which is smaller? ### [Mellan, Jämför] {left} och {right}, vilken är mindre?
+Is {left} or {right} smaller? ### Är {left} eller {right} minst?
+Comparing {left} and {right}, which has the [lowest, smallest] value? ### Jämför {left} och {right}, vilken har det [minsta, lägsta] värdet?
 
 Is {left} {ops.LT_SYMBOL} {right}? ### Är {left} {ops.LT_SYMBOL} {right}?
-Is {left} less than {right}? ### Är {left} mindre än {right}?
-Is {left} smaller than {right}? ### Är {left} mindre än {right}?
+Is {left} [less, smaller] than {right}? ### Är {left} mindre än {right}?
 
 Is {left} {ops.LE_SYMBOL} {right}? ### Är {left} {ops.LE_SYMBOL} {right}?
 Is {left} less than or equal to {right}? ### Är {left} mindre än eller lika med {right}?
-Is {left} at most {right}? ### Är {left} som mest {right}?
-Is {left} at most as big as {right}? ### Är {left} högst lika mycket som {right}?
+Is {left} [at most, at most as big as] {right}? ### Är {left} [som mest, högst lika mycket som] {right}?
 
 Is {left} {ops.GT_SYMBOL} {right}? ### Är {left} {ops.GT_SYMBOL} {right}?
-Is {left} greater than {right}? ### Är {left} större än {right}?
-Is {left} bigger than {right}? ### Är {left} större än {right}?
+Is {left} [greater, bigger] than {right}? ### Är {left} större än {right}?
 
 Is {left} {ops.GE_SYMBOL} {right}? ### Är {left} {ops.GE_SYMBOL} {right}?
 Is {left} greater than or equal to {right}? ### Är {left} större än eller lika med {right}?
-Is {left} at least {right}? ### Är {left} som minst {right}?
-Is {left} at least as big as {right}? ### Är {left} minst lika mycket som {right}?
+Is {left} [at least, at least as big as] {right}? ### Är {left} [som minst, minst lika mycket som] {right}?
 
 Does {left} {ops.EQ_SYMBOL} {right}? ### Är {left} {ops.EQ_SYMBOL} {right}?
 Are {left} and {right} equal? ### Är {left} och {right} lika?
@@ -173,9 +175,7 @@ Do {left} and {right} have the same value? ### Har {left} och {right} samma vär
 
 Is {left} {ops.NE_SYMBOL} {right}? ### Är {left} {ops.NE_SYMBOL} {right}?
 Is {left} not equal to {right}? ### Är {left} inte lika med {right}?
-Are {left} and {right} unequal? ### Är {left} och {right} olika?
-Are {left} and {right} nonequal? ### Är {left} och {right} skilda?
-Are {left} and {right} non-equal? ### Är {left} och {right} icke lika?
+Are {left} and {right} [unequal, nonequal, non-equal]? ### Är {left} och {right} [olika, skilda, icke lika]?
 Do {left} and {right} have different values? ### Har {left} och {right} olika värden?
 
 What is the {adjective} value in {values_template}? ### Vad är det {adjective} värdet i {values_template}?
@@ -190,8 +190,8 @@ Which is the {adjective} to {target}? ### Vilket är det {adjective} till {targe
 closest ### närmaste
 nearest ### närmaste
 
-Sort {unsorted_template} in {direction} order. ### Sortera {unsorted_template} i {direction} ordning.
-Put {unsorted_template} in {direction} order. ### Sätt {unsorted_template} i {direction} ordning.
+[Sort, Put, Place] {unsorted_template} in {direction} order. ### [Sortera, Sätt, Placera] {unsorted_template} i {direction} ordning.
+[Sort, Order] {unsorted_template}. ### [Sortera, Ordna] {unsorted_template}.
 Sort {unsorted_template}. ### Sortera {unsorted_template}.
 
 ascending ### stigande

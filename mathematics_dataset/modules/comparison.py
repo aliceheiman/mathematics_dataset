@@ -104,17 +104,26 @@ def _make_comparison_question(context, left, right):
         if random.choice([False, True]):
             answer = left.handle if sympy.Gt(left.value, right.value) else right.handle
             template = random.choice(
-                [
-                    lang.l.translate("Which is bigger: {left} or {right}?"),
-                    lang.l.translate("Which is greater: {left} or {right}?"),
-                ]
+                lang.l.parse(
+                    [
+                        "Which is [bigger, greater, larger]: {left} or {right}?",
+                        "[Between, Of, Comparing] {left} and {right}, which is [bigger, greater, larger]?",
+                        "Is {left} or {right} [bigger, greater, larger]?",
+                        "Comparing {left} and {right}, which has the [biggest, greatest, largest] value?",
+                    ]
+                )
             )
         else:
             answer = left.handle if sympy.Lt(left.value, right.value) else right.handle
             template = random.choice(
-                [
-                    lang.l.translate("Which is smaller: {left} or {right}?"),
-                ]
+                lang.l.parse(
+                    [
+                        "Which is smaller: {left} or {right}?",
+                        "[Between, Of, Comparing] {left} and {right}, which is smaller?",
+                        "Is {left} or {right} smaller?",
+                        "Comparing {left} and {right}, which has the [lowest, smallest] value?",
+                    ]
+                )
             )
         return example.Problem(question=example.question(context, template, left=left, right=right), answer=answer)
 
@@ -128,42 +137,48 @@ def _make_comparison_question(context, left, right):
     }
 
     templates = {
-        "<": [
-            lang.l.translate("Is {left} {ops.LT_SYMBOL} {right}?"),
-            lang.l.translate("Is {left} less than {right}?"),
-            lang.l.translate("Is {left} smaller than {right}?"),
-        ],
-        "<=": [
-            lang.l.translate("Is {left} {ops.LE_SYMBOL} {right}?"),
-            lang.l.translate("Is {left} less than or equal to {right}?"),
-            lang.l.translate("Is {left} at most {right}?"),
-            lang.l.translate("Is {left} at most as big as {right}?"),
-        ],
-        ">": [
-            lang.l.translate("Is {left} {ops.GT_SYMBOL} {right}?"),
-            lang.l.translate("Is {left} greater than {right}?"),
-            lang.l.translate("Is {left} bigger than {right}?"),
-        ],
-        ">=": [
-            lang.l.translate("Is {left} {ops.GE_SYMBOL} {right}?"),
-            lang.l.translate("Is {left} greater than or equal to {right}?"),
-            lang.l.translate("Is {left} at least {right}?"),
-            lang.l.translate("Is {left} at least as big as {right}?"),
-        ],
-        "=": [
-            lang.l.translate("Does {left} {ops.EQ_SYMBOL} {right}?"),
-            lang.l.translate("Are {left} and {right} equal?"),
-            lang.l.translate("Is {left} equal to {right}?"),
-            lang.l.translate("Do {left} and {right} have the same value?"),
-        ],
-        "!=": [
-            lang.l.translate("Is {left} {ops.NE_SYMBOL} {right}?"),
-            lang.l.translate("Is {left} not equal to {right}?"),
-            lang.l.translate("Are {left} and {right} unequal?"),
-            lang.l.translate("Are {left} and {right} nonequal?"),
-            lang.l.translate("Are {left} and {right} non-equal?"),
-            lang.l.translate("Do {left} and {right} have different values?"),
-        ],
+        "<": lang.l.parse(
+            [
+                "Is {left} {ops.LT_SYMBOL} {right}?",
+                "Is {left} [less, smaller] than {right}?",
+            ]
+        ),
+        "<=": lang.l.parse(
+            [
+                "Is {left} {ops.LE_SYMBOL} {right}?",
+                "Is {left} less than or equal to {right}?",
+                "Is {left} [at most, at most as big as] {right}?",
+            ]
+        ),
+        ">": lang.l.parse(
+            [
+                "Is {left} {ops.GT_SYMBOL} {right}?",
+                "Is {left} [greater, bigger] than {right}?",
+            ]
+        ),
+        ">=": lang.l.parse(
+            [
+                "Is {left} {ops.GE_SYMBOL} {right}?",
+                "Is {left} greater than or equal to {right}?",
+                "Is {left} [at least, at least as big as] {right}?",
+            ]
+        ),
+        "=": lang.l.parse(
+            [
+                "Does {left} {ops.EQ_SYMBOL} {right}?",
+                "Are {left} and {right} equal?",
+                "Is {left} equal to {right}?",
+                "Do {left} and {right} have the same value?",
+            ]
+        ),
+        "!=": lang.l.parse(
+            [
+                "Is {left} {ops.NE_SYMBOL} {right}?",
+                "Is {left} not equal to {right}?",
+                "Are {left} and {right} [unequal, nonequal, non-equal]?",
+                "Do {left} and {right} have different values?",
+            ]
+        ),
     }
 
     comparison = random.choice(list(comparisons.keys()))
@@ -440,10 +455,12 @@ def sort(sample_args, count=None):
     unsorted_dict, unsorted_template = _entities_to_list(entities)
 
     ascending = random.choice([False, True])
-    templates = [
-        lang.l.translate("Sort {unsorted_template} in {direction} order."),
-        lang.l.translate("Put {unsorted_template} in {direction} order."),
-    ]
+    templates = lang.l.parse(
+        [
+            "[Sort, Put, Place] {unsorted_template} in {direction} order.",
+            "[Sort, Order] {unsorted_template}.",
+        ]
+    )
     if ascending:
         templates.append(lang.l.translate("Sort {unsorted_template}."))
         direction = random.choice([lang.l.translate("ascending"), lang.l.translate("increasing")])
