@@ -127,19 +127,16 @@ def _add_question_or_entity(context, p, q, is_question):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("{p} + {q}"),
-                lang.l.translate("{p}+{q}"),
-                lang.l.translate("Work out {p} + {q}."),
-                lang.l.translate("Add {p} and {q}."),
-                lang.l.translate("Put together {p} and {q}."),
-                lang.l.translate("Sum {p} and {q}."),
-                lang.l.translate("Total of {p} and {q}."),
-                lang.l.translate("Add together {p} and {q}."),
-                lang.l.translate("What is {p} plus {q}?"),
-                lang.l.translate("Calculate {p} + {q}."),
-                lang.l.translate("What is {p} + {q}?"),
-            ]
+            lang.l.parse(
+                [
+                    "{p} + {q}",
+                    "{p}+{q}",
+                    "[Work out, Calculate, Compute] {p} [+, plus] {q}.",
+                    "[Add, Put together, Sum, Add together] {p} and {q}.",
+                    "Total of {p} and {q}.",
+                    "What is {p} [+, plus] {q}?",
+                ]
+            )
         )
         return example.Problem(question=example.question(context, template, p=p, q=q), answer=value)
     else:
@@ -154,14 +151,16 @@ def _sub_question_or_entity(context, p, q, is_question):
 
     if is_question:
         templates = [
-            lang.l.translate("{p} - {q}"),
-            lang.l.translate("Work out {p} - {q}."),
-            lang.l.translate("What is {p} minus {q}?"),
-            lang.l.translate("What is {p} take away {q}?"),
-            lang.l.translate("What is {q} less than {p}?"),
-            lang.l.translate("Subtract {q} from {p}."),
-            lang.l.translate("Calculate {p} - {q}."),
-            lang.l.translate("What is {p} - {q}?"),
+            lang.l.parse(
+                [
+                    "{p} - {q}",
+                    "{p}-{q}",
+                    "[Calculate, Compute, Work out] {p} [-, minus] {q}.",
+                    "What is {p} [-, minus, take away] {q}?",
+                    "What is {q} [less than, subtracted from] {p}?",
+                    "[Subtract, Remove, Take away] {q} from {p}.",
+                ]
+            )
         ]
         if sympy.Ge(p.value, q.value):
             # We calculate p - q, so the difference (|p - q|) is the correct answer.
@@ -231,14 +230,15 @@ def add_or_sub_in_base(sample_args):
         answer = p + q
 
         templates = [
-            lang.l.translate("In base {base}, what is {p} + {q}?"),
-            lang.l.translate("Using base {base}, what is {p} + {q}?"),
-            lang.l.translate("In base {base}, compute {p} + {q}."),
-            lang.l.translate("In base {base}, calculate {p} + {q}."),
-            lang.l.translate("Working in base {base}, what is {p} + {q}?"),
-            lang.l.translate("Use and answer in base {base}. What is {p} + {q}?"),
-            lang.l.translate("Use base {base} for the following problem: what is {p} + {q}?"),
-            lang.l.translate("Compute {p} + {q} using base {base}."),
+            lang.l.parse(
+                [
+                    "[In, Using, Working in] base {base}, what is {p} [+, plus] {q}?",
+                    "In base {base}, [compute, calculate] {p} [+, plus] {q}.",
+                    "Use and answer in base {base}. What is {p} + {q}?",
+                    "Use base {base} for the following problem: what is {p} [+, plus] {q}?",
+                    "[Compute, Calculate, Work out] {p} [+, plus] {q} using base {base}.",
+                ]
+            )
         ]
 
         template = random.choice(templates)
@@ -246,14 +246,15 @@ def add_or_sub_in_base(sample_args):
         answer = p - q
 
         templates = [
-            lang.l.translate("In base {base}, what is {p} - {q}?"),
-            lang.l.translate("Using base {base}, what is {p} - {q}?"),
-            lang.l.translate("In base {base}, compute {p} - {q}."),
-            lang.l.translate("In base {base}, calculate {p} - {q}."),
-            lang.l.translate("Working in base {base}, what is {p} - {q}?"),
-            lang.l.translate("Use and answer in base {base}. What is {p} - {q}?"),
-            lang.l.translate("Use base {base} for the following problem: what is {p} - {q}?"),
-            lang.l.translate("Compute {p} - {q} using base {base}."),
+            lang.l.parse(
+                [
+                    "[In, Using, Working in] base {base}, what is {p} [-, minus] {q}?",
+                    "In base {base}, [compute, calculate] {p} [-, minus] {q}.",
+                    "Use and answer in base {base}. What is {p} [-, minus] {q}?",
+                    "Use base {base} for the following problem: what is {p} [-, minus] {q}?",
+                    "[Compute, Calculate, Work out] {p} [-, minus] {q} using base {base}.",
+                ]
+            )
         ]
 
         template = random.choice(templates)
@@ -281,15 +282,19 @@ def mul(value, sample_args, context=None):
 
     if is_question:
         templates = [
-            lang.l.translate("{p}{ops.MUL_SYMBOL}{q}"),
-            lang.l.translate("{p} {ops.MUL_SYMBOL} {q}"),
-            lang.l.translate("Calculate {p}{ops.MUL_SYMBOL}{q}."),
-            lang.l.translate("Work out {p} {ops.MUL_SYMBOL} {q}."),
-            lang.l.translate("Multiply {p} and {q}."),
-            lang.l.translate("Product of {p} and {q}."),
-            lang.l.translate("What is the product of {p} and {q}?"),
-            lang.l.translate("{p} times {q}"),
-            lang.l.translate("What is {p} times {q}?"),
+            lang.l.parse(
+                [
+                    "{p}{ops.MUL_SYMBOL}{q}",
+                    "{p} {ops.MUL_SYMBOL} {q}",
+                    "Calculate {p}{ops.MUL_SYMBOL}{q}.",
+                    "Work out {p} {ops.MUL_SYMBOL} {q}.",
+                    "Multiply {p} and {q}.",
+                    "Product of {p} and {q}.",
+                    "What is the product of {p} and {q}?",
+                    "{p} times {q}",
+                    "What is {p} times {q}?",
+                ]
+            )
         ]
         template = random.choice(templates)
         return example.Problem(question=example.question(context, template, p=p, q=q, ops=ops), answer=answer)
@@ -323,16 +328,17 @@ def div(value, sample_args, context=None):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("{p} / {q}"),
-                lang.l.translate("{p} ÷ {q}"),
-                lang.l.translate("Divide {p} by {q}."),
-                lang.l.translate("{p} divided by {q}"),
-                lang.l.translate("What is {p} divided by {q}?"),
-                lang.l.translate("Calculate {p} divided by {q}."),
-                lang.l.translate("Compute {p} divided by {q}."),
-                lang.l.translate("{q} times what equals {p}?"),
-            ]
+            lang.l.parse(
+                [
+                    "{p} / {q}",
+                    "{p} ÷ {q}",
+                    "Divide {p} by {q}.",
+                    "{p} divided by {q}",
+                    "What is {p} divided by {q}?",
+                    "[Calculate, Compute, Work out] {p} divided by {q}.",
+                    "{q} times what equals {p}?",
+                ]
+            )
         )
         return example.Problem(question=example.question(context, template, p=p, q=q), answer=answer)
     else:
@@ -357,30 +363,44 @@ def nearest_integer_root(sample_args):
     answer = int(round(value ** (1 / one_over_exponent)))
 
     templates = [
-        lang.l.translate("What is {value} to the power of 1/{one_over_exponent}, to the nearest integer?"),
-        lang.l.translate("What is {value} ^ 1/{one_over_exponent} to the nearest integer?"),
-        lang.l.translate("Compute {value} to the power of 1/{one_over_exponent} to the nearest integer."),
-        lang.l.translate("Compute {value} ^ 1/{one_over_exponent} to the nearest integer."),
-        lang.l.translate("Calculate {value} to the power of 1/{one_over_exponent} to the nearest integer."),
-        lang.l.translate("Calculate {value} ^ 1/{one_over_exponent} to the nearest integer."),
-        lang.l.translate("What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer?"),
-        lang.l.translate("Compute {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer."),
-        lang.l.translate("Calculate {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer."),
+        lang.l.parse(
+            [
+                "What is {value} [^, to the power of] 1/{one_over_exponent}, to the nearest integer?",
+                "[Compute, Calculate, Work out] {value} [^, to the power of] 1/{one_over_exponent} to the nearest integer.",
+                "What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer?",
+                "[Compute, Calculate, Work out] {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer.",
+            ]
+        )
     ]
 
     if one_over_exponent != 2:  # "What is the second root of 4?" never used.
         ordinal = str()
         templates += [
-            lang.l.translate("What is the {ordinal} root of {value} to the nearest integer?"),
+            lang.l.parse(
+                [
+                    "What is the {ordinal} root of {value} to the nearest integer?",
+                    "[Find, Compute, Calculate, Work out] the {ordinal} root of {value} to the nearest integer.",
+                ]
+            )
         ]
 
     if one_over_exponent == 2:
         templates += [
-            lang.l.translate("What is the square root of {value} to the nearest integer?"),
+            lang.l.parse(
+                [
+                    "What is the square root of {value} to the nearest integer?",
+                    "[Compute, Evaluate, Calculate, Work out, Find] the square root of {value} to the nearest integer.",
+                ]
+            )
         ]
     elif one_over_exponent == 3:
         templates += [
-            lang.l.translate("What is the cube root of {value} to the nearest integer?"),
+            lang.l.parse(
+                [
+                    "What is the cube root of {value} to the nearest integer?",
+                    "[Compute, Evaluate, Calculate, Work out, Find] the cube root of {value} to the nearest integer.",
+                ]
+            )
         ]
 
     template = random.choice(templates)
@@ -411,13 +431,15 @@ def _calculate(value, sample_args, context, add_sub, mul_div, length=None):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("{op}"),
-                lang.l.translate("What is {op}?"),
-                lang.l.translate("Evaluate {op}."),
-                lang.l.translate("Calculate {op}."),
-                lang.l.translate("What is the value of {op}?"),
-            ]
+            lang.l.parse(
+                [
+                    "{op}",
+                    "What is {op}?",
+                    "[Evaluate, Calculate, Compute, Work out] {op}.",
+                    "What is the value of {op}?",
+                    "Let {self} be {op}.",
+                ]
+            )
         )
         return example.Problem(question=example.question(context, template, op=op), answer=value)
     else:
@@ -588,8 +610,16 @@ def simplify_surd(value, sample_args, context=None):
     simplified = sympy.expand(sympy.simplify(exp))
 
     template = random.choice(
-        [
-            lang.l.translate("Simplify {exp}."),
-        ]
+        lang.l.parse(
+            [
+                "Simplify {exp}.",
+                "Simplify {exp} [as far as possible, completely, fully].",
+                "Completely simplify {exp}.",
+                "Completely simplify the following expression: {exp}.",
+                "[Write, Rewrite] {exp} in its simplest form.",
+                "[Write, Rewrite] {exp} as simply as possible.",
+                "Simplify the following expression: {exp}.",
+            ]
+        )
     )
     return example.Problem(question=example.question(context, template, exp=exp), answer=simplified)

@@ -48,27 +48,20 @@ Given the sequence {sequence}, what is the {variable}'th term? ### Givet sekvens
 # Arithmetic
 {p} + {q} ### {p} + {q}
 {p}+{q} ### {p}+{q}
-Work out {p} + {q}. ### Räkna ut {p} + {q}.
-Add {p} and {q}. ### Addera {p} och {q}.
-Put together {p} and {q}. ### Lägg ihop {p} och {q}.
-Sum {p} and {q}. ### Summera {p} och {q}.
+[Work out, Calculate, Compute] {p} [+, plus] {q}. ### [Räkna ut, Beräkna] {p} [+, plus] {q}.
+[Add, Put together, Sum, Add together] {p} and {q}. ### [Addera, Lägg ihop, Summera, Addera ihop] {p} och {q}.
 Total of {p} and {q}. ### Summan av {p} och {q}.
-Add together {p} and {q}. ### Addera ihop {p} och {q}.
-What is {p} plus {q}? ### Vad är {p} plus {q}?
-Calculate {p} + {q}. ### Beräkna {p} + {q}.
-What is {p} + {q}? ### Vad är {p} + {q}?
-Let {self} = {p} * {q}. ### Låt {self} = {p} * {q}.
+What is {p} [+, plus] {q}? ### Vad är {p} [+, plus] {q}?
 
+Let {self} = {p} * {q}. ### Låt {self} = {p} * {q}.
 Let {self} = {p} + {q}. ### Låt {self} = {p} + {q}.
 
 {p} - {q} ### {p} - {q}
-Work out {p} - {q}. ### Räkna ut {p} - {q}.
-What is {p} minus {q}? ### Vad är {p} minus {q}?
-What is {p} take away {q}? ### Vad är {p} ta bort {q}?
-What is {q} less than {p}? ### Vad är {q} mindre än {p}?
-Subtract {q} from {p}. ### Subtrahera {q} från {p}.
-Calculate {p} - {q}. ### Beräkna {p} - {q}.
-What is {p} - {q}? ### Vad är {p} - {q}?
+{p}-{q} ### {p}-{q}
+[Calculate, Compute, Work out] {p} [-, minus] {q}. ### [Beräkna, Räkna ut] {p} [-, minus] {q}.
+What is {p} [-, minus, take away] {q}? ### Vad är {p} [-, minus, ta bort] {q}?
+What is {q} [less than, subtracted from] {p}? ### Vad är {q} [mindre än, subtraherat från] {p}?
+[Subtract, Remove, Take away] {q} from {p}. ### [Subtrahera, Ta bort] {q} från {p}.
 
 distance ### avståndet
 difference ### skillnaden
@@ -77,23 +70,17 @@ difference ### skillnaden
 What is the {} between {}? ### Vad är {} mellan {}?
 Let {self} = {p} - {q}. ### Låt {self} = {p} - {q}.
 
-In base {base}, what is {p} + {q}? ### I bas {base}, vad är {p} + {q}?
-Using base {base}, what is {p} + {q}? ### Med bas {base}, vad är {p} + {q}?
-In base {base}, compute {p} + {q}. ### I bas {base}, beräkna {p} + {q}.
-In base {base}, calculate {p} + {q}. ### I bas {base}, räkna ut {p} + {q}.
-Working in base {base}, what is {p} + {q}? ### För bas {base}, vad är {p} + {q}?
-Use and answer in base {base}. What is {p} + {q}? ### Använd och svara i bas {base}. Vad är {p} + {q}?
-Use base {base} for the following problem: what is {p} + {q}? ### Använd bas {base} för följande problem: vad är {p} + {q}?
-Compute {p} + {q} using base {base}. ### Beräkna {p} + {q} med hjälp av bas {base}.
+[In, Using, Working in] base {base}, what is {p} [+, plus] {q}? ### [I, Med, För] bas {base}, vad är {p} [+, plus] {q}?
+In base {base}, [compute, calculate] {p} [+, plus] {q}. ### I bas {base}, [beräkna, räkna ut] {p} [+, plus] {q}.
+Use and answer in base {base}. What is {p} [+, plus] {q}? ### Använd och svara i bas {base}. Vad är {p} [+, plus] {q}?
+Use base {base} for the following problem: what is {p} [+, plus] {q}? ### Använd bas {base} för följande problem: vad är {p} [+, plus] {q}?
+[Compute, Calculate, Work out] {p} [+, plus] {q} using base {base}. ### [Beräkna, Räkna ut] {p} [+, plus] {q} med hjälp av bas {base}.
 
-In base {base}, what is {p} - {q}? ### I bas {base}, vad är {p} - {q}?
-Using base {base}, what is {p} - {q}? ### Med bas {base}, vad är {p} - {q}?
-In base {base}, compute {p} - {q}. ### I bas {base}, beräkna {p} - {q}.
-In base {base}, calculate {p} - {q}. ### I bas {base}, räkna ut {p} - {q}.
-Working in base {base}, what is {p} - {q}? ### För bas {base}, vad är {p} - {q}?
-Use and answer in base {base}. What is {p} - {q}? ### Använd och svara i bas {base}. Vad är {p} - {q}?
-Use base {base} for the following problem: what is {p} - {q}? ### Använd bas {base} för följande problem: vad är {p} - {q}?
-Compute {p} - {q} using base {base}. ### Beräkna {p} - {q} med hjälp av bas {base}.
+[In, Using, Working in] base {base}, what is {p} [-, minus] {q}? ### [I, Med, För] bas {base}, vad är {p} [-, minus] {q}?
+In base {base}, [compute, calculate] {p} [-, minus] {q}. ### I bas {base}, [beräkna, räkna ut] {p} [-, minus] {q}.
+Use and answer in base {base}. What is {p} [-, minus] {q}? ### Använd och svara i bas {base}. Vad är {p} [-, minus] {q}?
+Use base {base} for the following problem: what is {p} [-, minus] {q}? ### Använd bas {base} för följande problem: vad är {p} [-, minus] {q}?
+[Compute, Calculate, Work out] {p} [-, minus] {q} using base {base}. ### [Beräkna, Räkna ut] {p} [-, minus] {q} med hjälp av bas {base}.
 
 {p}{ops.MUL_SYMBOL}{q} ### {p}{ops.MUL_SYMBOL}{q}
 {p} {ops.MUL_SYMBOL} {q} ### {p} {ops.MUL_SYMBOL} {q}
@@ -110,38 +97,38 @@ What is {p} times {q}? ### Vad är {p} gånger {q}?
 Divide {p} by {q}. ### Dividera {p} med {q}.
 {p} divided by {q} ### {p} dividerat med {q}
 What is {p} divided by {q}? ### Vad är {p} dividerat med {q}?
-Calculate {p} divided by {q}. ### Beräkna {p} dividerat med {q}.
-Compute {p} divided by {q}. ### Räkna ut {p} dividerat med {q}.
+[Calculate, Compute, Work out] {p} divided by {q}. ### [Beräkna, Räkna ut] {p} dividerat med {q}.
 {q} times what equals {p}? ### {q} multiplicerat med vad blir {p}?
 
 Let {self} be {p} divided by {q}. ### Låt {self} vara {p} dividerat med {q}.
 
-What is {value} to the power of 1/{one_over_exponent}, to the nearest integer? ### Vad är {value} upphöjt i 1/{one_over_exponent}, till det närmsta heltalet?
-What is {value} ^ 1/{one_over_exponent} to the nearest integer? ### Vad är {value} ^ 1/{one_over_exponent}, till det närmsta heltalet?
-Compute {value} to the power of 1/{one_over_exponent} to the nearest integer. ### Beräkna {value} upphöjt i 1/{one_over_exponent} till det närmsta heltalet.
-Compute {value} ^ 1/{one_over_exponent} to the nearest integer. ### Beräkna {value} ^ 1/{one_over_exponent} till det närmsta heltalet.
-Calculate {value} to the power of 1/{one_over_exponent} to the nearest integer. ### Räkna ut {value} upphöjt i 1/{one_over_exponent} till det närmsta heltalet.
-Calculate {value} ^ 1/{one_over_exponent} to the nearest integer. ### Räkna ut {value} ^ 1/{one_over_exponent} till det närmsta heltalet.
+What is {value} [^, to the power of] 1/{one_over_exponent}, to the nearest integer? ### Vad är {value} [^, upphöjt i] 1/{one_over_exponent}, till det närmsta heltalet?
+[Compute, Calculate, Work out] {value} [^, to the power of] 1/{one_over_exponent} to the nearest integer. ### [Beräkna, Räkna ut] {value} [^, upphöjt i] 1/{one_over_exponent} till det närmsta heltalet.
 What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer? ### Vad är {value} multiplicerat med sig självt 1/{one_over_exponent} gånger, till det närmsta heltalet?
-Compute {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer. ### Beräkna {value} multiplicerat med sig självt 1/{one_over_exponent} gånger till det närmsta heltalet.
-Calculate {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer. ### Räkna ut {value} multiplicerat med sig självt 1/{one_over_exponent} gånger till det närmsta heltalet.
+[Compute, Calculate, Work out] {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer. ### [Beräkna, Räkna ut] {value} multiplicerat med sig självt 1/{one_over_exponent} gånger till det närmsta heltalet.
 
 What is the {ordinal} root of {value} to the nearest integer? ### Vad är den {ordinal} roten av {value} till det närmsta heltalet?
-
+[Find, Compute, Calculate, Work out] the {ordinal} root of {value} to the nearest integer. ### [Vad är, Beräkna, Räkna ut, Hitta] den {ordinal} roten av {value} till det närmsta heltalet.
 
 What is the square root of {value} to the nearest integer? ### Vad är kvadratroten av {value} till det närmsta heltalet?
-[Compute, Evaluate, Calculate] the square root of {value} to the nearest integer. ### 
+[Compute, Evaluate, Calculate, Work out, Find] the square root of {value} to the nearest integer. ### [Vad är, Beräkna, Räkna ut, Hitta] kvadratroten av {value} till det närmsta heltalet.
 
 What is the cube root of {value} to the nearest integer? ### Vad är kubikroten av {value} till det närmsta heltalet?
+[Compute, Evaluate, Calculate, Work out, Find] the cube root of {value} to the nearest integer. ### [Vad är, Beräkna, Räkna ut, Hitta] kubikroten av {value} till det närmsta heltalet.
 
 {op} ### {op}
 What is {op}? ### Vad är {op}?
-Evaluate {op}. ### Räkna ut {op}.
-Calculate {op}. ### Beräkna {op}.
+[Evaluate, Calculate, Compute, Work out] {op}. ### [Beräkna, Räkna ut, Hitta] {op}.
 What is the value of {op}? ### Vad är värdet av {op}?
 Let {self} be {op}. ### Låt {self} vara {op}.
 
 Simplify {exp}. ### Förenkla {exp}.
+Simplify {exp} [as far as possible, completely, fully]. ### Förenkla {exp} [så långt som möjligt, fullständigt, helt och hållet].
+Completely simplify {exp}. ### Förenkla fullständigt {exp}.
+Completely simplify the following expression: {exp}. ### Förenkla fullständigt följande uttryck: {exp}.
+[Write, Rewrite] {exp} in its simplest form. ### [Skriv, Skriv om] {exp} i sin enklaste form.
+[Write, Rewrite] {exp} as simply as possible. ### [Skriv, Skriv om] {exp} så enkelt som möjligt.
+Simplify the following expression: {exp}. ### Förenkla följande uttryck: {exp}.
 
 # Calculus
 Find the {nth} derivative of {eq} wrt {var}. ### Bestäm {nth}derivatan av {eq} med avseende på {var}.
