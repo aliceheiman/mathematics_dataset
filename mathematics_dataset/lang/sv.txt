@@ -120,6 +120,7 @@ What is the cube root of {value} to the nearest integer? ### Vad är kubikroten 
 What is {op}? ### Vad är {op}?
 [Evaluate, Calculate, Compute, Work out] {op}. ### [Beräkna, Räkna ut, Hitta] {op}.
 What is the value of {op}? ### Vad är värdet av {op}?
+
 Let {self} be {op}. ### Låt {self} vara {op}.
 
 Simplify {exp}. ### Förenkla {exp}.

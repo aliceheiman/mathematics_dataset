@@ -150,24 +150,24 @@ def _sub_question_or_entity(context, p, q, is_question):
     value = p.value - q.value
 
     if is_question:
-        templates = [
-            lang.l.parse(
-                [
-                    "{p} - {q}",
-                    "{p}-{q}",
-                    "[Calculate, Compute, Work out] {p} [-, minus] {q}.",
-                    "What is {p} [-, minus, take away] {q}?",
-                    "What is {q} [less than, subtracted from] {p}?",
-                    "[Subtract, Remove, Take away] {q} from {p}.",
-                ]
-            )
-        ]
+        templates = lang.l.parse(
+            [
+                "{p} - {q}",
+                "{p}-{q}",
+                "[Calculate, Compute, Work out] {p} [-, minus] {q}.",
+                "What is {p} [-, minus, take away] {q}?",
+                "What is {q} [less than, subtracted from] {p}?",
+                "[Subtract, Remove, Take away] {q} from {p}.",
+            ]
+        )
+
         if sympy.Ge(p.value, q.value):
             # We calculate p - q, so the difference (|p - q|) is the correct answer.
             for adjective in [lang.l.translate("distance"), lang.l.translate("difference")]:
                 for pair in [lang.l.translate("{p} and {q}"), lang.l.translate("{q} and {p}")]:
                     templates.append(lang.l.translate("What is the {} between {}?").format(adjective, pair))
         template = random.choice(templates)
+
         return example.Problem(question=example.question(context, template, p=p, q=q), answer=value)
     else:
         return composition.Entity(
@@ -229,33 +229,29 @@ def add_or_sub_in_base(sample_args):
     if random.choice([False, True]):
         answer = p + q
 
-        templates = [
-            lang.l.parse(
-                [
-                    "[In, Using, Working in] base {base}, what is {p} [+, plus] {q}?",
-                    "In base {base}, [compute, calculate] {p} [+, plus] {q}.",
-                    "Use and answer in base {base}. What is {p} + {q}?",
-                    "Use base {base} for the following problem: what is {p} [+, plus] {q}?",
-                    "[Compute, Calculate, Work out] {p} [+, plus] {q} using base {base}.",
-                ]
-            )
-        ]
+        templates = lang.l.parse(
+            [
+                "[In, Using, Working in] base {base}, what is {p} [+, plus] {q}?",
+                "In base {base}, [compute, calculate] {p} [+, plus] {q}.",
+                "Use and answer in base {base}. What is {p} [+, plus] {q}?",
+                "Use base {base} for the following problem: what is {p} [+, plus] {q}?",
+                "[Compute, Calculate, Work out] {p} [+, plus] {q} using base {base}.",
+            ]
+        )
 
         template = random.choice(templates)
     else:
         answer = p - q
 
-        templates = [
-            lang.l.parse(
-                [
-                    "[In, Using, Working in] base {base}, what is {p} [-, minus] {q}?",
-                    "In base {base}, [compute, calculate] {p} [-, minus] {q}.",
-                    "Use and answer in base {base}. What is {p} [-, minus] {q}?",
-                    "Use base {base} for the following problem: what is {p} [-, minus] {q}?",
-                    "[Compute, Calculate, Work out] {p} [-, minus] {q} using base {base}.",
-                ]
-            )
-        ]
+        templates = lang.l.parse(
+            [
+                "[In, Using, Working in] base {base}, what is {p} [-, minus] {q}?",
+                "In base {base}, [compute, calculate] {p} [-, minus] {q}.",
+                "Use and answer in base {base}. What is {p} [-, minus] {q}?",
+                "Use base {base} for the following problem: what is {p} [-, minus] {q}?",
+                "[Compute, Calculate, Work out] {p} [-, minus] {q} using base {base}.",
+            ]
+        )
 
         template = random.choice(templates)
 
@@ -281,22 +277,22 @@ def mul(value, sample_args, context=None):
     answer = p.value * q.value
 
     if is_question:
-        templates = [
-            lang.l.parse(
-                [
-                    "{p}{ops.MUL_SYMBOL}{q}",
-                    "{p} {ops.MUL_SYMBOL} {q}",
-                    "Calculate {p}{ops.MUL_SYMBOL}{q}.",
-                    "Work out {p} {ops.MUL_SYMBOL} {q}.",
-                    "Multiply {p} and {q}.",
-                    "Product of {p} and {q}.",
-                    "What is the product of {p} and {q}?",
-                    "{p} times {q}",
-                    "What is {p} times {q}?",
-                ]
-            )
-        ]
+        templates = lang.l.parse(
+            [
+                "{p}{ops.MUL_SYMBOL}{q}",
+                "{p} {ops.MUL_SYMBOL} {q}",
+                "Calculate {p}{ops.MUL_SYMBOL}{q}.",
+                "Work out {p} {ops.MUL_SYMBOL} {q}.",
+                "Multiply {p} and {q}.",
+                "Product of {p} and {q}.",
+                "What is the product of {p} and {q}?",
+                "{p} times {q}",
+                "What is {p} times {q}?",
+            ]
+        )
+
         template = random.choice(templates)
+
         return example.Problem(question=example.question(context, template, p=p, q=q, ops=ops), answer=answer)
     else:
         return composition.Entity(
@@ -362,46 +358,38 @@ def nearest_integer_root(sample_args):
     value = number.integer(entropy, signed=False)
     answer = int(round(value ** (1 / one_over_exponent)))
 
-    templates = [
-        lang.l.parse(
-            [
-                "What is {value} [^, to the power of] 1/{one_over_exponent}, to the nearest integer?",
-                "[Compute, Calculate, Work out] {value} [^, to the power of] 1/{one_over_exponent} to the nearest integer.",
-                "What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer?",
-                "[Compute, Calculate, Work out] {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer.",
-            ]
-        )
-    ]
+    templates = lang.l.parse(
+        [
+            "What is {value} [^, to the power of] 1/{one_over_exponent}, to the nearest integer?",
+            "[Compute, Calculate, Work out] {value} [^, to the power of] 1/{one_over_exponent} to the nearest integer.",
+            "What is {value} multiplied by itself 1/{one_over_exponent} times, to the nearest integer?",
+            "[Compute, Calculate, Work out] {value} multiplied by itself 1/{one_over_exponent} times to the nearest integer.",
+        ]
+    )
 
     if one_over_exponent != 2:  # "What is the second root of 4?" never used.
         ordinal = str()
-        templates += [
-            lang.l.parse(
-                [
-                    "What is the {ordinal} root of {value} to the nearest integer?",
-                    "[Find, Compute, Calculate, Work out] the {ordinal} root of {value} to the nearest integer.",
-                ]
-            )
-        ]
+        templates += lang.l.parse(
+            [
+                "What is the {ordinal} root of {value} to the nearest integer?",
+                "[Find, Compute, Calculate, Work out] the {ordinal} root of {value} to the nearest integer.",
+            ]
+        )
 
     if one_over_exponent == 2:
-        templates += [
-            lang.l.parse(
-                [
-                    "What is the square root of {value} to the nearest integer?",
-                    "[Compute, Evaluate, Calculate, Work out, Find] the square root of {value} to the nearest integer.",
-                ]
-            )
-        ]
+        templates += lang.l.parse(
+            [
+                "What is the square root of {value} to the nearest integer?",
+                "[Compute, Evaluate, Calculate, Work out, Find] the square root of {value} to the nearest integer.",
+            ]
+        )
     elif one_over_exponent == 3:
-        templates += [
-            lang.l.parse(
-                [
-                    "What is the cube root of {value} to the nearest integer?",
-                    "[Compute, Evaluate, Calculate, Work out, Find] the cube root of {value} to the nearest integer.",
-                ]
-            )
-        ]
+        templates += lang.l.parse(
+            [
+                "What is the cube root of {value} to the nearest integer?",
+                "[Compute, Evaluate, Calculate, Work out, Find] the cube root of {value} to the nearest integer.",
+            ]
+        )
 
     template = random.choice(templates)
 
@@ -437,10 +425,10 @@ def _calculate(value, sample_args, context, add_sub, mul_div, length=None):
                     "What is {op}?",
                     "[Evaluate, Calculate, Compute, Work out] {op}.",
                     "What is the value of {op}?",
-                    "Let {self} be {op}.",
                 ]
             )
         )
+
         return example.Problem(question=example.question(context, template, op=op), answer=value)
     else:
         return composition.Entity(
