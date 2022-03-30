@@ -401,9 +401,7 @@ Express {expression} in the form {canonical} and give {target}. ### Uttryck {exp
 Rearrange {expression} to the form {canonical} and give {target}. ### Omordna {expression} till formen {canonical} och ange {target}.
 
 What is {composed}? ### Vad är {composed}?
-Calculate {composed}. ### Beräkna {composed}.
-Give {composed}. ### Ange {composed}.
-Determine {composed}. ### Bestäm {composed}.
+[Calculate, Give, Determine, Compute, Find, State] {composed}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] {composed}.
 
 Let {self} be {composed}. ### Låt {self} vara {composed}.
 Let {intermediate} = {composed}. ### Låt {intermediate} = {composed}.
@@ -414,6 +412,14 @@ Collect the terms in {unsimplified}. ### Samla termerna i {unsimplified}
 Let {function} = {unsimplified}. ### Låt {function} = {unsimplified}.
 
 Simplify {unsimplified} assuming {variable} is positive. ### Förenkla {unsimplified} förutsatt att {variable} är positiv.
+
+Simplify {unsimplified} assuming {variable} is positive. ### Förenkla {unsimplified} förutsatt att {variable} är positiv.
+Simplify {unsimplified} [as far as possible, completely, fully] assuming {variable} is positive. ### Förenkla {unsimplified} [så långt som möjligt, fullständigt, helt och hållet] förutsatt att {variable} är positiv.
+Completely simplify {unsimplified} assuming {variable} is positive. ### Förenkla fullständigt {unsimplified} förutsatt att {variable} är positiv.
+Completely simplify the following expression, assuming {variable} is positive: {unsimplified}. ### Förenkla fullständigt följande uttryck, förutsatt att {variable} är positiv: {unsimplified}.
+[Write, Rewrite] {unsimplified} in its simplest form, assuming {variable} is positive. ### [Skriv, Skriv om] {unsimplified} i sin enklaste form, förutsatt att {variable} är positiv.
+[Write, Rewrite] {unsimplified} as simply as possible, assuming {variable} is positive. ### [Skriv, Skriv om] {unsimplified} så enkelt som möjligt, förutsatt att {variable} är positiv.
+Simplify the following expression, assuming {variable} is positive: {unsimplified}. ### Förenkla följande uttryck, förutsatt att {variable} är positiv: {unsimplified}.
 
 # Probability
 pick ### välja
