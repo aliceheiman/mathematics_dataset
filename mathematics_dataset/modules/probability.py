@@ -226,12 +226,14 @@ def _sample_without_replacement_probability_question(is_train, event_fn, sample_
     context = composition.Context()
 
     template = random.choice(
-        [
-            lang.l.translate("{random_variable_capitalize}. What is prob of {event}?"),
-            lang.l.translate("{random_variable_capitalize}. Give prob of {event}."),
-            lang.l.translate("What is prob of {event} when {random_variable}?"),
-            lang.l.translate("Calculate prob of {event} when {random_variable}."),
-        ]
+        lang.l.parse(
+            [
+                "{random_variable_capitalize}. What is prob of {event}?",
+                "{random_variable_capitalize}. [Calculate, Give, Determine, Compute, Find, State] prob of {event}.",
+                "What is prob of {event} when {random_variable}?",
+                "[Calculate, Give, Determine, Compute, Find, State] prob of {event} when {random_variable}.",
+            ]
+        )
     )
     question = example.question(
         context,

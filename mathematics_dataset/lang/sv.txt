@@ -430,9 +430,9 @@ the sequence is {sequence} ### sekvensen är {sequence}
 letters picked without replacement from ### bokstäver väljs utan återsättning från
 
 {random_variable_capitalize}. What is prob of {event}? ### {random_variable_capitalize}. Vad är sannolikheten att {event}?
-{random_variable_capitalize}. Give prob of {event}. ### {random_variable_capitalize}. Ange sannolikheten att {event}.
+{random_variable_capitalize}. [Calculate, Give, Determine, Compute, Find, State] prob of {event}. ### {random_variable_capitalize}. [Beräkna, Räkna ut, Hitta, Bestäm, Ange] sannolikheten att {event}.
 What is prob of {event} when {random_variable}? ### Vad är sannolikheten att {event} då {random_variable}?
-Calculate prob of {event} when {random_variable}. ### Beräkna sannolikheten att {event} då {random_variable}.
+[Calculate, Give, Determine, Compute, Find, State] prob of {event} when {random_variable}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] sannolikheten att {event} då {random_variable}.
 
 ### UTIL
 
