@@ -264,23 +264,37 @@ millilitre ### milliliter
 litres ### liter
 millilitres ### milliliter
 
-How many {target_name} are there in {base_value} {base_name}? ### Hur många {target_name} finns det i {base_value} {base_name}?
+How many {target_name} [are there, fit, can fit] in {base_value} {base_name}? ### Hur många {target_name} [finns det, får plats] i {base_value} {base_name}?
 What is {base_value} {base_name} in {target_name}? ### Vad är {base_value} {base_name} i {target_name}?
-Convert {base_value} {base_name} to {target_name}. ### Konvertera {base_value} {base_name} till {target_name}.
+[Convert, Rewrite, Transform, Translate] {base_value} {base_name} [to, into] {target_name}. ### [Konvertera, Skriv om, Transformera, Översätt] {base_value} {base_name} till {target_name}.
+[Write, Express] {base_value} {base_name} in {target_name}. ### [Skriv, Uttryck] {base_value} {base_name} i {target_name}.
+Write {base_value} {base_name} expressed in {target_name}. ### Skriv {base_value} {base_name} uttryckt i {target_name}.
 
-How many {target_name} are there in {base_value}{base_symbol}? ### Hur många {target_name} finns det i {base_value}{base_symbol}?
-What is {base_value}{base_symbol} in {target_name}? ### Vad är {base_value}{base_symbol} i {target_name}?
-Convert {base_value}{base_symbol} to {target_name}. ### Konvertera {base_value}{base_symbol} till {target_name}.
+How many {target_name} [are there, fit, can fit] in {base_value} {base_symbol}? ### Hur många {target_name} [finns det, får plats] i {base_value} {base_symbol}?
+What is {base_value} {base_symbol} in {target_name}? ### Vad är {base_value} {base_symbol} i {target_name}?
+[Convert, Rewrite, Transform, Translate] {base_value} {base_symbol} [to, into] {target_name}. ### [Konvertera, Skriv om, Transformera, Översätt] {base_value} {base_symbol} till {target_name}.
+[Write, Express] {base_value} {base_symbol} in {target_name}. ### [Skriv, Uttryck] {base_value} {base_symbol} i {target_name}.
+Write {base_value} {base_symbol} expressed in {target_name}. ### Skriv {base_value} {base_symbol} uttryckt i {target_name}.
 
-How many {target_name} are there in {base_value} of a {base_name}? ### Hur många {target_name} finns det i {base_value} {base_name}?
+How many {target_name} [are there, fit, can fit] in {base_value} of a {base_name}? ### Hur många {target_name} [finns det, får plats] i {base_value} {base_name}?
 What is {base_value} of a {base_name} in {target_name}? ### Vad är {base_value} av 1 {base_name} i {target_name}?
+[Write, Express] {base_value} of a {base_name} in {target_name}. ### [Skriv, Uttryck] {base_value} av 1 {base_name} i {target_name}.
 
-AM ### AM
-PM ### PM
+AM ### f.m.
+PM ### e.m.
 
-What is {duration} minutes before {end}? ### Vad är {duration} minuter före {end}?
-What is {duration} minutes after {start}? ### Vad är {duration} minuter efter {start}?
-How many minutes are there between {start} and {end}? ### Hur många minuter är det mellan {start} och {end}?
+What time is it {duration} minutes before {end}? ### Vad är klockan {duration} minuter [före, innan] {end}?
+What is the time {duration} minutes before {end}? ### Vilket klockslag är det {duration} minuter [före, innan] {end}?
+[Find, Work out, Compute, Calculate] the time {duration} minutes before {end}. ### [Hitta, Beräkna, Räkna ut] klockslaget {duration} minuter [före, innan] {end}.
+What was {end} {duration} minutes earlier? ### Vad var {end} {duration} minuter tidigare?
+
+What time is it {duration} minutes after {start}? ### Vad är klockan {duration} minuter efter {start}?
+What is the time {duration} minutes after {start}? ### Vilket klockslag är det {duration} minuter efter {start}?
+[Find, Work out, Compute, Calculate] the time {duration} minutes after {start}. ### [Hitta, Beräkna, Räkna ut] klockslaget {duration} minuter efter {start}.
+What will {start} be {duration} minutes later? ### Vad kommer {start} att vara {duration} minuter senare?
+
+How many minutes [are there, fit, can fit] between {start} and {end}? ### Hur många minuter [är det, får plats] mellan {start} och {end}?
+[Write, Work out, Compute, Calculate, Express, Find] the number of minutes between {start} and {end}. ### [Skriv, Beräkna, Räkna ut, Uttryck, Hitta] antalet minuter mellan {start} och {end}.
 
 # Numbers
 

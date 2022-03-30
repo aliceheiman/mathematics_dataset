@@ -179,17 +179,25 @@ def _conversion_decimal(context, is_train, is_extrapolation):
         if train_test_split.is_train(base_value) == is_train:
             break
 
-    templates = [
-        lang.l.translate("How many {target_name} are there in {base_value} {base_name}?"),
-        lang.l.translate("What is {base_value} {base_name} in {target_name}?"),
-        lang.l.translate("Convert {base_value} {base_name} to {target_name}."),
-    ]
-    if base_unit.symbol is not None:
-        templates += [
-            lang.l.translate("How many {target_name} are there in {base_value}{base_symbol}?"),
-            lang.l.translate("What is {base_value}{base_symbol} in {target_name}?"),
-            lang.l.translate("Convert {base_value}{base_symbol} to {target_name}."),
+    templates = lang.l.parse(
+        [
+            "How many {target_name} [are there, fit, can fit] in {base_value} {base_name}?",
+            "What is {base_value} {base_name} in {target_name}?",
+            "[Convert, Rewrite, Transform, Translate] {base_value} {base_name} [to, into] {target_name}.",
+            "[Write, Express] {base_value} {base_name} in {target_name}.",
+            "Write {base_value} {base_name} expressed in {target_name}.",
         ]
+    )
+    if base_unit.symbol is not None:
+        templates += lang.l.parse(
+            [
+                "How many {target_name} [are there, fit, can fit] in {base_value} {base_symbol}?",
+                "What is {base_value} {base_symbol} in {target_name}?",
+                "[Convert, Rewrite, Transform, Translate] {base_value} {base_symbol} [to, into] {target_name}.",
+                "[Write, Express] {base_value} {base_symbol} in {target_name}.",
+                "Write {base_value} {base_symbol} expressed in {target_name}.",
+            ]
+        )
     template = random.choice(templates)
 
     base_name = pluralize(base_unit.name)
@@ -225,10 +233,13 @@ def _conversion_fraction(context, is_train):
             break
 
     template = random.choice(
-        [
-            lang.l.translate("How many {target_name} are there in {base_value} of a {base_name}?"),
-            lang.l.translate("What is {base_value} of a {base_name} in {target_name}?"),
-        ]
+        lang.l.parse(
+            [
+                "How many {target_name} [are there, fit, can fit] in {base_value} of a {base_name}?",
+                "What is {base_value} of a {base_name} in {target_name}?",
+                "[Write, Express] {base_value} of a {base_name} in {target_name}.",
+            ]
+        )
     )
 
     if sympy.denom(base_value) > 20 or random.choice([False, True]):
@@ -281,9 +292,14 @@ def time(is_train):
     if which_question == 0:
         # Question: What is start = end - duration?
         template = random.choice(
-            [
-                lang.l.translate("What is {duration} minutes before {end}?"),
-            ]
+            lang.l.parse(
+                [
+                    "What time is it {duration} minutes before {end}?",
+                    "What is the time {duration} minutes before {end}?",
+                    "[Find, Work out, Compute, Calculate] the time {duration} minutes before {end}.",
+                    "What was {end} {duration} minutes earlier?",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, duration=duration_minutes, end=end), answer=start
@@ -291,9 +307,14 @@ def time(is_train):
     elif which_question == 1:
         # Question: What is end = start + duration?
         template = random.choice(
-            [
-                lang.l.translate("What is {duration} minutes after {start}?"),
-            ]
+            lang.l.parse(
+                [
+                    "What time is it {duration} minutes after {start}?",
+                    "What is the time {duration} minutes after {start}?",
+                    "[Find, Work out, Compute, Calculate] the time {duration} minutes after {start}.",
+                    "What will {start} be {duration} minutes later?",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, duration=duration_minutes, start=start), answer=end
@@ -301,9 +322,12 @@ def time(is_train):
     else:
         # Question: What is duration = end - start?
         template = random.choice(
-            [
-                lang.l.translate("How many minutes are there between {start} and {end}?"),
-            ]
+            lang.l.parse(
+                [
+                    "How many minutes [are there, fit, can fit] between {start} and {end}?",
+                    "[Write, Work out, Compute, Calculate, Express, Find] the number of minutes between {start} and {end}.",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, start=start, end=end), answer=duration_minutes
