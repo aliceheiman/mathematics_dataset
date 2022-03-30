@@ -213,10 +213,13 @@ def round_number(value, sample_args, context=None):
         description = description.format(dps=dps)
 
     template = random.choice(
-        [
-            lang.l.translate("Round {input} to {description}."),
-            lang.l.translate("What is {input} rounded to {description}?"),
-        ]
+        lang.l.parse(
+            [
+                "Round {input} to {description}.",
+                "What is {input} rounded to {description}?",
+                "Take {input} and round it to {description}.",
+            ]
+        )
     )
 
     return example.Problem(
@@ -304,11 +307,16 @@ def is_factor(value, sample_args, context=None):
 
     (entity,) = context.sample(sample_args, [integer])
 
-    templates = [
-        lang.l.translate("Is {maybe_factor} a factor of {value}?"),
-        lang.l.translate("Is {value} a multiple of {maybe_factor}?"),
-        lang.l.translate("Does {maybe_factor} divide {value}?"),
-    ]
+    templates = lang.l.parse(
+        [
+            "Is {maybe_factor} a [factor, multiple] of {value}?",
+            "Is {maybe_factor} one of the factors of {value}?",
+            "Does {maybe_factor} divide {value}?",
+            "Does {value} divided by {maybe_factor} yield a whole number?",
+            "Can {maybe_factor} divide {value}?",
+            "Is it possible for {maybe_factor} to divide {value}?",
+        ]
+    )
     if maybe_factor == 2:
         templates += [
             lang.l.translate("Is {value} even?"),
@@ -337,10 +345,15 @@ def list_prime_factors(value, sample_args, context=None):
     (entity,) = context.sample(sample_args, [integer])
     prime_factors = sorted(sympy.factorint(integer).keys())
     template = random.choice(
-        [
-            lang.l.translate("What are the prime factors of {integer}?"),
-            lang.l.translate("List the prime factors of {integer}."),
-        ]
+        lang.l.parse(
+            [
+                "What are the prime factors of {integer}?",
+                "[List, Find, Give, Provide, State] the prime factors of {integer}.",
+                "Perform a prime factorisation of {integer} and list the result.",
+                "What does a prime factorisation of {integer} yield?",
+                "What are the prime numbers that {integer} is composed of?",
+            ]
+        )
     )
     return example.Problem(
         question=example.question(context, template, integer=entity.expression_else_handle),
@@ -380,10 +393,12 @@ def lcm(value, sample_args, context=None):
         # Ask the question directly.
         adjective = random.choice([lang.l.translate("least"), lang.l.translate("lowest"), lang.l.translate("smallest")])
         template = random.choice(
-            [
-                lang.l.translate("Calculate the {adjective} common multiple of {p} and {q}."),
-                lang.l.translate("What is the {adjective} common multiple of {p} and {q}?"),
-            ]
+            lang.l.parse(
+                [
+                    "[Calculate, Compute, Find, Work out, State, Give, Provide] the {adjective} common multiple of {p} and {q}.",
+                    "What is the {adjective} common multiple of {p} and {q}?",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(
@@ -398,11 +413,12 @@ def lcm(value, sample_args, context=None):
         p, q = context.sample(sample_args, [p, q])
 
         template = random.choice(
-            [
-                lang.l.translate("What is the common denominator of {p} and {q}?"),
-                lang.l.translate("Find the common denominator of {p} and {q}."),
-                lang.l.translate("Calculate the common denominator of {p} and {q}."),
-            ]
+            lang.l.parse(
+                [
+                    "What is the common denominator of {p} and {q}?",
+                    "[Find, Compute, Calculate, Find, Work out] the common denominator of {p} and {q}.",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, p=p.expression_else_handle, q=q.expression_else_handle),
@@ -466,10 +482,12 @@ def gcd(value, sample_args, context=None):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("Calculate the {adjective} of {p} and {q}."),
-                lang.l.translate("What is the {adjective} of {p} and {q}?"),
-            ]
+            lang.l.parse(
+                [
+                    "[Calculate, Compute, Find, Work out, State, Give, Provide] the {adjective} of {p} and {q}.",
+                    "What is the {adjective} of {p} and {q}?",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, adjective=adjective, p=p, q=q), answer=value
@@ -509,10 +527,12 @@ def div_remainder(value, sample_args, context=None):
 
     if is_question:
         template = random.choice(
-            [
-                lang.l.translate("Calculate the remainder when {p} is divided by {q}."),
-                lang.l.translate("What is the remainder when {p} is divided by {q}?"),
-            ]
+            lang.l.parse(
+                [
+                    "[Calculate, Compute, Find, Work out, State, Give] the remainder when {p} is divided by {q}.",
+                    "What is the remainder when {p} is divided by {q}?",
+                ]
+            )
         )
         return example.Problem(
             question=example.question(context, template, p=p.expression_else_handle, q=q.expression_else_handle),
@@ -544,11 +564,14 @@ def base_conversion(min_entropy, max_entropy):
 
     value = number.integer(entropy, signed=True)
     template = random.choice(
-        [
-            lang.l.translate("{from_str} (base {from_base}) to base {to_base}"),
-            lang.l.translate("Convert {from_str} (base {from_base}) to base {to_base}."),
-            lang.l.translate("What is {from_str} (base {from_base}) in base {to_base}?"),
-        ]
+        lang.l.parse(
+            [
+                "{from_str} (base {from_base}) to base {to_base}",
+                "[Convert, Transform, Translate] {from_str} (base {from_base}) to base {to_base}.",
+                "[Write, Rewrite, Give, Express] {from_str} (base {from_base}) in base {to_base}.",
+                "What is {from_str} (base {from_base}) in base {to_base}?",
+            ]
+        )
     )
     return example.Problem(
         question=example.question(

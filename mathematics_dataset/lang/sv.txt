@@ -339,6 +339,7 @@ the nearest integer ### det närmsta heltalet
 
 Round {input} to {description}. ### Avrunda {input} till {description}.
 What is {input} rounded to {description}? ### Vad är {input} avrundat till {description}?
+Take {input} and round it to {description}. ### Betrakta {input} och avrunda till {description}.
 
 composite ### sammansatt
 a composite number ### ett sammansatt tal
@@ -347,25 +348,30 @@ a prime number ### ett primtal
 
 Is {integer} {attribute}? ### Är {integer} {attribute}?
 
-Is {maybe_factor} a factor of {value}? ### Är {maybe_factor} en faktor i {value}?
-Is {value} a multiple of {maybe_factor}? ### Är {value} en multipel av {maybe_factor}?
+Is {maybe_factor} a [factor, multiple] of {value}? ### Är {maybe_factor} en [faktor, multipel] i {value}?
+Is {maybe_factor} one of the factors of {value}? ### Finns {maybe_factor} en av faktorerna till {value}?
 Does {maybe_factor} divide {value}? ### Är {maybe_factor} en delare till {value}?
+Does {value} divided by {maybe_factor} yield a whole number? ### Ger {value} dividerat med {maybe_factor} ett heltal?
+Can {maybe_factor} divide {value}? ### Kan {maybe_factor} dela {value}?
+Is it possible for {maybe_factor} to divide {value}? ### Är det möjligt för {maybe_factor} att dela {value}?
 
 Is {value} even? ### Är {value} jämn?
 
 What are the prime factors of {integer}? ### Vilka är primtalsfaktorerna till {integer}?
-List the prime factors of {integer}. ### Lista primtalsfaktorerna till {integer}.
+[List, Find, Give, Provide, State] the prime factors of {integer}. ### [Lista, Hitta, Ange] primtalsfaktorerna till {integer}.
+Perform a prime factorisation of {integer} and list the result. ### Gör en primtalsfaktorisering av {integer} och lista resultatet.
+What does a prime factorisation of {integer} yield? ### Vilka faktorer ger en primtalsfaktorisering av {integer}?
+What are the prime numbers that {integer} is composed of? ### Vilka är primtalen som {integer} består av?
 
 least ### minsta
 lowest ### minsta
 smallest ### minsta
 
-Calculate the {adjective} common multiple of {p} and {q}. ### Beräkna den {adjective} gemensamma faktorn till {p} och {q}.
+[Calculate, Compute, Find, Work out, State, Give, Provide] the {adjective} common multiple of {p} and {q}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] den {adjective} gemensamma faktorn till {p} och {q}.
 What is the {adjective} common multiple of {p} and {q}? ### Vilken är den {adjective} gemensamma faktorn till {p} och {q}?
 
 What is the common denominator of {p} and {q}? ### Vilken är den gemensamma nämnaren till {p} och {q}?
-Find the common denominator of {p} and {q}. ### Bestäm den gemensamma nämnaren till {p} och {q}.
-Calculate the common denominator of {p} and {q}. ### Beräkna den gemensamma nämnaren till {p} och {q}.
+[Find, Compute, Calculate, Find, Work out] the common denominator of {p} and {q}. ### [Bestäm, Beräkna, Räkna ut, Hitta] den gemensamma nämnaren till {p} och {q}.
 
 greatest ### största
 highest ### största
@@ -373,16 +379,19 @@ common ### gemensamma
 divisor ### delaren
 factor ### faktorn
 
-Calculate the {adjective} of {p} and {q}. ### Beräkna den {adjective} till {p} och {q}.
+[Calculate, Compute, Find, Work out, State, Give, Provide] the {adjective} of {p} and {q}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] den {adjective} till {p} och {q}.
 What is the {adjective} of {p} and {q}? ### Vilken är den {adjective} till {p} och {q}?
+
 Let {self} be the {adjective} of {p} and {q}. ### Låt {self} vara den {adjective} till {p} och {q}.
 
-Calculate the remainder when {p} is divided by {q}. ### Beräkna resten då {p} delas med {q}.
+[Calculate, Compute, Find, Work out, State, Give] the remainder when {p} is divided by {q}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] resten då {p} delas med {q}.
 What is the remainder when {p} is divided by {q}? ### Vad är resten då {p} delas med {q}?
+
 Let {self} be the remainder when {p} is divided by {q}. ### Låt {self} vara resttermen då {p} delas med {q}.
 
 {from_str} (base {from_base}) to base {to_base} ### {from_str} (bas {from_base}) till bas {to_base}
-Convert {from_str} (base {from_base}) to base {to_base}. ### Konvertera {from_str} (bas {from_base}) till bas {to_base}.
+[Convert, Transform, Translate] {from_str} (base {from_base}) to base {to_base}. ### [Konvertera, Transformera, Översätt] {from_str} (bas {from_base}) till bas {to_base}.
+[Write, Rewrite, Give, Express] {from_str} (base {from_base}) in base {to_base}. ### [Skriv, Skriv om, Ange, Uttryck] {from_str} (base {from_base}) i bas {to_base}.
 What is {from_str} (base {from_base}) in base {to_base}? ### Vad är {from_str} (bas {from_base}) i bas {to_base}?
 
 # Polynomials
