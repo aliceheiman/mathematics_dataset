@@ -34,6 +34,10 @@ Answer: 1/110
 
 [Pre-generated files](https://console.cloud.google.com/storage/browser/mathematics-dataset)
 
+### Version 1.2
+
+Added more translation variations and synonym capabilities. Specify synonyms with brackets: \[Synonym 1, Synonym 2, Synonym 3, etc. \].
+
 ### Version 1.1
 
 This is the updated multilingual version. New languages are added in the **lang** folder. The *lang* object translates all strings in the code specified by the language in the *generate_settings.py* file.
@@ -143,6 +147,21 @@ Note, make sure the directory does not already exist before qenerating questions
 ## Adding More Languages
 
 Copy the *template.txt* file in the **lang** folder and rename it to **lang.txt** with the two-character abbreviation for your language. To change the output language, change the **lang=** in the *generate_settings.py* file to the language abbreviation.
+
+Synonyms are enclosed in square brackets (\[\]). The program will automatically create all combinations possible from the provided synonyms. This is a quick way to get more variations in the problem formulations. Multiple blocks of synonyms can be included in the same template. The program parses this template and produces a list of all variations. For example:
+
+```
+[Calculate, Determine] 5 [times, multiplied with] 7. 
+```
+
+Turns into:
+
+```
+Calculate 5 times 7.
+Calculate 5 multiplied with 7.
+Determine 5 times 7.
+Determine 5 multiplied with 7.
+```
 
 ## Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
