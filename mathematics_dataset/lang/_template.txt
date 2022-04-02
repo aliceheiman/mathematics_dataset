@@ -434,6 +434,13 @@ letters picked without replacement from ### _
 What is prob of {event} when {random_variable}? ### _ {event} _ {random_variable}?
 [Calculate, Give, Determine, Compute, Find, State] prob of {event} when {random_variable}. ### _ {event} _ {random_variable}.
 
+# Answer Templates
+Answer: ### _
+The answer is: ### _
+The correct answer is: ### _
+The answer is ### _
+The correct answer is ### _
+
 ### UTIL
 
 # Composition

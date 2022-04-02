@@ -434,6 +434,13 @@ letters picked without replacement from ### bokstäver väljs utan återsättnin
 What is prob of {event} when {random_variable}? ### Vad är sannolikheten att {event} då {random_variable}?
 [Calculate, Give, Determine, Compute, Find, State] prob of {event} when {random_variable}. ### [Beräkna, Räkna ut, Hitta, Bestäm, Ange] sannolikheten att {event} då {random_variable}.
 
+# Answer Templates
+Answer: ### Svar:
+The answer is: ### Svaret är:
+The correct answer is: ### Det rätta svaret är:
+The answer is ### Svaret är
+The correct answer is ### Det rätta svaret är
+
 ### UTIL
 
 # Composition

@@ -36,8 +36,10 @@ from __future__ import print_function
 
 import os
 import random
+import json
 
 # Dependency imports
+from mathematics_dataset.util import lang
 from absl import app
 from absl import flags
 from absl import logging
@@ -48,36 +50,54 @@ from six.moves import range
 
 FLAGS = flags.FLAGS
 
-flags.DEFINE_string("output_dir", None, "Where to write output text")
 flags.DEFINE_boolean("train_split", True, "Whether to split training data by difficulty")
-flags.mark_flag_as_required("output_dir")
+flags.DEFINE_boolean("reset_file", True, "Whether to reset the generated_data.json contents.")
 
 
 def main(unused_argv):
 
-    REPEAT = 10
-    ANSWER_TEMPLATES = ["Svar: ", "Svaret är: "]
+    REPEAT = 1
+    ANSWER_TEMPLATES = lang.l.parse(
+        [
+            "Answer:",
+            "The answer is:",
+            "The correct answer is:",
+            "The answer is",
+            "The correct answer is",
+        ]
+        + [""]
+    )
+
+    print(ANSWER_TEMPLATES)
 
     generate.init_modules(FLAGS.train_split)
 
-    output_dir = os.path.expanduser(FLAGS.output_dir)
-    if os.path.exists(output_dir):
-        logging.fatal("output dir %s already exists", output_dir)
-    logging.info("Writing to %s", output_dir)
-    os.makedirs(output_dir)
+    path = os.path.join("generated_data", "generated_data.json")
+
+    # Reset file
+    if FLAGS.reset_file:
+        with open(path, "w") as text_file:
+            pass
+
+    logging.info("Writing to %s", path)
 
     for regime, flat_modules in six.iteritems(generate.filtered_modules):
-        regime_dir = os.path.join(output_dir, regime)
-        os.mkdir(regime_dir)
+
         per_module = generate.counts[regime]
         for module_name, module in six.iteritems(flat_modules):
-            path = os.path.join(regime_dir, module_name + ".txt")
-            with open(path, "w") as text_file:
+            with open(path, "a") as text_file:
                 for _ in range(REPEAT):
                     for _ in range(per_module):
                         problem, _ = generate.sample_from_module(module)
-                        text_file.write(str(problem.question) + "\n")
-                        text_file.write(random.choice(ANSWER_TEMPLATES) + str(problem.answer) + "\n")
+
+                        answer_template = random.choice(ANSWER_TEMPLATES)
+                        answer_template = "" if answer_template == "" else answer_template + " "
+
+                        text_sample = str(problem.question) + "\n"
+                        text_sample += answer_template + str(problem.answer) + "\n"
+                        text_sample += "\n"
+
+                        text_file.write(json.dumps({"text": text_sample}, ensure_ascii=False))
                         text_file.write("\n")
 
             logging.info("Written %s", path)
